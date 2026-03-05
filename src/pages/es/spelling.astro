@@ -6,11 +6,73 @@ const t = (await import('../../translations/es.json')).default;
 
 <Layout lang={lang} title={t.nav.spelling} description="Simpli spelling: simplified letters, phonemes, long vowels.">
   <h1>{t.nav.spelling}</h1>
-  <p>Simpli uses <strong>phonetic spelling</strong>: one sound = one letter. No silent letters.</p>
-  <h2>Alphabet</h2>
-  <p><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu).</p>
-  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
-  <p>Sounds like th, v, z, sh, ch, j are removed or mapped (e.g. th → d).</p>
-  <h2>Long vowels</h2>
-  <p><em>it</em> (it) vs <em>iit</em> (eat). Stress on second-to-last syllable.</p>
+  <p>Simpli usa <strong>ortografía fonética</strong>: un sonido = una letra. Sin letras mudas.</p>
+
+  <h2>Alfabeto</h2>
+  <p><strong>Vocales:</strong> a, e, i, o, u.</p>
+  <ul class="letter-list">
+    <li><strong>a</strong> — casa, más</li>
+    <li><strong>e</strong> — pez, eco (vocal abierta como <em>bed</em> en inglés, no como mesa o ser)</li>
+    <li><strong>i</strong> — sí, mi</li>
+    <li><strong>o</strong> — sol, dos</li>
+    <li><strong>u</strong> — uno, tú</li>
+  </ul>
+  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
+  <ul class="letter-list">
+    <li><strong>p</strong> — papá</li>
+    <li><strong>b</strong> — bien</li>
+    <li><strong>t</strong> — tú</li>
+    <li><strong>d</strong> — dos</li>
+    <li><strong>k</strong> — casa, queso</li>
+    <li><strong>g</strong> — gato</li>
+    <li><strong>m</strong> — mesa</li>
+    <li><strong>n</strong> — no</li>
+    <li><strong>f</strong> — fe</li>
+    <li><strong>s</strong> — sí</li>
+    <li><strong>l</strong> — luz</li>
+    <li><strong>r</strong> — rey (como <em>run</em> en inglés)</li>
+    <li><strong>h</strong> — como <em>hot</em> en inglés (h aspirada; en español no suena en «hola»)</li>
+    <li><strong>w</strong> — watt</li>
+    <li><strong>y</strong> — yo</li>
+  </ul>
+
+  <h2>Correspondencias</h2>
+  <p>Los sonidos del inglés que no existen en Simpli se sustituyen por la letra más cercana:</p>
+  <ul>
+    <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
+    <li><strong>v</strong> → w — en Simpli nunca escribimos <em>v</em> (ej. <em>sewen</em>, <em>haw</em>, <em>giw</em>, <em>liw</em>, <em>mow</em>). Ver <a href="./alphabet-rationale">Rationale del alfabeto</a> para la regla completa y ejemplos.</li>
+    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>ph</strong> → f (<em>fon</em>)</li>
+    <li><strong>sh</strong> → s; <strong>j</strong> → y o d según el sonido</li>
+    <li><strong>z</strong> → s cuando haga falta</li>
+  </ul>
+
+  <h2>Vocales largas</h2>
+  <p>Una vocal = sonido corto; vocal doble = sonido largo. El objetivo de las vocales dobladas (y por tanto de los sonidos largos) es <strong>diferenciar homónimos</strong> (ej. <em>it</em> vs <em>iit</em>). En general, el <strong>contexto basta</strong> para entender.</p>
+  <ul>
+    <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
+    <li><em>rod</em> vs <em>rood</em> (road)</li>
+    <li><em>rum</em> vs <em>ruum</em> (room)</li>
+    <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
+  </ul>
+
+  <h2>Sin letras mudas</h2>
+  <p>Cada letra se pronuncia. Se escribe el sonido que se oye:</p>
+  <ul>
+    <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
+    <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
+    <li>Diptongos: /aɪ/ como <strong>ai</strong> (<em>bai</em>, <em>caild</em>), /eɪ/ como <strong>ei</strong> (<em>plei</em>)</li>
+  </ul>
+
+  <h2>Sílabas y acento</h2>
+  <p>Estructura (C)V(C). El acento suele ir en la <strong>penúltima</strong> sílaba (<em>komputer</em>, <em>yesterde</em>, <em>tumoro</em>).</p>
+
+  <h2>Terminaciones habituales</h2>
+  <p>Las terminaciones del inglés se simplifican:</p>
+  <ul>
+    <li>-tion, -sion → <strong>-son</strong> (acson, vison)</li>
+    <li>-ture → <strong>-tur</strong> (natur, futur)</li>
+    <li>-ous → <strong>-us</strong>; -ful igual</li>
+  </ul>
+  <p><a href="./alphabet-rationale">Rationale del alfabeto</a> — por qué W y no V, por qué i y y, y detalles completos de las letras.</p>
 </Layout>

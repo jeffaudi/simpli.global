@@ -7,10 +7,72 @@ const t = (await import('../../translations/en.json')).default;
 <Layout lang={lang} title={t.nav.spelling} description="Simpli spelling: simplified letters, phonemes, long vowels.">
   <h1>{t.nav.spelling}</h1>
   <p>Simpli uses <strong>phonetic spelling</strong>: one sound = one letter. No silent letters.</p>
+
   <h2>Alphabet</h2>
-  <p><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu).</p>
+  <p><strong>Vowels:</strong> a, e, i, o, u.</p>
+  <ul class="letter-list">
+    <li><strong>a</strong> — father, cat</li>
+    <li><strong>e</strong> — bed, red</li>
+    <li><strong>i</strong> — sit, see</li>
+    <li><strong>o</strong> — hot, go</li>
+    <li><strong>u</strong> — put, too</li>
+  </ul>
   <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
-  <p>Sounds like th, v, z, sh, ch, j are removed or mapped (e.g. th → d).</p>
+  <ul class="letter-list">
+    <li><strong>p</strong> — pen</li>
+    <li><strong>b</strong> — bed</li>
+    <li><strong>t</strong> — top</li>
+    <li><strong>d</strong> — dog</li>
+    <li><strong>k</strong> — cat</li>
+    <li><strong>g</strong> — go</li>
+    <li><strong>m</strong> — man</li>
+    <li><strong>n</strong> — no</li>
+    <li><strong>f</strong> — fan</li>
+    <li><strong>s</strong> — sun</li>
+    <li><strong>l</strong> — leg</li>
+    <li><strong>r</strong> — run</li>
+    <li><strong>h</strong> — hot</li>
+    <li><strong>w</strong> — we</li>
+    <li><strong>y</strong> — yes</li>
+  </ul>
+
+  <h2>Letter mappings</h2>
+  <p>English sounds that don’t exist in Simpli are mapped to the nearest letter:</p>
+  <ul>
+    <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
+    <li><strong>v</strong> → w — we never write <em>v</em> in Simpli (e.g. <em>sewen</em>, <em>haw</em>, <em>giw</em>, <em>liw</em>, <em>mow</em>). See <a href="./alphabet-rationale">Alphabet rationale</a> for the full rule and examples.</li>
+    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>ph</strong> → f (<em>fon</em>)</li>
+    <li><strong>sh</strong> → s; <strong>j</strong> → y or d depending on sound</li>
+    <li><strong>z</strong> → s when needed</li>
+  </ul>
+
   <h2>Long vowels</h2>
-  <p><em>it</em> (it) vs <em>iit</em> (eat). Stress on second-to-last syllable.</p>
+  <p>One vowel = short sound; double vowel = long sound. The aim of doubled vowels (and thus long sounds) is to <strong>differentiate homonyms</strong> (e.g. <em>it</em> vs <em>iit</em>) although, in most cases, <strong>context is enough</strong> to understand.</p>
+  <ul>
+    <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
+    <li><em>rod</em> (rod) vs <em>rood</em> (road)</li>
+    <li><em>rum</em> (rum) vs <em>ruum</em> (room)</li>
+    <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
+  </ul>
+
+  <h2>No silent letters</h2>
+  <p>Every letter is pronounced. Spell the sound you hear:</p>
+  <ul>
+    <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
+    <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
+    <li>Diphthongs: /aɪ/ as <strong>ai</strong> (<em>bai</em>, <em>caild</em>), /eɪ/ as <strong>ei</strong> (<em>plei</em>)</li>
+  </ul>
+
+  <h2>Syllable and stress</h2>
+  <p>Syllables follow (C)V(C): consonant + vowel + optional consonant. Stress usually on the <strong>second-to-last</strong> syllable (<em>komputer</em>, <em>yesterde</em>, <em>tumoro</em>).</p>
+
+  <h2>Common endings</h2>
+  <p>Familiar English endings are simplified:</p>
+  <ul>
+    <li>-tion, -sion → <strong>-son</strong> (acson, vison)</li>
+    <li>-ture → <strong>-tur</strong> (natur, futur)</li>
+    <li>-ous → <strong>-us</strong>; -ful → <strong>-ful</strong> (same)</li>
+  </ul>
+  <p><a href="./alphabet-rationale">Alphabet rationale</a> — why we use W and not V, why we keep i and y, and full letter details.</p>
 </Layout>

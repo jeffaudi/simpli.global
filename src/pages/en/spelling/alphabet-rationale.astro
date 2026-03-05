@@ -1,0 +1,58 @@
+---
+import Layout from '@/layouts/Base.astro';
+const lang = 'en';
+const t = (await import('../../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title="Alphabet rationale – Simpli" description="Why we use W and not V, why we keep i and y, full letter set, and spelling rules.">
+  <h1>Alphabet rationale</h1>
+  <p><a href="..">← {t.nav.spelling}</a></p>
+  <p>This page explains the reasoning behind the Simpli alphabet: which letters we use, which we don’t, and why <strong>W</strong> replaces <strong>V</strong> and why we keep both <strong>i</strong> and <strong>y</strong>.</p>
+
+  <h2>The full alphabet</h2>
+  <p>Simpli uses a small, regular set of letters. Every sound is written with one letter; we avoid silent letters and extra symbols.</p>
+  <p><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu — doubled letter).</p>
+  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>w</strong>, y.</p>
+  <p>There is <strong>no V</strong> in the Simpli alphabet. The sound that English writes as <em>v</em> is always written with <strong>w</strong>.</p>
+
+  <h2>Why W and not V?</h2>
+  <p>We keep <strong>W</strong> and do not use <strong>V</strong> for three main reasons:</p>
+  <ul>
+    <li><strong>One sound, one letter:</strong> Simpli merges the English sounds [v] and [w] into a single phoneme. One letter is enough; we chose <strong>w</strong> so that words like <em>we</em>, <em>water</em>, and <em>seven</em> all use the same letter.</li>
+    <li><strong>Easier for more learners:</strong> Many languages have only [w], or only [v], or don’t distinguish them. Using a single letter <strong>w</strong> avoids forcing that distinction and keeps the alphabet smaller and more global.</li>
+    <li><strong>Consistency:</strong> We never write <em>v</em> in Simpli. So there is no mix: every word that in English has <em>v</em> is spelled with <em>w</em> in Simpli.</li>
+  </ul>
+
+  <h2>Rule: never write V</h2>
+  <p>In Simpli we <strong>never</strong> use the letter <strong>v</strong>. The sound that English spells with <em>v</em> is always written <strong>w</strong>. So:</p>
+  <ul>
+    <li><em>seven</em> → <strong>sewen</strong></li>
+    <li><em>water</em> → <strong>wata</strong></li>
+    <li><em>woman</em> → <strong>wuman</strong></li>
+    <li><em>have</em> → <strong>haw</strong></li>
+    <li><em>give</em> → <strong>giw</strong></li>
+    <li><em>live</em> → <strong>liw</strong></li>
+    <li><em>move</em> → <strong>mow</strong></li>
+    <li><em>river</em> → <strong>riwer</strong></li>
+    <li><em>even</em> → <strong>ewen</strong></li>
+  </ul>
+  <p>Same rule everywhere: <strong>v → w</strong>. No exceptions.</p>
+
+  <h2>Why i and y?</h2>
+  <p>We keep both <strong>i</strong> and <strong>y</strong> because they represent <strong>different sounds</strong>:</p>
+  <ul>
+    <li><strong>i</strong> is a <strong>vowel</strong> (syllable nucleus): the sound in <em>sit</em>, <em>see</em>, <em>it</em>, <em>eat</em> — short or long (spelled <em>ii</em>). Examples: <em>mi</em>, <em>bi</em>, <em>tri</em>, <em>sii</em>, <em>faind</em>, <em>pipol</em>, <em>gud</em>, <em>iit</em>.</li>
+    <li><strong>y</strong> is a <strong>consonant</strong> (the glide [j]): the sound at the start of <em>yes</em>, <em>you</em>, <em>year</em>. Examples: <em>yu</em>, <em>yes</em>, <em>yesterde</em>; and when we map <strong>j</strong> → y (e.g. <em>yelo</em> for “yellow”).</li>
+  </ul>
+  <p>Unlike v and w, we don’t merge them: they are two different phonemes (vowel vs consonant). Using <strong>y</strong> for [j] keeps spellings clear: <em>yu</em> (you) and <em>yes</em> are readable; <em>iu</em> or <em>ies</em> would blur the consonant with the vowel. So we keep both <strong>i</strong> and <strong>y</strong>.</p>
+
+  <h2>Other letters we don’t use</h2>
+  <p>Simpli also drops or maps other English letters to keep the alphabet small and phonetic:</p>
+  <ul>
+    <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
+    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>ph</strong> → f (<em>fon</em>)</li>
+    <li><strong>sh</strong> → s; <strong>j</strong> → y or d; <strong>z</strong> → s when needed</li>
+  </ul>
+  <p>For long vowels, syllable rules, and common endings, see <a href="..">Spelling</a>.</p>
+</Layout>

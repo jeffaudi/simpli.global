@@ -5,13 +5,25 @@ const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
 ---
 
-<Layout lang={lang} title={t.nav.vocabulary} description="Simpli vocabulary: English-based, simplified spelling.">
+<Layout lang={lang} title={t.nav.vocabulary} description="Simpli vocabulary: why English-based, core size, spelling, compounds.">
   <h1>{t.nav.vocabulary}</h1>
-  <p>Simpli vocabulary is <strong>based on English</strong>, simplified and written phonetically.</p>
+  <p>Simpli vocabulary is <strong>based on English</strong>, simplified and written phonetically. Below we explain why we chose English rather than another language or invented words, then how the vocabulary works.</p>
+
+  <h2>Why English (and not another language or from scratch)?</h2>
+  <p>We use <strong>English-derived</strong> words for practical reasons, not because English is “better” or more neutral. The goal is to lower the barrier to a shared language.</p>
   <ul>
-    <li><strong>Core size:</strong> About 300–500 essential words.</li>
-    <li><strong>Spelling:</strong> One sound = one letter; long vowels doubled (<em>it</em> vs <em>iit</em>).</li>
-    <li><strong>Compounds:</strong> sun-light, wata-food, langwij-study.</li>
+    <li><strong>Already widely learned:</strong> More people learn English as a second language than any other. Hundreds of millions already know some English from school, work, or media. Using familiar roots gives them a head start instead of starting from zero.</li>
+    <li><strong>International use:</strong> English is already used in science, technology, business, and travel. Many terms (computer, hotel, internet, etc.) are already global. Simpli builds on that exposure so new words feel recognizable.</li>
+    <li><strong>Why not another language?</strong> Spanish, French, Mandarin, or Arabic are also global, but fewer people learn them as a second language worldwide. Choosing one of them would help some learners and leave others with no prior exposure. English, as the most common L2, gives the largest “transfer” benefit.</li>
+    <li><strong>Why not from scratch?</strong> A fully invented (a priori) vocabulary would be maximally neutral—no nation “owns” it—but it would be much harder to learn. There would be no cognates or familiar roots. Simpli prioritizes quick learnability so that more people can actually use it; English roots are a practical compromise.</li>
+  </ul>
+  <p>So: we use English as a <strong>base for recognition and speed</strong>, not as a statement that English is superior. The grammar is simplified and the spelling is regular, so Simpli is still its own system—just one that many can learn faster because the words look and sound familiar.</p>
+
+  <h2>How the vocabulary works</h2>
+  <ul>
+    <li><strong>Core size:</strong> About 300–500 essential words for everyday use; the list can be extended as needed.</li>
+    <li><strong>Spelling:</strong> One sound = one letter; long vowels doubled (<em>it</em> vs <em>iit</em>). See <a href={getRelativeLocaleUrl(lang, 'spelling')}>Spelling</a> and <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Alphabet rationale</a>.</li>
+    <li><strong>Compounds:</strong> New ideas from existing words: <em>sun-lait</em>, <em>wata-food</em>, <em>langwij-study</em>.</li>
   </ul>
   <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>View list of essential words →</a></p>
 </Layout>

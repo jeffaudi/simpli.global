@@ -1,7 +1,5 @@
 ---
 // Footer – Simpli (from Astro i18n Starter)
-import LocalesHomeList from '@/components/i18n/LocalesHomeList.astro';
-
 interface Props {
   t: { nav: Record<string, string> };
 }
@@ -11,9 +9,6 @@ const { t } = Astro.props;
 
 <footer class="l-footer l-content">
   <a href="/en/" class="brand">Simpli</a>
-  <ul>
-    <LocalesHomeList />
-  </ul>
   <span class="copy" dir="ltr">
     © Simpli {new Date().getFullYear()}
   </span>
@@ -34,22 +29,6 @@ const { t } = Astro.props;
     font-weight: 700;
     color: var(--color-base);
     margin-block-end: var(--sp-s);
-  }
-
-  ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: var(--sp-s);
-    margin-block-start: var(--sp-s);
-  }
-
-  ul a {
-    display: block;
-    padding: 0.25em 0.5em;
-    background: color-mix(in srgb, var(--color-main) 25%, transparent);
-    color: var(--color-base);
-    border-radius: 0.5em;
   }
 
   .copy {

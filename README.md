@@ -35,7 +35,7 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 
 The [spec/](spec/) folder holds the language specification as reference docs:
 
-- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet, spelling rules, long vowels
+- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet, spelling rules, long vowels (see also [Alphabet rationale](/en/spelling/alphabet-rationale) for why W not V)
 - [spec/GRAMMAR.md](spec/GRAMMAR.md) — Core grammar rules (SVO, possession, questions, etc.)
 - [spec/VOCABULARY.md](spec/VOCABULARY.md) — Vocabulary strategy and link to essential words
 

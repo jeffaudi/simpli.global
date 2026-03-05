@@ -60,7 +60,7 @@ const localeDescription = description || t(SITE_DESCRIPTION);
   </head>
   <body>
     <LocaleSuggest />
-    <Header t={tJson} />
+    <Header t={tJson} siteTitle={t(SITE_TITLE)} />
     <main class="l-main l-content">
       <slot />
     </main>

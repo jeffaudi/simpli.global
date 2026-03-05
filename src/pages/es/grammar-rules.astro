@@ -8,10 +8,27 @@ const t = (await import('../../translations/es.json')).default;
 <Layout lang={lang} title="Grammar rules" description="Full list of Simpli grammar rules.">
   <h1>Grammar rules</h1>
   <p>Simpli has about 12 core rules. No conjugation, no gender, no cases.</p>
-  <h2>1. Word order</h2>
-  <p><strong>Subject – Verb – Object.</strong> Examples: <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
-  <h2>2. No verb conjugation</h2>
-  <p>Verbs never change. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
-  <h2>3–12. Time markers, negation, questions, plural, articles, adjectives, possession, prepositions, connectors, compounds.</h2>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Grammar overview</a></p>
+  <h2>1. Orden de palabras</h2>
+  <p><strong>Sujeto – Verbo – Objeto.</strong> Ejemplos: <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
+  <h2>2. Sin conjugación verbal</h2>
+  <p>Los verbos no cambian. El tiempo con palabras: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
+  <h2>3. Negación</h2>
+  <p><strong>no</strong> delante del verbo: <em>mi no go</em>, <em>el no sii</em>.</p>
+  <h2>4. Preguntas</h2>
+  <p>Empezar con <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Ejemplo: <em>wat yu nem?</em></p>
+  <h2>5. Plural</h2>
+  <p>Opcional. Números o <strong>meni</strong> cuando haga falta: <em>tu buk</em>, <em>meni haus</em>.</p>
+  <h2>6. Artículos</h2>
+  <p>Opcionales. No hay « un » ni « el » obligatorios; usar solo si aclara.</p>
+  <h2>7. Adjetivos</h2>
+  <p>Antes del nombre, forma invariable: <em>big haus</em>, <em>red buk</em>.</p>
+  <h2>8. Posesión</h2>
+  <p>Nombre + poseedor: <em>haus mi</em> = mi casa, <em>buk yu</em> = tu libro.</p>
+  <h2>9. Preposiciones</h2>
+  <p>Usar: <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.</p>
+  <h2>10. Conectores</h2>
+  <p><strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.</p>
+  <h2>11. Compuestos</h2>
+  <p>Palabras unidas con guión cuando convenga: <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Gramática</a></p>
 </Layout>

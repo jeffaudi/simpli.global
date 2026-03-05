@@ -5,15 +5,27 @@ const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
 ---
 
-<Layout lang={lang} title={t.nav.vocabulary} description="Simpli vocabulary: English-based, simplified spelling.">
+<Layout lang={lang} title={t.nav.vocabulary} description="Simpli vocabulary: pourquoi l'anglais, taille du noyau, orthographe, composés.">
   <h1>{t.nav.vocabulary}</h1>
-  <p>Simpli vocabulary is <strong>based on English</strong>, simplified and written phonetically.</p>
+  <p>Le vocabulaire de Simpli est <strong>basé sur l’anglais</strong>, simplifié et écrit de façon phonétique. Nous expliquons ci-dessous pourquoi nous avons choisi l’anglais plutôt qu’une autre langue ou des mots inventés, puis comment fonctionne ce vocabulaire.</p>
+
+  <h2>Pourquoi l’anglais (et pas une autre langue ou du vocabulaire inventé) ?</h2>
+  <p>Nous utilisons des mots <strong>d’origine anglaise</strong> pour des raisons pratiques, pas parce que l’anglais serait « supérieur » ou plus neutre. L’objectif est de baisser la barrière pour une langue commune.</p>
   <ul>
-    <li><strong>Core size:</strong> About 300–500 essential words.</li>
-    <li><strong>Spelling:</strong> One sound = one letter; long vowels doubled (<em>it</em> vs <em>iit</em>).</li>
-    <li><strong>Compounds:</strong> sun-light, wata-food, langwij-study.</li>
+    <li><strong>Déjà largement appris :</strong> Plus de gens apprennent l’anglais comme langue seconde que toute autre. Des centaines de millions connaissent déjà un peu l’anglais (école, travail, médias). S’appuyer sur des racines familières leur donne un avantage au lieu de repartir de zéro.</li>
+    <li><strong>Usage international :</strong> L’anglais est déjà utilisé en sciences, technologie, affaires et voyage. Beaucoup de termes (computer, hotel, internet, etc.) sont déjà mondiaux. Simpli s’appuie sur cette exposition pour que les mots nouveaux restent reconnaissables.</li>
+    <li><strong>Pourquoi pas une autre langue ?</strong> L’espagnol, le français, le mandarin ou l’arabe sont aussi des langues globales, mais moins de gens les apprennent comme L2 dans le monde. En choisir une aiderait certains et laisserait d’autres sans base. L’anglais, comme L2 la plus répandue, offre le plus grand « transfert ».</li>
+    <li><strong>Pourquoi pas tout inventer ?</strong> Un vocabulaire entièrement inventé (a priori) serait maximalement neutre—aucun pays ne le « possède »—mais bien plus difficile à apprendre. Pas de cognats ni de racines familières. Simpli privilégie une apprentissage rapide pour que plus de gens puissent l’utiliser ; les racines anglaises sont un compromis pratique.</li>
   </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>View list of essential words →</a></p>
+  <p>Donc : nous utilisons l’anglais comme <strong>base pour la reconnaissance et la rapidité</strong>, pas pour affirmer sa supériorité. La grammaire est simplifiée et l’orthographe régulière, donc Simpli reste un système à part—simplement un que beaucoup peuvent apprendre plus vite parce que les mots sont familiers.</p>
+
+  <h2>Comment fonctionne le vocabulaire</h2>
+  <ul>
+    <li><strong>Taille du noyau :</strong> Environ 300–500 mots essentiels pour le quotidien ; la liste peut s’étendre si besoin.</li>
+    <li><strong>Orthographe :</strong> Un son = une lettre ; voyelles longues doublées (<em>it</em> vs <em>iit</em>). Voir <a href={getRelativeLocaleUrl(lang, 'spelling')}>Orthographe</a> et <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Rationale de l’alphabet</a>.</li>
+    <li><strong>Composés :</strong> Nouvelles idées à partir de mots existants : <em>sun-lait</em>, <em>wata-food</em>, <em>langwij-study</em>.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>Voir la liste des mots essentiels →</a></p>
 </Layout>
 
 <style>

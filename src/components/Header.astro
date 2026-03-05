@@ -6,9 +6,10 @@ import type { Lang } from '@/i18n';
 
 interface Props {
   t: { nav: Record<string, string>; languageSwitcher: string };
+  siteTitle: string;
 }
 
-const { t } = Astro.props;
+const { t, siteTitle } = Astro.props;
 const locale = Astro.currentLocale as Lang;
 
 const isActive = (path: string) =>
@@ -29,7 +30,7 @@ const navItems = [
 
 <header class="l-header">
   <h1 dir="ltr">
-    <a href={getRelativeLocaleUrl(locale, '/')}>Simpli</a>
+    <a href={getRelativeLocaleUrl(locale, '/')}>{siteTitle}</a>
   </h1>
 
   <LocaleSelect />

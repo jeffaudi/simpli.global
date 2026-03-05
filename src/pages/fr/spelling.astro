@@ -6,11 +6,73 @@ const t = (await import('../../translations/fr.json')).default;
 
 <Layout lang={lang} title={t.nav.spelling} description="Simpli spelling: simplified letters, phonemes, long vowels.">
   <h1>{t.nav.spelling}</h1>
-  <p>Simpli uses <strong>phonetic spelling</strong>: one sound = one letter. No silent letters.</p>
+  <p>Simpli utilise une <strong>orthographe phonétique</strong> : un son = une lettre. Aucune lettre muette.</p>
+
   <h2>Alphabet</h2>
-  <p><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu).</p>
-  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
-  <p>Sounds like th, v, z, sh, ch, j are removed or mapped (e.g. th → d).</p>
-  <h2>Long vowels</h2>
-  <p><em>it</em> (it) vs <em>iit</em> (eat). Stress on second-to-last syllable.</p>
+  <p><strong>Voyelles :</strong> a, e, i, o, u.</p>
+  <ul class="letter-list">
+    <li><strong>a</strong> — papa, chat</li>
+    <li><strong>e</strong> — belle, air</li>
+    <li><strong>i</strong> — lit, rire</li>
+    <li><strong>o</strong> — mot, auto</li>
+    <li><strong>u</strong> — tout, nous</li>
+  </ul>
+  <p><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
+  <ul class="letter-list">
+    <li><strong>p</strong> — papa</li>
+    <li><strong>b</strong> — bon</li>
+    <li><strong>t</strong> — tout</li>
+    <li><strong>d</strong> — dans</li>
+    <li><strong>k</strong> — quand, cas</li>
+    <li><strong>g</strong> — gare</li>
+    <li><strong>m</strong> — main</li>
+    <li><strong>n</strong> — non</li>
+    <li><strong>f</strong> — faire</li>
+    <li><strong>s</strong> — sans</li>
+    <li><strong>l</strong> — long</li>
+    <li><strong>r</strong> — comme <em>run</em> en anglais (r clair, pas le r guttural)</li>
+    <li><strong>h</strong> — comme <em>hot</em> en anglais (h aspiré)</li>
+    <li><strong>w</strong> — watt</li>
+    <li><strong>y</strong> — yeux</li>
+  </ul>
+
+  <h2>Correspondances</h2>
+  <p>Les sons de l’anglais absents en Simpli sont ramenés à la lettre la plus proche :</p>
+  <ul>
+    <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
+    <li><strong>v</strong> → w — on n’écrit jamais <em>v</em> en Simpli (ex. <em>sewen</em>, <em>haw</em>, <em>giw</em>, <em>liw</em>, <em>mow</em>). Voir <a href="./alphabet-rationale">Rationale de l’alphabet</a> pour la règle complète et les exemples.</li>
+    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>ph</strong> → f (<em>fon</em>)</li>
+    <li><strong>sh</strong> → s ; <strong>j</strong> → y ou d selon le son</li>
+    <li><strong>z</strong> → s si besoin</li>
+  </ul>
+
+  <h2>Voyelles longues</h2>
+  <p>Une voyelle = son court ; voyelle doublée = son long. L’objectif des voyelles doublées (et donc des sons longs) est de <strong>différencier les homonymes</strong> (ex. <em>it</em> vs <em>iit</em>) même si, en général, le <strong>contexte suffit</strong> pour comprendre.</p>
+  <ul>
+    <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
+    <li><em>rod</em> vs <em>rood</em> (road)</li>
+    <li><em>rum</em> vs <em>ruum</em> (room)</li>
+    <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
+  </ul>
+
+  <h2>Pas de lettres muettes</h2>
+  <p>Chaque lettre se prononce. On écrit le son qu’on entend :</p>
+  <ul>
+    <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
+    <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
+    <li>Diphtongues : /aɪ/ en <strong>ai</strong> (<em>bai</em>, <em>caild</em>), /eɪ/ en <strong>ei</strong> (<em>plei</em>)</li>
+  </ul>
+
+  <h2>Syllabes et accent</h2>
+  <p>Structure (C)V(C). L’accent tombe en général sur l’<strong>avant-dernière</strong> syllabe (<em>komputer</em>, <em>yesterde</em>, <em>tumoro</em>).</p>
+
+  <h2>Suffixes courants</h2>
+  <p>Les terminaisons proches de l’anglais sont simplifiées :</p>
+  <ul>
+    <li>-tion, -sion → <strong>-son</strong> (acson, vison)</li>
+    <li>-ture → <strong>-tur</strong> (natur, futur)</li>
+    <li>-ous → <strong>-us</strong> ; -ful inchangé</li>
+  </ul>
+  <p><a href="./alphabet-rationale">Rationale de l’alphabet</a> — pourquoi W et pas V, pourquoi i et y, et détails complets des lettres.</p>
 </Layout>
