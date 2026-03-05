@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "motivation": "Motivation",
+    "roots": "Roots",
+    "grammar": "Grammar",
+    "vocabulary": "Vocabulary",
+    "spelling": "Spelling",
+    "comparison": "Comparison",
+    "samples": "Sample texts",
+    "nextSteps": "Next steps"
+  },
+  "home": {
+    "hero": "A simple international language: English-style words, Indonesian-style grammar, phonetic spelling.",
+    "concept1": "Simpli is a proposed auxiliary language designed for egalitarian access to communication. It combines minimal grammar with familiar vocabulary so that more people can learn it quickly.",
+    "concept2": "Whether you already know some English or are looking for a neutral bridge language, Simpli aims to reduce barriers of time, complexity, and geography.",
+    "conceptLinks": "Discover the concept",
+    "nextStepsTitle": "Next steps",
+    "interact": "Interact",
+    "interactDesc": "Forum and Discord community",
+    "learn": "Learn",
+    "learnDesc": "Coming app, dictionary, and translate",
+    "promote": "Promote",
+    "promoteDesc": "Visuals and leaflet"
+  },
+  "languageSwitcher": "Language",
+  "words": {
+    "pronouns": "Pronouns",
+    "numbers": "Numbers",
+    "verbs": "Verbs",
+    "people": "People",
+    "nature": "Nature & world",
+    "objects": "Daily objects",
+    "adjectives": "Descriptive words",
+    "connectors": "Connectors"
+  }
+}

@@ -1,0 +1,60 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'fr';
+const t = (await import('../../translations/fr.json')).default;
+---
+
+<Layout lang={lang}>
+  <h1>{t.home.hero}</h1>
+  <p>{t.home.concept1}</p>
+  <p>{t.home.concept2}</p>
+
+  <h2>{t.home.conceptLinks}</h2>
+  <div class="card-grid">
+    <a href={getRelativeLocaleUrl(lang, 'motivation')} class="card">
+      <h3>{t.nav.motivation}</h3>
+      <p>Fight for egalitarian access to communication</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'roots')} class="card">
+      <h3>{t.nav.roots}</h3>
+      <p>Rooting in real languages and current usage</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'grammar')} class="card">
+      <h3>{t.nav.grammar}</h3>
+      <p>Indonesian + Lao style, minimal rules</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')} class="card">
+      <h3>{t.nav.vocabulary}</h3>
+      <p>English-based, essential words</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'spelling')} class="card">
+      <h3>{t.nav.spelling}</h3>
+      <p>Simplified letters, phonemes, long vowels</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'comparison')} class="card">
+      <h3>{t.nav.comparison}</h3>
+      <p>vs Indonesian, English, Esperanto, Glosa, Globish</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'samples')} class="card">
+      <h3>{t.nav.samples}</h3>
+      <p>Important texts in Simpli</p>
+    </a>
+  </div>
+
+  <h2>{t.home.nextStepsTitle}</h2>
+  <div class="next-steps-grid">
+    <a href={getRelativeLocaleUrl(lang, 'next-steps')} class="card">
+      <h3>{t.home.interact}</h3>
+      <p>{t.home.interactDesc}</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'next-steps')} class="card">
+      <h3>{t.home.learn}</h3>
+      <p>{t.home.learnDesc}</p>
+    </a>
+    <a href={getRelativeLocaleUrl(lang, 'next-steps')} class="card">
+      <h3>{t.home.promote}</h3>
+      <p>{t.home.promoteDesc}</p>
+    </a>
+  </div>
+</Layout>

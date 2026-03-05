@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "motivation": "Motivación",
+    "roots": "Raíces",
+    "grammar": "Gramática",
+    "vocabulary": "Vocabulario",
+    "spelling": "Ortografía",
+    "comparison": "Comparación",
+    "samples": "Textos de ejemplo",
+    "nextSteps": "Próximos pasos"
+  },
+  "home": {
+    "hero": "Una lengua internacional simple: vocabulario tipo inglés, gramática tipo indonesio, ortografía fonética.",
+    "concept1": "Simpli es una lengua auxiliar propuesta para un acceso más igualitario a la comunicación. Combina una gramática mínima con un vocabulario familiar para que más personas puedan aprenderla rápido.",
+    "concept2": "Si ya sabes algo de inglés o buscas una lengua puente neutra, Simpli pretende reducir las barreras de tiempo, complejidad y geografía.",
+    "conceptLinks": "Descubrir el concepto",
+    "nextStepsTitle": "Próximos pasos",
+    "interact": "Interactuar",
+    "interactDesc": "Foro y comunidad Discord",
+    "learn": "Aprender",
+    "learnDesc": "App próximamente, diccionario y traductor",
+    "promote": "Promover",
+    "promoteDesc": "Material visual y folleto"
+  },
+  "languageSwitcher": "Idioma",
+  "words": {
+    "pronouns": "Pronombres",
+    "numbers": "Números",
+    "verbs": "Verbos",
+    "people": "Personas",
+    "nature": "Naturaleza y mundo",
+    "objects": "Objetos cotidianos",
+    "adjectives": "Palabras descriptivas",
+    "connectors": "Conectores"
+  }
+}

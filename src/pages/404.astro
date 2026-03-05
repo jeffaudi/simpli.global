@@ -1,0 +1,22 @@
+---
+import Layout from '@/layouts/Base.astro';
+const lang = 'en';
+const t = (await import('../translations/en.json')).default;
+---
+
+<Layout lang={lang} title="Page Not Found">
+  <section class="container">
+    <h1><b>404</b> Page Not Found</h1>
+    <p>The page you are looking for could not be found.</p>
+    <p>
+      <a href="/en/">English</a> ·
+      <a href="/fr/">Français</a> ·
+      <a href="/es/">Español</a>
+    </p>
+  </section>
+</Layout>
+
+<style>
+  .container { text-align: center; padding: 2rem; }
+  .container h1 b { display: block; font-size: 3rem; opacity: 0.7; }
+</style>

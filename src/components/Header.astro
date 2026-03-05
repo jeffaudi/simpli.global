@@ -1,0 +1,102 @@
+---
+// Header & nav – Simpli (from Astro i18n Starter)
+import LocaleSelect from '@/components/i18n/LocaleSelect.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import type { Lang } from '@/i18n';
+
+interface Props {
+  t: { nav: Record<string, string>; languageSwitcher: string };
+}
+
+const { t } = Astro.props;
+const locale = Astro.currentLocale as Lang;
+
+const isActive = (path: string) =>
+  getRelativeLocaleUrl(locale, path) === Astro.url.pathname;
+
+const navItems = [
+  { path: '/', key: 'home' },
+  { path: '/motivation', key: 'motivation' },
+  { path: '/roots', key: 'roots' },
+  { path: '/grammar', key: 'grammar' },
+  { path: '/vocabulary', key: 'vocabulary' },
+  { path: '/spelling', key: 'spelling' },
+  { path: '/comparison', key: 'comparison' },
+  { path: '/samples', key: 'samples' },
+  { path: '/next-steps', key: 'nextSteps' },
+];
+---
+
+<header class="l-header">
+  <h1 dir="ltr">
+    <a href={getRelativeLocaleUrl(locale, '/')}>Simpli</a>
+  </h1>
+
+  <LocaleSelect />
+
+  <nav class="l-content">
+    <ul>
+      {
+        navItems.map(({ path, key }) => (
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, path)}
+              class:list={[isActive(path) && 'active']}
+            >
+              {t.nav[key] ?? key}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
+</header>
+
+<style>
+  header {
+    display: grid;
+    place-items: center;
+    gap: var(--sp-s);
+  }
+
+  h1 {
+    margin-block-start: var(--sp-l);
+    font-size: 2rem;
+    font-weight: 800;
+  }
+
+  h1 a {
+    color: var(--color-theme);
+  }
+
+  @media (width < 480px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+  }
+
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--sp-s);
+    margin-block-start: var(--sp-s);
+  }
+
+  nav a {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.25em 0.5em;
+    border-radius: 4px;
+  }
+
+  nav a:hover,
+  nav a:active {
+    background-color: color-mix(in srgb, var(--color-theme) 12%, transparent);
+  }
+
+  nav a.active {
+    color: var(--color-theme);
+    pointer-events: none;
+  }
+</style>

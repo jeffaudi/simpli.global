@@ -1,0 +1,29 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { motivationContent } from '@/data/motivation-content';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+const c = motivationContent[lang];
+---
+
+<Layout lang={lang} title={t.nav.motivation} description="Why Simpli: fight for egalitarian access to communication.">
+  <h1>{t.nav.motivation}</h1>
+  <p>{c.intro}</p>
+  <p>Simpli aims to reduce barriers:</p>
+  <ul>
+    <li><strong>{c.time}</strong></li>
+    <li><strong>{c.complexity}</strong></li>
+    <li><strong>{c.neutrality}</strong></li>
+  </ul>
+  <p>{c.bridge}</p>
+  <p>
+    <a href={getRelativeLocaleUrl(lang, 'roots')}>Rooting in real languages</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'comparison')}>Comparison with other languages</a>
+  </p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+</style>

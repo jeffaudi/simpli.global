@@ -1,0 +1,17 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title="Grammar rules" description="Full list of Simpli grammar rules.">
+  <h1>Grammar rules</h1>
+  <p>Simpli has about 12 core rules. No conjugation, no gender, no cases.</p>
+  <h2>1. Word order</h2>
+  <p><strong>Subject – Verb – Object.</strong> Examples: <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
+  <h2>2. No verb conjugation</h2>
+  <p>Verbs never change. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
+  <h2>3–12. Time markers, negation, questions, plural, articles, adjectives, possession, prepositions, connectors, compounds.</h2>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Grammar overview</a></p>
+</Layout>

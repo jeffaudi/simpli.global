@@ -1,0 +1,41 @@
+/* Theme: base (from Astro i18n Starter, adapted) */
+:root {
+  --color-theme: #2d6a4f;
+  --color-accent: #1b4332;
+  --color-base: #f8f6f3;
+  --color-main: #2d2a26;
+  --sp-l: 48px;
+  --sp-m: 24px;
+  --sp-s: 12px;
+}
+
+@media (width < 480px) {
+  :root {
+    --sp-l: 32px;
+    --sp-m: 16px;
+    --sp-s: 8px;
+  }
+}
+
+body {
+  color: var(--color-main);
+  background-color: var(--color-base);
+  accent-color: var(--color-theme);
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+@media (width < 480px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+p {
+  margin-block-start: 0.8em;
+}
+
+p a {
+  color: var(--color-theme);
+  text-decoration: underline;
+}

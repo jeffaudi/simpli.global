@@ -1,0 +1,25 @@
+---
+import Layout from '@/layouts/Base.astro';
+const lang = 'fr';
+const t = (await import('../../translations/fr.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.comparison} description="Simpli vs Indonesian, English, Esperanto, Glosa, Globish.">
+  <h1>{t.nav.comparison}</h1>
+  <p>Simpli vs Indonesian, English, Esperanto, Glosa, Globish.</p>
+  <h2>Example: "We see the house"</h2>
+  <table>
+    <thead>
+      <tr><th>Language</th><th>Sentence</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Simpli</td><td><em>wi sii haus</em></td></tr>
+      <tr><td>Indonesian</td><td>Kami lihat rumah</td></tr>
+      <tr><td>English</td><td>We see the house</td></tr>
+      <tr><td>Esperanto</td><td>Ni vidas la domon</td></tr>
+      <tr><td>Glosa</td><td>Nu vide dom</td></tr>
+      <tr><td>Globish</td><td>We see the house</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Takeaway:</strong> Simpli is simpler than Esperanto, more regular than English, more intuitive than Glosa.</p>
+</Layout>

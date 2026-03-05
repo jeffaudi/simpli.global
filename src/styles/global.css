@@ -1,0 +1,77 @@
+@import 'reset.css';
+@import 'base.css';
+@import 'layout.css';
+
+/* Simpli content styles */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+}
+
+.card {
+  background: #fffefc;
+  border: 1px solid #e8e4df;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.card:hover {
+  border-color: var(--color-theme);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.1rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #6b6560;
+}
+
+.next-steps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #e8e4df;
+  padding: 0.65rem 1rem;
+  text-align: left;
+}
+
+th {
+  background: var(--color-theme);
+  color: #fff;
+  font-weight: 600;
+}
+
+.simpli-block {
+  background: #fffefc;
+  border-left: 4px solid var(--color-theme);
+  padding: 1.25rem 1.5rem;
+  margin: 1.25rem 0;
+  font-family: ui-monospace, monospace;
+  font-size: 0.95rem;
+  white-space: pre-wrap;
+  border-radius: 0 8px 8px 0;
+}

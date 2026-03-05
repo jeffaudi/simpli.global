@@ -1,0 +1,10 @@
+---
+import type { Lang } from '@/i18n';
+const locale = Astro.currentLocale as Lang;
+---
+<!-- Optional: add locale-specific fonts per language -->
+<style is:global>
+  body {
+    font-family: 'Noto Sans', system-ui, sans-serif;
+  }
+</style>

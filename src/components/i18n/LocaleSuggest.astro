@@ -1,0 +1,71 @@
+---
+import { LOCALES, type Lang } from '@/i18n';
+const currentLocale = Astro.currentLocale as Lang;
+---
+
+<div id="js-languageSuggest">
+  <a id="js-link" href="#">
+    <span class="material-icons-sharp" aria-hidden="true">autorenew</span>
+    <span id="js-linkText"></span>
+  </a>
+  <button type="button" id="js-close" aria-label="Close">
+    <span class="material-icons-sharp" aria-hidden="true">close</span>
+  </button>
+</div>
+
+<script is:inline define:vars={{ currentLocale, LOCALES }}>
+  (function () {
+    var LOCALES_OBJ = typeof LOCALES !== 'undefined' ? LOCALES : {};
+    var browserLang = navigator.language.toLowerCase();
+    var suggest = document.getElementById('js-languageSuggest');
+    var langKeys = Object.keys(LOCALES_OBJ);
+
+    function showSuggest(lang) {
+      var pathnames = location.pathname.split('/');
+      var link = document.getElementById('js-link');
+      var linkText = document.getElementById('js-linkText');
+      if (pathnames.length > 1) pathnames[1] = lang;
+      else pathnames[0] = lang;
+      link.href = pathnames.join('/') || '/' + lang + '/';
+      if (LOCALES_OBJ[lang]) linkText.innerText = LOCALES_OBJ[lang].label;
+      suggest.style.display = 'block';
+    }
+
+    if (currentLocale === browserLang || currentLocale === browserLang.split('-')[0] ||
+        localStorage.languageSuggestDenied || localStorage.selectedLang) {
+      return;
+    }
+    if (langKeys.indexOf(browserLang) !== -1) showSuggest(browserLang);
+    else if (langKeys.indexOf(browserLang.split('-')[0]) !== -1) showSuggest(browserLang.split('-')[0]);
+
+    document.getElementById('js-close').addEventListener('click', function () {
+      suggest.style.display = 'none';
+      localStorage.languageSuggestDenied = true;
+    });
+  })();
+</script>
+
+<style>
+  #js-languageSuggest {
+    display: none;
+    position: relative;
+    height: 44px;
+    text-align: center;
+    background: var(--color-main);
+    color: var(--color-base);
+  }
+  #js-link {
+    line-height: 44px;
+  }
+  #js-close {
+    position: absolute;
+    inset: 0;
+    margin-left: auto;
+    width: 44px;
+    font-size: 24px;
+    opacity: 0.5;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+</style>

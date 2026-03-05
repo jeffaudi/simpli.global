@@ -1,0 +1,42 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'es';
+const t = (await import('../../translations/es.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.nextSteps} description="Next steps: community, learning tools, promotion.">
+  <h1>{t.nav.nextSteps}</h1>
+  <p>Get involved: join the community, use (or wait for) learning tools, and help promote Simpli.</p>
+  <div class="next-steps-grid">
+    <section class="card">
+      <h2>{t.home.interact}</h2>
+      <p>{t.home.interactDesc}</p>
+      <ul>
+        <li><strong>Forum:</strong> Coming soon.</li>
+        <li><strong>Discord:</strong> Link to be updated.</li>
+      </ul>
+    </section>
+    <section class="card">
+      <h2>{t.home.learn}</h2>
+      <p>{t.home.learnDesc}</p>
+      <ul>
+        <li><strong>Learning app:</strong> Coming soon.</li>
+        <li><strong>Dictionary:</strong> <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Essential words</a>; full dictionary planned.</li>
+      </ul>
+    </section>
+    <section class="card">
+      <h2>{t.home.promote}</h2>
+      <p>{t.home.promoteDesc}</p>
+      <ul>
+        <li><strong>Visuals:</strong> Coming soon.</li>
+        <li><strong>Leaflet:</strong> PDF (coming soon).</li>
+      </ul>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0; }
+  .card h2 { margin-top: 0; }
+</style>

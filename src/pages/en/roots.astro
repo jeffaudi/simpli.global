@@ -1,0 +1,22 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.roots} description="Simpli roots: real languages and current global usage.">
+  <h1>{t.nav.roots}</h1>
+  <p>Simpli is not invented from scratch. It is <strong>rooted in real languages and current usage</strong>.</p>
+  <h2>Grammar</h2>
+  <p>The grammar is inspired by <strong>Indonesian</strong> and <strong>Lao</strong>: analytic structure, no verb conjugation, no grammatical gender, optional plurals.</p>
+  <h2>Vocabulary</h2>
+  <p>The vocabulary is based on <strong>English</strong>—simplified and regularized.</p>
+  <h2>Why this mix?</h2>
+  <p>Familiar vocabulary + minimal grammar = fast learning.</p>
+  <p>
+    <a href={getRelativeLocaleUrl(lang, 'grammar')}>Grammar rules</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Essential words</a>
+  </p>
+</Layout>

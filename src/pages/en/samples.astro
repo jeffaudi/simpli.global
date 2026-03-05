@@ -1,0 +1,23 @@
+---
+import Layout from '@/layouts/Base.astro';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.samples} description="Important texts translated into Simpli.">
+  <h1>{t.nav.samples}</h1>
+  <p>Sample texts in Simpli.</p>
+  <h2>Universal Declaration of Human Rights (Article 1)</h2>
+  <div class="simpli-block">ol hyuman pipol born fri and ikwal.
+dey hav digniti and rait.
+dey hav rizon and konshens and shud akt wit gud spirit tu oder pipol.</div>
+  <h2>Short dialogue</h2>
+  <div class="simpli-block">wer yu from ?
+mi from frans.
+
+yu liv here ?
+yes, mi liv here now.
+
+wat yu du ?
+mi wok wit komputer and langwij.</div>
+</Layout>

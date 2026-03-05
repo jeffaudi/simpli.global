@@ -1,0 +1,16 @@
+---
+import Layout from '@/layouts/Base.astro';
+const lang = 'es';
+const t = (await import('../../translations/es.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.spelling} description="Simpli spelling: simplified letters, phonemes, long vowels.">
+  <h1>{t.nav.spelling}</h1>
+  <p>Simpli uses <strong>phonetic spelling</strong>: one sound = one letter. No silent letters.</p>
+  <h2>Alphabet</h2>
+  <p><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu).</p>
+  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
+  <p>Sounds like th, v, z, sh, ch, j are removed or mapped (e.g. th → d).</p>
+  <h2>Long vowels</h2>
+  <p><em>it</em> (it) vs <em>iit</em> (eat). Stress on second-to-last syllable.</p>
+</Layout>

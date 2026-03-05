@@ -1,0 +1,21 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.vocabulary} description="Simpli vocabulary: English-based, simplified spelling.">
+  <h1>{t.nav.vocabulary}</h1>
+  <p>Simpli vocabulary is <strong>based on English</strong>, simplified and written phonetically.</p>
+  <ul>
+    <li><strong>Core size:</strong> About 300–500 essential words.</li>
+    <li><strong>Spelling:</strong> One sound = one letter; long vowels doubled (<em>it</em> vs <em>iit</em>).</li>
+    <li><strong>Compounds:</strong> sun-light, wata-food, langwij-study.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>View list of essential words →</a></p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+</style>

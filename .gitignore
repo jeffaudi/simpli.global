@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+.astro/
+
+# Local theme clone (used once for migration; do not commit)
+.theme-tmp/
+
+# Env
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
