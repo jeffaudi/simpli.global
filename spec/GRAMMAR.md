@@ -8,7 +8,7 @@
 3. **Negation:** *no* before the verb.
 4. **Questions:** Start with wat, hu, wer, wen, wai, hou.
 5. **Plural:** Optional; numbers or *meni*.
-6. **Articles:** Optional.
+6. **Articles:** None. No "a" or "the"; omit them.
 7. **Adjectives:** Before noun, never change.
 8. **Possession:** Noun + possessor (*haus mi* = my house). You can add *of* for clarity but it's not needed: *haus (of) mi*, *haus (of) broder (of) mi* = my brother's house.
 9. **Prepositions:** in, on, at, from, to, wit, for.

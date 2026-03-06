@@ -64,7 +64,7 @@ const localeDescription = description || t(SITE_DESCRIPTION);
     <main class="l-main l-content">
       <slot />
     </main>
-    <Footer t={tJson} />
+    <Footer t={tJson} siteTitle={t(SITE_TITLE)} />
     {import.meta.env.DEV && (
       <style is:global>:root { scroll-behavior: auto }</style>
     )}

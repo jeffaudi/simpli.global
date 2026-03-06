@@ -2,9 +2,9 @@
 import type { Multilingual } from '@/i18n';
 
 export const SITE_TITLE: Multilingual = {
-  en: 'Learn to speak Simpli',
-  fr: 'Apprendre à parler Simpli',
-  es: 'Aprender a hablar Simpli',
+  en: 'Learn to speak, read and write Simpli',
+  fr: 'Apprendre à parler, lire et écrire Simpli',
+  es: 'Aprender a hablar, leer y escribir Simpli',
 };
 
 export const SITE_DESCRIPTION: Multilingual = {

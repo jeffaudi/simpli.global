@@ -2,16 +2,18 @@
 // Footer – Simpli (from Astro i18n Starter)
 interface Props {
   t: { nav: Record<string, string> };
+  siteTitle?: string;
 }
 
-const { t } = Astro.props;
+const { t, siteTitle = 'Learn to speak, read and write Simpli' } = Astro.props;
 ---
 
 <footer class="l-footer l-content">
   <a href="/en/" class="brand">Simpli</a>
-  <span class="copy" dir="ltr">
-    © Simpli {new Date().getFullYear()}
-  </span>
+  <p class="tagline">{siteTitle}</p>
+  <p class="license" dir="ltr">
+    Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a> (CC BY 4.0).
+  </p>
 </footer>
 
 <style>
@@ -31,9 +33,19 @@ const { t } = Astro.props;
     margin-block-end: var(--sp-s);
   }
 
-  .copy {
-    display: block;
-    margin-block-start: var(--sp-m);
+  .tagline {
+    margin: 0;
+    opacity: 0.95;
+  }
+
+  .license {
+    margin: var(--sp-m) 0 0;
+    font-size: 0.9em;
     opacity: 0.9;
+  }
+
+  .license a {
+    color: inherit;
+    text-decoration: underline;
   }
 </style>
