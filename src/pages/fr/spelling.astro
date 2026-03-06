@@ -17,14 +17,14 @@ const t = (await import('../../translations/fr.json')).default;
     <li><strong>o</strong> — mot, auto</li>
     <li><strong>u</strong> — tout, nous</li>
   </ul>
-  <p><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
+  <p><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, j. <strong>Pas de lettre c</strong> (supprimée). On utilise <strong>k</strong> pour /k/. Le son /tʃ/ s'écrit <strong>tj</strong>. Le son [v]/[w] s’écrit <strong>v</strong> (standard) ; <strong>w</strong> peut aussi s’utiliser par familiarité avec l’anglais. <strong>G</strong> représente toujours le son /g/ dur (comme dans go, gud, giv, langwij). <strong>J</strong> représente /dʒ/ (comme dans job, jeneral, jaiant).</p>
   <ul class="letter-list">
     <li><strong>p</strong> — papa</li>
     <li><strong>b</strong> — bon</li>
     <li><strong>t</strong> — tout</li>
     <li><strong>d</strong> — dans</li>
     <li><strong>k</strong> — quand, cas</li>
-    <li><strong>g</strong> — gare</li>
+    <li><strong>g</strong> — gare (toujours /g/ dur ; jamais /dʒ/)</li>
     <li><strong>m</strong> — main</li>
     <li><strong>n</strong> — non</li>
     <li><strong>f</strong> — faire</li>
@@ -32,27 +32,31 @@ const t = (await import('../../translations/fr.json')).default;
     <li><strong>l</strong> — long</li>
     <li><strong>r</strong> — comme <em>run</em> en anglais (r clair, pas le r guttural)</li>
     <li><strong>h</strong> — comme <em>hot</em> en anglais (h aspiré)</li>
-    <li><strong>w</strong> — watt</li>
+    <li><strong>v</strong> — have (standard pour le son [v]/[w])</li>
+    <li><strong>w</strong> — we (aussi pour familiarité)</li>
     <li><strong>y</strong> — yeux</li>
+    <li><strong>j</strong> — job</li>
   </ul>
 
   <h2>Correspondances</h2>
   <p>Les sons de l’anglais absents en Simpli sont ramenés à la lettre la plus proche :</p>
   <ul>
     <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
-    <li><strong>v</strong> → w — on n’écrit jamais <em>v</em> en Simpli (ex. <em>sewen</em>, <em>haw</em>, <em>giw</em>, <em>liw</em>, <em>mow</em>). Voir <a href="./alphabet-rationale">Rationale de l’alphabet</a> pour la règle complète et les exemples.</li>
-    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>v / w</strong> — Les sons [v] et [w] sont équivalents en Simpli. L’orthographe standard utilise <strong>v</strong> : <em>seven</em>, <em>vata</em> (water), <em>vuman</em> (woman), <em>hav</em>, <em>giv</em>, <em>liv</em>, <em>mov</em>, <em>river</em>, <em>even</em>. <strong>W</strong> peut aussi s’utiliser par familiarité (ex. <em>wata</em>, <em>we</em>, <em>windo</em>). On peut prononcer de l’une ou l’autre façon. Voir <a href="./alphabet-rationale">Rationale de l’alphabet</a> pour la règle complète et les exemples.</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (pas de lettre c en Simpli) : <em>tjaild</em> (child), <em>tiitjer</em> (teacher), <em>tjeenj</em> (change), <em>tjiiz</em> (cheese). Pour /k/ on écrit toujours <strong>k</strong> : <em>skul</em> (school), <em>akson</em> (action).</li>
     <li><strong>ph</strong> → f (<em>fon</em>)</li>
-    <li><strong>sh</strong> → s ; <strong>j</strong> → y ou d selon le son</li>
-    <li><strong>z</strong> → s si besoin</li>
+    <li><strong>sh</strong> → s ; <strong>z</strong> → s si besoin</li>
+    <li><strong>g</strong> = /g/ (toujours dur) : <em>go</em>, <em>gud</em> (good), <em>giv</em> (give), <em>langwij</em> (language). G ne représente jamais /dʒ/.</li>
+    <li><strong>j</strong> = /dʒ/ : <em>job</em>, <em>jeneral</em> (general), <em>jaiant</em> (giant), <em>major</em>.</li>
   </ul>
 
   <h2>Voyelles longues</h2>
-  <p>Une voyelle = son court ; voyelle doublée = son long. L’objectif des voyelles doublées (et donc des sons longs) est de <strong>différencier les homonymes</strong> (ex. <em>it</em> vs <em>iit</em>) même si, en général, le <strong>contexte suffit</strong> pour comprendre.</p>
+  <p>Une voyelle = son court ; voyelle doublée = son long. L’objectif des voyelles doublées (et donc des sons longs) est de <strong>différencier les homonymes</strong> (ex. <em>it</em> vs <em>iit</em>). En général, le <strong>contexte suffit</strong> pour comprendre.</p>
   <ul>
     <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
     <li><em>rod</em> vs <em>rood</em> (road)</li>
     <li><em>rum</em> vs <em>ruum</em> (room)</li>
+    <li><em>ful</em> (full) vs <em>fuul</em> (fool)</li>
     <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
   </ul>
 
@@ -61,7 +65,7 @@ const t = (await import('../../translations/fr.json')).default;
   <ul>
     <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
     <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
-    <li>Diphtongues : /aɪ/ en <strong>ai</strong> (<em>bai</em>, <em>caild</em>), /eɪ/ en <strong>ei</strong> (<em>plei</em>)</li>
+    <li>Diphtongues : /aɪ/ en <strong>ai</strong> (<em>bai</em>, <em>tjaild</em>), /eɪ/ en <strong>ei</strong> (<em>plei</em>)</li>
   </ul>
 
   <h2>Syllabes et accent</h2>
@@ -70,9 +74,29 @@ const t = (await import('../../translations/fr.json')).default;
   <h2>Suffixes courants</h2>
   <p>Les terminaisons proches de l’anglais sont simplifiées :</p>
   <ul>
-    <li>-tion, -sion → <strong>-son</strong> (acson, vison)</li>
+    <li>-tion, -sion → <strong>-son</strong> (akson, vison)</li>
     <li>-ture → <strong>-tur</strong> (natur, futur)</li>
     <li>-ous → <strong>-us</strong> ; -ful inchangé</li>
   </ul>
-  <p><a href="./alphabet-rationale">Rationale de l’alphabet</a> — pourquoi W et pas V, pourquoi i et y, et détails complets des lettres.</p>
+
+  <h2>Comment définir l’orthographe d’un mot</h2>
+  <p>L’orthographe Simpli repose sur la <strong>prononciation, pas sur l’orthographe anglaise</strong>. Suivre ce processus :</p>
+  <ol>
+    <li><strong>Partir de la prononciation, pas de l’orthographe.</strong> Convertir d’abord le mot anglais en sa forme phonémique approximative.</li>
+    <li><strong>Normaliser l’inventaire phonématique.</strong> Appliquer les choix de sons Simpli :
+      <ul>
+        <li>/θ/ → d ou t</li>
+        <li>/ð/ → d</li>
+        <li>/tʃ/ → tj</li>
+        <li>/dʒ/ → j</li>
+        <li>/k/ → k</li>
+        <li>/s/ → s</li>
+        <li>longueur vocalique traitée explicitement (courte = une lettre, longue = doublée)</li>
+      </ul>
+    </li>
+    <li><strong>Puis écrire l’orthographe Simpli.</strong> Uniquement après avoir identifié le son.</li>
+  </ol>
+  <p>Une règle automatique du type « remplacer c par k » <strong>ne fonctionne pas</strong>, car le <em>c</em> anglais peut correspondre à /k/, /s/, /tʃ/ ou d’autres sons selon le mot. Il en va de même pour <em>g</em>, <em>x</em>, <em>th</em> et les voyelles. Voir la <a href="./alphabet-rationale">Rationale de l’alphabet</a> pour comprendre pourquoi la substitution lettre à lettre échoue et comment partir des sons.</p>
+
+  <p><a href="./alphabet-rationale">Rationale de l’alphabet</a> — V et W (sons équivalents), pourquoi i et y, pourquoi la substitution automatique échoue, et détails complets des lettres.</p>
 </Layout>

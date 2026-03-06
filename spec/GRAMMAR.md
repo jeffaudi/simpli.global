@@ -9,7 +9,7 @@
 5. **Plural:** Optional; numbers or *meni*.
 6. **Articles:** Optional.
 7. **Adjectives:** Before noun, never change.
-8. **Possession:** Noun + possessor (*haus mi* = my house).
+8. **Possession:** Noun + possessor (*haus mi* = my house). You can add *of* for clarity but it's not needed: *haus (of) mi*, *haus (of) broder (of) mi* = my brother's house.
 9. **Prepositions:** in, on, at, from, to, wit, for.
 10. **Connectors:** and, or, but, becos, so.
 11. **Compounds:** e.g. sun-light, fast-tren, wata-food.

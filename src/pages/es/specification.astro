@@ -1,0 +1,52 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'es';
+const t = (await import('../../translations/es.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.specification} description="Especificación oficial del Simpli: alfabeto, ortografía, gramática, vocabulario.">
+  <h1>{t.nav.specification}</h1>
+  <p>Resumen de la especificación oficial del Simpli. Para el detalle, ver las páginas enlazadas abajo.</p>
+
+  <h2>Versión</h2>
+  <p><strong>Simpli v0.1</strong> (especificación en borrador).</p>
+
+  <h2>Alfabeto e inventario fonémico</h2>
+  <ul>
+    <li><strong>Vocales:</strong> a, e, i, o, u (largas: aa, ee, ii, oo, uu — letra doblada).</li>
+    <li><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, j. No hay letra <strong>c</strong> (eliminada). <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>. <strong>G</strong> = /g/ (siempre duro). <strong>J</strong> = /dʒ/.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>Ortografía</a> · <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Rationale del alfabeto</a></p>
+
+  <h2>Regla de vocales largas</h2>
+  <p>Vocal corta = una letra; vocal larga = letra doblada. Objetivo: diferenciar homónimos (ej. <em>it</em> vs <em>iit</em>). En general, el contexto basta.</p>
+
+  <h2>Reglas ortográficas principales</h2>
+  <ul>
+    <li>Un sonido = una grafía; sin letras mudas.</li>
+    <li><strong>v / w</strong> — El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés. Los sonidos son equivalentes; se pueden pronunciar de una u otra forma.</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (no hay letra c); /k/ siempre escrito <strong>k</strong>.</li>
+    <li><strong>g</strong> = /g/ (siempre duro); <strong>j</strong> = /dʒ/.</li>
+    <li><strong>th</strong> → d; <strong>ph</strong> → f; <strong>sh</strong> → s; <strong>z</strong> → s cuando haga falta.</li>
+    <li>Terminaciones habituales: -tion/-sion → -son, -ture → -tur, -ous → -us.</li>
+  </ul>
+
+  <h2>Resumen gramatical</h2>
+  <ul>
+    <li>Orden de palabras: Sujeto – Verbo – Objeto.</li>
+    <li>Sin conjugación; tiempo con palabras (yesterde, now, tumoro).</li>
+    <li>Posesión: nombre + poseedor (<em>haus mi</em>). <em>of</em> opcional para claridad: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em>.</li>
+    <li>Sin género; plural y artículos opcionales.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>Gramática</a> · <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Reglas de gramática</a></p>
+
+  <h2>Tamaño del vocabulario básico</h2>
+  <p>Unos <strong>300–500</strong> palabras esenciales para el día a día; ampliable. De origen inglés, simplificado y fonético.</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulario</a> · <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Palabras esenciales</a></p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+  h2 { margin-top: 1.25em; }
+</style>

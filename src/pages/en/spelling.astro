@@ -17,14 +17,14 @@ const t = (await import('../../translations/en.json')).default;
     <li><strong>o</strong> — hot, go</li>
     <li><strong>u</strong> — put, too</li>
   </ul>
-  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, w, y.</p>
+  <p><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, j. <strong>No letter c</strong> (removed entirely). Use <strong>k</strong> for /k/. The sound /tʃ/ is written <strong>tj</strong>. The [v]/[w] sound is written <strong>v</strong> (standard); <strong>w</strong> can still be used for familiarity with English. <strong>G</strong> always represents the hard /g/ sound (as in go, gud, giv, langwij). <strong>J</strong> represents /dʒ/ (as in job, jeneral, jaiant).</p>
   <ul class="letter-list">
     <li><strong>p</strong> — pen</li>
     <li><strong>b</strong> — bed</li>
     <li><strong>t</strong> — top</li>
     <li><strong>d</strong> — dog</li>
     <li><strong>k</strong> — cat</li>
-    <li><strong>g</strong> — go</li>
+    <li><strong>g</strong> — go (always hard /g/; never /dʒ/)</li>
     <li><strong>m</strong> — man</li>
     <li><strong>n</strong> — no</li>
     <li><strong>f</strong> — fan</li>
@@ -32,27 +32,31 @@ const t = (await import('../../translations/en.json')).default;
     <li><strong>l</strong> — leg</li>
     <li><strong>r</strong> — run</li>
     <li><strong>h</strong> — hot</li>
-    <li><strong>w</strong> — we</li>
+    <li><strong>v</strong> — have (standard for [v]/[w] sound)</li>
+    <li><strong>w</strong> — we (also used for familiarity)</li>
     <li><strong>y</strong> — yes</li>
+    <li><strong>j</strong> — job</li>
   </ul>
 
   <h2>Letter mappings</h2>
   <p>English sounds that don’t exist in Simpli are mapped to the nearest letter:</p>
   <ul>
     <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
-    <li><strong>v</strong> → w — we never write <em>v</em> in Simpli (e.g. <em>sewen</em>, <em>haw</em>, <em>giw</em>, <em>liw</em>, <em>mow</em>). See <a href="./alphabet-rationale">Alphabet rationale</a> for the full rule and examples.</li>
-    <li><strong>ch</strong> → c (<em>ticer</em>, <em>caild</em>)</li>
+    <li><strong>v / w</strong> — The [v] and [w] sounds are equivalent in Simpli. The standard spelling uses <strong>v</strong>: <em>seven</em>, <em>vata</em> (water), <em>vuman</em> (woman), <em>hav</em>, <em>giv</em>, <em>liv</em>, <em>mov</em>, <em>river</em>, <em>even</em>. <strong>W</strong> can still be used for familiarity (e.g. <em>wata</em>, <em>we</em>, <em>windo</em>). Speakers may pronounce either way. See <a href="./alphabet-rationale">Alphabet rationale</a> for the full rule and examples.</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (no letter c in Simpli): <em>tjaild</em> (child), <em>tiitjer</em> (teacher), <em>tjeenj</em> (change), <em>tjiiz</em> (cheese). For /k/ we always use <strong>k</strong>: <em>skul</em> (school), <em>akson</em> (action).</li>
     <li><strong>ph</strong> → f (<em>fon</em>)</li>
-    <li><strong>sh</strong> → s; <strong>j</strong> → y or d depending on sound</li>
-    <li><strong>z</strong> → s when needed</li>
+    <li><strong>sh</strong> → s; <strong>z</strong> → s when needed</li>
+    <li><strong>g</strong> = /g/ (always hard): <em>go</em>, <em>gud</em> (good), <em>giv</em> (give), <em>langwij</em> (language). G never represents the /dʒ/ sound.</li>
+    <li><strong>j</strong> = /dʒ/: <em>job</em>, <em>jeneral</em> (general), <em>jaiant</em> (giant), <em>major</em>.</li>
   </ul>
 
   <h2>Long vowels</h2>
-  <p>One vowel = short sound; double vowel = long sound. The aim of doubled vowels (and thus long sounds) is to <strong>differentiate homonyms</strong> (e.g. <em>it</em> vs <em>iit</em>) although, in most cases, <strong>context is enough</strong> to understand.</p>
+  <p>One vowel = short sound; double vowel = long sound. The aim of doubled vowels (and thus long sounds) is to <strong>differentiate homonyms</strong> (e.g. <em>it</em> vs <em>iit</em>). In general, though, <strong>context is enough</strong> to understand.</p>
   <ul>
     <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
     <li><em>rod</em> (rod) vs <em>rood</em> (road)</li>
     <li><em>rum</em> (rum) vs <em>ruum</em> (room)</li>
+    <li><em>ful</em> (full) vs <em>fuul</em> (fool)</li>
     <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
   </ul>
 
@@ -61,7 +65,7 @@ const t = (await import('../../translations/en.json')).default;
   <ul>
     <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
     <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
-    <li>Diphthongs: /aɪ/ as <strong>ai</strong> (<em>bai</em>, <em>caild</em>), /eɪ/ as <strong>ei</strong> (<em>plei</em>)</li>
+    <li>Diphthongs: /aɪ/ as <strong>ai</strong> (<em>bai</em>, <em>tjaild</em>), /eɪ/ as <strong>ei</strong> (<em>plei</em>)</li>
   </ul>
 
   <h2>Syllable and stress</h2>
@@ -70,9 +74,29 @@ const t = (await import('../../translations/en.json')).default;
   <h2>Common endings</h2>
   <p>Familiar English endings are simplified:</p>
   <ul>
-    <li>-tion, -sion → <strong>-son</strong> (acson, vison)</li>
+    <li>-tion, -sion → <strong>-son</strong> (akson, vison)</li>
     <li>-ture → <strong>-tur</strong> (natur, futur)</li>
     <li>-ous → <strong>-us</strong>; -ful → <strong>-ful</strong> (same)</li>
   </ul>
-  <p><a href="./alphabet-rationale">Alphabet rationale</a> — why we use W and not V, why we keep i and y, and full letter details.</p>
+
+  <h2>How to define the spelling of a word</h2>
+  <p>Simpli spelling is based on <strong>pronunciation, not English spelling</strong>. Use this process:</p>
+  <ol>
+    <li><strong>Start from pronunciation, not spelling.</strong> Convert the English word to its approximate phonemic form first.</li>
+    <li><strong>Normalize the phoneme inventory.</strong> Apply Simpli sound decisions:
+      <ul>
+        <li>/θ/ → d or t</li>
+        <li>/ð/ → d</li>
+        <li>/tʃ/ → tj</li>
+        <li>/dʒ/ → j</li>
+        <li>/k/ → k</li>
+        <li>/s/ → s</li>
+        <li>vowel length handled explicitly (short = single letter, long = doubled)</li>
+      </ul>
+    </li>
+    <li><strong>Then write the Simpli spelling.</strong> Only after the sound has been identified.</li>
+  </ol>
+  <p>An automatic rule like “replace c with k” does <strong>not</strong> work, because English <em>c</em> can correspond to /k/, /s/, /tʃ/, or other sounds depending on the word. The same applies to <em>g</em>, <em>x</em>, <em>th</em>, and vowels. See <a href="./alphabet-rationale">Alphabet rationale</a> for why letter-by-letter substitution fails and how to work from sounds instead.</p>
+
+  <p><a href="./alphabet-rationale">Alphabet rationale</a> — V and W (sounds equivalent), why we keep i and y, why automatic substitution fails, and full letter details.</p>
 </Layout>

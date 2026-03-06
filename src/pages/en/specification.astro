@@ -1,0 +1,52 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.specification} description="Official Simpli language specification: alphabet, spelling, grammar, vocabulary.">
+  <h1>{t.nav.specification}</h1>
+  <p>Short summary of the official Simpli language specification. For full detail, see the dedicated pages linked below.</p>
+
+  <h2>Version</h2>
+  <p><strong>Simpli v0.1</strong> (draft specification).</p>
+
+  <h2>Alphabet and phoneme inventory</h2>
+  <ul>
+    <li><strong>Vowels:</strong> a, e, i, o, u (long: aa, ee, ii, oo, uu — doubled letter).</li>
+    <li><strong>Consonants:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, j. No letter <strong>c</strong> (removed entirely). Use <strong>k</strong> for /k/. The sound /tʃ/ is written <strong>tj</strong>. <strong>G</strong> = /g/ (always hard). <strong>J</strong> = /dʒ/.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>Spelling</a> · <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Alphabet rationale</a></p>
+
+  <h2>Long vowel rule</h2>
+  <p>Short vowel = single letter; long vowel = doubled letter. Aim: differentiate homonyms (e.g. <em>it</em> vs <em>iit</em>). In general, context is enough to understand.</p>
+
+  <h2>Core spelling rules</h2>
+  <ul>
+    <li>One sound = one spelling; no silent letters.</li>
+    <li><strong>v / w</strong> — The [v]/[w] sound is written <strong>v</strong> (standard); <strong>w</strong> can still be used for familiarity with English. Sounds are equivalent; speakers may pronounce either way.</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (no letter c); /k/ always written <strong>k</strong>.</li>
+    <li><strong>g</strong> = /g/ (always hard); <strong>j</strong> = /dʒ/.</li>
+    <li><strong>th</strong> → d; <strong>ph</strong> → f; <strong>sh</strong> → s; <strong>z</strong> → s when needed.</li>
+    <li>Common endings: -tion/-sion → -son, -ture → -tur, -ous → -us.</li>
+  </ul>
+
+  <h2>Grammar summary</h2>
+  <ul>
+    <li>Word order: Subject – Verb – Object.</li>
+    <li>No verb conjugation; time with words (yesterde, now, tumoro).</li>
+    <li>Possession: noun + possessor (<em>haus mi</em>). Optional <em>of</em> for clarity: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em>.</li>
+    <li>No gender; optional plural and articles.</li>
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>Grammar</a> · <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Grammar rules</a></p>
+
+  <h2>Core vocabulary size</h2>
+  <p>About <strong>300–500</strong> essential words for everyday use; extendable. English-derived, simplified and phonetic.</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulary</a> · <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Essential words</a></p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+  h2 { margin-top: 1.25em; }
+</style>

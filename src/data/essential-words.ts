@@ -1,18 +1,18 @@
 // Simpli essential words – same for all locales. Categories can be translated in the page.
 export const essentialWords = {
   pronouns: ['mi', 'yu', 'el', 'wi', 'dey', 'dis', 'dat', 'som'],
-  numbers: ['sero', 'wan', 'tu', 'tri', 'for', 'faiv', 'siks', 'sewen', 'eit', 'nain', 'ten', 'meni'],
+  numbers: ['sero', 'wan', 'tu', 'tri', 'for', 'faiv', 'siks', 'seven', 'eit', 'nain', 'ten', 'meni'],
   verbs: [
-    'bi', 'haw', 'du', 'se', 'go', 'kam', 'giw', 'tek', 'mak', 'no', 'tink', 'sii', 'luk', 'faind',
-    'tel', 'ask', 'wok', 'try', 'liw', 'use', 'want', 'nid', 'help', 'mow', 'put', 'keep', 'let',
-    'start', 'stop', 'plei', 'lern', 'tec', 'spik', 'rid', 'rit', 'iit', 'drink', 'bai', 'sell',
+    'bi', 'hav', 'du', 'se', 'go', 'kam', 'giv', 'tek', 'mak', 'no', 'tink', 'sii', 'luk', 'faind',
+    'tel', 'ask', 'wok', 'try', 'liv', 'use', 'want', 'nid', 'help', 'mov', 'put', 'keep', 'let',
+    'start', 'stop', 'plei', 'lern', 'tiitj', 'spik', 'rid', 'rit', 'iit', 'drink', 'bai', 'sell',
   ],
   people: [
-    'pipol', 'man', 'wuman', 'caild', 'fren', 'famli', 'person', 'boss', 'wok-er', 'lider',
-    'ticer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'team', 'group',
+    'pipol', 'man', 'vuman', 'tjaild', 'fren', 'famli', 'person', 'boss', 'wok-er', 'lider',
+    'tiitjer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'team', 'group',
   ],
   nature: [
-    'ert', 'sky', 'sun', 'mun', 'star', 'wata', 'fire', 'air', 'land', 'sea', 'riwer', 'mountain',
+    'ert', 'sky', 'sun', 'mun', 'star', 'vata', 'fire', 'air', 'land', 'sii', 'river', 'mountain',
     'forest', 'animal', 'plant', 'fuud', 'fruut', 'rais', 'bred', 'miit', 'fish', 'tree', 'floer', 'leef', 'ston',
   ],
   objects: [
@@ -22,11 +22,11 @@ export const essentialWords = {
   ],
   adjectives: [
     'big', 'smol', 'long', 'short', 'fast', 'slow', 'gud', 'bad', 'new', 'old', 'hot', 'cold',
-    'dark', 'bright', 'izi', 'hard', 'open', 'close', 'ful', 'empty', 'strong', 'weak', 'rich', 'por',
-    'safe', 'danger', 'klin', 'dirti', 'simpil', 'kompleks', 'hapi', 'sad', 'calm', 'angri', 'tired', 'redi', 'bizi', 'fri',
+    'dark', 'bright', 'izi', 'hard', 'open', 'klos', 'ful', 'empty', 'strong', 'weak', 'rich', 'por',
+    'safe', 'danger', 'klin', 'dirti', 'simpil', 'kompleks', 'hapi', 'sad', 'kam', 'angri', 'tired', 'redi', 'bizi', 'fri',
   ],
   connectors: [
-    'and', 'or', 'but', 'if', 'wen', 'becos', 'so', 'den', 'also', 'only', 'ewen', 'maybe',
+    'and', 'or', 'but', 'if', 'wen', 'becos', 'so', 'den', 'also', 'only', 'even', 'maybe',
     'yes', 'no', 'ok', 'now', 'later', 'yesterde', 'tumoro',
   ],
 } as const;
