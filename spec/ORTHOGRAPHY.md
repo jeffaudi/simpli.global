@@ -10,7 +10,7 @@ No *th*, *z*, *sh*; mapped to nearest letter (see below).
 ## Letter mappings
 
 - **th** → d (*dis*, *dat*, *dey*)
-- **v / w** — Simpli treats the English v and w sounds as equivalent. The standard spelling uses **v**: *seven*, *vata* (water), *vuman* (woman), *hav* (have), *giv* (give), *liv* (live), *mov* (move), *river*, *even*. **W** can still be used for familiarity (e.g. *wata*, *we*, *windo*). Speakers may pronounce either way.
+- **v / w** — Simpli treats the English v and w sounds as equivalent. The standard spelling uses **v**: *seven*, *vata* (water), *vuman* (woman), *hav* (have), *giv* (give), *liv* (live), *mov* (move), *river*, *even*. **W** can still be used for familiarity (e.g. *wata*, *wi*, *windo*). Speakers may pronounce either way.
 - **ch** → **tj** (no letter c in Simpli): *tjaild* (child), *tiitjer* (teacher), *tjeenj* (change), *tjiiz* (cheese). For /k/ we always use **k**: *skul* (school), *akson* (action).
 - **ph** → f (*fon*)
 - **sh** → s; **z** → s when needed

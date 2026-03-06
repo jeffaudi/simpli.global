@@ -14,7 +14,14 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
     categories.map((cat) => (
       <section>
         <h2>{t.words[cat]}</h2>
-        <p class="word-list">{essentialWords[cat].join(' · ')}</p>
+        {cat === 'pronouns' ? (
+          <>
+            <p class="word-list">{essentialWords[cat].join(' · ')}</p>
+            <p class="word-note"><strong>el</strong> = he, she, or it (one word for all third-person singular; no separate “it”).</p>
+          </>
+        ) : (
+          <p class="word-list">{essentialWords[cat].join(' · ')}</p>
+        )}
       </section>
     ))
   }
@@ -23,4 +30,5 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
 
 <style>
   .word-list { font-family: ui-monospace, monospace; font-size: 0.95rem; line-height: 1.8; }
+  .word-note { font-size: 0.9rem; color: var(--color-text-muted, #555); margin-top: 0.25em; }
 </style>

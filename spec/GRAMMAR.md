@@ -2,6 +2,7 @@
 
 ## Core rules (~12)
 
+0. **Pronouns:** One word for third-person singular: *el* = he, she, it. No separate "it"; *el* is used for people and things.
 1. **Word order:** Subject – Verb – Object.
 2. **No verb conjugation.** Time with words: yesterde, now, tumoro.
 3. **Negation:** *no* before the verb.
