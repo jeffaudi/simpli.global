@@ -16,6 +16,7 @@ No *th*, *z*, *sh*; mapped to nearest letter (see below).
 - **sh** → s; **z** → s when needed
 - **g** = /g/ (always hard): *go*, *gud* (good), *giv* (give), *langwidj* (language). G never represents /dʒ/.
 - **dj** = /dʒ/ (symmetrical with **tj** = /tʃ/): *djob* (job), *djeneral* (general), *djaiant* (giant), *meidjer* (major), *bridj* (bridge)
+- **ou** — The sound /uː/ or /ʊ/ is written **u**. Standard spelling is *yu* (you); *you* is acceptable for clarity or familiarity.
 
 ## Rules
 
@@ -23,5 +24,7 @@ No *th*, *z*, *sh*; mapped to nearest letter (see below).
 2. **Long vowels = doubled letter:** Short vowel = single letter; long vowel = doubled letter. *it* vs *iit* (eat), *rod* vs *rood* (road), *rum* vs *ruum* (room), *ful* vs *fuul* (full vs fool). The aim is to **differentiate homonyms**; in general **context is enough** to understand. Diphthongs: /aɪ/ → **ai** (*bai*, *tjaild*), /eɪ/ → **ei** (*plei*).
 3. **Syllable structure:** (C)V(C). Stress on second-to-last syllable (*komputer*, *yesterde*, *tumoro*).
 4. **Common endings:** -tion/-sion → -son (*akson*, *vison*), -ture → -tur, -ous → -us.
+5. **ou → u:** Standard writing is **yu** (you); **you** is acceptable for clarity or acceptability.
+6. **Double consonants:** Not encouraged, as they go against simplification. Prefer single consonant: *adres* (not *address*). Double consonants are acceptable but the simplified form is preferred.
 
 See the [Spelling](/en/spelling) and [Alphabet rationale](/en/spelling/alphabet-rationale) pages on the website for full detail (including V and W).

@@ -9,7 +9,7 @@ export const essentialWords = {
   ],
   people: [
     'pipol', 'man', 'vuman', 'tjaild', 'fren', 'famli', 'person', 'boss', 'wok-er', 'lider',
-    'tiitjer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'team', 'group',
+    'tiitjer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'tiim', 'group',
   ],
   nature: [
     'ert', 'sky', 'sun', 'mun', 'star', 'vata', 'fire', 'air', 'land', 'sii', 'river', 'mountain',
@@ -22,7 +22,7 @@ export const essentialWords = {
   ],
   adjectives: [
     'big', 'smol', 'long', 'short', 'fast', 'slow', 'gud', 'bad', 'new', 'old', 'hot', 'cold',
-    'dark', 'bright', 'izi', 'hard', 'open', 'klos', 'ful', 'empty', 'strong', 'weak', 'rich', 'por',
+    'dark', 'bright', 'izi', 'hard', 'open', 'klos', 'ful', 'empty', 'strong', 'wiik', 'rich', 'por',
     'safe', 'danger', 'klin', 'dirti', 'simpil', 'kompleks', 'hapi', 'sad', 'kam', 'angri', 'tired', 'redi', 'bizi', 'fri',
   ],
   connectors: [
