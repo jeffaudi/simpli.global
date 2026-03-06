@@ -12,7 +12,7 @@ const t = (await import('../../../translations/es.json')).default;
   <h2>El alfabeto completo</h2>
   <p>Simpli usa un conjunto de letras reducido y regular. Cada sonido se escribe con una letra; no hay letras mudas ni símbolos extra.</p>
   <p><strong>Vocales:</strong> a, e, i, o, u (largas: aa, ee, ii, oo, uu — letra doblada).</p>
-  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, <strong>j</strong>. <strong>No hay letra c</strong> (eliminada). Se usa <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>. <strong>G</strong> representa siempre el sonido /g/ duro; <strong>J</strong> representa /dʒ/. El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés.</p>
+  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>No hay letra c</strong> (eliminada). Se usa <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>; /dʒ/ se escribe <strong>dj</strong> (simétrico con tj). <strong>G</strong> representa siempre el sonido /g/ duro. El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés.</p>
 
   <h2>V y W (sonidos equivalentes)</h2>
   <p>En Simpli los sonidos [v] y [w] del inglés son <strong>equivalentes</strong>. La ortografía estándar usa <strong>V</strong>: se reemplaza W por V para este sonido. <strong>W</strong> puede seguir usándose por familiaridad con el inglés (ej. <em>wata</em>, <em>wi</em>, <em>windo</em>). Se pueden pronunciar de una u otra forma.</p>
@@ -34,12 +34,12 @@ const t = (await import('../../../translations/es.json')).default;
   <p>Mantenemos <strong>i</strong> y <strong>y</strong> porque representan <strong>sonidos distintos</strong>:</p>
   <ul>
     <li><strong>i</strong> es una <strong>vocal</strong> (núcleo silábico): el sonido de <em>sit</em>, <em>see</em>, <em>it</em>, <em>eat</em> — corto o largo (escrito <em>ii</em>). Ejemplos: <em>mi</em>, <em>bi</em>, <em>tri</em>, <em>sii</em>, <em>faind</em>, <em>pipol</em>, <em>gud</em>, <em>iit</em>.</li>
-    <li><strong>y</strong> es una <strong>consonante</strong> (el glide [j]): el sonido al inicio de <em>yes</em>, <em>you</em>, <em>year</em>. Ejemplos: <em>yu</em>, <em>yes</em>, <em>yesterde</em>, <em>yelo</em> (yellow). (La letra <strong>j</strong> se usa para /dʒ/, un sonido distinto.)</li>
+    <li><strong>y</strong> es una <strong>consonante</strong> (el glide [j]): el sonido al inicio de <em>yes</em>, <em>you</em>, <em>year</em>. Ejemplos: <em>yu</em>, <em>yes</em>, <em>yesterde</em>, <em>yelo</em> (yellow). (El dígrafo <strong>dj</strong> se usa para /dʒ/, un sonido distinto.)</li>
   </ul>
   <p>A diferencia de v y w, no los fusionamos: son dos fonemas distintos (vocal vs consonante). Usar <strong>y</strong> para [j] mantiene la ortografía clara: <em>yu</em> (you) y <em>yes</em> se leen bien; <em>iu</em> o <em>ies</em> mezclarían la consonante con la vocal. Por eso conservamos <strong>i</strong> y <strong>y</strong>.</p>
 
-  <h2>G y J</h2>
-  <p><strong>G</strong> representa siempre el sonido /g/ duro (como en <em>go</em>, <em>gud</em>, <em>giv</em>, <em>langwij</em>). Nunca representa el /dʒ/ que tiene el inglés en «giant» o «general». <strong>J</strong> representa /dʒ/: <em>job</em>, <em>jeneral</em>, <em>jaiant</em>, <em>major</em>. Este contraste hace la pronunciación predecible.</p>
+  <h2>G y dj</h2>
+  <p><strong>G</strong> representa siempre el sonido /g/ duro (como en <em>go</em>, <em>gud</em>, <em>giv</em>, <em>langwidj</em>). Nunca representa el /dʒ/. <strong>dj</strong> representa /dʒ/ (simétrico con <strong>tj</strong> para /tʃ/): <em>djob</em>, <em>djeneral</em>, <em>djaiant</em>, <em>meidjer</em>, <em>bridj</em>. Este contraste hace la pronunciación predecible.</p>
 
   <h2>Otras letras que no usamos</h2>
   <p>Simpli también elimina o sustituye otras letras del inglés para mantener un alfabeto pequeño y fonético:</p>
@@ -64,6 +64,7 @@ const t = (await import('../../../translations/es.json')).default;
     <li>/k/ → k</li>
     <li>/s/ → s</li>
     <li>/tʃ/ → tj</li>
+    <li>/dʒ/ → dj</li>
     <li>y a veces otros resultados según la pronunciación real</li>
   </ul>
 

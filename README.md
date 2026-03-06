@@ -53,7 +53,7 @@ wer yu from ?
 mi from frans.
 
 wat yu du ?
-mi wok wit komputer and langwij.
+mi wok wit komputer and langwidj.
 ```
 
 *Where are you from? I'm from France. What do you do? I work with computers and languages.*

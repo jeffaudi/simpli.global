@@ -3,7 +3,7 @@
 ## Alphabet
 
 - **Vowels:** a, e, i, o, u (long: aa, ee, ii, oo, uu — doubled letter).
-- **Consonants:** p, b, t, d, k, g, m, n, f, s, l, r, h, **v**, w, y, j. **No letter c** (removed entirely). Use **k** for /k/. The sound /tʃ/ is written **tj**. **G** always = /g/ (hard g). **J** = /dʒ/. The [v]/[w] sound is written **v** (standard); **w** can still be used for familiarity with English. The two sounds are equivalent.
+- **Consonants:** p, b, t, d, k, g, m, n, f, s, l, r, h, **v**, w, y. **No letter c** (removed entirely). Use **k** for /k/. The sound /tʃ/ is written **tj**; /dʒ/ is written **dj** (symmetrical with tj). **G** always = /g/ (hard g). The [v]/[w] sound is written **v** (standard); **w** can still be used for familiarity with English. The two sounds are equivalent.
 
 No *th*, *z*, *sh*; mapped to nearest letter (see below).
 
@@ -11,11 +11,11 @@ No *th*, *z*, *sh*; mapped to nearest letter (see below).
 
 - **th** → d (*dis*, *dat*, *dey*)
 - **v / w** — Simpli treats the English v and w sounds as equivalent. The standard spelling uses **v**: *seven*, *vata* (water), *vuman* (woman), *hav* (have), *giv* (give), *liv* (live), *mov* (move), *river*, *even*. **W** can still be used for familiarity (e.g. *wata*, *wi*, *windo*). Speakers may pronounce either way.
-- **ch** → **tj** (no letter c in Simpli): *tjaild* (child), *tiitjer* (teacher), *tjeenj* (change), *tjiiz* (cheese). For /k/ we always use **k**: *skul* (school), *akson* (action).
+- **ch** → **tj** (no letter c in Simpli): *tjaild* (child), *tiitjer* (teacher), *tjeendj* (change), *tjiiz* (cheese). For /k/ we always use **k**: *skul* (school), *akson* (action).
 - **ph** → f (*fon*)
 - **sh** → s; **z** → s when needed
-- **g** = /g/ (always hard): *go*, *gud* (good), *giv* (give), *langwij* (language). G never represents /dʒ/.
-- **j** = /dʒ/: *job*, *jeneral* (general), *jaiant* (giant), *major*
+- **g** = /g/ (always hard): *go*, *gud* (good), *giv* (give), *langwidj* (language). G never represents /dʒ/.
+- **dj** = /dʒ/ (symmetrical with **tj** = /tʃ/): *djob* (job), *djeneral* (general), *djaiant* (giant), *meidjer* (major), *bridj* (bridge)
 
 ## Rules
 

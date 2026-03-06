@@ -17,7 +17,7 @@ const t = (await import('../../translations/es.json')).default;
     <li><strong>o</strong> — sol, dos</li>
     <li><strong>u</strong> — uno, tú</li>
   </ul>
-  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, j. <strong>No hay letra c</strong> (eliminada). Se usa <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>. El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés. <strong>G</strong> representa siempre el sonido /g/ duro (como en go, gud, giv, langwij). <strong>J</strong> representa /dʒ/ (como en job, jeneral, jaiant).</p>
+  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>No hay letra c</strong> (eliminada). Se usa <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>; /dʒ/ se escribe <strong>dj</strong> (simétrico con tj). El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés. <strong>G</strong> representa siempre el sonido /g/ duro (como en go, gud, giv, langwidj).</p>
   <ul class="letter-list">
     <li><strong>p</strong> — papá</li>
     <li><strong>b</strong> — bien</li>
@@ -35,7 +35,7 @@ const t = (await import('../../translations/es.json')).default;
     <li><strong>v</strong> — have (estándar para el sonido [v]/[w])</li>
     <li><strong>w</strong> — we (también por familiaridad)</li>
     <li><strong>y</strong> — yo</li>
-    <li><strong>j</strong> — job</li>
+    <li><strong>tj</strong> — /tʃ/ (ej. tjaild); <strong>dj</strong> — /dʒ/ (ej. djob)</li>
   </ul>
 
   <h2>Correspondencias</h2>
@@ -43,11 +43,11 @@ const t = (await import('../../translations/es.json')).default;
   <ul>
     <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
     <li><strong>v / w</strong> — Los sonidos [v] y [w] son equivalentes en Simpli. La ortografía estándar usa <strong>v</strong>: <em>seven</em>, <em>vata</em> (water), <em>vuman</em> (woman), <em>hav</em>, <em>giv</em>, <em>liv</em>, <em>mov</em>, <em>river</em>, <em>even</em>. <strong>W</strong> puede usarse por familiaridad (ej. <em>wata</em>, <em>wi</em>, <em>windo</em>). Se pueden pronunciar de una u otra forma. Ver <a href="./alphabet-rationale">Rationale del alfabeto</a> para la regla completa y ejemplos.</li>
-    <li><strong>ch</strong> → <strong>tj</strong> (no hay letra c en Simpli): <em>tjaild</em> (child), <em>tiitjer</em> (teacher), <em>tjeenj</em> (change), <em>tjiiz</em> (cheese). Para /k/ se escribe siempre <strong>k</strong>: <em>skul</em> (school), <em>akson</em> (action).</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (no hay letra c en Simpli): <em>tjaild</em> (child), <em>tiitjer</em> (teacher), <em>tjeendj</em> (change), <em>tjiiz</em> (cheese). Para /k/ se escribe siempre <strong>k</strong>: <em>skul</em> (school), <em>akson</em> (action).</li>
     <li><strong>ph</strong> → f (<em>fon</em>)</li>
     <li><strong>sh</strong> → s; <strong>z</strong> → s cuando haga falta</li>
-    <li><strong>g</strong> = /g/ (siempre duro): <em>go</em>, <em>gud</em> (good), <em>giv</em> (give), <em>langwij</em> (language). G nunca representa /dʒ/.</li>
-    <li><strong>j</strong> = /dʒ/: <em>job</em>, <em>jeneral</em> (general), <em>jaiant</em> (giant), <em>major</em>.</li>
+    <li><strong>g</strong> = /g/ (siempre duro): <em>go</em>, <em>gud</em> (good), <em>giv</em> (give), <em>langwidj</em> (language). G nunca representa /dʒ/.</li>
+    <li><strong>dj</strong> = /dʒ/ (simétrico con <strong>tj</strong>): <em>djob</em> (job), <em>djeneral</em> (general), <em>djaiant</em> (giant), <em>meidjer</em> (major), <em>bridj</em> (bridge).</li>
   </ul>
 
   <h2>Vocales largas</h2>
@@ -88,7 +88,7 @@ const t = (await import('../../translations/es.json')).default;
         <li>/θ/ → d o t</li>
         <li>/ð/ → d</li>
         <li>/tʃ/ → tj</li>
-        <li>/dʒ/ → j</li>
+        <li>/dʒ/ → dj</li>
         <li>/k/ → k</li>
         <li>/s/ → s</li>
         <li>longitud vocálica tratada de forma explícita (corta = una letra, larga = doblada)</li>

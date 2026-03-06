@@ -12,7 +12,7 @@ const t = (await import('../../../translations/fr.json')).default;
   <h2>L’alphabet complet</h2>
   <p>Simpli utilise un ensemble de lettres réduit et régulier. Chaque son est écrit avec une lettre ; pas de lettres muettes ni de symboles supplémentaires.</p>
   <p><strong>Voyelles :</strong> a, e, i, o, u (longues : aa, ee, ii, oo, uu — lettre doublée).</p>
-  <p><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y, <strong>j</strong>. <strong>Pas de lettre c</strong> (supprimée). On utilise <strong>k</strong> pour /k/. Le son /tʃ/ s'écrit <strong>tj</strong>. <strong>G</strong> représente toujours le son /g/ dur ; <strong>J</strong> représente /dʒ/.</p>
+  <p><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>Pas de lettre c</strong> (supprimée). On utilise <strong>k</strong> pour /k/. Le son /tʃ/ s'écrit <strong>tj</strong> ; /dʒ/ s'écrit <strong>dj</strong> (symétrique de tj). <strong>G</strong> représente toujours le son /g/ dur.</p>
   <p>Le son [v]/[w] s’écrit <strong>v</strong> (standard) ; <strong>w</strong> peut aussi s’utiliser par familiarité avec l’anglais.</p>
 
   <h2>V et W (sons équivalents)</h2>
@@ -35,12 +35,12 @@ const t = (await import('../../../translations/fr.json')).default;
   <p>On garde à la fois <strong>i</strong> et <strong>y</strong> parce qu’ils représentent des <strong>sons différents</strong> :</p>
   <ul>
     <li><strong>i</strong> est une <strong>voyelle</strong> (noyau de syllabe) : le son dans <em>sit</em>, <em>see</em>, <em>it</em>, <em>eat</em> — court ou long (écrit <em>ii</em>). Exemples : <em>mi</em>, <em>bi</em>, <em>tri</em>, <em>sii</em>, <em>faind</em>, <em>pipol</em>, <em>gud</em>, <em>iit</em>.</li>
-    <li><strong>y</strong> est une <strong>consonne</strong> (la semi-voyelle [j]) : le son au début de <em>yes</em>, <em>you</em>, <em>year</em>. Exemples : <em>yu</em>, <em>yes</em>, <em>yesterde</em>, <em>yelo</em> (yellow). (La lettre <strong>j</strong> sert pour /dʒ/, un son différent.)</li>
+    <li><strong>y</strong> est une <strong>consonne</strong> (la semi-voyelle [j]) : le son au début de <em>yes</em>, <em>you</em>, <em>year</em>. Exemples : <em>yu</em>, <em>yes</em>, <em>yesterde</em>, <em>yelo</em> (yellow). (Le digramme <strong>dj</strong> sert pour /dʒ/, un son différent.)</li>
   </ul>
   <p>Contrairement à v et w, on ne les fusionne pas : ce sont deux phonèmes distincts (voyelle vs consonne). Utiliser <strong>y</strong> pour [j] garde l’orthographe lisible : <em>yu</em> (you) et <em>yes</em> sont clairs ; <em>iu</em> ou <em>ies</em> mélangeraient consonne et voyelle. Donc on garde les deux : <strong>i</strong> et <strong>y</strong>.</p>
 
-  <h2>G et J</h2>
-  <p><strong>G</strong> représente toujours le son /g/ dur (comme dans <em>go</em>, <em>gud</em>, <em>giv</em>, <em>langwij</em>). Il ne représente jamais le /dʒ/ que l’anglais a dans « giant » ou « general ». <strong>J</strong> représente /dʒ/ : <em>job</em>, <em>jeneral</em>, <em>jaiant</em>, <em>major</em>. Ce contraste rend la prononciation prévisible.</p>
+  <h2>G et dj</h2>
+  <p><strong>G</strong> représente toujours le son /g/ dur (comme dans <em>go</em>, <em>gud</em>, <em>giv</em>, <em>langwidj</em>). Il ne représente jamais le /dʒ/ que l’anglais a dans « giant » ou « general ». <strong>dj</strong> représente /dʒ/ (symétrique de <strong>tj</strong> pour /tʃ/) : <em>djob</em>, <em>djeneral</em>, <em>djaiant</em>, <em>meidjer</em>, <em>bridj</em>. Ce contraste rend la prononciation prévisible.</p>
 
   <h2>Autres lettres qu’on n’utilise pas</h2>
   <p>Simpli supprime ou remplace aussi d’autres lettres de l’anglais pour garder un alphabet petit et phonétique :</p>
@@ -65,6 +65,7 @@ const t = (await import('../../../translations/fr.json')).default;
     <li>/k/ → k</li>
     <li>/s/ → s</li>
     <li>/tʃ/ → tj</li>
+    <li>/dʒ/ → dj</li>
     <li>et parfois d'autres résultats selon la prononciation réelle</li>
   </ul>
 
