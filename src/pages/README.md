@@ -15,6 +15,7 @@ Astro pages for the learn-simpli.org site. Each locale has its own subfolder: `e
 - **comparison.astro** — Comparison with other languages
 - **samples.astro** — Sample texts in Simpli
 - **essential-words.astro** — Essential words by category (data from `src/data/essential-words.ts`)
+- **discussion.astro** — Topics for discussion (open debates, e.g. ch/tj; link to Discord coming soon)
 - **next-steps.astro** — Community and next steps
 
 Nav is defined in `src/components/Header.astro`; labels come from `src/translations/[locale].json` under `nav.*`.

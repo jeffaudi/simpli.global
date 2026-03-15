@@ -44,6 +44,10 @@ const t = (await import('../../translations/en.json')).default;
 
   <h2>{t.home.nextStepsTitle}</h2>
   <div class="next-steps-grid">
+    <a href={getRelativeLocaleUrl(lang, 'discussion')} class="card">
+      <h3>{t.nav.discussionTopics}</h3>
+      <p>Open topics for community debate (Discord coming soon)</p>
+    </a>
     <a href={getRelativeLocaleUrl(lang, 'next-steps')} class="card">
       <h3>{t.home.interact}</h3>
       <p>{t.home.interactDesc}</p>

@@ -9,7 +9,20 @@
     "comparison": "Comparison",
     "samples": "Sample texts",
     "nextSteps": "Next steps",
-    "specification": "Specification"
+    "specification": "Specification",
+    "discussionTopics": "Topics for discussion"
+  },
+  "discussion": {
+    "intro": "Simpli is still new and benefits from broad discussion.",
+    "intro2": "The choices we make—spelling, grammar, vocabulary—can be revisited with input from a large community. Below are some topics open for debate.",
+    "community": "Join the discussion",
+    "discordComingSoon": "Discord (coming soon)",
+    "topicChTitle": "Removing « ch » and « c » (using « tj » for /tʃ/)",
+    "topicChDesc": "Replacing ch with tj (e.g. child → tjaild, teacher → tiitjer) is a step toward simplicity and consistency—the letter c is one of the most inconsistent in English. It may, however, make Simpli feel less familiar to English speakers and could affect adoption. This is subject to discussion within the community.",
+    "topicVwTitle": "V and W: keep both, fuse, or remove W?",
+    "topicVwDesc": "Should we keep the sound /w/ (as in who, we, water) distinct from /v/? Fuse v and w into one letter (one sound, one spelling)? Or remove w entirely and use only v? Each choice affects simplicity, the size of the alphabet, and familiarity for English speakers and others.",
+    "topicProperNounsTitle": "Proper nouns: keep as is or rewrite?",
+    "topicProperNounsDesc": "Names of people, places, and brands: keep the original spelling (e.g. New York, Paris) or rewrite them in Simpli spelling (e.g. Niu York)? Keeping originals is recognizable but breaks the “one sound, one letter” rule; rewriting is consistent but can look unfamiliar. Open for community input."
   },
   "home": {
     "hero": "A simple international language: English-style words, Indonesian-style grammar, phonetic spelling.",

@@ -1,0 +1,43 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+---
+
+<Layout lang={lang} title={t.nav.discussionTopics} description="Topics for discussion: Simpli is new and benefits from community input. Join the discussion (Discord coming soon).">
+  <h1>{t.nav.discussionTopics}</h1>
+  <p>{t.discussion.intro}</p>
+  <p>{t.discussion.intro2}</p>
+
+  <section class="discussion-topics">
+    <article class="card topic">
+      <h2>{t.discussion.topicChTitle}</h2>
+      <p>{t.discussion.topicChDesc}</p>
+    </article>
+    <article class="card topic">
+      <h2>{t.discussion.topicVwTitle}</h2>
+      <p>{t.discussion.topicVwDesc}</p>
+    </article>
+    <article class="card topic">
+      <h2>{t.discussion.topicProperNounsTitle}</h2>
+      <p>{t.discussion.topicProperNounsDesc}</p>
+    </article>
+  </section>
+
+  <section class="card community-cta">
+    <h2>{t.discussion.community}</h2>
+    <p>These topics are open for debate. Share your views and help shape Simpli.</p>
+    <ul>
+      <li><strong>Discord:</strong> <a href="#">{t.discussion.discordComingSoon}</a></li>
+    </ul>
+  </section>
+</Layout>
+
+<style>
+  .discussion-topics { margin: 1.5em 0; }
+  .topic h2 { margin-top: 0; font-size: 1.15rem; }
+  .community-cta h2 { margin-top: 0; }
+  .community-cta ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0; }
+  .community-cta a[href="#"] { font-style: italic; }
+</style>

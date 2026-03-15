@@ -9,7 +9,20 @@
     "comparison": "Comparaison",
     "samples": "Textes types",
     "nextSteps": "Prochaines étapes",
-    "specification": "Spécification"
+    "specification": "Spécification",
+    "discussionTopics": "Sujets de discussion"
+  },
+  "discussion": {
+    "intro": "Simpli est encore récent et gagne à être discuté largement.",
+    "intro2": "Les choix que nous faisons—orthographe, grammaire, vocabulaire—peuvent être revus avec l’apport d’une large communauté. Voici quelques sujets ouverts au débat.",
+    "community": "Rejoindre la discussion",
+    "discordComingSoon": "Discord (bientôt)",
+    "topicChTitle": "Suppression de « ch » et « c » (usage de « tj » pour /tʃ/)",
+    "topicChDesc": "Remplacer ch par tj (ex. child → tjaild, teacher → tiitjer) va dans le sens de la simplicité et de la cohérence—la lettre c est l’une des plus incohérentes en anglais. Cela peut toutefois rendre Simpli moins familier aux anglophones et affecter l’adoption. Ce point est ouvert à la discussion au sein de la communauté.",
+    "topicVwTitle": "V et W : garder les deux, fusionner ou supprimer W ?",
+    "topicVwDesc": "Faut-il garder le son /w/ (comme dans who, we, water) distinct de /v/ ? Fusionner v et w en une seule lettre (un son, une graphie) ? Ou supprimer w et n'utiliser que v ? Chaque choix a des conséquences sur la simplicité, la taille de l'alphabet et la familiarité pour les anglophones et les autres.",
+    "topicProperNounsTitle": "Noms propres : garder l'original ou réécrire ?",
+    "topicProperNounsDesc": "Noms de personnes, lieux et marques : garder l'orthographe d'origine (ex. New York, Paris) ou les réécrire en orthographe Simpli (ex. Niu York) ? Garder l'original est reconnaissable mais brise la règle « un son, une lettre » ; réécrire est cohérent mais peut paraître étrange. Ouvert aux avis de la communauté."
   },
   "home": {
     "hero": "Une langue internationale simple : mots proches de l'anglais, grammaire de type indonésien, orthographe phonétique.",
