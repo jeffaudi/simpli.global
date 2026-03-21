@@ -1,14 +1,23 @@
 // Global data for Simpli (based on Astro i18n Starter pattern)
 import type { Multilingual } from '@/i18n';
 
+/** Browser title and Open Graph site name — reinforce “simple international language” for SEO. */
 export const SITE_TITLE: Multilingual = {
-  en: 'Learn to speak, read and write Simpli',
-  fr: 'Apprendre à parler, lire et écrire Simpli',
-  es: 'Aprender a hablar, leer y escribir Simpli',
+  en: 'Simpli is a simple international language',
+  fr: 'Simpli est une langue internationale simple',
+  es: 'Simpli es una lengua internacional simple',
 };
 
+/** Default meta description (home and pages without a custom fragment). */
 export const SITE_DESCRIPTION: Multilingual = {
-  en: 'A simple international language for egalitarian access to communication.',
-  fr: 'Une langue internationale simple pour un accès égalitaire à la communication.',
-  es: 'Una lengua internacional simple para un acceso igualitario a la comunicación.',
+  en: 'Simpli is a simple international language for egalitarian communication—English-style words, Indonesian-style grammar, phonetic spelling.',
+  fr: 'Simpli est une langue internationale simple pour une communication égalitaire—mots proches de l’anglais, grammaire de type indonésien, orthographe phonétique.',
+  es: 'Simpli es una lengua internacional simple para una comunicación igualitaria—vocabulario tipo inglés, gramática tipo indonesio, ortografía fonética.',
+};
+
+/** Prepended to per-page meta descriptions so every URL reinforces positioning. */
+export const SEO_DESCRIPTION_LEAD: Multilingual = {
+  en: 'Simpli is a simple international language.',
+  fr: 'Simpli est une langue internationale simple.',
+  es: 'Simpli es una lengua internacional simple.',
 };

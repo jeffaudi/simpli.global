@@ -5,12 +5,13 @@ import { motivationContent } from '@/data/motivation-content';
 const lang = 'es';
 const t = (await import('../../translations/es.json')).default;
 const c = motivationContent[lang];
+const m = t.motivationPage;
 ---
 
-<Layout lang={lang} title={t.nav.motivation} description="Why Simpli: fight for egalitarian access to communication.">
+<Layout lang={lang} title={t.nav.motivation} description={m.metaDescription}>
   <h1>{t.nav.motivation}</h1>
   <p>{c.intro}</p>
-  <p>Simpli aims to reduce barriers:</p>
+  <p>{m.barriersHeading}</p>
   <ul>
     <li><strong>{c.time}</strong></li>
     <li><strong>{c.complexity}</strong></li>
@@ -19,9 +20,9 @@ const c = motivationContent[lang];
   </ul>
   <p>{c.bridge}</p>
   <p>
-    <a href={getRelativeLocaleUrl(lang, 'roots')}>Rooting in real languages</a>
+    <a href={getRelativeLocaleUrl(lang, 'roots')}>{m.linkRoots}</a>
     {' · '}
-    <a href={getRelativeLocaleUrl(lang, 'comparison')}>Comparison with other languages</a>
+    <a href={getRelativeLocaleUrl(lang, 'comparison')}>{m.linkComparison}</a>
   </p>
 </Layout>
 

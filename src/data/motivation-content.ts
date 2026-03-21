@@ -2,7 +2,7 @@ import type { Lang } from '@/i18n';
 
 export const motivationContent: Record<Lang, { intro: string; time: string; complexity: string; neutrality: string; pronunciation: string; bridge: string }> = {
   en: {
-    intro: 'Why do we need a simple international language? Because egalitarian access to communication matters. Today, the languages that open doors (English, Mandarin, Spanish) require years of study and often reflect historical power rather than fairness.',
+    intro: 'Simpli is a simple international language—why does it matter? Egalitarian access to communication matters. Today, the languages that open doors (English, Mandarin, Spanish) require years of study and often reflect historical power rather than fairness.',
     time: 'Time: Learn the basics in weeks, not years.',
     complexity: 'Complexity: No conjugation, no gender, minimal grammar.',
     neutrality: 'Neutrality: This standard is for everyone to read and speak.',
@@ -10,7 +10,7 @@ export const motivationContent: Record<Lang, { intro: string; time: string; comp
     bridge: 'A language that many people can learn quickly can serve as a bridge for work, travel, and cooperation, without requiring everyone to master a complex historical national language.',
   },
   fr: {
-    intro: "Pourquoi une langue internationale simple ? Parce que l'accès égalitaire à la communication compte. Aujourd'hui, les langues qui ouvrent des portes (anglais, mandarin, espagnol) exigent des années d'étude et reflètent souvent le pouvoir historique plutôt que l'équité.",
+    intro: "Simpli est une langue internationale simple—pourquoi c'est important ? L'accès égalitaire à la communication compte. Aujourd'hui, les langues qui ouvrent des portes (anglais, mandarin, espagnol) exigent des années d'étude et reflètent souvent le pouvoir historique plutôt que l'équité.",
     time: 'Temps : Apprendre les bases en semaines, pas en années.',
     complexity: 'Complexité : Pas de conjugaison, pas de genre, grammaire minimale.',
     neutrality: 'Neutralité : Cette norme est faite pour que chacun puisse lire et parler.',
@@ -18,7 +18,7 @@ export const motivationContent: Record<Lang, { intro: string; time: string; comp
     bridge: "Une langue que beaucoup peuvent apprendre rapidement peut servir de pont pour le travail, les voyages et la coopération, sans exiger que chacun maîtrise une langue nationale complexe et historique.",
   },
   es: {
-    intro: '¿Por qué una lengua internacional simple? Porque el acceso igualitario a la comunicación importa. Hoy, las lenguas que abren puertas (inglés, mandarín, español) exigen años de estudio y a menudo reflejan el poder histórico más que la equidad.',
+    intro: 'Simpli es una lengua internacional simple—¿por qué importa? El acceso igualitario a la comunicación importa. Hoy, las lenguas que abren puertas (inglés, mandarín, español) exigen años de estudio y a menudo reflejan el poder histórico más que la equidad.',
     time: 'Tiempo: Aprender lo básico en semanas, no en años.',
     complexity: 'Complejidad: Sin conjugación, sin género, gramática mínima.',
     neutrality: 'Neutralidad: Este estándar es para que todos puedan leer y hablar.',

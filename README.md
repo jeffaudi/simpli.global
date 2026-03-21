@@ -1,6 +1,6 @@
 # Learn Simpli
 
-**Simpli** is a proposed international auxiliary language combining:
+**Simpli is a simple international language**—a proposed international auxiliary language combining:
 
 - **Grammar:** Indonesian-style analytic grammar (no conjugation, no gender, minimal rules)
 - **Vocabulary:** Simplified English with phonetic spelling
@@ -10,7 +10,7 @@ Target: basic conversation in **~30–80 hours** for people who already know som
 
 ## Website
 
-This repository builds the **learn-simpli.org** website: a multilingual (English, French, Spanish) site that presents the language concept, motivation, roots, grammar, vocabulary, spelling, comparison with other languages, sample texts, and next steps (community, learning tools, promotion).
+The public site is **[simpli.global](https://simpli.global)**. This repository builds that multilingual (English, French, Spanish) site: the language concept, motivation, roots, grammar, vocabulary, spelling, comparison with other languages, sample texts, and next steps (community, reference materials, promotion).
 
 - **Run locally:** `npm install` then `npm run dev`
 - **Build:** `npm run build` (output in `dist/`)

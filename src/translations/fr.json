@@ -25,8 +25,8 @@
     "topicProperNounsDesc": "Noms de personnes, lieux et marques : garder l'orthographe d'origine (ex. New York, Paris) ou les réécrire en orthographe Simpli (ex. Niu York) ? Garder l'original est reconnaissable mais brise la règle « un son, une lettre » ; réécrire est cohérent mais peut paraître étrange. Ouvert aux avis de la communauté."
   },
   "home": {
-    "hero": "Une langue internationale simple : mots proches de l'anglais, grammaire de type indonésien, orthographe phonétique.",
-    "concept1": "Simpli est une langue auxiliaire proposée pour un accès plus égalitaire à la communication. Elle combine une grammaire minimale et un vocabulaire familier pour un apprentissage rapide.",
+    "hero": "Simpli est une langue internationale simple : mots proches de l'anglais, grammaire de type indonésien, orthographe phonétique.",
+    "concept1": "Simpli est une langue internationale simple—une langue auxiliaire proposée pour un accès égalitaire à la communication. Elle combine une grammaire minimale et un vocabulaire familier pour que plus de gens puissent l’utiliser vite.",
     "concept2": "Que vous connaissiez déjà un peu l'anglais ou cherchiez une langue pont neutre, Simpli vise à réduire les barrières de temps, de complexité et de géographie.",
     "conceptLinks": "Découvrir le concept",
     "nextStepsTitle": "Prochaines étapes",
@@ -35,7 +35,37 @@
     "learn": "Apprendre",
     "learnDesc": "App à venir, dictionnaire et traduction",
     "promote": "Promouvoir",
-    "promoteDesc": "Visuels et dépliant"
+    "promoteDesc": "Visuels et dépliant",
+    "cardMotivation": "Pour un accès égalitaire à la communication",
+    "cardRoots": "Ancrage dans les langues réelles et l’usage actuel",
+    "cardGrammar": "Style indonésien, règles minimales",
+    "cardVocabulary": "Basé sur l’anglais, mots essentiels",
+    "cardSpelling": "Lettres simplifiées, phonèmes, voyelles longues",
+    "cardComparison": "vs indonésien, anglais, espéranto, glosa, globish",
+    "cardSamples": "Textes importants en Simpli"
+  },
+  "motivationPage": {
+    "metaDescription": "Pourquoi Simpli : accès égalitaire à la communication.",
+    "barriersHeading": "Simpli vise à réduire les obstacles :",
+    "linkRoots": "Ancrage dans les langues réelles",
+    "linkComparison": "Comparaison avec d’autres langues"
+  },
+  "nextStepsPage": {
+    "metaDescription": "Prochaines étapes : communauté, ressources de référence et promotion.",
+    "intro": "Participez : rejoignez la communauté, utilisez (ou attendez) des outils de référence, et aidez à faire connaître Simpli.",
+    "forumLabel": "Forum :",
+    "forumSoon": "Bientôt disponible.",
+    "discordLabel": "Discord :",
+    "discordSoon": "Bientôt disponible.",
+    "appLabel": "Application :",
+    "appSoon": "Bientôt disponible.",
+    "dictionaryLabel": "Dictionnaire :",
+    "dictionaryEssentialLink": "Mots essentiels",
+    "dictionaryPlanned": "dictionnaire complet prévu.",
+    "visualsLabel": "Visuels :",
+    "visualsSoon": "Bientôt disponible.",
+    "leafletLabel": "Dépliant :",
+    "leafletSoon": "PDF (bientôt)."
   },
   "languageSwitcher": "Langue",
   "words": {

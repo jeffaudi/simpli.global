@@ -25,8 +25,8 @@
     "topicProperNounsDesc": "Names of people, places, and brands: keep the original spelling (e.g. New York, Paris) or rewrite them in Simpli spelling (e.g. Niu York)? Keeping originals is recognizable but breaks the “one sound, one letter” rule; rewriting is consistent but can look unfamiliar. Open for community input."
   },
   "home": {
-    "hero": "A simple international language: English-style words, Indonesian-style grammar, phonetic spelling.",
-    "concept1": "Simpli is a proposed auxiliary language designed for egalitarian access to communication. It combines minimal grammar with familiar vocabulary so that more people can learn it quickly.",
+    "hero": "Simpli is a simple international language: English-style words, Indonesian-style grammar, phonetic spelling.",
+    "concept1": "Simpli is a simple international language—a proposed auxiliary language for egalitarian access to communication. It combines minimal grammar with familiar vocabulary so more people can use it quickly.",
     "concept2": "Whether you already know some English or are looking for a neutral bridge language, Simpli aims to reduce barriers of time, complexity, and geography.",
     "conceptLinks": "Discover the concept",
     "nextStepsTitle": "Next steps",
@@ -35,7 +35,37 @@
     "learn": "Learn",
     "learnDesc": "Coming app, dictionary, and translate",
     "promote": "Promote",
-    "promoteDesc": "Visuals and leaflet"
+    "promoteDesc": "Visuals and leaflet",
+    "cardMotivation": "Fight for egalitarian access to communication",
+    "cardRoots": "Rooting in real languages and current usage",
+    "cardGrammar": "Indonesian style, minimal rules",
+    "cardVocabulary": "English-based, essential words",
+    "cardSpelling": "Simplified letters, phonemes, long vowels",
+    "cardComparison": "vs Indonesian, English, Esperanto, Glosa, Globish",
+    "cardSamples": "Important texts in Simpli"
+  },
+  "motivationPage": {
+    "metaDescription": "Why Simpli: egalitarian access to communication.",
+    "barriersHeading": "Simpli aims to reduce barriers:",
+    "linkRoots": "Rooting in real languages",
+    "linkComparison": "Comparison with other languages"
+  },
+  "nextStepsPage": {
+    "metaDescription": "Next steps: community, reference materials, and promotion.",
+    "intro": "Get involved: join the community, use (or wait for) reference tools, and help promote Simpli.",
+    "forumLabel": "Forum:",
+    "forumSoon": "Coming soon.",
+    "discordLabel": "Discord:",
+    "discordSoon": "Coming soon.",
+    "appLabel": "App:",
+    "appSoon": "Coming soon.",
+    "dictionaryLabel": "Dictionary:",
+    "dictionaryEssentialLink": "Essential words",
+    "dictionaryPlanned": "full dictionary planned.",
+    "visualsLabel": "Visuals:",
+    "visualsSoon": "Coming soon.",
+    "leafletLabel": "Leaflet:",
+    "leafletSoon": "PDF (coming soon)."
   },
   "languageSwitcher": "Language",
   "words": {

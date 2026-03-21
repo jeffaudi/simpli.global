@@ -1,4 +1,4 @@
-# Source (learn-simpli.org)
+# Source (simpli.global site)
 
 - **`layouts/Base.astro`** — Main layout (from Astro i18n Starter theme). Receives `lang` and loads `translations/[lang].json` for Header/Footer.
 - **`components/`** — Header (nav + language switcher), Footer, and i18n helpers (LocaleSelect, LocaleSuggest, LocalesHomeList).
@@ -7,5 +7,5 @@
 - **`data/`** — Shared content: `essential-words.ts`, `motivation-content.ts`.
 - **`i18n.ts`** — Locale list, `useTranslations`, `getLocalePaths`, `localeParams` (from theme).
 - **`locales.ts`** — Locale config (en, fr, es) for theme and sitemap.
-- **`consts.ts`** — Site title/description (Multilingual) for Base layout.
+- **`consts.ts`** — Site title, default meta description, and SEO description lead (Multilingual) for Base layout; copy reinforces “Simpli is a simple international language” in every locale.
 - **`styles/`** — Theme CSS (reset, base, layout) and Simpli content styles (cards, tables, simpli-block).

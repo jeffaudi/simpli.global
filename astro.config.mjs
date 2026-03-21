@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://learn-simpli.org',
+  site: 'https://simpli.global',
   redirects: {
     '/': '/en/',
   },

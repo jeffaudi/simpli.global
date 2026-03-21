@@ -4,7 +4,7 @@ import Footer from '@/components/Footer.astro';
 import Header from '@/components/Header.astro';
 import LocaleHtmlHead from '@/components/i18n/LocaleHtmlHead.astro';
 import LocaleSuggest from '@/components/i18n/LocaleSuggest.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '@/consts';
+import { SITE_TITLE, SITE_DESCRIPTION, SEO_DESCRIPTION_LEAD } from '@/consts';
 import { useTranslations, LOCALES, getLocalePaths, type Lang } from '@/i18n';
 import '@/styles/global.css';
 
@@ -21,7 +21,10 @@ const t = useTranslations(locale);
 const tJson = (await import(`../translations/${locale}.json`)).default as Record<string, unknown>;
 
 const localeTitle = title ? `${title} – ${t(SITE_TITLE)}` : t(SITE_TITLE);
-const localeDescription = description || t(SITE_DESCRIPTION);
+const localeDescription = description
+  ? `${t(SEO_DESCRIPTION_LEAD)} ${description}`
+  : t(SITE_DESCRIPTION);
+const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.href;
 ---
 
 <html lang={LOCALES[locale]?.lang || locale} dir={LOCALES[locale]?.dir || null}>
@@ -29,6 +32,16 @@ const localeDescription = description || t(SITE_DESCRIPTION);
     <meta charset="UTF-8" />
     <title>{localeTitle}</title>
     <meta name="description" content={localeDescription} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:title" content={localeTitle} />
+    <meta property="og:description" content={localeDescription} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content={t(SITE_TITLE)} />
+    <meta property="og:locale" content={LOCALES[locale]?.lang ?? locale} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={localeTitle} />
+    <meta name="twitter:description" content={localeDescription} />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta name="generator" content={Astro.generator} />
@@ -60,7 +73,7 @@ const localeDescription = description || t(SITE_DESCRIPTION);
   </head>
   <body>
     <LocaleSuggest />
-    <Header t={tJson} siteTitle={t(SITE_TITLE)} />
+    <Header t={tJson} />
     <main class="l-main l-content">
       <slot />
     </main>

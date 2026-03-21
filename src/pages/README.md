@@ -1,6 +1,6 @@
 # Pages
 
-Astro pages for the learn-simpli.org site. Each locale has its own subfolder: `en/`, `fr/`, `es/`.
+Astro pages for [simpli.global](https://simpli.global). Each locale has its own subfolder: `en/`, `fr/`, `es/`.
 
 ## Structure
 

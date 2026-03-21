@@ -3,34 +3,38 @@ import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
+const p = t.nextStepsPage;
 ---
 
-<Layout lang={lang} title={t.nav.nextSteps} description="Next steps: community, learning tools, promotion.">
+<Layout lang={lang} title={t.nav.nextSteps} description={p.metaDescription}>
   <h1>{t.nav.nextSteps}</h1>
-  <p>Get involved: join the community, use (or wait for) learning tools, and help promote Simpli.</p>
+  <p>{p.intro}</p>
   <div class="next-steps-grid">
     <section class="card">
       <h2>{t.home.interact}</h2>
       <p>{t.home.interactDesc}</p>
       <ul>
-        <li><strong>Forum:</strong> Coming soon.</li>
-        <li><strong>Discord:</strong> Bientôt disponible.</li>
+        <li><strong>{p.forumLabel}</strong> {p.forumSoon}</li>
+        <li><strong>{p.discordLabel}</strong> {p.discordSoon}</li>
       </ul>
     </section>
     <section class="card">
       <h2>{t.home.learn}</h2>
       <p>{t.home.learnDesc}</p>
       <ul>
-        <li><strong>Learning app:</strong> Coming soon.</li>
-        <li><strong>Dictionary:</strong> <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Essential words</a>; full dictionary planned.</li>
+        <li><strong>{p.appLabel}</strong> {p.appSoon}</li>
+        <li>
+          <strong>{p.dictionaryLabel}</strong>{' '}
+          <a href={getRelativeLocaleUrl(lang, 'essential-words')}>{p.dictionaryEssentialLink}</a> ; {p.dictionaryPlanned}
+        </li>
       </ul>
     </section>
     <section class="card">
       <h2>{t.home.promote}</h2>
       <p>{t.home.promoteDesc}</p>
       <ul>
-        <li><strong>Visuals:</strong> Coming soon.</li>
-        <li><strong>Leaflet:</strong> PDF (coming soon).</li>
+        <li><strong>{p.visualsLabel}</strong> {p.visualsSoon}</li>
+        <li><strong>{p.leafletLabel}</strong> {p.leafletSoon}</li>
       </ul>
     </section>
   </div>
