@@ -49,7 +49,7 @@
   },
   {
     "simpli": "fram",
-    "translation": "de"
+    "translation": "depuis"
   },
   {
     "simpli": "nat",
@@ -85,7 +85,7 @@
   },
   {
     "simpli": "yu",
-    "translation": "vous"
+    "translation": "toi"
   },
   {
     "simpli": "no",
@@ -117,7 +117,7 @@
   },
   {
     "simpli": "ol",
-    "translation": "tout"
+    "translation": "tous"
   },
   {
     "simpli": "nu",
@@ -153,7 +153,7 @@
   },
   {
     "simpli": "sam",
-    "translation": "certains"
+    "translation": "quelques"
   },
   {
     "simpli": "taim",
@@ -173,7 +173,7 @@
   },
   {
     "simpli": "ap",
-    "translation": "vers le haut"
+    "translation": "en haut"
   },
   {
     "simpli": "dilit",
@@ -197,7 +197,7 @@
   },
   {
     "simpli": "over",
-    "translation": "fini"
+    "translation": "sur"
   },
   {
     "simpli": "lingk",
@@ -249,15 +249,15 @@
   },
   {
     "simpli": "tieitj",
-    "translation": "e"
+    "translation": "ème"
   },
   {
     "simpli": "vil",
-    "translation": "va"
+    "translation": "volonté"
   },
   {
     "simpli": "eni",
-    "translation": "n'importe quel"
+    "translation": "n'importe lequel"
   },
   {
     "simpli": "kam",
@@ -301,7 +301,7 @@
   },
   {
     "simpli": "vail",
-    "translation": "pendant que"
+    "translation": "alors que"
   },
   {
     "simpli": "si",
@@ -369,7 +369,7 @@
   },
   {
     "simpli": "steit",
-    "translation": "état"
+    "translation": "État"
   },
   {
     "simpli": "stail",
@@ -377,7 +377,7 @@
   },
   {
     "simpli": "film",
-    "translation": "cinéma"
+    "translation": "film"
   },
   {
     "simpli": "nau",
@@ -397,7 +397,7 @@
   },
   {
     "simpli": "amerakan",
-    "translation": "américain"
+    "translation": "Américain"
   },
   {
     "simpli": "yuser",
@@ -417,7 +417,7 @@
   },
   {
     "simpli": "seim",
-    "translation": "pareil"
+    "translation": "même"
   },
   {
     "simpli": "hauever",
@@ -425,11 +425,11 @@
   },
   {
     "simpli": "bikeim",
-    "translation": "est devenu"
+    "translation": "devenu"
   },
   {
     "simpli": "sekand",
-    "translation": "seconde"
+    "translation": "deuxième"
   },
   {
     "simpli": "apropriat",
@@ -441,7 +441,7 @@
   },
   {
     "simpli": "abav",
-    "translation": "ci-dessus"
+    "translation": "au-dessus de"
   },
   {
     "simpli": "tim",
@@ -457,11 +457,11 @@
   },
   {
     "simpli": "rait",
-    "translation": "à droite"
+    "translation": "droite"
   },
   {
     "simpli": "antil",
-    "translation": "jusqu'à ce que"
+    "translation": "jusqu'à"
   },
   {
     "simpli": "madafai",
@@ -477,7 +477,7 @@
   },
   {
     "simpli": "namber",
-    "translation": "numéro"
+    "translation": "nombre"
   },
   {
     "simpli": "senter",
@@ -501,7 +501,7 @@
   },
   {
     "simpli": "riderekt",
-    "translation": "rediriger"
+    "translation": "réorienter"
   },
   {
     "simpli": "sisan",
@@ -545,11 +545,11 @@
   },
   {
     "simpli": "itj",
-    "translation": "chacun"
+    "translation": "chaque"
   },
   {
     "simpli": "nasanal",
-    "translation": "nationale"
+    "translation": "national"
   },
   {
     "simpli": "saut",
@@ -557,7 +557,7 @@
   },
   {
     "simpli": "pleis",
-    "translation": "endroit"
+    "translation": "lieu"
   },
   {
     "simpli": "risalt",
@@ -593,7 +593,7 @@
   },
   {
     "simpli": "not",
-    "translation": "remarque"
+    "translation": "note"
   },
   {
     "simpli": "saport",
@@ -601,7 +601,7 @@
   },
   {
     "simpli": "vei",
-    "translation": "manière"
+    "translation": "chemin"
   },
   {
     "simpli": "former",
@@ -625,7 +625,7 @@
   },
   {
     "simpli": "stil",
-    "translation": "encore"
+    "translation": "toujours"
   },
   {
     "simpli": "nort",
@@ -645,11 +645,11 @@
   },
   {
     "simpli": "bak",
-    "translation": "retour"
+    "translation": "dos"
   },
   {
     "simpli": "on",
-    "translation": "posséder"
+    "translation": "propre"
   },
   {
     "simpli": "gavermant",
@@ -697,7 +697,7 @@
   },
   {
     "simpli": "imadj",
-    "translation": "photo"
+    "translation": "image"
   },
   {
     "simpli": "dei",
@@ -705,19 +705,19 @@
   },
   {
     "simpli": "long",
-    "translation": "longtemps"
+    "translation": "long"
   },
   {
     "simpli": "dilisan",
-    "translation": "suppression"
+    "translation": "effacement"
   },
   {
     "simpli": "infermeisan",
-    "translation": "informations"
+    "translation": "information"
   },
   {
     "simpli": "du",
-    "translation": "dû"
+    "translation": "exigible"
   },
   {
     "simpli": "lokal",
@@ -737,11 +737,11 @@
   },
   {
     "simpli": "vidin",
-    "translation": "à l'intérieur"
+    "translation": "dans"
   },
   {
     "simpli": "eridjanal",
-    "translation": "originale"
+    "translation": "original"
   },
   {
     "simpli": "hom",
@@ -757,7 +757,7 @@
   },
   {
     "simpli": "laif",
-    "translation": "la vie"
+    "translation": "vie"
   },
   {
     "simpli": "diferant",
@@ -769,11 +769,11 @@
   },
   {
     "simpli": "inglis",
-    "translation": "anglais"
+    "translation": "Anglais"
   },
   {
     "simpli": "point",
-    "translation": "pointe"
+    "translation": "indiquer"
   },
   {
     "simpli": "smol",
@@ -781,7 +781,7 @@
   },
   {
     "simpli": "lain",
-    "translation": "ligne"
+    "translation": "doubler"
   },
   {
     "simpli": "singal",
@@ -789,11 +789,11 @@
   },
   {
     "simpli": "band",
-    "translation": "bande"
+    "translation": "groupe"
   },
   {
     "simpli": "arkaiv",
-    "translation": "archiver"
+    "translation": "archive"
   },
   {
     "simpli": "get",
@@ -817,7 +817,7 @@
   },
   {
     "simpli": "agen",
-    "translation": "encore une fois"
+    "translation": "encore"
   },
   {
     "simpli": "keis",
@@ -829,11 +829,11 @@
   },
   {
     "simpli": "along",
-    "translation": "le long"
+    "translation": "le long de"
   },
   {
     "simpli": "internasanal",
-    "translation": "internationale"
+    "translation": "international"
   },
   {
     "simpli": "vitaut",
@@ -877,7 +877,7 @@
   },
   {
     "simpli": "vest",
-    "translation": "ouest"
+    "translation": "Ouest"
   },
   {
     "simpli": "pleier",
@@ -905,7 +905,7 @@
   },
   {
     "simpli": "distrikt",
-    "translation": "quartier"
+    "translation": "district"
   },
   {
     "simpli": "fyu",
@@ -917,7 +917,7 @@
   },
   {
     "simpli": "servas",
-    "translation": "services"
+    "translation": "service"
   },
   {
     "simpli": "faind",
@@ -925,7 +925,7 @@
   },
   {
     "simpli": "overlap",
-    "translation": "chevauchement"
+    "translation": "chevaucher"
   },
   {
     "simpli": "bgkolor",
@@ -953,7 +953,7 @@
   },
   {
     "simpli": "fainal",
-    "translation": "finale"
+    "translation": "final"
   },
   {
     "simpli": "midia",
@@ -981,7 +981,7 @@
   },
   {
     "simpli": "djan",
-    "translation": "Jean"
+    "translation": "John"
   },
   {
     "simpli": "versan",
@@ -1009,7 +1009,7 @@
   },
   {
     "simpli": "parti",
-    "translation": "fête"
+    "translation": "faire la fête"
   },
   {
     "simpli": "york",
@@ -1073,7 +1073,7 @@
   },
   {
     "simpli": "derekter",
-    "translation": "réalisateur"
+    "translation": "directeur"
   },
   {
     "simpli": "kerir",
@@ -1093,7 +1093,7 @@
   },
   {
     "simpli": "bakgraund",
-    "translation": "fond"
+    "translation": "arrière-plan"
   },
   {
     "simpli": "lig",
@@ -1109,11 +1109,11 @@
   },
   {
     "simpli": "frentj",
-    "translation": "français"
+    "translation": "Français"
   },
   {
     "simpli": "avord",
-    "translation": "récompense"
+    "translation": "prix"
   },
   {
     "simpli": "never",
@@ -1129,7 +1129,7 @@
   },
   {
     "simpli": "milyan",
-    "translation": "millions"
+    "translation": "million"
   },
   {
     "simpli": "divelapmant",
@@ -1153,7 +1153,7 @@
   },
   {
     "simpli": "led",
-    "translation": "conduit"
+    "translation": "dirigé"
   },
   {
     "simpli": "voter",
@@ -1165,7 +1165,7 @@
   },
   {
     "simpli": "djerman",
-    "translation": "allemand"
+    "translation": "Allemand"
   },
   {
     "simpli": "palitakal",
@@ -1197,7 +1197,7 @@
   },
   {
     "simpli": "lital",
-    "translation": "peu"
+    "translation": "petit"
   },
   {
     "simpli": "edater",
@@ -1221,7 +1221,7 @@
   },
   {
     "simpli": "kerant",
-    "translation": "courant"
+    "translation": "actuel"
   },
   {
     "simpli": "landan",
@@ -1241,7 +1241,7 @@
   },
   {
     "simpli": "fail",
-    "translation": "fichier"
+    "translation": "déposer"
   },
   {
     "simpli": "persan",
@@ -1265,7 +1265,7 @@
   },
   {
     "simpli": "liv",
-    "translation": "vivre"
+    "translation": "en direct"
   },
   {
     "simpli": "vans",
@@ -1281,7 +1281,7 @@
   },
   {
     "simpli": "pauer",
-    "translation": "puissance"
+    "translation": "pouvoir"
   },
   {
     "simpli": "presant",
@@ -1301,7 +1301,7 @@
   },
   {
     "simpli": "pradaksan",
-    "translation": "fabrication"
+    "translation": "production"
   },
   {
     "simpli": "siks",
@@ -1321,7 +1321,7 @@
   },
   {
     "simpli": "land",
-    "translation": "terre"
+    "translation": "atterrir"
   },
   {
     "simpli": "term",
@@ -1361,7 +1361,7 @@
   },
   {
     "simpli": "pasisan",
-    "translation": "poste"
+    "translation": "position"
   },
   {
     "simpli": "vant",
@@ -1405,7 +1405,7 @@
   },
   {
     "simpli": "taip",
-    "translation": "tapez"
+    "translation": "taper"
   },
   {
     "simpli": "yang",
@@ -1417,7 +1417,7 @@
   },
   {
     "simpli": "mov",
-    "translation": "bouger"
+    "translation": "se déplacer"
   },
   {
     "simpli": "les",
@@ -1433,11 +1433,11 @@
   },
   {
     "simpli": "ful",
-    "translation": "plein"
+    "translation": "complet"
   },
   {
     "simpli": "sentral",
-    "translation": "centrale"
+    "translation": "central"
   },
   {
     "simpli": "templat",
@@ -1481,7 +1481,7 @@
   },
   {
     "simpli": "insted",
-    "translation": "à la place"
+    "translation": "plutôt"
   },
   {
     "simpli": "oter",
@@ -1489,7 +1489,7 @@
   },
   {
     "simpli": "rivyu",
-    "translation": "examen"
+    "translation": "revoir"
   },
   {
     "simpli": "prababli",
@@ -1521,7 +1521,7 @@
   },
   {
     "simpli": "sosal",
-    "translation": "social"
+    "translation": "sociale"
   },
   {
     "simpli": "vaia",
@@ -1537,11 +1537,11 @@
   },
   {
     "simpli": "bord",
-    "translation": "planche"
+    "translation": "conseil"
   },
   {
     "simpli": "eitjtiemel",
-    "translation": "HTML"
+    "translation": "html"
   },
   {
     "simpli": "kvestson",
@@ -1553,7 +1553,7 @@
   },
   {
     "simpli": "eridjanali",
-    "translation": "à l'origine"
+    "translation": "initialement"
   },
   {
     "simpli": "start",
@@ -1569,7 +1569,7 @@
   },
   {
     "simpli": "vaif",
-    "translation": "femme"
+    "translation": "épouse"
   },
   {
     "simpli": "ingland",
@@ -1577,11 +1577,11 @@
   },
   {
     "simpli": "luk",
-    "translation": "regarde"
+    "translation": "regarder"
   },
   {
     "simpli": "rilis",
-    "translation": "libération"
+    "translation": "libérer"
   },
   {
     "simpli": "adisan",
@@ -1597,7 +1597,7 @@
   },
   {
     "simpli": "deit",
-    "translation": "rendez-vous"
+    "translation": "date"
   },
   {
     "simpli": "avei",
@@ -1605,7 +1605,7 @@
   },
   {
     "simpli": "veder",
-    "translation": "que ce soit"
+    "translation": "si"
   },
   {
     "simpli": "sasaiati",
@@ -1633,7 +1633,7 @@
   },
   {
     "simpli": "himself",
-    "translation": "lui-même"
+    "translation": "se"
   },
   {
     "simpli": "papyaler",
@@ -1697,7 +1697,7 @@
   },
   {
     "simpli": "saians",
-    "translation": "sciences"
+    "translation": "science"
   },
   {
     "simpli": "pravaid",
@@ -1705,7 +1705,7 @@
   },
   {
     "simpli": "yusavali",
-    "translation": "habituellement"
+    "translation": "généralement"
   },
   {
     "simpli": "fors",
@@ -1733,7 +1733,7 @@
   },
   {
     "simpli": "tivi",
-    "translation": "la télé"
+    "translation": "tv"
   },
   {
     "simpli": "rafer",
@@ -1757,11 +1757,11 @@
   },
   {
     "simpli": "sertj",
-    "translation": "rechercher"
+    "translation": "recherche"
   },
   {
     "simpli": "asosieisan",
-    "translation": "associations"
+    "translation": "association"
   },
   {
     "simpli": "ostreilya",
@@ -1773,7 +1773,7 @@
   },
   {
     "simpli": "akt",
-    "translation": "agir"
+    "translation": "acte"
   },
   {
     "simpli": "matirial",
@@ -1797,11 +1797,11 @@
   },
   {
     "simpli": "kanstraksan",
-    "translation": "bâtiment"
+    "translation": "construction"
   },
   {
     "simpli": "post",
-    "translation": "poster"
+    "translation": "poste"
   },
   {
     "simpli": "india",
@@ -1829,11 +1829,11 @@
   },
   {
     "simpli": "steidj",
-    "translation": "étape"
+    "translation": "scène"
   },
   {
     "simpli": "sadern",
-    "translation": "sud"
+    "translation": "du sud"
   },
   {
     "simpli": "kotj",
@@ -1849,11 +1849,11 @@
   },
   {
     "simpli": "stadi",
-    "translation": "étudier"
+    "translation": "étude"
   },
   {
     "simpli": "autsaid",
-    "translation": "à l'extérieur"
+    "translation": "dehors"
   },
   {
     "simpli": "praimeri",
@@ -1861,15 +1861,15 @@
   },
   {
     "simpli": "vebsait",
-    "translation": "site internet"
+    "translation": "site web"
   },
   {
     "simpli": "deibyu",
-    "translation": "débuts"
+    "translation": "début"
   },
   {
     "simpli": "truaut",
-    "translation": "partout"
+    "translation": "tout au long de"
   },
   {
     "simpli": "helt",
@@ -1877,7 +1877,7 @@
   },
   {
     "simpli": "aspesli",
-    "translation": "surtout"
+    "translation": "en particulier"
   },
   {
     "simpli": "verd",
@@ -1893,11 +1893,11 @@
   },
   {
     "simpli": "vyu",
-    "translation": "vue"
+    "translation": "voir"
   },
   {
     "simpli": "frans",
-    "translation": "france"
+    "translation": "France"
   },
   {
     "simpli": "sais",
@@ -1933,7 +1933,7 @@
   },
   {
     "simpli": "maltapal",
-    "translation": "plusieurs"
+    "translation": "multiple"
   },
   {
     "simpli": "averidj",
@@ -1985,7 +1985,7 @@
   },
   {
     "simpli": "kanada",
-    "translation": "canada"
+    "translation": "Canada"
   },
   {
     "simpli": "djapanis",
@@ -2001,15 +2001,15 @@
   },
   {
     "simpli": "magasin",
-    "translation": "magazine"
+    "translation": "revue"
   },
   {
     "simpli": "priviasli",
-    "translation": "auparavant"
+    "translation": "précédemment"
   },
   {
     "simpli": "haf",
-    "translation": "la moitié"
+    "translation": "moitié"
   },
   {
     "simpli": "raiter",
@@ -2029,7 +2029,7 @@
   },
   {
     "simpli": "djenerali",
-    "translation": "généralement"
+    "translation": "en général"
   },
   {
     "simpli": "kamiti",
@@ -2057,7 +2057,7 @@
   },
   {
     "simpli": "performans",
-    "translation": "performances"
+    "translation": "performance"
   },
   {
     "simpli": "pertikyaler",
@@ -2065,11 +2065,11 @@
   },
   {
     "simpli": "kaleksan",
-    "translation": "collecte"
+    "translation": "collection"
   },
   {
     "simpli": "biliv",
-    "translation": "crois"
+    "translation": "croire"
   },
   {
     "simpli": "praivat",
@@ -2077,7 +2077,7 @@
   },
   {
     "simpli": "laikli",
-    "translation": "probablement"
+    "translation": "probable"
   },
   {
     "simpli": "big",
@@ -2085,7 +2085,7 @@
   },
   {
     "simpli": "palatisan",
-    "translation": "homme politique"
+    "translation": "politicien"
   },
   {
     "simpli": "aktiv",
@@ -2101,7 +2101,7 @@
   },
   {
     "simpli": "yunyan",
-    "translation": "syndicat"
+    "translation": "union"
   },
   {
     "simpli": "leibal",
@@ -2145,11 +2145,11 @@
   },
   {
     "simpli": "yurap",
-    "translation": "l'Europe"
+    "translation": "Europe"
   },
   {
     "simpli": "lat",
-    "translation": "beaucoup"
+    "translation": "parcelle"
   },
   {
     "simpli": "merdj",
@@ -2169,11 +2169,11 @@
   },
   {
     "simpli": "kampatisan",
-    "translation": "compétition"
+    "translation": "concours"
   },
   {
     "simpli": "standerd",
-    "translation": "norme"
+    "translation": "standard"
   },
   {
     "simpli": "let",
@@ -2193,11 +2193,11 @@
   },
   {
     "simpli": "gugal",
-    "translation": "google"
+    "translation": "Google"
   },
   {
     "simpli": "mar",
-    "translation": "mars"
+    "translation": "mar"
   },
   {
     "simpli": "valyu",
@@ -2229,7 +2229,7 @@
   },
   {
     "simpli": "digri",
-    "translation": "diplôme"
+    "translation": "degré"
   },
   {
     "simpli": "atak",
@@ -2245,7 +2245,7 @@
   },
   {
     "simpli": "frant",
-    "translation": "avant"
+    "translation": "devant"
   },
   {
     "simpli": "vot",
@@ -2261,7 +2261,7 @@
   },
   {
     "simpli": "samer",
-    "translation": "l'été"
+    "translation": "été"
   },
   {
     "simpli": "sent",
@@ -2273,7 +2273,7 @@
   },
   {
     "simpli": "studio",
-    "translation": "atelier"
+    "translation": "studio"
   },
   {
     "simpli": "istern",
@@ -2289,11 +2289,11 @@
   },
   {
     "simpli": "rak",
-    "translation": "roche"
+    "translation": "rocher"
   },
   {
     "simpli": "dek",
-    "translation": "décembre"
+    "translation": "déc"
   },
   {
     "simpli": "tjaina",
@@ -2313,11 +2313,11 @@
   },
   {
     "simpli": "longer",
-    "translation": "plus longtemps"
+    "translation": "plus long"
   },
   {
     "simpli": "trai",
-    "translation": "essayez"
+    "translation": "essayer"
   },
   {
     "simpli": "singer",
@@ -2325,7 +2325,7 @@
   },
   {
     "simpli": "agri",
-    "translation": "d'accord"
+    "translation": "accepter"
   },
   {
     "simpli": "draiv",
@@ -2337,11 +2337,11 @@
   },
   {
     "simpli": "kvait",
-    "translation": "tout à fait"
+    "translation": "assez"
   },
   {
     "simpli": "sim",
-    "translation": "semble"
+    "translation": "sembler"
   },
   {
     "simpli": "tur",
@@ -2349,11 +2349,11 @@
   },
   {
     "simpli": "bar",
-    "translation": "barre"
+    "translation": "bar"
   },
   {
     "simpli": "erkraft",
-    "translation": "avion"
+    "translation": "aéronef"
   },
   {
     "simpli": "netverk",
@@ -2369,7 +2369,7 @@
   },
   {
     "simpli": "deivid",
-    "translation": "david"
+    "translation": "David"
   },
   {
     "simpli": "historikal",
@@ -2401,7 +2401,7 @@
   },
   {
     "simpli": "nov",
-    "translation": "novembre"
+    "translation": "nov"
   },
   {
     "simpli": "leik",
@@ -2429,11 +2429,11 @@
   },
   {
     "simpli": "kapatal",
-    "translation": "capitale"
+    "translation": "capital"
   },
   {
     "simpli": "apr",
-    "translation": "avril"
+    "translation": "avr"
   },
   {
     "simpli": "praduser",
@@ -2485,7 +2485,7 @@
   },
   {
     "simpli": "kanat",
-    "translation": "ne peux pas"
+    "translation": "ne peut pas"
   },
   {
     "simpli": "gitar",
@@ -2497,7 +2497,7 @@
   },
   {
     "simpli": "sep",
-    "translation": "septembre"
+    "translation": "sep"
   },
   {
     "simpli": "turnamant",
@@ -2505,15 +2505,15 @@
   },
   {
     "simpli": "festaval",
-    "translation": "fête"
+    "translation": "festival"
   },
   {
     "simpli": "tjainis",
-    "translation": "chinois"
+    "translation": "Chinois"
   },
   {
     "simpli": "sip",
-    "translation": "navire"
+    "translation": "bateau"
   },
   {
     "simpli": "tjaild",
@@ -2557,7 +2557,7 @@
   },
   {
     "simpli": "kaltjer",
-    "translation": "culturel"
+    "translation": "culture"
   },
   {
     "simpli": "sepereit",
@@ -2605,7 +2605,7 @@
   },
   {
     "simpli": "straktjer",
-    "translation": "structures"
+    "translation": "structure"
   },
   {
     "simpli": "graund",
@@ -2629,11 +2629,11 @@
   },
   {
     "simpli": "mater",
-    "translation": "importe"
+    "translation": "matière"
   },
   {
     "simpli": "saund",
-    "translation": "du son"
+    "translation": "son"
   },
   {
     "simpli": "praktas",
@@ -2641,7 +2641,7 @@
   },
   {
     "simpli": "kleim",
-    "translation": "réclamation"
+    "translation": "réclamer"
   },
   {
     "simpli": "hum",
@@ -2685,7 +2685,7 @@
   },
   {
     "simpli": "neitiv",
-    "translation": "natif"
+    "translation": "indigène"
   },
   {
     "simpli": "yunat",
@@ -2717,7 +2717,7 @@
   },
   {
     "simpli": "net",
-    "translation": "net"
+    "translation": "filet"
   },
   {
     "simpli": "manadjer",
@@ -2765,7 +2765,7 @@
   },
   {
     "simpli": "mainer",
-    "translation": "mineur"
+    "translation": "mineure"
   },
   {
     "simpli": "atempt",
@@ -2797,7 +2797,7 @@
   },
   {
     "simpli": "kol",
-    "translation": "appeler"
+    "translation": "appel"
   },
   {
     "simpli": "ikspirians",
@@ -2809,11 +2809,11 @@
   },
   {
     "simpli": "test",
-    "translation": "tester"
+    "translation": "test"
   },
   {
     "simpli": "els",
-    "translation": "sinon"
+    "translation": "autre"
   },
   {
     "simpli": "muvi",
@@ -2897,7 +2897,7 @@
   },
   {
     "simpli": "myusikal",
-    "translation": "comédie musicale"
+    "translation": "musical"
   },
   {
     "simpli": "federal",
@@ -2909,7 +2909,7 @@
   },
   {
     "simpli": "mister",
-    "translation": "monsieur"
+    "translation": "m."
   },
   {
     "simpli": "risantli",
@@ -2917,7 +2917,7 @@
   },
   {
     "simpli": "dil",
-    "translation": "affaire"
+    "translation": "accord"
   },
   {
     "simpli": "foran",
@@ -2933,7 +2933,7 @@
   },
   {
     "simpli": "gol",
-    "translation": "objectif"
+    "translation": "but"
   },
   {
     "simpli": "lt",
@@ -2945,7 +2945,7 @@
   },
   {
     "simpli": "neitjer",
-    "translation": "naturel"
+    "translation": "nature"
   },
   {
     "simpli": "sens",
@@ -2957,7 +2957,7 @@
   },
   {
     "simpli": "stap",
-    "translation": "arrêter"
+    "translation": "arrêt"
   },
   {
     "simpli": "kanferans",
@@ -2965,7 +2965,7 @@
   },
   {
     "simpli": "mensan",
-    "translation": "mentionner"
+    "translation": "mention"
   },
   {
     "simpli": "indeks",
@@ -2973,7 +2973,7 @@
   },
   {
     "simpli": "afraka",
-    "translation": "afrique"
+    "translation": "Afrique"
   },
   {
     "simpli": "anderstand",
@@ -3001,7 +3001,7 @@
   },
   {
     "simpli": "plan",
-    "translation": "planifier"
+    "translation": "plan"
   },
   {
     "simpli": "vaid",
@@ -3021,7 +3021,7 @@
   },
   {
     "simpli": "pik",
-    "translation": "pic"
+    "translation": "culminer"
   },
   {
     "simpli": "iksept",
@@ -3037,7 +3037,7 @@
   },
   {
     "simpli": "kantrakt",
-    "translation": "contrat"
+    "translation": "contracter"
   },
   {
     "simpli": "kingdam",
@@ -3057,7 +3057,7 @@
   },
   {
     "simpli": "fer",
-    "translation": "juste"
+    "translation": "équitable"
   },
   {
     "simpli": "fain",
@@ -3077,7 +3077,7 @@
   },
   {
     "simpli": "global",
-    "translation": "mondiale"
+    "translation": "mondial"
   },
   {
     "simpli": "pieitjpi",
@@ -3093,7 +3093,7 @@
   },
   {
     "simpli": "older",
-    "translation": "plus âgé"
+    "translation": "plus vieux"
   },
   {
     "simpli": "rong",
@@ -3145,7 +3145,7 @@
   },
   {
     "simpli": "tangk",
-    "translation": "merci"
+    "translation": "remercier"
   },
   {
     "simpli": "kandadeit",
@@ -3153,15 +3153,15 @@
   },
   {
     "simpli": "apos",
-    "translation": "s'opposer"
+    "translation": "opposer"
   },
   {
     "simpli": "akademik",
-    "translation": "universitaire"
+    "translation": "académique"
   },
   {
     "simpli": "braun",
-    "translation": "marron"
+    "translation": "brun"
   },
   {
     "simpli": "kampleks",
@@ -3169,7 +3169,7 @@
   },
   {
     "simpli": "sabsakvantli",
-    "translation": "par la suite"
+    "translation": "ensuite"
   },
   {
     "simpli": "alau",
@@ -3177,7 +3177,7 @@
   },
   {
     "simpli": "plant",
-    "translation": "plante"
+    "translation": "usine"
   },
   {
     "simpli": "lardjer",
@@ -3205,7 +3205,7 @@
   },
   {
     "simpli": "fol",
-    "translation": "tomber"
+    "translation": "automne"
   },
   {
     "simpli": "kas",
@@ -3221,7 +3221,7 @@
   },
   {
     "simpli": "aipi",
-    "translation": "adresse IP"
+    "translation": "adresse ip"
   },
   {
     "simpli": "yusfal",
@@ -3257,7 +3257,7 @@
   },
   {
     "simpli": "sister",
-    "translation": "soeur"
+    "translation": "sœur"
   },
   {
     "simpli": "ed",
@@ -3281,7 +3281,7 @@
   },
   {
     "simpli": "kod",
-    "translation": "coder"
+    "translation": "code"
   },
   {
     "simpli": "kristjan",
@@ -3317,7 +3317,7 @@
   },
   {
     "simpli": "format",
-    "translation": "formater"
+    "translation": "format"
   },
   {
     "simpli": "igsist",
@@ -3365,7 +3365,7 @@
   },
   {
     "simpli": "haili",
-    "translation": "hautement"
+    "translation": "très"
   },
   {
     "simpli": "naladj",
@@ -3373,7 +3373,7 @@
   },
   {
     "simpli": "felo",
-    "translation": "camarade"
+    "translation": "compagnon"
   },
   {
     "simpli": "salad",
@@ -3389,7 +3389,7 @@
   },
   {
     "simpli": "meibi",
-    "translation": "peut-être"
+    "translation": "peut être"
   },
   {
     "simpli": "apereisan",
@@ -3429,7 +3429,7 @@
   },
   {
     "simpli": "later",
-    "translation": "ce dernier"
+    "translation": "dernier"
   },
   {
     "simpli": "nesaseri",
@@ -3437,7 +3437,7 @@
   },
   {
     "simpli": "formerli",
-    "translation": "autrefois"
+    "translation": "anciennement"
   },
   {
     "simpli": "sekrateri",
@@ -3465,7 +3465,7 @@
   },
   {
     "simpli": "ser",
-    "translation": "monsieur"
+    "translation": "Monsieur"
   },
   {
     "simpli": "ded",
@@ -3493,7 +3493,7 @@
   },
   {
     "simpli": "ert",
-    "translation": "terre"
+    "translation": "Terre"
   },
   {
     "simpli": "amaunt",
@@ -3509,11 +3509,11 @@
   },
   {
     "simpli": "djab",
-    "translation": "travail"
+    "translation": "emploi"
   },
   {
     "simpli": "fait",
-    "translation": "se battre"
+    "translation": "lutte"
   },
   {
     "simpli": "valyum",
@@ -3549,11 +3549,11 @@
   },
   {
     "simpli": "feis",
-    "translation": "visage"
+    "translation": "affronter"
   },
   {
     "simpli": "kast",
-    "translation": "jeter"
+    "translation": "casting"
   },
   {
     "simpli": "reit",
@@ -3609,11 +3609,11 @@
   },
   {
     "simpli": "hop",
-    "translation": "j'espère"
+    "translation": "espoir"
   },
   {
     "simpli": "piktjer",
-    "translation": "photo"
+    "translation": "image"
   },
   {
     "simpli": "kamisan",
@@ -3645,7 +3645,7 @@
   },
   {
     "simpli": "rimuv",
-    "translation": "supprimer"
+    "translation": "retirer"
   },
   {
     "simpli": "targat",
@@ -3653,7 +3653,7 @@
   },
   {
     "simpli": "van",
-    "translation": "fourgon"
+    "translation": "van"
   },
   {
     "simpli": "ago",
@@ -3689,7 +3689,7 @@
   },
   {
     "simpli": "hart",
-    "translation": "coeur"
+    "translation": "cœur"
   },
   {
     "simpli": "serfas",
@@ -3721,7 +3721,7 @@
   },
   {
     "simpli": "kansept",
-    "translation": "notion"
+    "translation": "concept"
   },
   {
     "simpli": "pasativ",
@@ -3757,7 +3757,7 @@
   },
   {
     "simpli": "priti",
-    "translation": "jolie"
+    "translation": "joli"
   },
   {
     "simpli": "dans",
@@ -3765,11 +3765,11 @@
   },
   {
     "simpli": "brantj",
-    "translation": "branche"
+    "translation": "bifurquer"
   },
   {
     "simpli": "era",
-    "translation": "époque"
+    "translation": "ère"
   },
   {
     "simpli": "teknikal",
@@ -3777,7 +3777,7 @@
   },
   {
     "simpli": "praim",
-    "translation": "premier"
+    "translation": "prime"
   },
   {
     "simpli": "host",
@@ -3793,11 +3793,11 @@
   },
   {
     "simpli": "administreisan",
-    "translation": "gestion"
+    "translation": "administration"
   },
   {
     "simpli": "sitjueisan",
-    "translation": "situations"
+    "translation": "situation"
   },
   {
     "simpli": "vidt",
@@ -3821,7 +3821,7 @@
   },
   {
     "simpli": "influans",
-    "translation": "influencer"
+    "translation": "influence"
   },
   {
     "simpli": "ritjerd",
@@ -3849,7 +3849,7 @@
   },
   {
     "simpli": "hold",
-    "translation": "tenir"
+    "translation": "prise"
   },
   {
     "simpli": "adminastreitiv",
@@ -3897,7 +3897,7 @@
   },
   {
     "simpli": "nirbai",
-    "translation": "à proximité"
+    "translation": "proche"
   },
   {
     "simpli": "bei",
@@ -3905,7 +3905,7 @@
   },
   {
     "simpli": "pramanant",
-    "translation": "proéminent"
+    "translation": "éminent"
   },
   {
     "simpli": "beisik",
@@ -3949,11 +3949,11 @@
   },
   {
     "simpli": "dispyut",
-    "translation": "litige"
+    "translation": "différend"
   },
   {
     "simpli": "anser",
-    "translation": "réponse"
+    "translation": "répondre"
   },
   {
     "simpli": "vaidli",
@@ -3985,11 +3985,11 @@
   },
   {
     "simpli": "tipikli",
-    "translation": "généralement"
+    "translation": "typiquement"
   },
   {
     "simpli": "inisal",
-    "translation": "initiale"
+    "translation": "initial"
   },
   {
     "simpli": "haivei",
@@ -4041,7 +4041,7 @@
   },
   {
     "simpli": "tag",
-    "translation": "étiquette"
+    "translation": "étiqueter"
   },
   {
     "simpli": "mas",
@@ -4049,7 +4049,7 @@
   },
   {
     "simpli": "foto",
-    "translation": "photos"
+    "translation": "photo"
   },
   {
     "simpli": "bisap",
@@ -4077,11 +4077,11 @@
   },
   {
     "simpli": "perant",
-    "translation": "parent"
+    "translation": "mère"
   },
   {
     "simpli": "diskripsan",
-    "translation": "descriptif"
+    "translation": "description"
   },
   {
     "simpli": "impruv",
@@ -4105,7 +4105,7 @@
   },
   {
     "simpli": "ga",
-    "translation": "ga"
+    "translation": "Géorgie"
   },
   {
     "simpli": "hevi",
@@ -4125,11 +4125,11 @@
   },
   {
     "simpli": "deili",
-    "translation": "quotidiennement"
+    "translation": "tous les jours"
   },
   {
     "simpli": "yuesei",
-    "translation": "Etats-Unis"
+    "translation": "usa"
   },
   {
     "simpli": "meksako",
@@ -4169,7 +4169,7 @@
   },
   {
     "simpli": "importans",
-    "translation": "important"
+    "translation": "importance"
   },
   {
     "simpli": "intaierli",
@@ -4201,15 +4201,15 @@
   },
   {
     "simpli": "datj",
-    "translation": "néerlandais"
+    "translation": "Néerlandais"
   },
   {
     "simpli": "sortli",
-    "translation": "sous peu"
+    "translation": "prochainement"
   },
   {
     "simpli": "solo",
-    "translation": "en solo"
+    "translation": "solo"
   },
   {
     "simpli": "kamposer",
@@ -4225,7 +4225,7 @@
   },
   {
     "simpli": "sakago",
-    "translation": "chicago"
+    "translation": "Chicago"
   },
   {
     "simpli": "rimein",
@@ -4281,7 +4281,7 @@
   },
   {
     "simpli": "normal",
-    "translation": "normal"
+    "translation": "normale"
   },
   {
     "simpli": "prins",
@@ -4305,15 +4305,15 @@
   },
   {
     "simpli": "vert",
-    "translation": "vaut"
+    "translation": "valeur"
   },
   {
     "simpli": "split",
-    "translation": "divisé"
+    "translation": "diviser"
   },
   {
     "simpli": "kamp",
-    "translation": "campement"
+    "translation": "camp"
   },
   {
     "simpli": "isteit",
@@ -4385,7 +4385,7 @@
   },
   {
     "simpli": "asembli",
-    "translation": "assemblage"
+    "translation": "assemblée"
   },
   {
     "simpli": "djoin",
@@ -4421,7 +4421,7 @@
   },
   {
     "simpli": "ment",
-    "translation": "signifiait"
+    "translation": "censé"
   },
   {
     "simpli": "nominator",
@@ -4449,7 +4449,7 @@
   },
   {
     "simpli": "dabal",
-    "translation": "doubler"
+    "translation": "double"
   },
   {
     "simpli": "igsaktli",
@@ -4477,7 +4477,7 @@
   },
   {
     "simpli": "forverd",
-    "translation": "en avant"
+    "translation": "avant"
   },
   {
     "simpli": "resalusan",
@@ -4513,7 +4513,7 @@
   },
   {
     "simpli": "tjardj",
-    "translation": "facturer"
+    "translation": "charge"
   },
   {
     "simpli": "depyati",
@@ -4541,7 +4541,7 @@
   },
   {
     "simpli": "edjakeisanal",
-    "translation": "éducatif"
+    "translation": "pédagogique"
   },
   {
     "simpli": "keralaina",
@@ -4573,11 +4573,11 @@
   },
   {
     "simpli": "prinsapal",
-    "translation": "directeur"
+    "translation": "principal"
   },
   {
     "simpli": "batam",
-    "translation": "en bas"
+    "translation": "bas"
   },
   {
     "simpli": "ais",
@@ -4621,7 +4621,7 @@
   },
   {
     "simpli": "kantakt",
-    "translation": "contacter"
+    "translation": "contact"
   },
   {
     "simpli": "hait",
@@ -4633,7 +4633,7 @@
   },
   {
     "simpli": "mon",
-    "translation": "lundi"
+    "translation": "lun"
   },
   {
     "simpli": "difens",
@@ -4693,7 +4693,7 @@
   },
   {
     "simpli": "platform",
-    "translation": "plateforme"
+    "translation": "plate-forme"
   },
   {
     "simpli": "li",
@@ -4713,7 +4713,7 @@
   },
   {
     "simpli": "greid",
-    "translation": "note"
+    "translation": "grade"
   },
   {
     "simpli": "demakratik",
@@ -4721,7 +4721,7 @@
   },
   {
     "simpli": "transport",
-    "translation": "transports"
+    "translation": "transport"
   },
   {
     "simpli": "fort",
@@ -4733,7 +4733,7 @@
   },
   {
     "simpli": "breik",
-    "translation": "pause"
+    "translation": "casser"
   },
   {
     "simpli": "tjois",
@@ -4741,7 +4741,7 @@
   },
   {
     "simpli": "avanu",
-    "translation": "avenue"
+    "translation": "rue"
   },
   {
     "simpli": "leidi",
@@ -4749,7 +4749,7 @@
   },
   {
     "simpli": "skatland",
-    "translation": "Ecosse"
+    "translation": "Écosse"
   },
   {
     "simpli": "dakyamenteri",
@@ -4757,11 +4757,11 @@
   },
   {
     "simpli": "distrabyusan",
-    "translation": "diffusion"
+    "translation": "distribution"
   },
   {
     "simpli": "privent",
-    "translation": "empêcher"
+    "translation": "prévenir"
   },
   {
     "simpli": "aneibal",
@@ -4785,19 +4785,19 @@
   },
   {
     "simpli": "stand",
-    "translation": "se tenir debout"
+    "translation": "rester"
   },
   {
     "simpli": "midian",
-    "translation": "médiane"
+    "translation": "médian"
   },
   {
     "simpli": "praper",
-    "translation": "proprement dit"
+    "translation": "approprié"
   },
   {
     "simpli": "eisa",
-    "translation": "asie"
+    "translation": "Asie"
   },
   {
     "simpli": "indastrial",
@@ -4813,7 +4813,7 @@
   },
   {
     "simpli": "gaid",
-    "translation": "guider"
+    "translation": "guide"
   },
   {
     "simpli": "kaneksan",
@@ -4829,7 +4829,7 @@
   },
   {
     "simpli": "seint",
-    "translation": "sainte"
+    "translation": "saint"
   },
   {
     "simpli": "pramosan",
@@ -4849,7 +4849,7 @@
   },
   {
     "simpli": "blad",
-    "translation": "du sang"
+    "translation": "sang"
   },
   {
     "simpli": "divelap",
@@ -4905,15 +4905,15 @@
   },
   {
     "simpli": "dakter",
-    "translation": "docteur"
+    "translation": "médecin"
   },
   {
     "simpli": "ka",
-    "translation": "ca"
+    "translation": "Californie"
   },
   {
     "simpli": "sari",
-    "translation": "désolé"
+    "translation": "Désolé"
   },
   {
     "simpli": "kantein",
@@ -4929,7 +4929,7 @@
   },
   {
     "simpli": "spred",
-    "translation": "propagation"
+    "translation": "propagé"
   },
   {
     "simpli": "oradjan",
@@ -4953,7 +4953,7 @@
   },
   {
     "simpli": "visit",
-    "translation": "visiter"
+    "translation": "visite"
   },
   {
     "simpli": "dip",
@@ -5013,7 +5013,7 @@
   },
   {
     "simpli": "ikspansan",
-    "translation": "agrandissement"
+    "translation": "expansion"
   },
   {
     "simpli": "valid",
@@ -5037,7 +5037,7 @@
   },
   {
     "simpli": "ikstensiv",
-    "translation": "vaste"
+    "translation": "extensif"
   },
   {
     "simpli": "tjans",
@@ -5057,11 +5057,11 @@
   },
   {
     "simpli": "ved",
-    "translation": "mer"
+    "translation": "épouser"
   },
   {
     "simpli": "seiv",
-    "translation": "enregistrer"
+    "translation": "sauvegarder"
   },
   {
     "simpli": "rikvaier",
@@ -5069,7 +5069,7 @@
   },
   {
     "simpli": "ingk",
-    "translation": "Inc."
+    "translation": "inc."
   },
   {
     "simpli": "ikstjeindj",
@@ -5089,7 +5089,7 @@
   },
   {
     "simpli": "rasanal",
-    "translation": "justification"
+    "translation": "raisonnement"
   },
   {
     "simpli": "maiself",
@@ -5109,7 +5109,7 @@
   },
   {
     "simpli": "pap",
-    "translation": "pop"
+    "translation": "populaire"
   },
   {
     "simpli": "brand",
@@ -5125,7 +5125,7 @@
   },
   {
     "simpli": "intradaksan",
-    "translation": "présentation"
+    "translation": "introduction"
   },
   {
     "simpli": "serneim",
@@ -5145,11 +5145,11 @@
   },
   {
     "simpli": "gan",
-    "translation": "arme à feu"
+    "translation": "pistolet"
   },
   {
     "simpli": "kraim",
-    "translation": "criminalité"
+    "translation": "crime"
   },
   {
     "simpli": "kit",
@@ -5157,7 +5157,7 @@
   },
   {
     "simpli": "fasiliti",
-    "translation": "installation"
+    "translation": "facilité"
   },
   {
     "simpli": "djordja",
@@ -5169,11 +5169,11 @@
   },
   {
     "simpli": "djak",
-    "translation": "cric"
+    "translation": "jack"
   },
   {
     "simpli": "okei",
-    "translation": "ok"
+    "translation": "d'accord"
   },
   {
     "simpli": "skvadran",
@@ -5213,7 +5213,7 @@
   },
   {
     "simpli": "aplai",
-    "translation": "postuler"
+    "translation": "appliquer"
   },
   {
     "simpli": "vais",
@@ -5237,7 +5237,7 @@
   },
   {
     "simpli": "djoint",
-    "translation": "commune"
+    "translation": "articulation"
   },
   {
     "simpli": "navboks",
@@ -5265,7 +5265,7 @@
   },
   {
     "simpli": "mail",
-    "translation": "mille"
+    "translation": "mile"
   },
   {
     "simpli": "nuli",
@@ -5273,7 +5273,7 @@
   },
   {
     "simpli": "aplakeisan",
-    "translation": "demande"
+    "translation": "application"
   },
   {
     "simpli": "medasan",
@@ -5309,7 +5309,7 @@
   },
   {
     "simpli": "pasifik",
-    "translation": "Pacifique"
+    "translation": "pacifique"
   },
   {
     "simpli": "enterteinmant",
@@ -5337,7 +5337,7 @@
   },
   {
     "simpli": "grant",
-    "translation": "subvention"
+    "translation": "accorder"
   },
   {
     "simpli": "fiksan",
@@ -5357,7 +5357,7 @@
   },
   {
     "simpli": "finis",
-    "translation": "terminer"
+    "translation": "finition"
   },
   {
     "simpli": "orkastra",
@@ -5373,7 +5373,7 @@
   },
   {
     "simpli": "rineim",
-    "translation": "renommer"
+    "translation": "rebaptiser"
   },
   {
     "simpli": "negativ",
@@ -5421,15 +5421,15 @@
   },
   {
     "simpli": "sikrat",
-    "translation": "secret"
+    "translation": "secrète"
   },
   {
     "simpli": "bilyan",
-    "translation": "milliards"
+    "translation": "milliard"
   },
   {
     "simpli": "apsan",
-    "translation": "choix"
+    "translation": "option"
   },
   {
     "simpli": "ekstrimli",
@@ -5465,7 +5465,7 @@
   },
   {
     "simpli": "rispekt",
-    "translation": "respecter"
+    "translation": "respect"
   },
   {
     "simpli": "tam",
@@ -5481,7 +5481,7 @@
   },
   {
     "simpli": "fri",
-    "translation": "vendredi"
+    "translation": "ven"
   },
   {
     "simpli": "diteil",
@@ -5513,7 +5513,7 @@
   },
   {
     "simpli": "verldvaid",
-    "translation": "dans le monde entier"
+    "translation": "mondial"
   },
   {
     "simpli": "hors",
@@ -5525,11 +5525,11 @@
   },
   {
     "simpli": "kor",
-    "translation": "noyau"
+    "translation": "cœur"
   },
   {
     "simpli": "saplai",
-    "translation": "approvisionnement"
+    "translation": "fournir"
   },
   {
     "simpli": "ripleis",
@@ -5549,7 +5549,7 @@
   },
   {
     "simpli": "instans",
-    "translation": "instance"
+    "translation": "exemple"
   },
   {
     "simpli": "olimpik",
@@ -5577,7 +5577,7 @@
   },
   {
     "simpli": "korpereisan",
-    "translation": "société"
+    "translation": "corporation"
   },
   {
     "simpli": "tjalandj",
@@ -5625,15 +5625,15 @@
   },
   {
     "simpli": "samvat",
-    "translation": "un peu"
+    "translation": "quelque peu"
   },
   {
     "simpli": "plat",
-    "translation": "complot"
+    "translation": "parcelle"
   },
   {
     "simpli": "bastan",
-    "translation": "boston"
+    "translation": "Boston"
   },
   {
     "simpli": "step",
@@ -5645,7 +5645,7 @@
   },
   {
     "simpli": "berlin",
-    "translation": "berlin"
+    "translation": "Berlin"
   },
   {
     "simpli": "invairanmental",
@@ -5665,11 +5665,11 @@
   },
   {
     "simpli": "kambat",
-    "translation": "combattre"
+    "translation": "combat"
   },
   {
     "simpli": "rais",
-    "translation": "monter"
+    "translation": "augmenter"
   },
   {
     "simpli": "djenereit",
@@ -5685,11 +5685,11 @@
   },
   {
     "simpli": "kandisan",
-    "translation": "état"
+    "translation": "condition"
   },
   {
     "simpli": "mis",
-    "translation": "mademoiselle"
+    "translation": "manquer"
   },
   {
     "simpli": "klasikal",
@@ -5741,7 +5741,7 @@
   },
   {
     "simpli": "herself",
-    "translation": "elle-même"
+    "translation": "se"
   },
   {
     "simpli": "streit",
@@ -5753,7 +5753,7 @@
   },
   {
     "simpli": "klosli",
-    "translation": "de près"
+    "translation": "étroitement"
   },
   {
     "simpli": "skat",
@@ -5761,7 +5761,7 @@
   },
   {
     "simpli": "kamyunakeisan",
-    "translation": "communications"
+    "translation": "communication"
   },
   {
     "simpli": "hausold",
@@ -5841,7 +5841,7 @@
   },
   {
     "simpli": "ai",
-    "translation": "oeil"
+    "translation": "œil"
   },
   {
     "simpli": "fasan",
@@ -5865,7 +5865,7 @@
   },
   {
     "simpli": "advais",
-    "translation": "conseils"
+    "translation": "conseil"
   },
   {
     "simpli": "rekagnisan",
@@ -5917,7 +5917,7 @@
   },
   {
     "simpli": "vis",
-    "translation": "souhaiter"
+    "translation": "souhait"
   },
   {
     "simpli": "spitj",
@@ -5941,7 +5941,7 @@
   },
   {
     "simpli": "aiern",
-    "translation": "fer à repasser"
+    "translation": "fer"
   },
   {
     "simpli": "gav",
@@ -5957,7 +5957,7 @@
   },
   {
     "simpli": "ahed",
-    "translation": "en avant"
+    "translation": "devant"
   },
   {
     "simpli": "eid",
@@ -5977,7 +5977,7 @@
   },
   {
     "simpli": "vatj",
-    "translation": "regarder"
+    "translation": "montre"
   },
   {
     "simpli": "apart",
@@ -5989,11 +5989,11 @@
   },
   {
     "simpli": "misis",
-    "translation": "madame"
+    "translation": "mme"
   },
   {
     "simpli": "inteladjans",
-    "translation": "renseignement"
+    "translation": "intelligence"
   },
   {
     "simpli": "hevali",
