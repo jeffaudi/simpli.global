@@ -8,8 +8,8 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
 ---
 
 <Layout lang={lang} title="Mots essentiels" description="Vocabulaire central Simpli par catégorie.">
-  <h1>Essential words</h1>
-  <p>Core Simpli vocabulary (~300 words).</p>
+  <h1>{t.essentialWordsPage.h1}</h1>
+  <p>{t.essentialWordsPage.intro}</p>
   {
     categories.map((cat) => (
       <section>
@@ -25,7 +25,7 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
       </section>
     ))
   }
-  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>← Vocabulary overview</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>{t.essentialWordsPage.backToVocabulary}</a></p>
 </Layout>
 
 <style>

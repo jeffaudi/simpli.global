@@ -6,6 +6,7 @@ Astro pages for [simpli.global](https://simpli.global). Each locale has its own 
 
 - **index.astro** — Home
 - **motivation.astro** — Why Simpli
+  - Includes rationale notes on positioning ("not simplified English"), strategic strengths, and scalability conditions/risks.
 - **roots.astro** — Language roots
 - **grammar.astro** — Grammar overview
 - **grammar-rules.astro** — Detailed grammar rules

@@ -77,7 +77,7 @@ const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href :
     <main class="l-main l-content">
       <slot />
     </main>
-    <Footer t={tJson} siteTitle={t(SITE_TITLE)} />
+    <Footer t={tJson} locale={locale} siteTitle={t(SITE_TITLE)} />
     {import.meta.env.DEV && (
       <style is:global>:root { scroll-behavior: auto }</style>
     )}

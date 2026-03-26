@@ -42,7 +42,16 @@
     "cardVocabulary": "Basado en inglés, palabras esenciales",
     "cardSpelling": "Letras simplificadas, fonemas, vocales largas",
     "cardComparison": "vs indonesio, inglés, esperanto, glosa, globish",
-    "cardSamples": "Textos importantes en Simpli"
+    "cardSamples": "Textos importantes en Simpli",
+    "cardDiscussion": "Temas abiertos al debate (Discord próximamente)"
+  },
+  "grammarRulesPage": {
+    "h1": "Reglas de gramática"
+  },
+  "essentialWordsPage": {
+    "h1": "Palabras esenciales",
+    "intro": "Vocabulario central de Simpli (~300 palabras).",
+    "backToVocabulary": "← Panorama del vocabulario"
   },
   "motivationPage": {
     "metaDescription": "Por qué Simpli: acceso igualitario a la comunicación.",
@@ -66,6 +75,28 @@
     "visualsSoon": "Próximamente.",
     "leafletLabel": "Folleto:",
     "leafletSoon": "PDF (próximamente)."
+  },
+  "pages": {
+    "roots": {
+      "metaDescription": "Raíces de Simpli: lenguas reales y uso global actual."
+    },
+    "grammar": {
+      "metaDescription": "Gramática de Simpli: analítica, reglas mínimas."
+    },
+    "spelling": {
+      "metaDescription": "Ortografía de Simpli: letras simplificadas, fonemas, vocales largas."
+    },
+    "comparison": {
+      "metaDescription": "Simpli vs indonesio, inglés, esperanto, glosa, globish."
+    },
+    "samples": {
+      "metaDescription": "Textos importantes traducidos a Simpli."
+    }
+  },
+  "footer": {
+    "licenseBefore": "El contenido de este sitio está bajo una",
+    "licenseLinkLabel": "Licencia Internacional Creative Commons Atribución 4.0",
+    "licenseAfter": "(CC BY 4.0)."
   },
   "languageSwitcher": "Idioma",
   "words": {

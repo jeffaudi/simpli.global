@@ -24,3 +24,9 @@ npm-debug.log*
 .vscode/
 *.swp
 *.swo
+
+# Python / local tooling
+.venv/
+.tmp-py/
+__pycache__/
+*.pyc

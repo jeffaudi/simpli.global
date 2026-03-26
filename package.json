@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",
-    "astro": "^5.0.0"
+    "@vitalets/google-translate-api": "^9.2.1",
+    "astro": "^5.0.0",
+    "cmu-pronouncing-dictionary": "^3.0.0",
+    "popular-english-words": "^1.0.2"
   }
 }

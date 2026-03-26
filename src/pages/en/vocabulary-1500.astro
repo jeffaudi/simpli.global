@@ -1,0 +1,56 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { vocabulary1500 } from '@/data/vocabulary-1500';
+
+const lang = 'en';
+---
+
+<Layout
+  lang={lang}
+  title="Vocabulary 1,500"
+  description="1,500 high-frequency Simpli vocabulary entries with English translation."
+>
+  <h1>Vocabulary 1,500</h1>
+  <p>
+    This list contains 1,500 high-frequency entries generated with the Simpli pronunciation-first
+    workflow (CMU pronunciation to Simpli spelling), with English glosses for the English website.
+  </p>
+  <p><strong>Total entries:</strong> {vocabulary1500.length}</p>
+  <p>
+    <label for="vocab-search"><strong>Search:</strong></label>
+    <input id="vocab-search" type="search" placeholder="Type Simpli or English..." autocomplete="off" />
+  </p>
+
+  <table id="vocab-table">
+    <thead>
+      <tr>
+        <th>Simpli</th>
+        <th>English</th>
+      </tr>
+    </thead>
+    <tbody>
+      {vocabulary1500.map((entry) => (
+        <tr>
+          <td><code>{entry.simpli}</code></td>
+          <td>{entry.english}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Layout>
+
+<script>
+  const input = document.querySelector('#vocab-search');
+  const table = document.querySelector('#vocab-table');
+  const rows = Array.from(table?.querySelectorAll('tbody tr') ?? []);
+
+  if (input && rows.length > 0) {
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      for (const row of rows) {
+        const text = row.textContent?.toLowerCase() ?? '';
+        row.style.display = q === '' || text.includes(q) ? '' : 'none';
+      }
+    });
+  }
+</script>

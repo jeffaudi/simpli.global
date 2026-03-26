@@ -1,4 +1,4 @@
-# Learn Simpli
+# Simpli is a simple international language
 
 **Simpli is a simple international language**—a proposed international auxiliary language combining:
 
@@ -33,9 +33,11 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 
 ## Spec (reference)
 
+For **why** past choices were made (distilled from early project chats), see [HISTORY.md](HISTORY.md). The spec remains authoritative for current rules.
+
 The [spec/](spec/) folder holds the language specification as reference docs:
 
-- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet, spelling rules, long vowels (see also [Alphabet rationale](/en/spelling/alphabet-rationale) for why W not V)
+- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet, spelling rules, long vowels (see also [Alphabet rationale](/en/spelling/alphabet-rationale) for V/W and i/y)
 - [spec/GRAMMAR.md](spec/GRAMMAR.md) — Core grammar rules (SVO, possession, questions, etc.)
 - [spec/VOCABULARY.md](spec/VOCABULARY.md) — Vocabulary strategy and link to essential words
 

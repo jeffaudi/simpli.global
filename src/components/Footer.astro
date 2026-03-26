@@ -1,18 +1,35 @@
 ---
 // Footer – Simpli (from Astro i18n Starter)
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import type { Lang } from '@/i18n';
+
 interface Props {
-  t: { nav: Record<string, string> };
+  t: {
+    nav: Record<string, string>;
+    footer: {
+      licenseBefore: string;
+      licenseLinkLabel: string;
+      licenseAfter: string;
+    };
+  };
+  locale: Lang;
   siteTitle?: string;
 }
 
-const { t, siteTitle = 'Simpli is a simple international language' } = Astro.props;
+const {
+  t,
+  locale,
+  siteTitle = 'Simpli is a simple international language',
+} = Astro.props;
 ---
 
 <footer class="l-footer l-content">
-  <a href="/en/" class="brand">Simpli</a>
+  <a href={getRelativeLocaleUrl(locale, '/')} class="brand">Simpli</a>
   <p class="tagline">{siteTitle}</p>
   <p class="license" dir="ltr">
-    Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a> (CC BY 4.0).
+    {t.footer.licenseBefore}{' '}
+    <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">{t.footer.licenseLinkLabel}</a>{' '}
+    {t.footer.licenseAfter}
   </p>
 </footer>
 
