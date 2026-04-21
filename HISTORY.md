@@ -49,7 +49,7 @@ Chats explored several rules and trade-offs. Rationales that keep recurring:
 ## Community and open questions
 
 - **Topics for discussion** page: Simpli is new; **spelling and adoption** (e.g. unfamiliar digraphs vs simplicity) are explicitly **community questions**, not only editorial fiat.
-- **Suggested discussion themes** from sessions included: **V vs W** policy, **th→d** vs keeping digraphs, **long vowel** strategy, **dj vs j**, vocabulary base (English-derived vs international roots), **proper nouns** (original spelling vs Simpli form), how minimal grammar should be, stress rules, and **one standard vs tolerated variants**.
+- **Suggested discussion themes** from sessions included: **V vs W** policy, **th→d** vs keeping digraphs, **long vowel** strategy, **dj vs j**, vocabulary base (English-derived vs international roots), **proper nouns** (original spelling vs Simpli form), **geographical names** (simplified Simpli spelling vs each country’s romanization), how minimal grammar should be, stress rules, and **one standard vs tolerated variants**.
 - **Discord** was referenced as **coming soon** for real discussion.
 
 ---

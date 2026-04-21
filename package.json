@@ -2,9 +2,14 @@
   "name": "learn-simpli",
   "type": "module",
   "version": "0.1.0",
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=9.6.5"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "build:spec-pdf": "python3 scripts/build-spec-pdf.py",
     "preview": "astro preview"
   },
   "dependencies": {

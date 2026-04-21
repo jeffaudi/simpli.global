@@ -22,7 +22,9 @@
     "topicVwTitle": "V and W: keep both, fuse, or remove W?",
     "topicVwDesc": "Should we keep the sound /w/ (as in who, we, water) distinct from /v/? Fuse v and w into one letter (one sound, one spelling)? Or remove w entirely and use only v? Each choice affects simplicity, the size of the alphabet, and familiarity for English speakers and others.",
     "topicProperNounsTitle": "Proper nouns: keep as is or rewrite?",
-    "topicProperNounsDesc": "Names of people, places, and brands: keep the original spelling (e.g. New York, Paris) or rewrite them in Simpli spelling (e.g. Niu York)? Keeping originals is recognizable but breaks the “one sound, one letter” rule; rewriting is consistent but can look unfamiliar. Open for community input."
+    "topicProperNounsDesc": "Names of people, places, and brands: keep the original spelling (e.g. New York, Paris) or rewrite them in Simpli spelling (e.g. Niu York)? Keeping originals is recognizable but breaks the “one sound, one letter” rule; rewriting is consistent but can look unfamiliar. Open for community input.",
+    "topicPlaceNamesTitle": "Geographical names: simplified Simpli spelling or each country’s romanization?",
+    "topicPlaceNamesDesc": "For cities, countries, regions, and similar names, should we use one simplified Simpli form (consistent with Simpli phonics) or follow each place’s established romanization (official or widely used systems)? Simplified forms are uniform and easier to learn; classical or official spellings match maps, documents, and local usage but mix many conventions. Open for community input."
   },
   "home": {
     "hero": "Simpli is a simple international language: English-style words, Indonesian-style grammar, phonetic spelling.",
@@ -46,7 +48,47 @@
     "cardDiscussion": "Open topics for community debate (Discord coming soon)"
   },
   "grammarRulesPage": {
-    "h1": "Grammar rules"
+    "h1": "Grammar rules",
+    "metaTitle": "Grammar rules",
+    "metaDescription": "Full list of Simpli grammar rules.",
+    "intro": "Simpli has about 12 core rules. No conjugation, no gender, no cases.",
+    "sectionPronounsTitle": "Pronouns: el = he, she, it",
+    "sectionPronounsBody": "Simpli uses one word for all third-person singular: <strong>el</strong>. There is no separate “it”; <em>el</em> is used for he, she, and it (people and things). So <em>el hav no hard gramar</em> = It has no hard grammar; <em>Yu kan lern el fast</em> = You can learn it fast.",
+    "sectionWordOrderTitle": "1. Word order",
+    "sectionWordOrderBody": "<strong>Subject – Verb – Object.</strong> Examples: <em>mi sii yu</em>, <em>wi iit rais</em>.",
+    "sectionVerbsTitle": "2. No verb conjugation",
+    "sectionVerbsBody": "Verbs never change. Express time with words: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.",
+    "sectionNegationTitle": "3. Negation",
+    "sectionNegationBody": "Put <strong>no</strong> before the verb: <em>mi no go</em>, <em>el no sii</em>.",
+    "sectionQuestionsTitle": "4. Questions",
+    "sectionQuestionsBody": "Start with <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Example: <em>wat yu nem?</em>",
+    "sectionPluralTitle": "5. Plural",
+    "sectionPluralBody": "Optional. Use numbers or <strong>meni</strong> when needed: <em>tu buk</em>, <em>meni haus</em>.",
+    "sectionArticlesTitle": "6. Articles",
+    "sectionArticlesBody": "None. No “a” or “the”; omit them.",
+    "sectionAdjectivesTitle": "7. Adjectives",
+    "sectionAdjectivesBody": "Before the noun, never change form: <em>big haus</em>, <em>red buk</em>.",
+    "sectionPossessionTitle": "8. Possession",
+    "sectionPossessionBody": "Noun + possessor: <em>haus mi</em> = my house, <em>buk yu</em> = your book. You can add <strong>of</strong> for clarity, but it’s not needed: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = my brother’s house.",
+    "sectionPrepositionsTitle": "9. Prepositions",
+    "sectionPrepositionsBody": "Use: <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.",
+    "sectionConnectorsTitle": "10. Connectors",
+    "sectionConnectorsBody": "<strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.",
+    "sectionCompoundsTitle": "11. Compounds",
+    "sectionCompoundsBody": "Join words with a hyphen when useful: <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.",
+    "backToGrammarOverview": "← Grammar overview"
+  },
+  "grammarPage": {
+    "numbersBulletTitle": "Numbers:",
+    "numbersBulletBody": "Reading numbers aloud can follow East Asian style (34 → tri ten for).",
+    "numbersBulletLink": "Full grammar rules →"
+  },
+  "grammarNumbers": {
+    "h2": "Numbers (reading aloud)",
+    "intro": "For saying numbers aloud, you can use an East Asian–style reading: from large units to small, with tens built as digit + ten + digit (instead of a single word like “thirty-four”).",
+    "ex34Paren": "three–ten–four",
+    "ex3253Paren": "three thousand, two hundred, five-ten-three",
+    "digits": "Digits: sero (0), wan … nain (1–9), ten (10). Larger units: hundrad (hundred), dausand (thousand)."
   },
   "essentialWordsPage": {
     "h1": "Essential words",
@@ -78,7 +120,18 @@
   },
   "pages": {
     "roots": {
-      "metaDescription": "Simpli roots: real languages and current global usage."
+      "metaDescription": "Simpli roots: real languages and current global usage.",
+      "leadP": "Simpli is not invented from scratch. It is <strong>rooted in real languages and current usage</strong>.",
+      "grammarH2": "Grammar",
+      "grammarP": "The grammar is inspired by <strong>Indonesian</strong>: analytic structure, no verb conjugation, no grammatical gender, optional plurals.",
+      "vocabularyH2": "Vocabulary",
+      "vocabularyP": "The vocabulary is based on <strong>English</strong>—simplified and regularized.",
+      "whyH2": "Why this mix?",
+      "whyP": "Familiar vocabulary + minimal grammar = fast learning.",
+      "linkGrammar": "Grammar rules",
+      "linkVocabulary": "Essential words",
+      "spellingH2": "Spelling",
+      "spellingP": "Regularized spelling also draws inspiration from <strong>Spanish</strong>. Spanish typically adapts loanwords to its own sound–letter norms instead of keeping English-style historical spellings—so almost any foreign word can be integrated cleanly. Simpli follows a similar idea. Example: <strong>footbal → futbol</strong>—the same kind of adaptation in Spanish and in Simpli (compare English <em>football</em>)."
     },
     "grammar": {
       "metaDescription": "Simpli grammar: analytic, minimal rules."
@@ -108,5 +161,15 @@
     "objects": "Daily objects",
     "adjectives": "Descriptive words",
     "connectors": "Connectors"
+  },
+  "grammarOverview": {
+    "lead": "Simpli uses an <strong>analytic grammar</strong> inspired by Indonesian.",
+    "bulletPronouns": "<strong>Pronouns:</strong> One word for he, she, and it: <strong>el</strong>. Simpli does not have a separate “it”; <em>el</em> is used for all third-person singular (people and things). So: <em>el go</em> = he/she/it goes, <em>El hav no hard gramar</em> = It has no hard grammar.",
+    "bulletWordOrder": "<strong>Word order:</strong> Subject – Verb – Object.",
+    "bulletVerbs": "<strong>Verbs:</strong> Never change form. Time with words (yesterde, now, tumoro).",
+    "bulletPossession": "<strong>Possession:</strong> Noun + possessor: <em>haus mi</em> = my house. You can add <em>of</em> for clarity, but it’s not needed: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = my brother’s house.",
+    "bulletPlurals": "<strong>Plurals:</strong> Optional.",
+    "bulletQuestions": "<strong>Questions:</strong> Start with wat, hu, wer, wen, wai, hou.",
+    "fullListLink": "View full list of grammar rules →"
   }
 }

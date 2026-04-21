@@ -7,45 +7,33 @@ const t = (await import('../../translations/fr.json')).default;
 
 <Layout lang={lang} title={t.nav.specification} description="Spécification officielle du Simpli : alphabet, orthographe, grammaire, vocabulaire.">
   <h1>{t.nav.specification}</h1>
-  <p>Résumé de la spécification officielle du Simpli. Pour le détail, voir les pages dédiées ci-dessous.</p>
+  <p>
+    Cette page donne accès à la <strong>spécification complète, archivée et numérotée</strong> de Simpli (pour
+    la citation et la conservation). Téléchargez le PDF ci-dessous.
+  </p>
 
   <h2>Version</h2>
   <p><strong>Simpli v0.1</strong> (spécification en projet).</p>
 
-  <h2>Alphabet et inventaire phonématique</h2>
+  <h2>Téléchargements</h2>
   <ul>
-    <li><strong>Voyelles :</strong> a, e, i, o, u (longues : aa, ee, ii, oo, uu — lettre doublée).</li>
-    <li><strong>Consonnes :</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. Pas de lettre <strong>c</strong> (supprimée). <strong>k</strong> pour /k/. /tʃ/ = <strong>tj</strong> ; /dʒ/ = <strong>dj</strong>. <strong>G</strong> = /g/ (toujours dur).</li>
-  </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>Orthographe</a> · <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Rationale de l’alphabet</a></p>
-
-  <h2>Règle des voyelles longues</h2>
-  <p>Voyelle courte = une lettre ; voyelle longue = lettre doublée. Objectif : différencier les homonymes (ex. <em>it</em> vs <em>iit</em>). En général, le contexte suffit.</p>
-
-  <h2>Règles d’orthographe principales</h2>
-  <ul>
-    <li>Un son = une graphie ; pas de lettres muettes.</li>
-    <li><strong>v / w</strong> — Le son [v]/[w] s’écrit <strong>v</strong> (standard) ; <strong>w</strong> peut encore s’utiliser par familiarité avec l’anglais. Les sons sont équivalents ; on peut prononcer de l’une ou l’autre façon.</li>
-    <li><strong>ch</strong> → <strong>tj</strong> (pas de lettre c) ; /k/ toujours écrit <strong>k</strong>.</li>
-    <li><strong>g</strong> = /g/ (toujours dur) ; <strong>dj</strong> = /dʒ/ (symétrique de <strong>tj</strong> = /tʃ/).</li>
-    <li><strong>th</strong> → d ; <strong>ph</strong> → f ; <strong>sh</strong> → s ; <strong>z</strong> → s si besoin.</li>
-    <li>Suffixes courants : -tion/-sion → -son, -ture → -tur, -ous → -us.</li>
-    <li><strong>ou</strong> → <strong>u</strong> : standard <em>yu</em> (you) ; <em>you</em> acceptable pour la clarté.</li>
-    <li>Consonnes doubles non encouragées ; préférer la forme simplifiée (ex. <em>adres</em>, pas <em>address</em>). Acceptable mais une seule consonne préférée.</li>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.pdf" download>PDF : simpli-specification-v0.1.pdf</a>
+    </li>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.md" download>Source (Markdown) : simpli-specification-v0.1.md</a>
+    </li>
   </ul>
 
-  <h2>Résumé grammatical</h2>
-  <ul>
-    <li>Ordre des mots : Sujet – Verbe – Objet.</li>
-    <li>Pas de conjugaison ; le temps avec des mots (yesterde, now, tumoro).</li>
-    <li>Possession : nom + possesseur (<em>haus mi</em>). <em>of</em> optionnel pour la clarté : <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em>.</li>
-    <li>Pas de genre ; pluriel optionnel. Pas d’articles.</li>
-  </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>Grammaire</a> · <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Règles de grammaire</a></p>
-
-  <h2>Taille du vocabulaire de base</h2>
-  <p>Environ <strong>300–500</strong> mots essentiels pour le quotidien ; extensible. D’origine anglaise, simplifié et phonétique.</p>
-  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulaire</a> · <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Mots essentiels</a></p>
+  <h2>Pages “vivantes” (non archivées)</h2>
+  <p>
+    Sur le site, le même contenu existe aussi sous forme de pages qui peuvent évoluer :
+    <a href={getRelativeLocaleUrl(lang, 'spelling')}>Orthographe</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Règles de grammaire</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulaire</a>
+  </p>
 </Layout>
 
 <style>

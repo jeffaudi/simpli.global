@@ -22,7 +22,9 @@
     "topicVwTitle": "V et W : garder les deux, fusionner ou supprimer W ?",
     "topicVwDesc": "Faut-il garder le son /w/ (comme dans who, we, water) distinct de /v/ ? Fusionner v et w en une seule lettre (un son, une graphie) ? Ou supprimer w et n'utiliser que v ? Chaque choix a des conséquences sur la simplicité, la taille de l'alphabet et la familiarité pour les anglophones et les autres.",
     "topicProperNounsTitle": "Noms propres : garder l'original ou réécrire ?",
-    "topicProperNounsDesc": "Noms de personnes, lieux et marques : garder l'orthographe d'origine (ex. New York, Paris) ou les réécrire en orthographe Simpli (ex. Niu York) ? Garder l'original est reconnaissable mais brise la règle « un son, une lettre » ; réécrire est cohérent mais peut paraître étrange. Ouvert aux avis de la communauté."
+    "topicProperNounsDesc": "Noms de personnes, lieux et marques : garder l'orthographe d'origine (ex. New York, Paris) ou les réécrire en orthographe Simpli (ex. Niu York) ? Garder l'original est reconnaissable mais brise la règle « un son, une lettre » ; réécrire est cohérent mais peut paraître étrange. Ouvert aux avis de la communauté.",
+    "topicPlaceNamesTitle": "Noms géographiques : orthographe Simpli simplifiée ou romanisations locales ?",
+    "topicPlaceNamesDesc": "Pour villes, pays, régions, etc., faut-il une forme unique simplifiée selon Simpli ou suivre les romanisations officielles ou établies de chaque lieu ? La forme simplifiée est uniforme et cohérente avec la phonétique Simpli ; les graphies classiques correspondent aux cartes et aux usages locaux mais mélangent plusieurs conventions. Ouvert aux avis de la communauté."
   },
   "home": {
     "hero": "Simpli est une langue internationale simple : mots proches de l'anglais, grammaire de type indonésien, orthographe phonétique.",
@@ -46,7 +48,47 @@
     "cardDiscussion": "Sujets ouverts au débat (Discord bientôt)"
   },
   "grammarRulesPage": {
-    "h1": "Règles de grammaire"
+    "h1": "Règles de grammaire",
+    "metaTitle": "Règles de grammaire",
+    "metaDescription": "Liste complète des règles grammaticales du Simpli.",
+    "intro": "Simpli a une douzaine de règles. Pas de conjugaison, pas de genre, pas de cas.",
+    "sectionPronounsTitle": "Pronoms : el = he, she, it",
+    "sectionPronounsBody": "Simpli utilise un seul mot pour la 3<sup>e</sup> personne du singulier : <strong>el</strong>. Il n’y a pas d’« it » séparé ; <em>el</em> sert pour he, she et it (personnes et choses). Donc <em>el hav no hard gramar</em> = Ça n’a pas de grammaire difficile ; <em>Yu kan lern el fast</em> = Tu peux l’apprendre vite.",
+    "sectionWordOrderTitle": "1. Ordre des mots",
+    "sectionWordOrderBody": "<strong>Sujet – Verbe – Objet.</strong> Exemples : <em>mi sii yu</em>, <em>wi iit rais</em>.",
+    "sectionVerbsTitle": "2. Pas de conjugaison",
+    "sectionVerbsBody": "Les verbes ne changent jamais. Le temps avec des mots : <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.",
+    "sectionNegationTitle": "3. Négation",
+    "sectionNegationBody": "<strong>no</strong> devant le verbe : <em>mi no go</em>, <em>el no sii</em>.",
+    "sectionQuestionsTitle": "4. Questions",
+    "sectionQuestionsBody": "Commencer par <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Exemple : <em>wat yu nem?</em>",
+    "sectionPluralTitle": "5. Pluriel",
+    "sectionPluralBody": "Optionnel. Nombres ou <strong>meni</strong> si besoin : <em>tu buk</em>, <em>meni haus</em>.",
+    "sectionArticlesTitle": "6. Articles",
+    "sectionArticlesBody": "Aucun. Pas de « un » ni « le » ; les omettre.",
+    "sectionAdjectivesTitle": "7. Adjectifs",
+    "sectionAdjectivesBody": "Avant le nom, forme invariable : <em>big haus</em>, <em>red buk</em>.",
+    "sectionPossessionTitle": "8. Possession",
+    "sectionPossessionBody": "Nom + possesseur : <em>haus mi</em> = ma maison, <em>buk yu</em> = ton livre. On peut ajouter <strong>of</strong> pour la clarté, mais ce n’est pas obligatoire : <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la maison de mon frère.",
+    "sectionPrepositionsTitle": "9. Prépositions",
+    "sectionPrepositionsBody": "Utiliser : <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.",
+    "sectionConnectorsTitle": "10. Connecteurs",
+    "sectionConnectorsBody": "<strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.",
+    "sectionCompoundsTitle": "11. Composés",
+    "sectionCompoundsBody": "Mots joints par un trait d’union si utile : <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.",
+    "backToGrammarOverview": "← Grammaire"
+  },
+  "grammarPage": {
+    "numbersBulletTitle": "Nombres :",
+    "numbersBulletBody": "La lecture à voix haute peut suivre le style d’Asie de l’Est (34 → tri ten for).",
+    "numbersBulletLink": "Règles complètes →"
+  },
+  "grammarNumbers": {
+    "h2": "Nombres (lecture à voix haute)",
+    "intro": "Pour dire les nombres à voix haute, on peut utiliser une lecture de type asiatique oriental : des grandes unités aux petites, les dizaines étant formées comme chiffre + ten + chiffre (au lieu d’un seul mot comme « trente-quatre »).",
+    "ex34Paren": "trois–dix–quatre",
+    "ex3253Paren": "trois mille, deux cents, cinq-dix-trois",
+    "digits": "Chiffres : sero (0), wan … nain (1–9), ten (10). Unités plus grandes : hundrad (cent), dausand (mille)."
   },
   "essentialWordsPage": {
     "h1": "Mots essentiels",
@@ -78,7 +120,18 @@
   },
   "pages": {
     "roots": {
-      "metaDescription": "Racines de Simpli : langues réelles et usage mondial actuel."
+      "metaDescription": "Racines de Simpli : langues réelles et usage mondial actuel.",
+      "leadP": "Simpli n’est pas inventé de toutes pièces. Elle est <strong>ancrée dans des langues réelles et dans l’usage actuel</strong>.",
+      "grammarH2": "Grammaire",
+      "grammarP": "La grammaire s’inspire de l’<strong>indonésien</strong> : structure analytique, pas de conjugaison, pas de genre grammatical, pluriel optionnel.",
+      "vocabularyH2": "Vocabulaire",
+      "vocabularyP": "Le vocabulaire repose sur l’<strong>anglais</strong>, simplifié et régularisé.",
+      "whyH2": "Pourquoi ce mélange ?",
+      "whyP": "Vocabulaire familier + grammaire minimale = apprentissage rapide.",
+      "linkGrammar": "Règles de grammaire",
+      "linkVocabulary": "Mots essentiels",
+      "spellingH2": "Orthographe",
+      "spellingP": "L’orthographe régularisée s’inspire aussi de l’<strong>espagnol</strong> : les emprunts sont adaptés aux normes graphophonétiques de la langue plutôt que calqués sur l’orthographe historique anglaise, ce qui permet d’intégrer la plupart des mots étrangers proprement. Simpli suit une logique voisine. Exemple : <strong>footbal → futbol</strong>—le même type d’adaptation en espagnol et en Simpli (à comparer avec l’anglais <em>football</em>)."
     },
     "grammar": {
       "metaDescription": "Grammaire Simpli : analytique, règles minimales."
@@ -108,5 +161,15 @@
     "objects": "Objets quotidiens",
     "adjectives": "Mots descriptifs",
     "connectors": "Connecteurs"
+  },
+  "grammarOverview": {
+    "lead": "Simpli utilise une <strong>grammaire analytique</strong> inspirée de l’indonésien.",
+    "bulletPronouns": "<strong>Pronoms :</strong> Un seul mot pour he, she et it : <strong>el</strong>. Simpli n’a pas d’« it » à part ; <em>el</em> sert pour toute la 3<sup>e</sup> personne du singulier (personnes et choses). Donc : <em>el go</em> = il/elle va, <em>El hav no hard gramar</em> = Ça n’a pas de grammaire difficile.",
+    "bulletWordOrder": "<strong>Ordre des mots :</strong> Sujet – Verbe – Objet.",
+    "bulletVerbs": "<strong>Verbes :</strong> La forme ne change jamais. Le temps avec des mots (yesterde, now, tumoro).",
+    "bulletPossession": "<strong>Possession :</strong> Nom + possesseur : <em>haus mi</em> = ma maison. On peut ajouter <em>of</em> pour la clarté, mais ce n’est pas obligatoire : <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la maison de mon frère.",
+    "bulletPlurals": "<strong>Pluriel :</strong> Optionnel.",
+    "bulletQuestions": "<strong>Questions :</strong> Commencer par wat, hu, wer, wen, wai, hou.",
+    "fullListLink": "Voir la liste complète des règles de grammaire →"
   }
 }

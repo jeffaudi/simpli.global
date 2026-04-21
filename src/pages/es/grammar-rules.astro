@@ -3,34 +3,40 @@ import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 const lang = 'es';
 const t = (await import('../../translations/es.json')).default;
+const gr = t.grammarRulesPage;
 ---
 
-<Layout lang={lang} title="Reglas de gramática" description="Lista completa de reglas gramaticales de Simpli.">
-  <h1>{t.grammarRulesPage.h1}</h1>
-  <p>Simpli tiene una docena de reglas. Sin conjugación, sin género, sin casos.</p>
-  <h2>Pronombres: el = he, she, it</h2>
-  <p>Simpli usa una sola palabra para la 3.ª persona del singular: <strong>el</strong>. No hay un « it » separado; <em>el</em> sirve para he, she e it (personas y cosas). Así <em>el hav no hard gramar</em> = No tiene gramática difícil; <em>Yu kan lern el fast</em> = Puedes aprenderlo rápido.</p>
-  <h2>1. Orden de palabras</h2>
-  <p><strong>Sujeto – Verbo – Objeto.</strong> Ejemplos: <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
-  <h2>2. Sin conjugación verbal</h2>
-  <p>Los verbos no cambian. El tiempo con palabras: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
-  <h2>3. Negación</h2>
-  <p><strong>no</strong> delante del verbo: <em>mi no go</em>, <em>el no sii</em>.</p>
-  <h2>4. Preguntas</h2>
-  <p>Empezar con <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Ejemplo: <em>wat yu nem?</em></p>
-  <h2>5. Plural</h2>
-  <p>Opcional. Números o <strong>meni</strong> cuando haga falta: <em>tu buk</em>, <em>meni haus</em>.</p>
-  <h2>6. Artículos</h2>
-  <p>Ninguno. No hay « un » ni « el »; omitirlos.</p>
-  <h2>7. Adjetivos</h2>
-  <p>Antes del nombre, forma invariable: <em>big haus</em>, <em>red buk</em>.</p>
-  <h2>8. Posesión</h2>
-  <p>Nombre + poseedor: <em>haus mi</em> = mi casa, <em>buk yu</em> = tu libro. Se puede añadir <strong>of</strong> para claridad, pero no es necesario: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la casa de mi hermano.</p>
-  <h2>9. Preposiciones</h2>
-  <p>Usar: <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.</p>
-  <h2>10. Conectores</h2>
-  <p><strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.</p>
-  <h2>11. Compuestos</h2>
-  <p>Palabras unidas con guión cuando convenga: <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.</p>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Gramática</a></p>
+<Layout lang={lang} title={gr.metaTitle} description={gr.metaDescription}>
+  <h1>{gr.h1}</h1>
+  <p>{gr.intro}</p>
+  <h2>{gr.sectionPronounsTitle}</h2>
+  <p set:html={gr.sectionPronounsBody} />
+  <h2>{gr.sectionWordOrderTitle}</h2>
+  <p set:html={gr.sectionWordOrderBody} />
+  <h2>{gr.sectionVerbsTitle}</h2>
+  <p set:html={gr.sectionVerbsBody} />
+  <h2>{gr.sectionNegationTitle}</h2>
+  <p set:html={gr.sectionNegationBody} />
+  <h2>{gr.sectionQuestionsTitle}</h2>
+  <p set:html={gr.sectionQuestionsBody} />
+  <h2>{gr.sectionPluralTitle}</h2>
+  <p set:html={gr.sectionPluralBody} />
+  <h2>{gr.sectionArticlesTitle}</h2>
+  <p set:html={gr.sectionArticlesBody} />
+  <h2>{gr.sectionAdjectivesTitle}</h2>
+  <p set:html={gr.sectionAdjectivesBody} />
+  <h2>{gr.sectionPossessionTitle}</h2>
+  <p set:html={gr.sectionPossessionBody} />
+  <h2>{gr.sectionPrepositionsTitle}</h2>
+  <p set:html={gr.sectionPrepositionsBody} />
+  <h2>{gr.sectionConnectorsTitle}</h2>
+  <p set:html={gr.sectionConnectorsBody} />
+  <h2>{gr.sectionCompoundsTitle}</h2>
+  <p set:html={gr.sectionCompoundsBody} />
+  <h2>{t.grammarNumbers.h2}</h2>
+  <p>{t.grammarNumbers.intro}</p>
+  <p>34 → <strong>tri ten for</strong> ({t.grammarNumbers.ex34Paren})</p>
+  <p>3253 → <strong>tri dausand tu hundrad faiv ten tri</strong> ({t.grammarNumbers.ex3253Paren})</p>
+  <p>{t.grammarNumbers.digits}</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>{gr.backToGrammarOverview}</a></p>
 </Layout>

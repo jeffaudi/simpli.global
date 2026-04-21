@@ -1,5 +1,16 @@
 .PHONY: help install build dev local run preview clean
 
+# GNU Make runs recipes with /bin/sh, which does not load ~/.bashrc, so nvm’s
+# Node/npm are not on PATH unless we add them here (~/.config/nvm or ~/.nvm).
+NVM_HOME := $(firstword $(wildcard $(HOME)/.config/nvm) $(wildcard $(HOME)/.nvm))
+ifneq ($(NVM_HOME),)
+export NVM_DIR := $(NVM_HOME)
+NVM_NODE_BIN := $(shell ls -d "$(NVM_DIR)"/versions/node/v*/bin 2>/dev/null | sort -V | tail -1)
+ifneq ($(NVM_NODE_BIN),)
+export PATH := $(NVM_NODE_BIN):$(PATH)
+endif
+endif
+
 # Default target: show help
 help:
 	@echo "Learn Simpli — available targets:"

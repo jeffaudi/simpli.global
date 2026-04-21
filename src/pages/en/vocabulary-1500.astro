@@ -18,21 +18,21 @@ const lang = 'en';
   <p><strong>Total entries:</strong> {vocabulary1500.length}</p>
   <p>
     <label for="vocab-search"><strong>Search:</strong></label>
-    <input id="vocab-search" type="search" placeholder="Type Simpli or English..." autocomplete="off" />
+    <input id="vocab-search" type="search" placeholder="Type English or Simpli..." autocomplete="off" />
   </p>
 
   <table id="vocab-table">
     <thead>
       <tr>
-        <th>Simpli</th>
         <th>English</th>
+        <th>Simpli</th>
       </tr>
     </thead>
     <tbody>
       {vocabulary1500.map((entry) => (
         <tr>
-          <td><code>{entry.simpli}</code></td>
           <td>{entry.english}</td>
+          <td><code>{entry.simpli}</code></td>
         </tr>
       ))}
     </tbody>

@@ -14,5 +14,6 @@
 9. **Prepositions:** in, on, at, from, to, wit, for.
 10. **Connectors:** and, or, but, becos, so.
 11. **Compounds:** e.g. sun-light, fast-tren, wata-food.
+12. **Numbers (reading aloud):** East Asian–style composition is recommended—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 3253 = *tri dausand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *dausand* (thousand).
 
 See the [Grammar](/en/grammar) and [Grammar rules](/en/grammar-rules) pages on the website.

@@ -7,45 +7,33 @@ const t = (await import('../../translations/es.json')).default;
 
 <Layout lang={lang} title={t.nav.specification} description="Especificación oficial del Simpli: alfabeto, ortografía, gramática, vocabulario.">
   <h1>{t.nav.specification}</h1>
-  <p>Resumen de la especificación oficial del Simpli. Para el detalle, ver las páginas enlazadas abajo.</p>
+  <p>
+    Esta página enlaza la <strong>especificación completa, archivada y numerada</strong> de Simpli (para
+    citarla y conservarla). Descarga el PDF abajo.
+  </p>
 
   <h2>Versión</h2>
   <p><strong>Simpli v0.1</strong> (especificación en borrador).</p>
 
-  <h2>Alfabeto e inventario fonémico</h2>
+  <h2>Descargas</h2>
   <ul>
-    <li><strong>Vocales:</strong> a, e, i, o, u (largas: aa, ee, ii, oo, uu — letra doblada).</li>
-    <li><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. No hay letra <strong>c</strong> (eliminada). <strong>k</strong> para /k/. /tʃ/ = <strong>tj</strong>; /dʒ/ = <strong>dj</strong>. <strong>G</strong> = /g/ (siempre duro).</li>
-  </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>Ortografía</a> · <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Rationale del alfabeto</a></p>
-
-  <h2>Regla de vocales largas</h2>
-  <p>Vocal corta = una letra; vocal larga = letra doblada. Objetivo: diferenciar homónimos (ej. <em>it</em> vs <em>iit</em>). En general, el contexto basta.</p>
-
-  <h2>Reglas ortográficas principales</h2>
-  <ul>
-    <li>Un sonido = una grafía; sin letras mudas.</li>
-    <li><strong>v / w</strong> — El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés. Los sonidos son equivalentes; se pueden pronunciar de una u otra forma.</li>
-    <li><strong>ch</strong> → <strong>tj</strong> (no hay letra c); /k/ siempre escrito <strong>k</strong>.</li>
-    <li><strong>g</strong> = /g/ (siempre duro); <strong>dj</strong> = /dʒ/ (simétrico con <strong>tj</strong> = /tʃ/).</li>
-    <li><strong>th</strong> → d; <strong>ph</strong> → f; <strong>sh</strong> → s; <strong>z</strong> → s cuando haga falta.</li>
-    <li>Terminaciones habituales: -tion/-sion → -son, -ture → -tur, -ous → -us.</li>
-    <li><strong>ou</strong> → <strong>u</strong>: estándar <em>yu</em> (you); <em>you</em> aceptable por claridad.</li>
-    <li>Consonantes dobles no recomendadas; preferir forma simplificada (ej. <em>adres</em>, no <em>address</em>). Aceptable pero se prefiere una sola consonante.</li>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.pdf" download>PDF: simpli-specification-v0.1.pdf</a>
+    </li>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.md" download>Fuente (Markdown): simpli-specification-v0.1.md</a>
+    </li>
   </ul>
 
-  <h2>Resumen gramatical</h2>
-  <ul>
-    <li>Orden de palabras: Sujeto – Verbo – Objeto.</li>
-    <li>Sin conjugación; tiempo con palabras (yesterde, now, tumoro).</li>
-    <li>Posesión: nombre + poseedor (<em>haus mi</em>). <em>of</em> opcional para claridad: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em>.</li>
-    <li>Sin género; plural opcional. Sin artículos.</li>
-  </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>Gramática</a> · <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Reglas de gramática</a></p>
-
-  <h2>Tamaño del vocabulario básico</h2>
-  <p>Unos <strong>300–500</strong> palabras esenciales para el día a día; ampliable. De origen inglés, simplificado y fonético.</p>
-  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulario</a> · <a href={getRelativeLocaleUrl(lang, 'essential-words')}>Palabras esenciales</a></p>
+  <h2>Páginas “vivas” (no archivadas)</h2>
+  <p>
+    En el sitio, el mismo contenido también aparece dividido en páginas que pueden evolucionar:
+    <a href={getRelativeLocaleUrl(lang, 'spelling')}>Ortografía</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>Reglas de gramática</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Vocabulario</a>
+  </p>
 </Layout>
 
 <style>

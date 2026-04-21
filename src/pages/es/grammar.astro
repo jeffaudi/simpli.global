@@ -7,16 +7,22 @@ const t = (await import('../../translations/es.json')).default;
 
 <Layout lang={lang} title={t.nav.grammar} description={t.pages.grammar.metaDescription}>
   <h1>{t.nav.grammar}</h1>
-  <p>Simpli usa una <strong>gramática analítica</strong> inspirada en el indonesio.</p>
+  <p set:html={t.grammarOverview.lead} />
   <ul>
-    <li><strong>Pronombres:</strong> Un solo pronombre para he, she e it: <strong>el</strong>. Simpli no tiene un « it » aparte; <em>el</em> se usa para toda la 3.ª persona del singular (personas y cosas). Así: <em>el go</em> = él/ella va, <em>El hav no hard gramar</em> = No tiene gramática difícil.</li>
-    <li><strong>Orden de palabras:</strong> Sujeto – Verbo – Objeto.</li>
-    <li><strong>Verbs:</strong> Never change form. Time with words (yesterde, now, tumoro).</li>
-    <li><strong>Posesión:</strong> Nombre + poseedor: <em>haus mi</em> = mi casa. Se puede añadir <em>of</em> para claridad, pero no es necesario: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la casa de mi hermano.</li>
-    <li><strong>Plurals:</strong> Optional.</li>
-    <li><strong>Questions:</strong> Start with wat, hu, wer, wen, wai, hou.</li>
+    <li set:html={t.grammarOverview.bulletPronouns} />
+    <li set:html={t.grammarOverview.bulletWordOrder} />
+    <li set:html={t.grammarOverview.bulletVerbs} />
+    <li set:html={t.grammarOverview.bulletPossession} />
+    <li set:html={t.grammarOverview.bulletPlurals} />
+    <li set:html={t.grammarOverview.bulletQuestions} />
+    <li>
+      <strong>{t.grammarPage.numbersBulletTitle}</strong>
+      {' '}
+      {t.grammarPage.numbersBulletBody}{' '}
+      <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{t.grammarPage.numbersBulletLink}</a>
+    </li>
   </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>View full list of grammar rules →</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{t.grammarOverview.fullListLink}</a></p>
 </Layout>
 
 <style>

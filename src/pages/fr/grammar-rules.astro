@@ -3,34 +3,40 @@ import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
+const gr = t.grammarRulesPage;
 ---
 
-<Layout lang={lang} title="Règles de grammaire" description="Liste complète des règles grammaticales du Simpli.">
-  <h1>{t.grammarRulesPage.h1}</h1>
-  <p>Simpli a une douzaine de règles. Pas de conjugaison, pas de genre, pas de cas.</p>
-  <h2>Pronoms : el = he, she, it</h2>
-  <p>Simpli utilise un seul mot pour la 3<sup>e</sup> personne du singulier : <strong>el</strong>. Il n’y a pas d’« it » séparé ; <em>el</em> sert pour he, she et it (personnes et choses). Donc <em>el hav no hard gramar</em> = Ça n’a pas de grammaire difficile ; <em>Yu kan lern el fast</em> = Tu peux l’apprendre vite.</p>
-  <h2>1. Ordre des mots</h2>
-  <p><strong>Sujet – Verbe – Objet.</strong> Exemples : <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
-  <h2>2. Pas de conjugaison</h2>
-  <p>Les verbes ne changent jamais. Le temps avec des mots : <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
-  <h2>3. Négation</h2>
-  <p><strong>no</strong> devant le verbe : <em>mi no go</em>, <em>el no sii</em>.</p>
-  <h2>4. Questions</h2>
-  <p>Commencer par <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Exemple : <em>wat yu nem?</em></p>
-  <h2>5. Pluriel</h2>
-  <p>Optionnel. Nombres ou <strong>meni</strong> si besoin : <em>tu buk</em>, <em>meni haus</em>.</p>
-  <h2>6. Articles</h2>
-  <p>Aucun. Pas de « un » ni « le » ; les omettre.</p>
-  <h2>7. Adjectifs</h2>
-  <p>Avant le nom, forme invariable : <em>big haus</em>, <em>red buk</em>.</p>
-  <h2>8. Possession</h2>
-  <p>Nom + possesseur : <em>haus mi</em> = ma maison, <em>buk yu</em> = ton livre. On peut ajouter <strong>of</strong> pour la clarté, mais ce n’est pas obligatoire : <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la maison de mon frère.</p>
-  <h2>9. Prépositions</h2>
-  <p>Utiliser : <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.</p>
-  <h2>10. Connecteurs</h2>
-  <p><strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.</p>
-  <h2>11. Composés</h2>
-  <p>Mots joints par un trait d’union si utile : <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.</p>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Grammaire</a></p>
+<Layout lang={lang} title={gr.metaTitle} description={gr.metaDescription}>
+  <h1>{gr.h1}</h1>
+  <p>{gr.intro}</p>
+  <h2>{gr.sectionPronounsTitle}</h2>
+  <p set:html={gr.sectionPronounsBody} />
+  <h2>{gr.sectionWordOrderTitle}</h2>
+  <p set:html={gr.sectionWordOrderBody} />
+  <h2>{gr.sectionVerbsTitle}</h2>
+  <p set:html={gr.sectionVerbsBody} />
+  <h2>{gr.sectionNegationTitle}</h2>
+  <p set:html={gr.sectionNegationBody} />
+  <h2>{gr.sectionQuestionsTitle}</h2>
+  <p set:html={gr.sectionQuestionsBody} />
+  <h2>{gr.sectionPluralTitle}</h2>
+  <p set:html={gr.sectionPluralBody} />
+  <h2>{gr.sectionArticlesTitle}</h2>
+  <p set:html={gr.sectionArticlesBody} />
+  <h2>{gr.sectionAdjectivesTitle}</h2>
+  <p set:html={gr.sectionAdjectivesBody} />
+  <h2>{gr.sectionPossessionTitle}</h2>
+  <p set:html={gr.sectionPossessionBody} />
+  <h2>{gr.sectionPrepositionsTitle}</h2>
+  <p set:html={gr.sectionPrepositionsBody} />
+  <h2>{gr.sectionConnectorsTitle}</h2>
+  <p set:html={gr.sectionConnectorsBody} />
+  <h2>{gr.sectionCompoundsTitle}</h2>
+  <p set:html={gr.sectionCompoundsBody} />
+  <h2>{t.grammarNumbers.h2}</h2>
+  <p>{t.grammarNumbers.intro}</p>
+  <p>34 → <strong>tri ten for</strong> ({t.grammarNumbers.ex34Paren})</p>
+  <p>3253 → <strong>tri dausand tu hundrad faiv ten tri</strong> ({t.grammarNumbers.ex3253Paren})</p>
+  <p>{t.grammarNumbers.digits}</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>{gr.backToGrammarOverview}</a></p>
 </Layout>

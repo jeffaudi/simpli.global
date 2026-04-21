@@ -3,34 +3,40 @@ import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
+const gr = t.grammarRulesPage;
 ---
 
-<Layout lang={lang} title="Grammar rules" description="Full list of Simpli grammar rules.">
-  <h1>{t.grammarRulesPage.h1}</h1>
-  <p>Simpli has about 12 core rules. No conjugation, no gender, no cases.</p>
-  <h2>Pronouns: el = he, she, it</h2>
-  <p>Simpli uses one word for all third-person singular: <strong>el</strong>. There is no separate “it”; <em>el</em> is used for he, she, and it (people and things). So <em>el hav no hard gramar</em> = It has no hard grammar; <em>Yu kan lern el fast</em> = You can learn it fast.</p>
-  <h2>1. Word order</h2>
-  <p><strong>Subject – Verb – Object.</strong> Examples: <em>mi sii yu</em>, <em>wi iit rais</em>.</p>
-  <h2>2. No verb conjugation</h2>
-  <p>Verbs never change. Express time with words: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.</p>
-  <h2>3. Negation</h2>
-  <p>Put <strong>no</strong> before the verb: <em>mi no go</em>, <em>el no sii</em>.</p>
-  <h2>4. Questions</h2>
-  <p>Start with <strong>wat</strong>, <strong>hu</strong>, <strong>wer</strong>, <strong>wen</strong>, <strong>wai</strong>, <strong>hou</strong>. Example: <em>wat yu nem?</em></p>
-  <h2>5. Plural</h2>
-  <p>Optional. Use numbers or <strong>meni</strong> when needed: <em>tu buk</em>, <em>meni haus</em>.</p>
-  <h2>6. Articles</h2>
-  <p>None. No “a” or “the”; omit them.</p>
-  <h2>7. Adjectives</h2>
-  <p>Before the noun, never change form: <em>big haus</em>, <em>red buk</em>.</p>
-  <h2>8. Possession</h2>
-  <p>Noun + possessor: <em>haus mi</em> = my house, <em>buk yu</em> = your book. You can add <strong>of</strong> for clarity, but it’s not needed: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = my brother’s house.</p>
-  <h2>9. Prepositions</h2>
-  <p>Use: <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>from</strong>, <strong>to</strong>, <strong>wit</strong>, <strong>for</strong>. <em>in haus</em>, <em>from London</em>.</p>
-  <h2>10. Connectors</h2>
-  <p><strong>and</strong>, <strong>or</strong>, <strong>but</strong>, <strong>becos</strong>, <strong>so</strong>. <em>mi and yu</em>, <em>el no go becos raen</em>.</p>
-  <h2>11. Compounds</h2>
-  <p>Join words with a hyphen when useful: <em>sun-lait</em>, <em>fast-tren</em>, <em>wata-food</em>.</p>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>← Grammar overview</a></p>
+<Layout lang={lang} title={gr.metaTitle} description={gr.metaDescription}>
+  <h1>{gr.h1}</h1>
+  <p>{gr.intro}</p>
+  <h2>{gr.sectionPronounsTitle}</h2>
+  <p set:html={gr.sectionPronounsBody} />
+  <h2>{gr.sectionWordOrderTitle}</h2>
+  <p set:html={gr.sectionWordOrderBody} />
+  <h2>{gr.sectionVerbsTitle}</h2>
+  <p set:html={gr.sectionVerbsBody} />
+  <h2>{gr.sectionNegationTitle}</h2>
+  <p set:html={gr.sectionNegationBody} />
+  <h2>{gr.sectionQuestionsTitle}</h2>
+  <p set:html={gr.sectionQuestionsBody} />
+  <h2>{gr.sectionPluralTitle}</h2>
+  <p set:html={gr.sectionPluralBody} />
+  <h2>{gr.sectionArticlesTitle}</h2>
+  <p set:html={gr.sectionArticlesBody} />
+  <h2>{gr.sectionAdjectivesTitle}</h2>
+  <p set:html={gr.sectionAdjectivesBody} />
+  <h2>{gr.sectionPossessionTitle}</h2>
+  <p set:html={gr.sectionPossessionBody} />
+  <h2>{gr.sectionPrepositionsTitle}</h2>
+  <p set:html={gr.sectionPrepositionsBody} />
+  <h2>{gr.sectionConnectorsTitle}</h2>
+  <p set:html={gr.sectionConnectorsBody} />
+  <h2>{gr.sectionCompoundsTitle}</h2>
+  <p set:html={gr.sectionCompoundsBody} />
+  <h2>{t.grammarNumbers.h2}</h2>
+  <p>{t.grammarNumbers.intro}</p>
+  <p>34 → <strong>tri ten for</strong> ({t.grammarNumbers.ex34Paren})</p>
+  <p>3253 → <strong>tri dausand tu hundrad faiv ten tri</strong> ({t.grammarNumbers.ex3253Paren})</p>
+  <p>{t.grammarNumbers.digits}</p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar')}>{gr.backToGrammarOverview}</a></p>
 </Layout>

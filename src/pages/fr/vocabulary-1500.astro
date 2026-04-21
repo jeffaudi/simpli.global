@@ -18,21 +18,21 @@ const lang = 'fr';
   <p><strong>Nombre d’entrées :</strong> {vocabulary1500Fr.length}</p>
   <p>
     <label for="vocab-search"><strong>Recherche :</strong></label>
-    <input id="vocab-search" type="search" placeholder="Saisir Simpli ou français..." autocomplete="off" />
+    <input id="vocab-search" type="search" placeholder="Saisir français ou Simpli..." autocomplete="off" />
   </p>
 
   <table id="vocab-table">
     <thead>
       <tr>
-        <th>Simpli</th>
         <th>Français</th>
+        <th>Simpli</th>
       </tr>
     </thead>
     <tbody>
       {vocabulary1500Fr.map((entry) => (
         <tr>
-          <td><code>{entry.simpli}</code></td>
           <td>{entry.translation}</td>
+          <td><code>{entry.simpli}</code></td>
         </tr>
       ))}
     </tbody>

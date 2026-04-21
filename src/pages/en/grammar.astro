@@ -5,18 +5,24 @@ const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
 ---
 
-<Layout lang={lang} title={t.nav.grammar} description="Simpli grammar: analytic, minimal rules.">
+<Layout lang={lang} title={t.nav.grammar} description={t.pages.grammar.metaDescription}>
   <h1>{t.nav.grammar}</h1>
-  <p>Simpli uses an <strong>analytic grammar</strong> inspired by Indonesian.</p>
+  <p set:html={t.grammarOverview.lead} />
   <ul>
-    <li><strong>Pronouns:</strong> One word for he, she, and it: <strong>el</strong>. Simpli does not have a separate “it”; <em>el</em> is used for all third-person singular (people and things). So: <em>el go</em> = he/she/it goes, <em>El hav no hard gramar</em> = It has no hard grammar.</li>
-    <li><strong>Word order:</strong> Subject – Verb – Object.</li>
-    <li><strong>Verbs:</strong> Never change form. Time with words (yesterde, now, tumoro).</li>
-    <li><strong>Possession:</strong> Noun + possessor: <em>haus mi</em> = my house. You can add <em>of</em> for clarity, but it’s not needed: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = my brother’s house.</li>
-    <li><strong>Plurals:</strong> Optional.</li>
-    <li><strong>Questions:</strong> Start with wat, hu, wer, wen, wai, hou.</li>
+    <li set:html={t.grammarOverview.bulletPronouns} />
+    <li set:html={t.grammarOverview.bulletWordOrder} />
+    <li set:html={t.grammarOverview.bulletVerbs} />
+    <li set:html={t.grammarOverview.bulletPossession} />
+    <li set:html={t.grammarOverview.bulletPlurals} />
+    <li set:html={t.grammarOverview.bulletQuestions} />
+    <li>
+      <strong>{t.grammarPage.numbersBulletTitle}</strong>
+      {' '}
+      {t.grammarPage.numbersBulletBody}{' '}
+      <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{t.grammarPage.numbersBulletLink}</a>
+    </li>
   </ul>
-  <p><a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>View full list of grammar rules →</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{t.grammarOverview.fullListLink}</a></p>
 </Layout>
 
 <style>

@@ -5,18 +5,20 @@ const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
 ---
 
-<Layout lang={lang} title={t.nav.roots} description="Simpli roots: real languages and current global usage.">
+<Layout lang={lang} title={t.nav.roots} description={t.pages.roots.metaDescription}>
   <h1>{t.nav.roots}</h1>
-  <p>Simpli is not invented from scratch. It is <strong>rooted in real languages and current usage</strong>.</p>
-  <h2>Grammar</h2>
-  <p>The grammar is inspired by <strong>Indonesian</strong>: analytic structure, no verb conjugation, no grammatical gender, optional plurals.</p>
-  <h2>Vocabulary</h2>
-  <p>The vocabulary is based on <strong>English</strong>—simplified and regularized.</p>
-  <h2>Why this mix?</h2>
-  <p>Familiar vocabulary + minimal grammar = fast learning.</p>
+  <p set:html={t.pages.roots.leadP} />
+  <h2>{t.pages.roots.grammarH2}</h2>
+  <p set:html={t.pages.roots.grammarP} />
+  <h2>{t.pages.roots.vocabularyH2}</h2>
+  <p set:html={t.pages.roots.vocabularyP} />
+  <h2>{t.pages.roots.spellingH2}</h2>
+  <p set:html={t.pages.roots.spellingP} />
+  <h2>{t.pages.roots.whyH2}</h2>
+  <p>{t.pages.roots.whyP}</p>
   <p>
-    <a href={getRelativeLocaleUrl(lang, 'grammar')}>Grammar rules</a>
+    <a href={getRelativeLocaleUrl(lang, 'grammar')}>{t.pages.roots.linkGrammar}</a>
     {' · '}
-    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>Essential words</a>
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>{t.pages.roots.linkVocabulary}</a>
   </p>
 </Layout>
