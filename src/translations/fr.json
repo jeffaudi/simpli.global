@@ -57,7 +57,7 @@
     "sectionWordOrderTitle": "1. Ordre des mots",
     "sectionWordOrderBody": "<strong>Sujet – Verbe – Objet.</strong> Exemples : <em>mi sii yu</em>, <em>wi iit rais</em>.",
     "sectionVerbsTitle": "2. Pas de conjugaison",
-    "sectionVerbsBody": "Les verbes ne changent jamais. Le temps avec des mots : <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.",
+    "sectionVerbsBody": "Les verbes ne changent jamais. Le temps s’exprime avec des particules fixes <strong>avant le verbe</strong> : <em>did</em> (passé), <em>now</em> (en cours), <em>wil</em> (futur). Exemples : <em>mi did go</em> (je suis allé), <em>mi now go</em> (je suis en train d’aller), <em>mi wil go</em> (j’irai). Marqueurs d’aspect optionnels : <em>olredi</em> (déjà), <em>stil</em> (encore), <em>not-yet</em> (pas encore).",
     "sectionNegationTitle": "3. Négation",
     "sectionNegationBody": "<strong>no</strong> devant le verbe : <em>mi no go</em>, <em>el no sii</em>.",
     "sectionQuestionsTitle": "4. Questions",
@@ -131,7 +131,7 @@
       "linkGrammar": "Règles de grammaire",
       "linkVocabulary": "Mots essentiels",
       "spellingH2": "Orthographe",
-      "spellingP": "L’orthographe régularisée s’inspire aussi de l’<strong>espagnol</strong> : les emprunts sont adaptés aux normes graphophonétiques de la langue plutôt que calqués sur l’orthographe historique anglaise, ce qui permet d’intégrer la plupart des mots étrangers proprement. Simpli suit une logique voisine. Exemple : <strong>footbal → futbol</strong>—le même type d’adaptation en espagnol et en Simpli (à comparer avec l’anglais <em>football</em>)."
+      "spellingP": "L’orthographe régularisée s’inspire aussi de l’<strong>espagnol</strong> : les emprunts sont adaptés aux normes graphophonétiques de la langue plutôt que calqués sur l’orthographe historique anglaise, ce qui permet d’intégrer la plupart des mots étrangers proprement. Simpli suit une logique voisine. Exemple : <strong>football → futbol</strong>—le même type d’adaptation en espagnol et en Simpli)."
     },
     "grammar": {
       "metaDescription": "Grammaire Simpli : analytique, règles minimales."
@@ -166,7 +166,7 @@
     "lead": "Simpli utilise une <strong>grammaire analytique</strong> inspirée de l’indonésien.",
     "bulletPronouns": "<strong>Pronoms :</strong> Un seul mot pour he, she et it : <strong>el</strong>. Simpli n’a pas d’« it » à part ; <em>el</em> sert pour toute la 3<sup>e</sup> personne du singulier (personnes et choses). Donc : <em>el go</em> = il/elle va, <em>El hav no hard gramar</em> = Ça n’a pas de grammaire difficile.",
     "bulletWordOrder": "<strong>Ordre des mots :</strong> Sujet – Verbe – Objet.",
-    "bulletVerbs": "<strong>Verbes :</strong> La forme ne change jamais. Le temps avec des mots (yesterde, now, tumoro).",
+    "bulletVerbs": "<strong>Verbes :</strong> La forme ne change jamais. Le temps avec des particules avant le verbe : <em>did</em> (passé), <em>now</em> (en cours), <em>wil</em> (futur).",
     "bulletPossession": "<strong>Possession :</strong> Nom + possesseur : <em>haus mi</em> = ma maison. On peut ajouter <em>of</em> pour la clarté, mais ce n’est pas obligatoire : <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la maison de mon frère.",
     "bulletPlurals": "<strong>Pluriel :</strong> Optionnel.",
     "bulletQuestions": "<strong>Questions :</strong> Commencer par wat, hu, wer, wen, wai, hou.",

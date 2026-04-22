@@ -57,7 +57,7 @@
     "sectionWordOrderTitle": "1. Orden de palabras",
     "sectionWordOrderBody": "<strong>Sujeto – Verbo – Objeto.</strong> Ejemplos: <em>mi sii yu</em>, <em>wi iit rais</em>.",
     "sectionVerbsTitle": "2. Sin conjugación verbal",
-    "sectionVerbsBody": "Los verbos no cambian. El tiempo con palabras: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.",
+    "sectionVerbsBody": "Los verbos no cambian. El tiempo se expresa con partículas fijas <strong>antes del verbo</strong>: <em>did</em> (pasado), <em>now</em> (en curso), <em>wil</em> (futuro). Ejemplos: <em>mi did go</em> (fui), <em>mi now go</em> (estoy yendo), <em>mi wil go</em> (iré). Marcadores de aspecto opcionales: <em>olredi</em> (ya), <em>stil</em> (todavía), <em>not-yet</em> (aún no).",
     "sectionNegationTitle": "3. Negación",
     "sectionNegationBody": "<strong>no</strong> delante del verbo: <em>mi no go</em>, <em>el no sii</em>.",
     "sectionQuestionsTitle": "4. Preguntas",
@@ -131,7 +131,7 @@
       "linkGrammar": "Reglas de gramática",
       "linkVocabulary": "Palabras esenciales",
       "spellingH2": "Ortografía",
-      "spellingP": "La ortografía regularizada se inspira también en el <strong>español</strong>: los préstamos se adaptan a las normas fonográficas del idioma en lugar de importar grafías históricas del inglés, de modo que casi cualquier palabra extranjera puede integrarse con formas claras. Simpli sigue una idea parecida. Ejemplo: <strong>footbal → futbol</strong>—el mismo tipo de adaptación en español y en Simpli (véase el inglés <em>football</em>)."
+      "spellingP": "La ortografía regularizada se inspira también en el <strong>español</strong>: los préstamos se adaptan a las normas fonográficas del idioma en lugar de importar grafías históricas del inglés, de modo que casi cualquier palabra extranjera puede integrarse con formas claras. Simpli sigue una idea parecida. Ejemplo: <strong>football → futbol</strong>—el mismo tipo de adaptación en español y en Simpli."
     },
     "grammar": {
       "metaDescription": "Gramática de Simpli: analítica, reglas mínimas."
@@ -166,7 +166,7 @@
     "lead": "Simpli usa una <strong>gramática analítica</strong> inspirada en el indonesio.",
     "bulletPronouns": "<strong>Pronombres:</strong> Un solo pronombre para he, she e it: <strong>el</strong>. Simpli no tiene un « it » aparte; <em>el</em> se usa para toda la 3.ª persona del singular (personas y cosas). Así: <em>el go</em> = él/ella va, <em>El hav no hard gramar</em> = No tiene gramática difícil.",
     "bulletWordOrder": "<strong>Orden de palabras:</strong> Sujeto – Verbo – Objeto.",
-    "bulletVerbs": "<strong>Verbos:</strong> Nunca cambian de forma. El tiempo con palabras (yesterde, now, tumoro).",
+    "bulletVerbs": "<strong>Verbos:</strong> Nunca cambian de forma. El tiempo con partículas antes del verbo: <em>did</em> (pasado), <em>now</em> (en curso), <em>wil</em> (futuro).",
     "bulletPossession": "<strong>Posesión:</strong> Nombre + poseedor: <em>haus mi</em> = mi casa. Se puede añadir <em>of</em> para claridad, pero no es necesario: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = la casa de mi hermano.",
     "bulletPlurals": "<strong>Plural:</strong> Opcional.",
     "bulletQuestions": "<strong>Preguntas:</strong> Empiezan con wat, hu, wer, wen, wai, hou.",

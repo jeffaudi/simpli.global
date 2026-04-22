@@ -64,7 +64,12 @@ There is no *th*, *z*, *sh* in the inventory as in English; they map to other le
 
 0. **Pronouns:** One word for third-person singular: *el* = he, she, it. No separate “it”; *el* is used for people and things.
 1. **Word order:** Subject – Verb – Object.
-2. **No verb conjugation.** Time with words: yesterde, now, tumoro.
+2. **No verb conjugation.** Verbs never change. Express time and aspect with fixed particles (before the verb):
+   - **Past:** *did* + verb → *mi did go* (I went)
+   - **Ongoing (present progressive):** *now* + verb → *mi now go* (I am going)
+   - **Future:** *wil* + verb → *mi wil go* (I will go)
+   - **Optional aspect markers:** *olredi* (already), *stil* (still), *not-yet* (not yet) — used when needed for clarity.
+   - Time words like *yesterde*, *tumoro* can be added for precision but are not required when a particle is present.
 3. **Negation:** *no* before the verb.
 4. **Questions:** Start with wat, hu, wer, wen, wai, hou.
 5. **Plural:** Optional; numbers or *meni*.

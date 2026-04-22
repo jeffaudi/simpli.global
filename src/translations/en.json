@@ -57,7 +57,7 @@
     "sectionWordOrderTitle": "1. Word order",
     "sectionWordOrderBody": "<strong>Subject – Verb – Object.</strong> Examples: <em>mi sii yu</em>, <em>wi iit rais</em>.",
     "sectionVerbsTitle": "2. No verb conjugation",
-    "sectionVerbsBody": "Verbs never change. Express time with words: <em>yesterde</em>, <em>now</em>, <em>tumoro</em>. <em>mi go</em>, <em>el go</em>, <em>dey go</em>.",
+    "sectionVerbsBody": "Verbs never change. Express time with fixed particles <strong>before the verb</strong>: <em>did</em> (past), <em>now</em> (ongoing), <em>wil</em> (future). Examples: <em>mi did go</em> (I went), <em>mi now go</em> (I am going), <em>mi wil go</em> (I will go). Optional aspect markers: <em>olredi</em> (already), <em>stil</em> (still), <em>not-yet</em> (not yet).",
     "sectionNegationTitle": "3. Negation",
     "sectionNegationBody": "Put <strong>no</strong> before the verb: <em>mi no go</em>, <em>el no sii</em>.",
     "sectionQuestionsTitle": "4. Questions",
@@ -131,7 +131,7 @@
       "linkGrammar": "Grammar rules",
       "linkVocabulary": "Essential words",
       "spellingH2": "Spelling",
-      "spellingP": "Regularized spelling also draws inspiration from <strong>Spanish</strong>. Spanish typically adapts loanwords to its own sound–letter norms instead of keeping English-style historical spellings—so almost any foreign word can be integrated cleanly. Simpli follows a similar idea. Example: <strong>footbal → futbol</strong>—the same kind of adaptation in Spanish and in Simpli (compare English <em>football</em>)."
+      "spellingP": "Regularized spelling also draws inspiration from <strong>Spanish</strong>. Spanish typically adapts loanwords to its own sound–letter norms instead of keeping English-style historical spellings—so almost any foreign word can be integrated cleanly. Simpli follows a similar idea. Example: <strong>football → futbol</strong>—the same kind of adaptation in Spanish and in Simpli."
     },
     "grammar": {
       "metaDescription": "Simpli grammar: analytic, minimal rules."
@@ -166,7 +166,7 @@
     "lead": "Simpli uses an <strong>analytic grammar</strong> inspired by Indonesian.",
     "bulletPronouns": "<strong>Pronouns:</strong> One word for he, she, and it: <strong>el</strong>. Simpli does not have a separate “it”; <em>el</em> is used for all third-person singular (people and things). So: <em>el go</em> = he/she/it goes, <em>El hav no hard gramar</em> = It has no hard grammar.",
     "bulletWordOrder": "<strong>Word order:</strong> Subject – Verb – Object.",
-    "bulletVerbs": "<strong>Verbs:</strong> Never change form. Time with words (yesterde, now, tumoro).",
+    "bulletVerbs": "<strong>Verbs:</strong> Never change form. Time with particles before the verb: <em>did</em> (past), <em>now</em> (ongoing), <em>wil</em> (future).",
     "bulletPossession": "<strong>Possession:</strong> Noun + possessor: <em>haus mi</em> = my house. You can add <em>of</em> for clarity, but it’s not needed: <em>haus (of) mi</em>, <em>haus (of) broder (of) mi</em> = my brother’s house.",
     "bulletPlurals": "<strong>Plurals:</strong> Optional.",
     "bulletQuestions": "<strong>Questions:</strong> Start with wat, hu, wer, wen, wai, hou.",
