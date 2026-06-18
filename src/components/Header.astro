@@ -11,23 +11,50 @@ interface Props {
 const { t } = Astro.props;
 const locale = Astro.currentLocale as Lang;
 
-const isActive = (path: string) =>
-  getRelativeLocaleUrl(locale, path) === Astro.url.pathname;
+const isActive = (path: string) => {
+  const href = getRelativeLocaleUrl(locale, path);
+  if (path === '/') {
+    return Astro.url.pathname === href;
+  }
+  return Astro.url.pathname === href || Astro.url.pathname.startsWith(`${href}/`);
+};
 
-const navItems = [
-  { path: '/', key: 'home' },
-  { path: '/motivation', key: 'motivation' },
-  { path: '/roots', key: 'roots' },
-  { path: '/grammar', key: 'grammar' },
-  { path: '/vocabulary', key: 'vocabulary' },
-  { path: '/lessons', key: 'lessons' },
-  { path: '/tools', key: 'tools' },
-  { path: '/spelling', key: 'spelling' },
-  { path: '/comparison', key: 'comparison' },
-  { path: '/samples', key: 'samples' },
-  { path: '/discussion', key: 'discussionTopics' },
-  { path: '/next-steps', key: 'nextSteps' },
-  { path: '/specification', key: 'specification' },
+type NavItem = { path: string; key: string };
+
+const navGroups: { groupKey: string; items: NavItem[] }[] = [
+  {
+    groupKey: 'groupAbout',
+    items: [
+      { path: '/motivation', key: 'motivation' },
+      { path: '/roots', key: 'roots' },
+      { path: '/comparison', key: 'comparison' },
+      { path: '/samples', key: 'samples' },
+    ],
+  },
+  {
+    groupKey: 'groupLearn',
+    items: [
+      { path: '/lessons', key: 'lessons' },
+      { path: '/tools', key: 'tools' },
+      { path: '/vocabulary', key: 'vocabulary' },
+      { path: '/media', key: 'media' },
+    ],
+  },
+  {
+    groupKey: 'groupReference',
+    items: [
+      { path: '/grammar', key: 'grammar' },
+      { path: '/spelling', key: 'spelling' },
+      { path: '/specification', key: 'specification' },
+    ],
+  },
+  {
+    groupKey: 'groupCommunity',
+    items: [
+      { path: '/discussion', key: 'discussionTopics' },
+      { path: '/next-steps', key: 'nextSteps' },
+    ],
+  },
 ];
 ---
 
@@ -38,21 +65,36 @@ const navItems = [
 
   <LocaleSelect />
 
-  <nav class="l-content">
-    <ul>
-      {
-        navItems.map(({ path, key }) => (
-          <li>
-            <a
-              href={getRelativeLocaleUrl(locale, path)}
-              class:list={[isActive(path) && 'active']}
-            >
-              {t.nav[key] ?? key}
-            </a>
-          </li>
-        ))
-      }
+  <nav class="l-content" aria-label="Main">
+    <ul class="nav-home">
+      <li>
+        <a
+          href={getRelativeLocaleUrl(locale, '/')}
+          class:list={[isActive('/') && 'active']}
+        >
+          {t.nav.home ?? 'Home'}
+        </a>
+      </li>
     </ul>
+    {
+      navGroups.map(({ groupKey, items }) => (
+        <div class="nav-group">
+          <span class="nav-group-label">{t.nav[groupKey] ?? groupKey}</span>
+          <ul>
+            {items.map(({ path, key }) => (
+              <li>
+                <a
+                  href={getRelativeLocaleUrl(locale, path)}
+                  class:list={[isActive(path) && 'active']}
+                >
+                  {t.nav[key] ?? key}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
   </nav>
 </header>
 
@@ -79,12 +121,42 @@ const navItems = [
     }
   }
 
-  nav ul {
+  nav {
+    width: 100%;
+    max-width: 52rem;
+  }
+
+  .nav-home {
+    display: flex;
+    justify-content: center;
+    margin-block-start: var(--sp-s);
+    padding: 0;
+    list-style: none;
+  }
+
+  .nav-group {
+    margin-block-start: var(--sp-s);
+  }
+
+  .nav-group-label {
+    display: block;
+    text-align: center;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted, #666);
+    margin-block-end: 0.25em;
+  }
+
+  .nav-group ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: var(--sp-s);
-    margin-block-start: var(--sp-s);
+    margin: 0;
+    padding: 0;
+    list-style: none;
   }
 
   nav a {

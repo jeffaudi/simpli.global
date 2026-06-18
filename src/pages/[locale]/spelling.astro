@@ -1,0 +1,33 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { renderPageMarkdown } from '@/content/load';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const html = renderPageMarkdown('spelling', lang);
+---
+
+<Layout lang={lang} title={t.nav.spelling} description={t.pages.spelling.metaDescription}>
+  <h1>{t.nav.spelling}</h1>
+  <article class="page-markdown" set:html={html} />
+</Layout>
+
+<style>
+  .page-markdown :global(ul.letter-list) {
+    padding-left: 1.25em;
+    list-style: disc;
+    margin: 0.5em 0 1em;
+  }
+  .page-markdown :global(ul),
+  .page-markdown :global(ol) {
+    padding-left: 1.25em;
+    margin: 0.5em 0 1em;
+  }
+</style>

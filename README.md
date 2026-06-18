@@ -10,7 +10,7 @@ Target: basic conversation in **~30–80 hours** for people who already know som
 
 ## Website
 
-The public site is **[simpli.global](https://simpli.global)**. This repository builds that multilingual (English, French, Spanish) site: the language concept, motivation, roots, grammar, vocabulary, spelling, comparison with other languages, sample texts, starter lessons, lookup tools, media downloads, and next steps (community, reference materials, promotion).
+The public site is **[simpli.global](https://simpli.global)**. This repository builds that multilingual site (English, French, Spanish, and ten Asian locales) covering the language concept, motivation, roots, grammar, vocabulary, spelling, comparison, sample texts, starter lessons, lookup tools, media downloads, and next steps.
 
 Page folder documentation lives in [`src/pages/_README.md`](src/pages/_README.md) (underscore prefix — Astro ignores it as a route).
 
@@ -38,16 +38,21 @@ Copy `.env.example` to `.env` and set **`PUBLIC_DISCORD_INVITE_URL`**, **`PUBLIC
 
 The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 
-- **URLs:** `/[locale]/` for every page (e.g. `/en/`, `/fr/`, `/es/`). Root `/` redirects to `/en/`.
-- **Content:** Page files live under `src/pages/en/`, `src/pages/fr/`, `src/pages/es/`. UI strings are in `src/translations/[locale].json`.
-- **Layout:** `src/layouts/Base.astro` (from the theme); header/footer and language switcher in `src/components/`.
-- **Fallback:** Configured in `astro.config.mjs`; sitemap includes all locales.
+- **URLs:** `/[locale]/` for every page (e.g. `/en/`, `/zh/`, `/id/`). Root `/` redirects to `/en/`.
+- **Templates:** One shared tree under `src/pages/[locale]/` (not per-locale copies).
+- **Content:** UI strings in `src/translations/[locale].json`; long pedagogy in `src/page-markdown/`; structured blocks in `src/data/*-content.ts`.
+- **Layout:** `src/layouts/Base.astro`; script-specific fonts via `src/lib/fonts.ts`.
+- **Fallback:** New locales fall back to English in `astro.config.mjs` until translated.
+
+**Locales (13):** `en`, `fr`, `es`, `zh`, `ja`, `ko`, `vi`, `th`, `km`, `lo`, `fil`, `id`, `ms`.
 
 ### Adding a new language
 
-1. Add the locale to `astro.config.mjs` (`i18n.locales`) and `src/locales.ts` (`LOCALES_SETTING`).
-2. Create `src/pages/[new-locale]/` and add one `.astro` file per page (copy from `en/`, set `lang = '[new-locale]'` and load the new translation file).
-3. Create `src/translations/[new-locale].json` with the same keys as `en.json`, translated.
+1. Add the locale to `astro.config.mjs` (`i18n.locales` + `fallback`) and `src/locales.ts` (`LOCALES_SETTING` with `script` and `region`).
+2. Create `src/translations/[locale].json` (copy `en.json`, translate keys).
+3. Add markdown under `src/page-markdown/{slug}/[locale].md` where needed; optional `npm run vocab:5000:i18n -- --locale [code]` for dictionary glosses.
+
+No new `.astro` route files are required.
 
 ## Spec (reference)
 

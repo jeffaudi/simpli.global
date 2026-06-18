@@ -3,7 +3,7 @@ export const dialogueExample = `wer yu fram?
 mi fram frans.
 
 yu liv hir?
-yes, yu liv hir now.
+yes, mi liv hir now.
 
 wat yu du?
 mi wok wit kampyuter and langwidj.`;

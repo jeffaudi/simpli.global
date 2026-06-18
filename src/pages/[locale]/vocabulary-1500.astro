@@ -1,0 +1,75 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { glossFor1500, loadVocabulary1500 } from '@/data/vocabulary-locale';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const vp = t.vocabulary1500Page;
+const vocabulary1500 = await loadVocabulary1500(lang);
+const jsonHref = getRelativeLocaleUrl(lang, 'vocabulary-1500.json');
+const csvHref = getRelativeLocaleUrl(lang, 'vocabulary-1500.csv');
+---
+
+<Layout lang={lang} title={vp.h1} description={vp.metaDescription}>
+  <h1>{vp.h1}</h1>
+  <p>{vp.intro}</p>
+  <p><strong>{vp.totalLabel}</strong> {vocabulary1500.length}</p>
+  <p class="downloads">
+    <strong>{vp.downloadsHeading}:</strong>{' '}
+    <a href={jsonHref} download={`simpli-vocabulary-1500-${lang}.json`}>{vp.jsonLink}</a>
+    {' · '}
+    <a href={csvHref} download={`simpli-vocabulary-1500-${lang}.csv`}>{vp.csvLink}</a>
+    <span class="downloads-hint"> — {vp.downloadsHint}</span>
+  </p>
+  <p>
+    <label for="vocab-search"><strong>{vp.searchLabel}</strong></label>
+    <input id="vocab-search" type="search" placeholder={vp.searchPlaceholder} autocomplete="off" />
+  </p>
+
+  <table id="vocab-table">
+    <thead>
+      <tr>
+        <th>{vp.columnGloss}</th>
+        <th>{vp.columnSimpli}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {vocabulary1500.map((entry) => (
+        <tr>
+          <td>{glossFor1500(lang, entry)}</td>
+          <td><code>{entry.simpli}</code></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Layout>
+
+<script>
+  const input = document.querySelector('#vocab-search');
+  const table = document.querySelector('#vocab-table');
+  const rows = Array.from(table?.querySelectorAll('tbody tr') ?? []);
+
+  if (input && rows.length > 0) {
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      for (const row of rows) {
+        const text = row.textContent?.toLowerCase() ?? '';
+        row.style.display = q === '' || text.includes(q) ? '' : 'none';
+      }
+    });
+  }
+</script>
+
+<style>
+  .downloads-hint {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>

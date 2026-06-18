@@ -1,0 +1,32 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const r = t.pages.roots;
+---
+
+<Layout lang={lang} title={t.nav.roots} description={r.metaDescription}>
+  <h1>{t.nav.roots}</h1>
+  <p set:html={r.leadP} />
+  <h2>{r.grammarH2}</h2>
+  <p set:html={r.grammarP} />
+  <h2>{r.vocabularyH2}</h2>
+  <p set:html={r.vocabularyP} />
+  <h2>{r.spellingH2}</h2>
+  <p set:html={r.spellingP} />
+  <h2>{r.whyH2}</h2>
+  <p>{r.whyP}</p>
+  <p>
+    <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{r.linkGrammar}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'essential-words')}>{r.linkVocabulary}</a>
+  </p>
+</Layout>

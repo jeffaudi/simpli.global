@@ -1,0 +1,81 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { essentialWords } from '@/data/essential-words';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects', 'adjectives', 'connectors'] as const;
+---
+
+<Layout lang={lang} title={t.essentialWordsPage.h1} description="Simpli core vocabulary by category.">
+  <h1>{t.essentialWordsPage.h1}</h1>
+  <p>{t.essentialWordsPage.intro}</p>
+  <p class="filter-row">
+    <label for="essential-filter"><strong>{t.essentialWordsPage.filterLabel}</strong></label>
+    <input
+      id="essential-filter"
+      type="search"
+      placeholder={t.essentialWordsPage.filterPlaceholder}
+      autocomplete="off"
+    />
+  </p>
+  {
+    categories.map((cat) => (
+      <section data-essential-words={essentialWords[cat].join(' ')}>
+        <h2>{t.words[cat]}</h2>
+        {cat === 'pronouns' ? (
+          <>
+            <p class="word-list">{essentialWords[cat].join(' · ')}</p>
+            <p class="word-note" set:html={t.essentialWordsPage.elNote} />
+          </>
+        ) : (
+          <p class="word-list">{essentialWords[cat].join(' · ')}</p>
+        )}
+      </section>
+    ))
+  }
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>{t.essentialWordsPage.backToVocabulary}</a></p>
+</Layout>
+
+<script>
+  const input = document.querySelector('#essential-filter') as HTMLInputElement | null;
+  const sections = document.querySelectorAll<HTMLElement>('[data-essential-words]');
+  input?.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    for (const sec of sections) {
+      const hay = sec.getAttribute('data-essential-words')?.toLowerCase() ?? '';
+      sec.style.display = !q || hay.includes(q) ? '' : 'none';
+    }
+  });
+</script>
+
+<style>
+  .filter-row {
+    margin-bottom: 1.25em;
+  }
+  .filter-row input {
+    display: block;
+    margin-top: 0.35em;
+    width: 100%;
+    max-width: 24rem;
+    padding: 0.4em 0.6em;
+    font-size: 1rem;
+  }
+  .word-list {
+    font-family: ui-monospace, monospace;
+    font-size: 0.95rem;
+    line-height: 1.8;
+  }
+  .word-note {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+    margin-top: 0.25em;
+  }
+</style>

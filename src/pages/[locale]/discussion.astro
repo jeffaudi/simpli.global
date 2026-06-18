@@ -1,0 +1,54 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import DiscussionCommunitySection from '@/components/DiscussionCommunitySection.astro';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+---
+
+<Layout
+  lang={lang}
+  title={t.nav.discussionTopics}
+  description="Topics for discussion: Simpli is new and benefits from community input. Join Discord or email when invites are configured."
+>
+  <h1>{t.nav.discussionTopics}</h1>
+  <p>{t.discussion.intro}</p>
+  <p>{t.discussion.intro2}</p>
+
+  <section class="discussion-topics">
+    <article class="card topic">
+      <h2>{t.discussion.topicChTitle}</h2>
+      <p>{t.discussion.topicChDesc}</p>
+    </article>
+    <article class="card topic">
+      <h2>{t.discussion.topicVwTitle}</h2>
+      <p>{t.discussion.topicVwDesc}</p>
+    </article>
+    <article class="card topic">
+      <h2>{t.discussion.topicProperNounsTitle}</h2>
+      <p>{t.discussion.topicProperNounsDesc}</p>
+    </article>
+    <article class="card topic">
+      <h2>{t.discussion.topicPlaceNamesTitle}</h2>
+      <p>{t.discussion.topicPlaceNamesDesc}</p>
+    </article>
+  </section>
+
+  <DiscussionCommunitySection lang={lang} />
+</Layout>
+
+<style>
+  .discussion-topics {
+    margin: 1.5em 0;
+  }
+  .topic h2 {
+    margin-top: 0;
+    font-size: 1.15rem;
+  }
+</style>

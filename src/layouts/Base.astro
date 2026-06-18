@@ -5,6 +5,7 @@ import Header from '@/components/Header.astro';
 import LocaleHtmlHead from '@/components/i18n/LocaleHtmlHead.astro';
 import LocaleSuggest from '@/components/i18n/LocaleSuggest.astro';
 import { SITE_TITLE, SITE_DESCRIPTION, SEO_DESCRIPTION_LEAD } from '@/consts';
+import { getTranslations } from '@/lib/translations';
 import { useTranslations, LOCALES, getLocalePaths, type Lang } from '@/i18n';
 import '@/styles/global.css';
 
@@ -18,7 +19,7 @@ const { title, description, lang: propLang } = Astro.props;
 const rawLocale = propLang ?? Astro.params?.locale ?? Astro.params?.lang ?? Astro.currentLocale ?? 'en';
 const locale = (typeof rawLocale === 'string' && rawLocale in LOCALES ? rawLocale : 'en') as Lang;
 const t = useTranslations(locale);
-const tJson = (await import(`../translations/${locale}.json`)).default as Record<string, unknown>;
+const tJson = getTranslations(locale) as Record<string, unknown>;
 
 const localeTitle = title ? `${title} – ${t(SITE_TITLE)}` : t(SITE_TITLE);
 const localeDescription = description
@@ -63,10 +64,6 @@ const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href :
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap"
-    />
-    <link
-      rel="stylesheet"
       href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp&display=swap"
     />
     <LocaleHtmlHead />
@@ -77,7 +74,7 @@ const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href :
     <main class="l-main l-content">
       <slot />
     </main>
-    <Footer t={tJson} locale={locale} siteTitle={t(SITE_TITLE)} />
+    <Footer t={tJson} locale={locale} />
     {import.meta.env.DEV && (
       <style is:global>:root { scroll-behavior: auto }</style>
     )}

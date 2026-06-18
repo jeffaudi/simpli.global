@@ -13,7 +13,11 @@
     "discussionTopics": "Topics for discussion",
     "lessons": "Starter lessons",
     "tools": "Tools",
-    "media": "Media"
+    "media": "Media",
+    "groupAbout": "About",
+    "groupLearn": "Learn",
+    "groupReference": "Reference",
+    "groupCommunity": "Community"
   },
   "discussion": {
     "intro": "Simpli is still new and benefits from broad discussion.",
@@ -52,7 +56,9 @@
     "cardSpelling": "Simplified letters, phonemes, long vowels",
     "cardComparison": "vs Indonesian, English, Esperanto, Glosa, Globish",
     "cardSamples": "Important texts in Simpli",
-    "cardDiscussion": "Open topics for community debate"
+    "cardDiscussion": "Open topics for community debate",
+    "startLearningTitle": "Start learning",
+    "startLearningIntro": "New to Simpli? Try a short lesson, look up words in the dictionary tool, then read sample texts."
   },
   "grammarRulesPage": {
     "h1": "Grammar rules",
@@ -102,15 +108,35 @@
     "intro": "Core Simpli vocabulary (~300 words).",
     "backToVocabulary": "← Vocabulary overview",
     "filterLabel": "Filter:",
-    "filterPlaceholder": "Filter by Simpli word…"
+    "filterPlaceholder": "Filter by Simpli word…",
+    "elNote": "<strong>el</strong> = he, she, or it (one word for all third-person singular; no separate “it”)."
   },
   "vocabulary1500Page": {
+    "h1": "Vocabulary 1,500",
+    "metaDescription": "1,500 high-frequency Simpli vocabulary entries with English translation.",
+    "intro": "This list contains 1,500 high-frequency entries generated with the Simpli pronunciation-first workflow (CMU pronunciation to Simpli spelling), with English glosses for the English website.",
+    "totalLabel": "Total entries:",
+    "searchLabel": "Search:",
+    "searchPlaceholder": "Type English or Simpli...",
+    "columnEnglish": "English",
+    "columnGloss": "English",
+    "columnSimpli": "Simpli",
     "downloadsHeading": "Machine-readable exports",
     "jsonLink": "JSON",
     "csvLink": "CSV",
     "downloadsHint": "Same data as the table below — for spreadsheets and apps."
   },
   "vocabularyListPage": {
+    "h1": "Vocabulary 5,000",
+    "metaDescription": "5,000 high-frequency Simpli vocabulary entries with English translation.",
+    "intro": "This list extends the 1,500-word table with more high-frequency English roots mapped to Simpli spelling (CMU pronunciation → Simpli orthography). Use search to find words such as <em>evil</em> that fall outside the smaller list.",
+    "totalLabel": "Total entries:",
+    "searchLabel": "Search:",
+    "searchPlaceholder": "Type Simpli or English...",
+    "columnSimpli": "Simpli",
+    "columnGloss": "English",
+    "backTo1500": "← 1,500-word list",
+    "lookupTool": "Lookup tool",
     "downloadsHeading": "Machine-readable exports",
     "jsonLink": "JSON",
     "csvLink": "CSV",
@@ -119,6 +145,7 @@
   "motivationPage": {
     "metaDescription": "Why Simpli: egalitarian access to communication.",
     "barriersHeading": "Simpli aims to reduce barriers:",
+    "positioningHeading": "Positioning statement",
     "linkRoots": "Rooting in real languages",
     "linkComparison": "Comparison with other languages"
   },
@@ -206,6 +233,14 @@
     "governanceBody": "Language proposals: discuss on Discord or email, then reflect accepted decisions in the spec repository. The discussion page lists open themes (spelling, proper nouns, etc.).",
     "linkDiscussion": "Topics for discussion"
   },
+  "samplesPage": {
+    "intro": "Sample texts in Simpli.",
+    "humanRightsH2": "Universal Declaration of Human Rights (Article 1)",
+    "dialogueH2": "Short dialogue",
+    "whySimpliH2": "Why Simpli? (longer text)",
+    "whySimpliGlossLabel": "English:",
+    "whySimpliGloss": "Simpli is a simple language. You can learn it fast. It has no hard grammar. Words come from English but the spelling is easy. Every sound has one letter. You read what you see. Many people in the world know some English. For them Simpli is a bridge. They can use it to talk to others. They can use it for work or travel. We want the world to have one simple language. Simpli can be that language."
+  },
   "leafletPrint": {
     "title": "Simpli — one-page leaflet",
     "tagline": "A simple international language",
@@ -237,16 +272,58 @@
       "metaDescription": "Simpli spelling: simplified letters, phonemes, long vowels."
     },
     "comparison": {
-      "metaDescription": "Simpli vs Indonesian, English, Esperanto, Glosa, Globish."
+      "metaDescription": "Simpli vs Indonesian, English, Esperanto, Glosa, Globish.",
+      "intro": "Simpli vs Indonesian, English, Esperanto, Glosa, Globish.",
+      "simpleH2": "Simple: \"I see you\"",
+      "mediumH2": "Medium: \"Tomorrow, I will see you at my brother's house\"",
+      "complexH2": "More complex: \"Next week I will go to the market to buy food for my family\"",
+      "colLanguage": "Language",
+      "colSentence": "Sentence",
+      "takeawayP": "<strong>Takeaway:</strong> Simpli is simpler than Esperanto, more regular than English, more intuitive than Glosa.",
+      "notEnglishP": "Simpli is not “simplified English.” It does not aim to replace English. You can still learn English and enjoy English literature and books while using Simpli as an auxiliary bridge language."
     },
     "samples": {
       "metaDescription": "Important texts translated into Simpli."
+    },
+    "vocabulary": {
+      "metaDescription": "Simpli vocabulary: why English-based, core size, spelling, compounds.",
+      "leadP": "Simpli vocabulary is <strong>based on English</strong>, simplified and written phonetically. Below we explain why we chose English rather than another language or invented words, then how the vocabulary works.",
+      "whyH2": "Why English (and not another language or from scratch)?",
+      "whyLeadP": "We use <strong>English-derived</strong> words for practical reasons, not because English is “better” or more neutral. The goal is to lower the barrier to a shared language.",
+      "whyBullet1": "<strong>Already widely learned:</strong> More people learn English as a second language than any other. Hundreds of millions already know some English from school, work, or media. Using familiar roots gives them a head start instead of starting from zero.",
+      "whyBullet2": "<strong>International use:</strong> English is already used in science, technology, business, and travel. Many terms (computer, hotel, internet, etc.) are already global. Simpli builds on that exposure so new words feel recognizable.",
+      "whyBullet3": "<strong>Why not another language?</strong> Spanish, French, Mandarin, or Arabic are also global, but fewer people learn them as a second language worldwide. Choosing one of them would help some learners and leave others with no prior exposure. English, as the most common L2, gives the largest “transfer” benefit.",
+      "whyBullet4": "<strong>Why not from scratch?</strong> A fully invented (a priori) vocabulary would be maximally neutral—no nation “owns” it—but it would be much harder to learn. There would be no cognates or familiar roots. Simpli prioritizes quick learnability so that more people can actually use it; English roots are a practical compromise.",
+      "whyCloseP": "So: we use English as a <strong>base for recognition and speed</strong>, not as a statement that English is superior. The grammar is simplified and the spelling is regular, so Simpli is still its own system—just one that many can learn faster because the words look and sound familiar.",
+      "howH2": "How the vocabulary works",
+      "howBullet1": "<strong>Core size:</strong> About 300–500 essential words for everyday use; the list can be extended as needed.",
+      "howBullet2": "<strong>Spelling:</strong> One sound = one letter; long vowels doubled (<em>rad</em> vs <em>rood</em>). See Spelling and Alphabet rationale.",
+      "howBullet3": "<strong>Compounds:</strong> New ideas from existing words: <em>sun-lait</em>, <em>woter-fud</em>, <em>langwidj-stadi</em>.",
+      "linkEssential": "View list of essential words →",
+      "link5000": "View 5,000-word dictionary →",
+      "link1500": "View 1,500-word vocabulary list (compact) →"
+    },
+    "specification": {
+      "metaDescription": "Official Simpli language specification: alphabet, spelling, grammar, vocabulary.",
+      "leadP": "This page links to the <strong>full, archived, numbered</strong> Simpli specification (for citation and long-term reference). Download the PDF below.",
+      "versionH2": "Version",
+      "versionP": "<strong>Simpli v0.1</strong> (draft specification).",
+      "downloadsH2": "Downloads",
+      "pdfLink": "PDF: simpli-specification-v0.1.pdf",
+      "mdLink": "Source (Markdown): simpli-specification-v0.1.md",
+      "livingH2": "Living pages (non-archived)",
+      "livingP": "The site also keeps the same material split into pages that may evolve over time:",
+      "historyH2": "Project history",
+      "historyP": "Distilled notes on why past design choices were made. If anything here disagrees with the current spec, follow the spec.",
+      "historyLink": "Project history and rationale (Markdown)"
     }
   },
   "footer": {
-    "licenseBefore": "Content on this site is licensed under a",
-    "licenseLinkLabel": "Creative Commons Attribution 4.0 International License",
-    "licenseAfter": "(CC BY 4.0)."
+    "licenseLinkLabel": "CC BY 4.0",
+    "linkLessons": "Lessons",
+    "linkDictionary": "Dictionary",
+    "linkMedia": "Media",
+    "linkSpecification": "Specification"
   },
   "languageSwitcher": "Language",
   "words": {

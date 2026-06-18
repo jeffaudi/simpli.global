@@ -1,0 +1,27 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { dialogueExample, humanRightsArticle1, whySimpliText } from '@/data/simpli-examples';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const s = t.samplesPage;
+---
+
+<Layout lang={lang} title={t.nav.samples} description={t.pages.samples.metaDescription}>
+  <h1>{t.nav.samples}</h1>
+  <p>{s.intro}</p>
+  <h2>{s.humanRightsH2}</h2>
+  <div class="simpli-block">{humanRightsArticle1}</div>
+  <h2>{s.dialogueH2}</h2>
+  <div class="simpli-block">{dialogueExample}</div>
+
+  <h2>{s.whySimpliH2}</h2>
+  <div class="simpli-block">{whySimpliText}</div>
+  <p class="sample-note"><em>{s.whySimpliGlossLabel}</em> {s.whySimpliGloss}</p>
+</Layout>

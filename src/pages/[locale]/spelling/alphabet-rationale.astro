@@ -1,0 +1,29 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { renderPageMarkdown } from '@/content/load';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const html = renderPageMarkdown('spelling/alphabet-rationale', lang);
+---
+
+<Layout lang={lang} title="Alphabet rationale – Simpli" description="V and W (sounds equivalent), why we keep i and y, full letter set, and spelling rules.">
+  <h1>Alphabet rationale</h1>
+  <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>← {t.nav.spelling}</a></p>
+  <article class="page-markdown" set:html={html} />
+</Layout>
+
+<style>
+  .page-markdown :global(ul) {
+    padding-left: 1.25em;
+    list-style: disc;
+    margin: 0.5em 0 1em;
+  }
+</style>

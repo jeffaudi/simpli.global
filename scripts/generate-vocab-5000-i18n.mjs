@@ -1,5 +1,5 @@
 /**
- * Build FR/ES JSON for the 5,000-word list.
+ * Build localized JSON for the 5,000-word list.
  *
  * Reuses translations from vocabulary-1500.*.json where the Simpli form matches,
  * then translates remaining English glosses in chunks via Google Translate.
@@ -7,21 +7,44 @@
  * Prerequisite: npm run build (reads dist/en/vocabulary-5000.json)
  *
  * Usage:
- *   npm run vocab:5000:i18n          # both locales
  *   npm run vocab:5000:i18n -- --locale fr
- *   npm run vocab:5000:i18n -- --locale es
+ *   npm run vocab:5000:i18n -- --locale all
+ *   npm run vocab:5000:i18n -- --locale all-asian
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { translate } from '@vitalets/google-translate-api';
 
 const EN_JSON = new URL('../dist/en/vocabulary-5000.json', import.meta.url);
-const FR_1500 = new URL('../src/data/vocabulary-1500.fr.json', import.meta.url);
-const ES_1500 = new URL('../src/data/vocabulary-1500.es.json', import.meta.url);
-const OUT_FR = new URL('../src/data/vocabulary-5000.fr.json', import.meta.url);
-const OUT_ES = new URL('../src/data/vocabulary-5000.es.json', import.meta.url);
+const DATA_DIR = new URL('../src/data/', import.meta.url);
+
+/** Site locale code → Google Translate target + optional 1,500-word seed file */
+export const VOCAB_LOCALES = {
+  fr: { googleTo: 'fr', prior1500: 'vocabulary-1500.fr.json', out: 'vocabulary-5000.fr.json' },
+  es: { googleTo: 'es', prior1500: 'vocabulary-1500.es.json', out: 'vocabulary-5000.es.json' },
+  zh: { googleTo: 'zh-CN', prior1500: null, out: 'vocabulary-5000.zh.json' },
+  vi: { googleTo: 'vi', prior1500: null, out: 'vocabulary-5000.vi.json' },
+  th: { googleTo: 'th', prior1500: null, out: 'vocabulary-5000.th.json' },
+  km: { googleTo: 'km', prior1500: null, out: 'vocabulary-5000.km.json' },
+  lo: { googleTo: 'lo', prior1500: null, out: 'vocabulary-5000.lo.json' },
+  fil: { googleTo: 'tl', prior1500: null, out: 'vocabulary-5000.fil.json' },
+  id: { googleTo: 'id', prior1500: null, out: 'vocabulary-5000.id.json' },
+  ms: { googleTo: 'ms', prior1500: null, out: 'vocabulary-5000.ms.json' },
+  ja: { googleTo: 'ja', prior1500: null, out: 'vocabulary-5000.ja.json' },
+  ko: { googleTo: 'ko', prior1500: null, out: 'vocabulary-5000.ko.json' },
+};
+
+const ASIAN_CODES = ['zh', 'vi', 'th', 'km', 'lo', 'fil', 'id', 'ms', 'ja', 'ko'];
 
 const localeArg = process.argv.find((a) => a.startsWith('--locale='))?.split('=')[1]
   ?? (process.argv.includes('--locale') ? process.argv[process.argv.indexOf('--locale') + 1] : 'all');
+
+function localesToRun() {
+  if (localeArg === 'all') return Object.keys(VOCAB_LOCALES);
+  if (localeArg === 'all-asian') return ASIAN_CODES.filter((c) => c in VOCAB_LOCALES);
+  if (localeArg in VOCAB_LOCALES) return [localeArg];
+  console.error(`Unknown --locale ${localeArg}. Use one of: ${Object.keys(VOCAB_LOCALES).join(', ')}, all, all-asian`);
+  process.exit(1);
+}
 
 function splitByNewline(text) {
   return text
@@ -118,31 +141,30 @@ async function buildLocale(entries, priorMaps, to, existingFile) {
 
 async function main() {
   const entries = JSON.parse(await readFile(EN_JSON, 'utf8'));
-  const fr1500 = JSON.parse(await readFile(FR_1500, 'utf8'));
-  const es1500 = JSON.parse(await readFile(ES_1500, 'utf8'));
 
-  if (localeArg === 'all' || localeArg === 'fr') {
-    let existingFr;
+  for (const code of localesToRun()) {
+    const cfg = VOCAB_LOCALES[code];
+    const outPath = new URL(cfg.out, DATA_DIR);
+    let existing;
     try {
-      existingFr = JSON.parse(await readFile(OUT_FR, 'utf8'));
+      existing = JSON.parse(await readFile(outPath, 'utf8'));
     } catch {
-      existingFr = null;
+      existing = null;
     }
-    const fr = await buildLocale(entries, [translationMap(fr1500)], 'fr', existingFr);
-    await writeFile(OUT_FR, JSON.stringify(fr, null, 2) + '\n', 'utf8');
-    console.log(`Wrote ${fr.length} FR entries.`);
-  }
 
-  if (localeArg === 'all' || localeArg === 'es') {
-    let existingEs;
-    try {
-      existingEs = JSON.parse(await readFile(OUT_ES, 'utf8'));
-    } catch {
-      existingEs = null;
+    const priorMaps = [];
+    if (cfg.prior1500) {
+      try {
+        const prior1500 = JSON.parse(await readFile(new URL(cfg.prior1500, DATA_DIR), 'utf8'));
+        priorMaps.push(translationMap(prior1500));
+      } catch {
+        console.warn(`[${code}] no prior 1500 file ${cfg.prior1500}`);
+      }
     }
-    const es = await buildLocale(entries, [translationMap(es1500)], 'es', existingEs);
-    await writeFile(OUT_ES, JSON.stringify(es, null, 2) + '\n', 'utf8');
-    console.log(`Wrote ${es.length} ES entries.`);
+
+    const built = await buildLocale(entries, priorMaps, cfg.googleTo, existing);
+    await writeFile(outPath, JSON.stringify(built, null, 2) + '\n', 'utf8');
+    console.log(`Wrote ${built.length} ${code} entries → ${cfg.out}`);
   }
 }
 

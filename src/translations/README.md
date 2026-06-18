@@ -1,11 +1,19 @@
-# Translations
+# Translations (`src/translations/`)
 
-JSON files (`en.json`, `es.json`, `fr.json`) hold **UI strings** for each locale. Keep **keys identical** across all three files so every page can rely on the same `t.*` paths.
+UI strings and structured page copy as JSON — one file per locale (`en.json`, `fr.json`, `zh.json`, …).
 
-- **`discussion`** — Discussion page cards (e.g. `topicPlaceNamesTitle` / `topicPlaceNamesDesc`).
-- **`pages.roots`** — Full [Roots](/en/roots) page body (`leadP`, section headings, `spellingP`, links to grammar / vocabulary).
-- **`grammarOverview`** — [Grammar](/en/grammar) overview: `lead`, bullet list items (HTML), `fullListLink`.
-- **`grammarRulesPage`** — [Grammar rules](/en/grammar-rules): `metaTitle`, `metaDescription`, `intro`, `section*Title` / `section*Body` for each rule block, `backToGrammarOverview`.
-- **`grammarPage`** / **`grammarNumbers`** — Numbers bullet on the grammar overview and the numbers section on grammar rules.
+## Adding a locale
 
-Simpli examples in strings stay **unchanged** across locales where they are the language being described.
+1. Copy `en.json` to `{locale}.json` (or machine-translate keys incrementally).
+2. Register the locale in [`src/locales.ts`](../locales.ts) and [`astro.config.mjs`](../../astro.config.mjs).
+3. No new `.astro` files needed — [`src/pages/[locale]/`](../pages/[locale]/) templates load `getTranslations(lang)` at build time.
+
+Pedagogy pages use a mix of:
+
+- **This folder** — nav, home, tools, grammar rules, vocabulary essay, comparison chrome, etc.
+- **`src/page-markdown/`** — spelling and alphabet rationale (long HTML-friendly markdown).
+- **`src/data/motivation-content.ts`** — motivation page structured blocks.
+
+## Loading
+
+[`src/lib/translations.ts`](../lib/translations.ts) eagerly imports all `*.json` via `import.meta.glob`. Missing keys for new locales fall back to English in `getLocaleContent()` helpers.

@@ -1,0 +1,53 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const s = t.pages.specification;
+---
+
+<Layout lang={lang} title={t.nav.specification} description={s.metaDescription}>
+  <h1>{t.nav.specification}</h1>
+  <p set:html={s.leadP} />
+
+  <h2>{s.versionH2}</h2>
+  <p set:html={s.versionP} />
+
+  <h2>{s.downloadsH2}</h2>
+  <ul>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.pdf" download>{s.pdfLink}</a>
+    </li>
+    <li>
+      <a href="/spec/simpli-specification-v0.1.md" download>{s.mdLink}</a>
+    </li>
+  </ul>
+
+  <h2>{s.livingH2}</h2>
+  <p>
+    {s.livingP}
+    <a href={getRelativeLocaleUrl(lang, 'spelling')}>{t.nav.spelling}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{t.grammarRulesPage.h1}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'vocabulary')}>{t.nav.vocabulary}</a>
+  </p>
+
+  <h2>{s.historyH2}</h2>
+  <p>{s.historyP}</p>
+  <p>
+    <a href="/spec/HISTORY.md" download>{s.historyLink}</a>
+  </p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+  h2 { margin-top: 1.25em; }
+</style>

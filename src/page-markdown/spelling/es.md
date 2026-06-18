@@ -1,0 +1,98 @@
+<p>Simpli usa <strong>ortografía fonética</strong>: un sonido = una letra. Sin letras mudas.</p>
+  <p>Un objetivo de esta ortografía es ayudar a los no nativos de inglés a lograr una pronunciación más clara—o al menos a ser comprendidos con más facilidad por hablantes nativos y no nativos. Escribir las palabras como se pronuncian favorece un acento más consistente y reduce malentendidos.</p>
+
+  <h2>Alfabeto</h2>
+  <p><strong>Vocales:</strong> a, e, i, o, u.</p>
+  <ul class="letter-list">
+    <li><strong>a</strong> — casa, más</li>
+    <li><strong>e</strong> — pez, eco (vocal abierta como <em>bed</em> en inglés, no como mesa o ser)</li>
+    <li><strong>i</strong> — sí, mi</li>
+    <li><strong>o</strong> — sol, dos</li>
+    <li><strong>u</strong> — uno, tú</li>
+  </ul>
+  <p><strong>Consonantes:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>No hay letra c</strong> (eliminada). Se usa <strong>k</strong> para /k/. El sonido /tʃ/ se escribe <strong>tj</strong>; /dʒ/ se escribe <strong>dj</strong> (simétrico con tj). El sonido [v]/[w] se escribe <strong>v</strong> (estándar); <strong>w</strong> puede usarse por familiaridad con el inglés. <strong>G</strong> representa siempre el sonido /g/ duro (como en go, gud, giv, langwidj).</p>
+  <ul class="letter-list">
+    <li><strong>p</strong> — papá</li>
+    <li><strong>b</strong> — bien</li>
+    <li><strong>t</strong> — tú</li>
+    <li><strong>d</strong> — dos</li>
+    <li><strong>k</strong> — casa, queso</li>
+    <li><strong>g</strong> — gato (siempre /g/ duro; nunca /dʒ/)</li>
+    <li><strong>m</strong> — mesa</li>
+    <li><strong>n</strong> — no</li>
+    <li><strong>f</strong> — fe</li>
+    <li><strong>s</strong> — sí</li>
+    <li><strong>l</strong> — luz</li>
+    <li><strong>r</strong> — rey (como <em>run</em> en inglés)</li>
+    <li><strong>h</strong> — como <em>hot</em> en inglés (h aspirada; en español no suena en «hola»)</li>
+    <li><strong>v</strong> — have (estándar para el sonido [v]/[w])</li>
+    <li><strong>w</strong> — we (también por familiaridad)</li>
+    <li><strong>y</strong> — yo</li>
+    <li><strong>tj</strong> — /tʃ/ (ej. tjaild); <strong>dj</strong> — /dʒ/ (ej. djob)</li>
+  </ul>
+
+  <h2>Correspondencias</h2>
+  <p>Los sonidos del inglés que no existen en Simpli se sustituyen por la letra más cercana:</p>
+  <ul>
+    <li><strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)</li>
+    <li><strong>v / w</strong> — Los sonidos [v] y [w] son equivalentes en Simpli. Usa <strong>w</strong> cuando el inglés escribe el sonido con <strong>w</strong> (al inicio o dentro de la palabra): <em>woter</em> (water), <em>watever</em> (whatever), <em>wi</em>, <em>windo</em>. Usa <strong>v</strong> cuando el inglés usa <strong>v</strong>: <em>seven</em>, <em>river</em>, <em>hav</em>, <em>giv</em>, <em>liv</em>, <em>mov</em>, <em>even</em>. Se pueden pronunciar de una u otra forma. Ver <a href="./alphabet-rationale">Rationale del alfabeto</a> para la regla completa y ejemplos.</li>
+    <li><strong>ch</strong> → <strong>tj</strong> (no hay letra c en Simpli): <em>tjaild</em> (child), <em>tiitjer</em> (teacher), <em>tjeendj</em> (change), <em>tjiiz</em> (cheese). Para /k/ se escribe siempre <strong>k</strong>: <em>skul</em> (school), <em>akson</em> (action).</li>
+    <li><strong>ph</strong> → f (<em>fon</em>)</li>
+    <li><strong>sh</strong> → s; <strong>z</strong> → s cuando haga falta</li>
+    <li><strong>g</strong> = /g/ (siempre duro): <em>go</em>, <em>gud</em> (good), <em>giv</em> (give), <em>langwidj</em> (language). G nunca representa /dʒ/.</li>
+    <li><strong>dj</strong> = /dʒ/ (simétrico con <strong>tj</strong>): <em>djob</em> (job), <em>djeneral</em> (general), <em>djaiant</em> (giant), <em>meidjer</em> (major), <em>bridj</em> (bridge).</li>
+    <li><strong>ou</strong> → <strong>u</strong> — El sonido se escribe <strong>u</strong>. La ortografía estándar es <em>yu</em> (you); <em>you</em> es aceptable por claridad o familiaridad.</li>
+  </ul>
+
+  <h2>Preferencias de simplificación</h2>
+  <p>Las consonantes dobles <strong>no se recomiendan</strong>; van contra la simplificación. Preferir una sola consonante: <em>adres</em> (no <em>address</em>). Las consonantes dobles son aceptables, pero se prefiere la forma simplificada.</p>
+
+  <h2>Vocales largas</h2>
+  <p>Una vocal = sonido corto; vocal doble = sonido largo. El objetivo de las vocales dobladas (y por tanto de los sonidos largos) es <strong>diferenciar homónimos</strong> (ej. <em>it</em> vs <em>iit</em>). En general, el <strong>contexto basta</strong> para entender.</p>
+  <ul>
+    <li><em>it</em> (it) vs <em>iit</em> (eat)</li>
+    <li><em>rod</em> vs <em>rood</em> (road)</li>
+    <li><em>rum</em> vs <em>ruum</em> (room)</li>
+    <li><em>ful</em> (full) vs <em>fuul</em> (fool)</li>
+    <li><em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)</li>
+  </ul>
+
+  <h2>Sin letras mudas</h2>
+  <p>Cada letra se pronuncia. Se escribe el sonido que se oye:</p>
+  <ul>
+    <li><em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)</li>
+    <li><em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)</li>
+    <li>Diptongos: /aɪ/ como <strong>ai</strong> (<em>bai</em>, <em>tjaild</em>), /eɪ/ como <strong>ei</strong> (<em>plei</em>)</li>
+  </ul>
+
+  <h2>Sílabas y acento</h2>
+  <p>Estructura (C)V(C). El acento suele ir en la <strong>penúltima</strong> sílaba (<em>komputer</em>, <em>yesterde</em>, <em>tumoro</em>).</p>
+
+  <h2>Terminaciones habituales</h2>
+  <p>Las terminaciones del inglés se simplifican:</p>
+  <ul>
+    <li>-tion, -sion → <strong>-son</strong> (akson, vison)</li>
+    <li>-ture → <strong>-tur</strong> (natur, futur)</li>
+    <li>-ous → <strong>-us</strong>; -ful igual</li>
+  </ul>
+
+  <h2>Cómo definir la ortografía de una palabra</h2>
+  <p>La ortografía Simpli se basa en la <strong>pronunciación, no en la ortografía del inglés</strong>. Sigue este proceso:</p>
+  <ol>
+    <li><strong>Partir de la pronunciación, no de la ortografía.</strong> Convertir primero la palabra inglesa a su forma fonémica aproximada.</li>
+    <li><strong>Normalizar el inventario fonémico.</strong> Aplicar las decisiones de sonido de Simpli:
+      <ul>
+        <li>/θ/ → d o t</li>
+        <li>/ð/ → d</li>
+        <li>/tʃ/ → tj</li>
+        <li>/dʒ/ → dj</li>
+        <li>/k/ → k</li>
+        <li>/s/ → s</li>
+        <li>longitud vocálica tratada de forma explícita (corta = una letra, larga = doblada)</li>
+      </ul>
+    </li>
+    <li><strong>Luego escribir la ortografía Simpli.</strong> Solo después de haber identificado el sonido.</li>
+  </ol>
+  <p>Una regla automática como «sustituir c por k» <strong>no funciona</strong>, porque la <em>c</em> en inglés puede corresponder a /k/, /s/, /tʃ/ u otros sonidos según la palabra. Lo mismo aplica a <em>g</em>, <em>x</em>, <em>th</em> y las vocales. Ver <a href="./alphabet-rationale">Rationale del alfabeto</a> para entender por qué falla la sustitución letra a letra y cómo partir de los sonidos.</p>
+
+  <p><a href="./alphabet-rationale">Rationale del alfabeto</a> — V y W (sonidos equivalentes), por qué i y y, por qué falla la sustitución automática, y detalles completos de las letras.</p>

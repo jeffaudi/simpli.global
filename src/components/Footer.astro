@@ -7,62 +7,90 @@ interface Props {
   t: {
     nav: Record<string, string>;
     footer: {
-      licenseBefore: string;
       licenseLinkLabel: string;
-      licenseAfter: string;
+      linkLessons: string;
+      linkDictionary: string;
+      linkMedia: string;
+      linkSpecification: string;
     };
   };
   locale: Lang;
-  siteTitle?: string;
 }
 
-const {
-  t,
-  locale,
-  siteTitle = 'Simpli is a simple international language',
-} = Astro.props;
+const { t, locale } = Astro.props;
+
+const footerLinks = [
+  { path: 'lessons', label: t.footer.linkLessons },
+  { path: 'vocabulary-5000', label: t.footer.linkDictionary },
+  { path: 'media', label: t.footer.linkMedia },
+  { path: 'specification', label: t.footer.linkSpecification },
+] as const;
 ---
 
 <footer class="l-footer l-content">
-  <a href={getRelativeLocaleUrl(locale, '/')} class="brand">Simpli</a>
-  <p class="tagline">{siteTitle}</p>
+  <nav class="footer-nav" aria-label="Footer">
+    {
+      footerLinks.map(({ path, label }, index) => (
+        <>
+          {index > 0 ? <span class="sep" aria-hidden="true">·</span> : null}
+          <a href={getRelativeLocaleUrl(locale, path)}>{label}</a>
+        </>
+      ))
+    }
+  </nav>
   <p class="license" dir="ltr">
-    {t.footer.licenseBefore}{' '}
-    <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">{t.footer.licenseLinkLabel}</a>{' '}
-    {t.footer.licenseAfter}
+    <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">{t.footer.licenseLinkLabel}</a>
   </p>
 </footer>
 
 <style>
   footer {
-    padding-block: var(--sp-m) var(--sp-l);
+    padding-block: var(--sp-s) var(--sp-m);
     text-align: center;
     background-color: var(--color-theme);
     color: var(--color-base);
-    border-radius: 16px;
-    margin-block-end: -16px;
+    border-radius: 12px;
+    margin-block-end: -12px;
+    font-size: 0.8125rem;
   }
 
-  .brand {
-    display: block;
-    font-weight: 700;
-    color: var(--color-base);
-    margin-block-end: var(--sp-s);
-  }
-
-  .tagline {
+  .footer-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25em 0.4em;
     margin: 0;
-    opacity: 0.95;
+  }
+
+  .footer-nav a {
+    color: var(--color-base);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .footer-nav a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .sep {
+    opacity: 0.6;
+    font-size: 0.75em;
   }
 
   .license {
-    margin: var(--sp-m) 0 0;
-    font-size: 0.9em;
-    opacity: 0.9;
+    margin: 0.4em 0 0;
+    font-size: 0.75rem;
+    opacity: 0.75;
   }
 
   .license a {
     color: inherit;
+    text-decoration: none;
+  }
+
+  .license a:hover {
     text-decoration: underline;
   }
 </style>

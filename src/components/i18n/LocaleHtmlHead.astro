@@ -1,10 +1,12 @@
 ---
 import type { Lang } from '@/i18n';
+import { LOCALES } from '@/i18n';
+import { fontStackForScript, googleFontUrlForScript } from '@/lib/fonts';
+
 const locale = Astro.currentLocale as Lang;
+const script = LOCALES[locale]?.script ?? 'latin';
+const fontFamily = fontStackForScript(script);
+const fontUrl = googleFontUrlForScript(script);
 ---
-<!-- Optional: add locale-specific fonts per language -->
-<style is:global>
-  body {
-    font-family: 'Noto Sans', system-ui, sans-serif;
-  }
-</style>
+<link rel="stylesheet" href={fontUrl} />
+<style is:global set:html={`body { font-family: ${fontFamily}; }`}></style>

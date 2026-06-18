@@ -1,5 +1,6 @@
 ---
 import { getRelativeLocaleUrl } from 'astro:i18n';
+import { getTranslations } from '@/lib/translations';
 import type { Lang } from '@/i18n';
 import { getCommunityLinks, mailtoHref } from '@/community-links';
 
@@ -8,7 +9,7 @@ interface Props {
 }
 
 const { lang } = Astro.props;
-const t = (await import(`../translations/${lang}.json`)).default;
+const t = getTranslations(lang);
 const p = t.nextStepsPage;
 const links = getCommunityLinks();
 
@@ -31,7 +32,7 @@ const csvExportHref = `${vocab5000Base}.csv`;
 ---
 
 <div class="next-steps-grid">
-  <section class="card">
+  <section id="interact" class="card">
     <h2>{t.home.interact}</h2>
     <p>{t.home.interactDesc}</p>
     <ul class="next-list">
@@ -79,7 +80,7 @@ const csvExportHref = `${vocab5000Base}.csv`;
     }
   </section>
 
-  <section class="card">
+  <section id="learn" class="card">
     <h2>{t.home.learn}</h2>
     <p>{t.home.learnDesc}</p>
     <ul class="next-list">
@@ -110,7 +111,7 @@ const csvExportHref = `${vocab5000Base}.csv`;
     </ul>
   </section>
 
-  <section class="card">
+  <section id="promote" class="card">
     <h2>{t.home.promote}</h2>
     <p>{t.home.promoteDesc}</p>
     <ul class="next-list">

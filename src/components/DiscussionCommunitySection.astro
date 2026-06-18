@@ -1,5 +1,6 @@
 ---
 import { getCommunityLinks, mailtoHref } from '@/community-links';
+import { getTranslations } from '@/lib/translations';
 import type { Lang } from '@/i18n';
 
 interface Props {
@@ -7,7 +8,7 @@ interface Props {
 }
 
 const { lang } = Astro.props;
-const t = (await import(`../translations/${lang}.json`)).default;
+const t = getTranslations(lang);
 const p = t.nextStepsPage;
 const links = getCommunityLinks();
 

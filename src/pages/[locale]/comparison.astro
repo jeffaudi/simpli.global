@@ -1,0 +1,70 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+
+interface Props {
+  lang?: Lang;
+}
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const c = t.pages.comparison;
+---
+
+<Layout lang={lang} title={t.nav.comparison} description={c.metaDescription}>
+  <h1>{t.nav.comparison}</h1>
+  <p>{c.intro}</p>
+
+  <h2>{c.simpleH2}</h2>
+  <table>
+    <thead>
+      <tr><th>{c.colLanguage}</th><th>{c.colSentence}</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Simpli</td><td><em>mi si yu</em></td></tr>
+      <tr><td>Indonesian</td><td>Saya lihat kamu</td></tr>
+      <tr><td>English</td><td>I see you</td></tr>
+      <tr><td>Esperanto</td><td>Mi vidas vin</td></tr>
+      <tr><td>Glosa</td><td>Mi vide tu</td></tr>
+      <tr><td>Globish</td><td>I see you</td></tr>
+    </tbody>
+  </table>
+
+  <h2>{c.mediumH2}</h2>
+  <table>
+    <thead>
+      <tr><th>{c.colLanguage}</th><th>{c.colSentence}</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Simpli</td><td><em>tumoro mi si yu at haus broder mi</em></td></tr>
+      <tr><td>Indonesian</td><td>Besok, saya akan bertemu Anda di rumah saudara laki-laki saya</td></tr>
+      <tr><td>English</td><td>Tomorrow, I will see you at my brother's house</td></tr>
+      <tr><td>Esperanto</td><td>Morgaŭ, mi vidos vin ĉe la domo de mia frato</td></tr>
+      <tr><td>Glosa</td><td>Crasti, mi vide tu a dom de mi fratri</td></tr>
+      <tr><td>Globish</td><td>Tomorrow, I will see you at my brother's house</td></tr>
+    </tbody>
+  </table>
+
+  <h2>{c.complexH2}</h2>
+  <table>
+    <thead>
+      <tr><th>{c.colLanguage}</th><th>{c.colSentence}</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Simpli</td><td><em>nekst wik mi go tu markat tu get fud for famali mi</em></td></tr>
+      <tr><td>Indonesian</td><td>Minggu depan saya akan pergi ke pasar untuk membeli makanan untuk keluarga saya</td></tr>
+      <tr><td>English</td><td>Next week I will go to the market to buy food for my family</td></tr>
+      <tr><td>Esperanto</td><td>Semajnon poste mi iros al la merkato por aĉeti manĝaĵon por mia familio</td></tr>
+      <tr><td>Glosa</td><td>Proxi semani mi go a marketa e merka fag pro mi familia</td></tr>
+      <tr><td>Globish</td><td>Next week I will go to the market to buy food for my family</td></tr>
+    </tbody>
+  </table>
+
+  <p set:html={c.takeawayP} />
+  <p>{c.notEnglishP}</p>
+</Layout>

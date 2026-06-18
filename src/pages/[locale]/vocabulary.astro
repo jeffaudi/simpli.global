@@ -1,0 +1,56 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const v = t.pages.vocabulary;
+---
+
+<Layout lang={lang} title={t.nav.vocabulary} description={v.metaDescription}>
+  <h1>{t.nav.vocabulary}</h1>
+  <p set:html={v.leadP} />
+
+  <h2>{v.whyH2}</h2>
+  <p set:html={v.whyLeadP} />
+  <ul>
+    <li set:html={v.whyBullet1} />
+    <li set:html={v.whyBullet2} />
+    <li set:html={v.whyBullet3} />
+    <li set:html={v.whyBullet4} />
+  </ul>
+  <p set:html={v.whyCloseP} />
+
+  <h2>{v.howH2}</h2>
+  <ul>
+    <li set:html={v.howBullet1} />
+    <li>
+      <span set:html={v.howBullet2} />
+      {' '}
+      <a href={getRelativeLocaleUrl(lang, 'spelling')}>{t.nav.spelling}</a>
+      {' · '}
+      <a href={getRelativeLocaleUrl(lang, 'spelling/alphabet-rationale')}>Alphabet rationale</a>
+    </li>
+    <li set:html={v.howBullet3} />
+  </ul>
+  <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>{v.linkEssential}</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary-5000')}>{v.link5000}</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary-1500')}>{v.link1500}</a></p>
+  <p>
+    <a href={getRelativeLocaleUrl(lang, 'lessons')}>{t.nav.lessons}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'tools')}>{t.nav.tools}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'media')}>{t.nav.media}</a>
+  </p>
+</Layout>
+
+<style>
+  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0 1em; }
+</style>

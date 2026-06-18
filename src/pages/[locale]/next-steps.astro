@@ -1,0 +1,20 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import NextStepsContent from '@/components/NextStepsContent.astro';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const p = t.nextStepsPage;
+---
+
+<Layout lang={lang} title={t.nav.nextSteps} description={p.metaDescription}>
+  <h1>{t.nav.nextSteps}</h1>
+  <p>{p.intro}</p>
+  <NextStepsContent lang={lang} />
+</Layout>
