@@ -1,0 +1,98 @@
+---
+import Layout from '@/layouts/Base.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+const lang = 'fr';
+const t = (await import('../../translations/fr.json')).default;
+const lp = t.lessonsPage;
+---
+
+<Layout lang={lang} title={lp.title} description={lp.metaDescription}>
+  <h1>{lp.title}</h1>
+  <p>{lp.intro}</p>
+
+  <article class="card lesson">
+    <h2>{lp.module1Title}</h2>
+    <p>{lp.module1Body}</p>
+    <p><strong>{lp.module1Examples}</strong></p>
+    <pre class="simpli-block" dir="ltr">wer yu from ?
+mi from frans.
+
+wat yu du ?
+mi wok wit komputer and langwidj.</pre>
+  </article>
+
+  <article class="card lesson">
+    <h2>{lp.module2Title}</h2>
+    <p>{lp.module2Body}</p>
+    <pre class="simpli-block" dir="ltr">haus mi
+buk yu</pre>
+  </article>
+
+  <article class="card lesson">
+    <h2>{lp.module3Title}</h2>
+    <p>{lp.module3Body}</p>
+    <pre class="simpli-block" dir="ltr">it (pronom)
+iit (verbe « manger » — voyelle longue)</pre>
+  </article>
+
+  <article class="card lesson">
+    <h2>{lp.module4Title}</h2>
+    <p>{lp.module4Body}</p>
+    <p><strong>{lp.module4Examples}</strong></p>
+    <pre class="simpli-block" dir="ltr">tumoro mi sii yu
+mi wil sii yu
+
+yesterde mi fini
+mi hav fini
+mi alredi fini
+
+mi stil wok</pre>
+  </article>
+
+  <section class="card">
+    <h2>{lp.exerciseHeading}</h2>
+    <ol class="exercises">
+      <li>
+        <p>{lp.exercise1Prompt}</p>
+        <details>
+          <summary>{lp.showAnswer}</summary>
+          <p><code>{lp.exercise1Answer}</code></p>
+        </details>
+      </li>
+      <li>
+        <p>{lp.exercise2Prompt}</p>
+        <details>
+          <summary>{lp.showAnswer}</summary>
+          <p><code>{lp.exercise2Answer}</code></p>
+        </details>
+      </li>
+    </ol>
+  </section>
+
+  <nav class="lesson-nav" aria-label="Ressources">
+    <ul>
+      <li><a href={getRelativeLocaleUrl(lang, 'grammar')}>{lp.linkGrammar}</a></li>
+      <li><a href={getRelativeLocaleUrl(lang, 'grammar-rules')}>{lp.linkGrammarRules}</a></li>
+      <li><a href={getRelativeLocaleUrl(lang, 'spelling')}>{lp.linkSpelling}</a></li>
+      <li><a href={getRelativeLocaleUrl(lang, 'samples')}>{lp.linkSamples}</a></li>
+      <li><a href={getRelativeLocaleUrl(lang, 'tools')}>{t.nav.tools}</a></li>
+    </ul>
+  </nav>
+</Layout>
+
+<style>
+  .lesson h2 {
+    margin-top: 0;
+  }
+  .exercises {
+    padding-left: 1.25em;
+  }
+  .exercises details {
+    margin-top: 0.35em;
+  }
+  .lesson-nav ul {
+    list-style: disc;
+    padding-left: 1.25em;
+  }
+</style>

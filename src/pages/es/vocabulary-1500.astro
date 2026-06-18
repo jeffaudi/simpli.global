@@ -3,6 +3,8 @@ import Layout from '@/layouts/Base.astro';
 import vocabulary1500Es from '@/data/vocabulary-1500.es.json';
 
 const lang = 'es';
+const t = (await import('../../translations/es.json')).default;
+const vp = t.vocabulary1500Page;
 ---
 
 <Layout
@@ -16,6 +18,13 @@ const lang = 'es';
     pronunciación (pronunciación CMU a ortografía Simpli), con glosas en español.
   </p>
   <p><strong>Total de entradas:</strong> {vocabulary1500Es.length}</p>
+  <p class="downloads">
+    <strong>{vp.downloadsHeading}:</strong>{' '}
+    <a href="/es/vocabulary-1500.json" download="simpli-vocabulary-1500-es.json">{vp.jsonLink}</a>
+    {' · '}
+    <a href="/es/vocabulary-1500.csv" download="simpli-vocabulary-1500-es.csv">{vp.csvLink}</a>
+    <span class="downloads-hint"> — {vp.downloadsHint}</span>
+  </p>
   <p>
     <label for="vocab-search"><strong>Buscar:</strong></label>
     <input id="vocab-search" type="search" placeholder="Escribe español o Simpli..." autocomplete="off" />
@@ -54,3 +63,10 @@ const lang = 'es';
     });
   }
 </script>
+
+<style>
+  .downloads-hint {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>

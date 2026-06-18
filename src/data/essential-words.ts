@@ -27,6 +27,6 @@ export const essentialWords = {
   ],
   connectors: [
     'and', 'or', 'but', 'if', 'wen', 'becos', 'so', 'den', 'also', 'only', 'even', 'maybe',
-    'yes', 'no', 'ok', 'now', 'later', 'yesterde', 'tumoro',
+    'yes', 'no', 'ok', 'now', 'later', 'yesterde', 'tumoro', 'wil', 'alredi', 'stil',
   ],
 } as const;

@@ -3,6 +3,8 @@ import Layout from '@/layouts/Base.astro';
 import { vocabulary1500 } from '@/data/vocabulary-1500';
 
 const lang = 'en';
+const t = (await import('../../translations/en.json')).default;
+const vp = t.vocabulary1500Page;
 ---
 
 <Layout
@@ -16,6 +18,13 @@ const lang = 'en';
     workflow (CMU pronunciation to Simpli spelling), with English glosses for the English website.
   </p>
   <p><strong>Total entries:</strong> {vocabulary1500.length}</p>
+  <p class="downloads">
+    <strong>{vp.downloadsHeading}:</strong>{' '}
+    <a href="/en/vocabulary-1500.json" download="simpli-vocabulary-1500-en.json">{vp.jsonLink}</a>
+    {' · '}
+    <a href="/en/vocabulary-1500.csv" download="simpli-vocabulary-1500-en.csv">{vp.csvLink}</a>
+    <span class="downloads-hint"> — {vp.downloadsHint}</span>
+  </p>
   <p>
     <label for="vocab-search"><strong>Search:</strong></label>
     <input id="vocab-search" type="search" placeholder="Type English or Simpli..." autocomplete="off" />
@@ -54,3 +63,10 @@ const lang = 'en';
     });
   }
 </script>
+
+<style>
+  .downloads-hint {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>

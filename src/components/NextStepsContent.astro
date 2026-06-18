@@ -1,0 +1,181 @@
+---
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import type { Lang } from '@/i18n';
+import { getCommunityLinks, mailtoHref } from '@/community-links';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = (await import(`../translations/${lang}.json`)).default;
+const p = t.nextStepsPage;
+const links = getCommunityLinks();
+
+const contactMail =
+  links.contactEmail !== ''
+    ? mailtoHref(links.contactEmail, p.contactEmailSubject as string)
+    : '';
+
+const lessonsHref = getRelativeLocaleUrl(lang, 'lessons');
+const toolsHref = getRelativeLocaleUrl(lang, 'tools');
+const mediaHref = getRelativeLocaleUrl(lang, 'media');
+const leafletHref = getRelativeLocaleUrl(lang, 'media/leaflet');
+const essentialHref = getRelativeLocaleUrl(lang, 'essential-words');
+const vocab1500Href = getRelativeLocaleUrl(lang, 'vocabulary-1500');
+const vocab5000Href = getRelativeLocaleUrl(lang, 'vocabulary-5000');
+
+const vocab5000Base = vocab5000Href.replace(/\/$/, '');
+const jsonExportHref = `${vocab5000Base}.json`;
+const csvExportHref = `${vocab5000Base}.csv`;
+---
+
+<div class="next-steps-grid">
+  <section class="card">
+    <h2>{t.home.interact}</h2>
+    <p>{t.home.interactDesc}</p>
+    <ul class="next-list">
+      <li>
+        <strong>{p.forumLabel}</strong>
+        {
+          links.forumUrl ? (
+            <>
+              <span class="status-badge live">{p.statusLive}</span>
+              <a href={links.forumUrl} rel="noopener noreferrer">{p.forumVisit}</a>
+            </>
+          ) : (
+            <>
+              <span class="status-badge planned">{p.statusPlanned}</span>
+              {p.forumSoon}
+            </>
+          )
+        }
+      </li>
+      <li>
+        <strong>{p.discordLabel}</strong>
+        {
+          links.discordInvite ? (
+            <>
+              <span class="status-badge live">{p.statusLive}</span>
+              <a href={links.discordInvite} rel="noopener noreferrer">{p.discordJoin}</a>
+            </>
+          ) : (
+            <>
+              <span class="status-badge planned">{p.statusPlanned}</span>
+              {p.discordSoon}
+            </>
+          )
+        }
+      </li>
+    </ul>
+    <p class="contributors">{p.contributorsWelcome}</p>
+    {
+      contactMail ? (
+        <p class="contact-line">
+          <strong>{p.contactPrompt}</strong>{' '}
+          <a href={contactMail}>{links.contactEmail}</a>
+        </p>
+      ) : null
+    }
+  </section>
+
+  <section class="card">
+    <h2>{t.home.learn}</h2>
+    <p>{t.home.learnDesc}</p>
+    <ul class="next-list">
+      <li>
+        <strong>{p.appLabel}</strong>
+        <span class="status-badge planned">{p.statusPlanned}</span>
+        {p.appSoon}
+        <ul class="nested">
+          <li>
+            <a href={lessonsHref}>{p.appTryLessons}</a>
+          </li>
+          <li>
+            <a href={toolsHref}>{p.appTryTools}</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>{p.dictionaryLabel}</strong>
+        <a href={essentialHref}>{p.dictionaryEssentialLink}</a>
+        {' · '}
+        <a href={vocab5000Href}>{p.dictionary5000Link}</a>
+        {' · '}
+        <a href={vocab1500Href}>{p.dictionary1500Link}</a>
+        {' '}
+        (<a href={jsonExportHref}>JSON</a>, <a href={csvExportHref}>CSV</a>)
+        <span class="dict-extra">{p.dictionaryExtra}</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>{t.home.promote}</h2>
+    <p>{t.home.promoteDesc}</p>
+    <ul class="next-list">
+      <li>
+        <strong>{p.visualsLabel}</strong>
+        <span class="status-badge live">{p.statusLive}</span>
+        {p.visualsHint}{' '}
+        <a href={mediaHref}>{p.visualsLinkLabel}</a>.
+      </li>
+      <li>
+        <strong>{p.leafletLabel}</strong>
+        <span class="status-badge live">{p.statusLive}</span>
+        {p.leafletHint}{' '}
+        <a href={leafletHref}>{p.leafletLinkLabel}</a>.
+      </li>
+    </ul>
+  </section>
+</div>
+
+<style>
+  .next-list {
+    padding-left: 1.25em;
+    list-style: disc;
+    margin: 0.5em 0;
+  }
+  .next-list .nested {
+    list-style: circle;
+    margin: 0.35em 0 0;
+    padding-left: 1.25em;
+  }
+  .card h2 {
+    margin-top: 0;
+  }
+  .status-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.15em 0.45em;
+    border-radius: 4px;
+    margin-right: 0.35em;
+    vertical-align: middle;
+  }
+  .status-badge.planned {
+    background: color-mix(in srgb, var(--color-text-muted, #666) 18%, transparent);
+    color: var(--color-text-muted, #555);
+  }
+  .status-badge.live {
+    background: color-mix(in srgb, var(--color-theme) 22%, transparent);
+    color: var(--color-theme);
+  }
+  .contributors {
+    font-size: 0.9rem;
+    margin: 0.75em 0 0;
+    color: var(--color-text-muted, #555);
+  }
+  .contact-line {
+    margin: 0.5em 0 0;
+    font-size: 0.95rem;
+  }
+  .dict-extra {
+    display: block;
+    margin-top: 0.35em;
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>

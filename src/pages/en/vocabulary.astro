@@ -26,7 +26,15 @@ const t = (await import('../../translations/en.json')).default;
     <li><strong>Compounds:</strong> New ideas from existing words: <em>sun-lait</em>, <em>wata-food</em>, <em>langwidj-study</em>.</li>
   </ul>
   <p><a href={getRelativeLocaleUrl(lang, 'essential-words')}>View list of essential words →</a></p>
-  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary-1500')}>View 1,500-word vocabulary list →</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary-5000')}>View 5,000-word dictionary →</a></p>
+  <p><a href={getRelativeLocaleUrl(lang, 'vocabulary-1500')}>View 1,500-word vocabulary list (compact) →</a></p>
+  <p>
+    <a href={getRelativeLocaleUrl(lang, 'lessons')}>{t.nav.lessons}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'tools')}>{t.nav.tools}</a>
+    {' · '}
+    <a href={getRelativeLocaleUrl(lang, 'media')}>{t.nav.media}</a>
+  </p>
 </Layout>
 
 <style>

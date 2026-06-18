@@ -3,6 +3,8 @@ import Layout from '@/layouts/Base.astro';
 import vocabulary1500Fr from '@/data/vocabulary-1500.fr.json';
 
 const lang = 'fr';
+const t = (await import('../../translations/fr.json')).default;
+const vp = t.vocabulary1500Page;
 ---
 
 <Layout
@@ -16,6 +18,13 @@ const lang = 'fr';
     prononciation (prononciation CMU vers orthographe Simpli), avec glosses en français.
   </p>
   <p><strong>Nombre d’entrées :</strong> {vocabulary1500Fr.length}</p>
+  <p class="downloads">
+    <strong>{vp.downloadsHeading} :</strong>{' '}
+    <a href="/fr/vocabulary-1500.json" download="simpli-vocabulary-1500-fr.json">{vp.jsonLink}</a>
+    {' · '}
+    <a href="/fr/vocabulary-1500.csv" download="simpli-vocabulary-1500-fr.csv">{vp.csvLink}</a>
+    <span class="downloads-hint"> — {vp.downloadsHint}</span>
+  </p>
   <p>
     <label for="vocab-search"><strong>Recherche :</strong></label>
     <input id="vocab-search" type="search" placeholder="Saisir français ou Simpli..." autocomplete="off" />
@@ -54,3 +63,10 @@ const lang = 'fr';
     });
   }
 </script>
+
+<style>
+  .downloads-hint {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>

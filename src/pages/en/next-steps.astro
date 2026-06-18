@@ -1,6 +1,6 @@
 ---
 import Layout from '@/layouts/Base.astro';
-import { getRelativeLocaleUrl } from 'astro:i18n';
+import NextStepsContent from '@/components/NextStepsContent.astro';
 const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
 const p = t.nextStepsPage;
@@ -9,38 +9,5 @@ const p = t.nextStepsPage;
 <Layout lang={lang} title={t.nav.nextSteps} description={p.metaDescription}>
   <h1>{t.nav.nextSteps}</h1>
   <p>{p.intro}</p>
-  <div class="next-steps-grid">
-    <section class="card">
-      <h2>{t.home.interact}</h2>
-      <p>{t.home.interactDesc}</p>
-      <ul>
-        <li><strong>{p.forumLabel}</strong> {p.forumSoon}</li>
-        <li><strong>{p.discordLabel}</strong> {p.discordSoon}</li>
-      </ul>
-    </section>
-    <section class="card">
-      <h2>{t.home.learn}</h2>
-      <p>{t.home.learnDesc}</p>
-      <ul>
-        <li><strong>{p.appLabel}</strong> {p.appSoon}</li>
-        <li>
-          <strong>{p.dictionaryLabel}</strong>{' '}
-          <a href={getRelativeLocaleUrl(lang, 'essential-words')}>{p.dictionaryEssentialLink}</a>; {p.dictionaryPlanned}
-        </li>
-      </ul>
-    </section>
-    <section class="card">
-      <h2>{t.home.promote}</h2>
-      <p>{t.home.promoteDesc}</p>
-      <ul>
-        <li><strong>{p.visualsLabel}</strong> {p.visualsSoon}</li>
-        <li><strong>{p.leafletLabel}</strong> {p.leafletSoon}</li>
-      </ul>
-    </section>
-  </div>
+  <NextStepsContent lang="en" />
 </Layout>
-
-<style>
-  ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0; }
-  .card h2 { margin-top: 0; }
-</style>

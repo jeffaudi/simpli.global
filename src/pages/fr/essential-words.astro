@@ -10,14 +10,25 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
 <Layout lang={lang} title="Mots essentiels" description="Vocabulaire central Simpli par catégorie.">
   <h1>{t.essentialWordsPage.h1}</h1>
   <p>{t.essentialWordsPage.intro}</p>
+  <p class="filter-row">
+    <label for="essential-filter"><strong>{t.essentialWordsPage.filterLabel}</strong></label>
+    <input
+      id="essential-filter"
+      type="search"
+      placeholder={t.essentialWordsPage.filterPlaceholder}
+      autocomplete="off"
+    />
+  </p>
   {
     categories.map((cat) => (
-      <section>
+      <section data-essential-words={essentialWords[cat].join(' ')}>
         <h2>{t.words[cat]}</h2>
         {cat === 'pronouns' ? (
           <>
             <p class="word-list">{essentialWords[cat].join(' · ')}</p>
-            <p class="word-note"><strong>el</strong> = he, she ou it (un seul mot pour toute la 3<sup>e</sup> personne du singulier ; pas d’« it » séparé).</p>
+            <p class="word-note">
+              <strong>el</strong> = he, she ou it (un seul mot pour toute la 3<sup>e</sup> personne du singulier ; pas d’« it » séparé).
+            </p>
           </>
         ) : (
           <p class="word-list">{essentialWords[cat].join(' · ')}</p>
@@ -28,7 +39,38 @@ const categories = ['pronouns', 'numbers', 'verbs', 'people', 'nature', 'objects
   <p><a href={getRelativeLocaleUrl(lang, 'vocabulary')}>{t.essentialWordsPage.backToVocabulary}</a></p>
 </Layout>
 
+<script>
+  const input = document.querySelector('#essential-filter') as HTMLInputElement | null;
+  const sections = document.querySelectorAll<HTMLElement>('[data-essential-words]');
+  input?.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    for (const sec of sections) {
+      const hay = sec.getAttribute('data-essential-words')?.toLowerCase() ?? '';
+      sec.style.display = !q || hay.includes(q) ? '' : 'none';
+    }
+  });
+</script>
+
 <style>
-  .word-list { font-family: ui-monospace, monospace; font-size: 0.95rem; line-height: 1.8; }
-  .word-note { font-size: 0.9rem; color: var(--color-text-muted, #555); margin-top: 0.25em; }
+  .filter-row {
+    margin-bottom: 1.25em;
+  }
+  .filter-row input {
+    display: block;
+    margin-top: 0.35em;
+    width: 100%;
+    max-width: 24rem;
+    padding: 0.4em 0.6em;
+    font-size: 1rem;
+  }
+  .word-list {
+    font-family: ui-monospace, monospace;
+    font-size: 0.95rem;
+    line-height: 1.8;
+  }
+  .word-note {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+    margin-top: 0.25em;
+  }
 </style>

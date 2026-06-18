@@ -1,0 +1,74 @@
+---
+import { getCommunityLinks, mailtoHref } from '@/community-links';
+import type { Lang } from '@/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = (await import(`../translations/${lang}.json`)).default;
+const p = t.nextStepsPage;
+const links = getCommunityLinks();
+
+const contactMail =
+  links.contactEmail !== ''
+    ? mailtoHref(links.contactEmail, p.contactEmailSubject as string)
+    : '';
+---
+
+<section class="card community-cta">
+  <h2>{t.discussion.community}</h2>
+  <p>{t.discussion.communityBlurb}</p>
+  <p class="governance">{t.discussion.governanceNote}</p>
+  <ul>
+    <li>
+      <strong>{p.discordLabel}</strong>
+      {
+        links.discordInvite ? (
+          <a href={links.discordInvite} rel="noopener noreferrer">{t.discussion.discordJoinLink}</a>
+        ) : (
+          <span class="muted">{t.discussion.discordPlanned}</span>
+        )
+      }
+    </li>
+    <li>
+      <strong>{p.forumLabel}</strong>
+      {
+        links.forumUrl ? (
+          <a href={links.forumUrl} rel="noopener noreferrer">{p.forumVisit}</a>
+        ) : (
+          <span class="muted">{p.forumSoon}</span>
+        )
+      }
+    </li>
+    {
+      contactMail ? (
+        <li>
+          <strong>{p.contactPrompt}</strong>{' '}
+          <a href={contactMail}>{links.contactEmail}</a>
+        </li>
+      ) : null
+    }
+  </ul>
+</section>
+
+<style>
+  .community-cta h2 {
+    margin-top: 0;
+  }
+  .community-cta ul {
+    padding-left: 1.25em;
+    list-style: disc;
+    margin: 0.5em 0;
+  }
+  .governance {
+    font-size: 0.95rem;
+    color: var(--color-text-muted, #555);
+    margin: 0.75em 0;
+  }
+  .muted {
+    color: var(--color-text-muted, #555);
+    font-style: italic;
+  }
+</style>

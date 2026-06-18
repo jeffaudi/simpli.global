@@ -1,11 +1,15 @@
 ---
 import Layout from '@/layouts/Base.astro';
-import { getRelativeLocaleUrl } from 'astro:i18n';
+import DiscussionCommunitySection from '@/components/DiscussionCommunitySection.astro';
 const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
 ---
 
-<Layout lang={lang} title={t.nav.discussionTopics} description="Sujets de discussion : Simpli est récent et gagne à être discuté. Rejoignez la discussion (Discord bientôt).">
+<Layout
+  lang={lang}
+  title={t.nav.discussionTopics}
+  description="Sujets de discussion : Simpli est récent ; rejoignez Discord ou écrivez quand les liens sont configurés."
+>
   <h1>{t.nav.discussionTopics}</h1>
   <p>{t.discussion.intro}</p>
   <p>{t.discussion.intro2}</p>
@@ -29,19 +33,15 @@ const t = (await import('../../translations/fr.json')).default;
     </article>
   </section>
 
-  <section class="card community-cta">
-    <h2>{t.discussion.community}</h2>
-    <p>Ces sujets sont ouverts au débat. Partagez votre avis et contribuez à faire évoluer Simpli.</p>
-    <ul>
-      <li><strong>Discord :</strong> <a href="#">{t.discussion.discordComingSoon}</a></li>
-    </ul>
-  </section>
+  <DiscussionCommunitySection lang="fr" />
 </Layout>
 
 <style>
-  .discussion-topics { margin: 1.5em 0; }
-  .topic h2 { margin-top: 0; font-size: 1.15rem; }
-  .community-cta h2 { margin-top: 0; }
-  .community-cta ul { padding-left: 1.25em; list-style: disc; margin: 0.5em 0; }
-  .community-cta a[href="#"] { font-style: italic; }
+  .discussion-topics {
+    margin: 1.5em 0;
+  }
+  .topic h2 {
+    margin-top: 0;
+    font-size: 1.15rem;
+  }
 </style>

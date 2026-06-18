@@ -4,7 +4,10 @@
 
 0. **Pronouns:** One word for third-person singular: *el* = he, she, it. No separate "it"; *el* is used for people and things.
 1. **Word order:** Subject – Verb – Object.
-2. **No verb conjugation.** Time with words: yesterde, now, tumoro.
+2. **No verb conjugation.** Express **when** with time words: yesterde, now, tumoro. Verbs stay the same: *mi go*, *el go*, *dey go*.
+   - **Optional future / past:** *wil* (future) or *hav* (past or perfect) before the main verb when no time word is given: *mi wil go*, *mi hav fini*. When a time word is present, *wil* and *hav* are optional and often omitted: *tumoro mi go*.
+   - **Aspect:** *alredi* (already done) and *stil* (still ongoing): *mi alredi fini*, *mi stil wok*.
+   - *hav* also means “have” as a main verb (*mi hav buk*); context distinguishes auxiliary from main verb.
 3. **Negation:** *no* before the verb.
 4. **Questions:** Start with wat, hu, wer, wen, wai, hou.
 5. **Plural:** Optional; numbers or *meni*.

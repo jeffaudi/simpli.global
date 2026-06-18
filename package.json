@@ -10,7 +10,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "build:spec-pdf": "python3 scripts/build-spec-pdf.py",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "vocab:5000:bootstrap": "node --import tsx/esm scripts/bootstrap-vocab-5000-json.mjs",
+    "vocab:5000:i18n": "node scripts/generate-vocab-5000-i18n.mjs",
+    "vocab:5000:i18n:fr": "node scripts/generate-vocab-5000-i18n.mjs --locale fr",
+    "vocab:5000:i18n:es": "node scripts/generate-vocab-5000-i18n.mjs --locale es"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",
@@ -18,5 +22,8 @@
     "astro": "^5.0.0",
     "cmu-pronouncing-dictionary": "^3.0.0",
     "popular-english-words": "^1.0.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
   }
 }

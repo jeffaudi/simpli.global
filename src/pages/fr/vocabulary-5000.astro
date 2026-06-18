@@ -1,0 +1,78 @@
+---
+import Layout from '@/layouts/Base.astro';
+import vocabulary5000Fr from '@/data/vocabulary-5000.fr.json';
+
+const lang = 'fr';
+const t = (await import('../../translations/fr.json')).default;
+const vp = t.vocabularyListPage;
+---
+
+<Layout
+  lang={lang}
+  title="Vocabulaire 5 000"
+  description="5 000 entrées de vocabulaire Simpli à haute fréquence avec traduction française."
+>
+  <h1>Vocabulaire 5 000</h1>
+  <p>
+    Cette liste étend le tableau de 1 500 mots avec davantage de racines anglaises fréquentes en
+    orthographe Simpli. Utilisez la recherche pour des mots comme <em>evil</em> absents de la petite
+    liste.
+  </p>
+  <p><strong>Nombre d’entrées :</strong> {vocabulary5000Fr.length}</p>
+  <p class="downloads">
+    <strong>{vp.downloadsHeading} :</strong>{' '}
+    <a href="/fr/vocabulary-5000.json" download="simpli-vocabulary-5000-fr.json">{vp.jsonLink}</a>
+    {' · '}
+    <a href="/fr/vocabulary-5000.csv" download="simpli-vocabulary-5000-fr.csv">{vp.csvLink}</a>
+    <span class="downloads-hint"> — {vp.downloadsHint}</span>
+  </p>
+  <p>
+    <a href="/fr/vocabulary-1500">← Liste de 1 500 mots</a>
+    {' · '}
+    <a href="/fr/tools">Outil de recherche</a>
+  </p>
+  <p>
+    <label for="vocab-search"><strong>Recherche :</strong></label>
+    <input id="vocab-search" type="search" placeholder="Saisir Simpli ou français..." autocomplete="off" />
+  </p>
+
+  <table id="vocab-table">
+    <thead>
+      <tr>
+        <th>Simpli</th>
+        <th>Français</th>
+      </tr>
+    </thead>
+    <tbody>
+      {vocabulary5000Fr.map((entry) => (
+        <tr>
+          <td><code>{entry.simpli}</code></td>
+          <td>{entry.translation}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Layout>
+
+<script>
+  const input = document.querySelector('#vocab-search');
+  const table = document.querySelector('#vocab-table');
+  const rows = Array.from(table?.querySelectorAll('tbody tr') ?? []);
+
+  if (input && rows.length > 0) {
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      for (const row of rows) {
+        const text = row.textContent?.toLowerCase() ?? '';
+        row.style.display = q === '' || text.includes(q) ? '' : 'none';
+      }
+    });
+  }
+</script>
+
+<style>
+  .downloads-hint {
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #555);
+  }
+</style>
