@@ -1,5 +1,6 @@
 ---
 import Layout from '@/layouts/Base.astro';
+import { dialogueExample, humanRightsArticle1, whySimpliText } from '@/data/simpli-examples';
 const lang = 'en';
 const t = (await import('../../translations/en.json')).default;
 ---
@@ -8,20 +9,11 @@ const t = (await import('../../translations/en.json')).default;
   <h1>{t.nav.samples}</h1>
   <p>Sample texts in Simpli.</p>
   <h2>Universal Declaration of Human Rights (Article 1)</h2>
-  <div class="simpli-block">ol hyuman pipol born fri and ikwal.
-dey hav digniti and rait.
-    dey hav rizon and konshens and shud akt wit gud spirit tu oder pipol.</div>
+  <div class="simpli-block">{humanRightsArticle1}</div>
   <h2>Short dialogue</h2>
-  <div class="simpli-block">wer yu from ?
-mi from frans.
-
-yu liv hir ?
-yes, mi liv hir now.
-
-wat yu du ?
-mi wok wit komputer and langwidj.</div>
+  <div class="simpli-block">{dialogueExample}</div>
 
   <h2>Why Simpli? (longer text)</h2>
-  <div class="simpli-block">Simpli bi simpil langwidj. Yu kan lern el fast. El hav no hard gramar. Word kam from inglish bat de speling bi izi. Evri sound hav wan leta. Yu rid wat yu sii. Meni pipol in de wold no som inglish. For dey Simpli bi bridj. Dey kan yuse el tu tok tu oder. Dey kan yuse el for wok or trawel. Wi want de wold tu hav wan simpil langwidj. Simpli kan bi dat langwidj.</div>
+  <div class="simpli-block">{whySimpliText}</div>
   <p class="sample-note"><em>English:</em> Simpli is a simple language. You can learn it fast. It has no hard grammar. Words come from English but the spelling is easy. Every sound has one letter. You read what you see. Many people in the world know some English. For them Simpli is a bridge. They can use it to talk to others. They can use it for work or travel. We want the world to have one simple language. Simpli can be that language.</p>
 </Layout>

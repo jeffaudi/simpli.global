@@ -37,7 +37,7 @@
   },
   {
     "simpli": "el",
-    "translation": "él/ella/eso"
+    "translation": "el"
   },
   {
     "simpli": "wit",
@@ -60,8 +60,8 @@
     "translation": "o"
   },
   {
-    "simpli": "vitj",
-    "translation": "cual"
+    "simpli": "witj",
+    "translation": "which"
   },
   {
     "simpli": "bat",
@@ -77,7 +77,7 @@
   },
   {
     "simpli": "van",
-    "translation": "uno"
+    "translation": "furgoneta"
   },
   {
     "simpli": "peidj",
@@ -105,7 +105,7 @@
   },
   {
     "simpli": "der",
-    "translation": "allá"
+    "translation": "der"
   },
   {
     "simpli": "mei",
@@ -180,8 +180,8 @@
     "translation": "borrar"
   },
   {
-    "simpli": "ver",
-    "translation": "dónde"
+    "simpli": "wer",
+    "translation": "where"
   },
   {
     "simpli": "aut",
@@ -252,8 +252,8 @@
     "translation": "th"
   },
   {
-    "simpli": "vil",
-    "translation": "voluntad"
+    "simpli": "wil",
+    "translation": "will"
   },
   {
     "simpli": "eni",
@@ -264,8 +264,8 @@
     "translation": "com"
   },
   {
-    "simpli": "vat",
-    "translation": "qué"
+    "simpli": "wat",
+    "translation": "what"
   },
   {
     "simpli": "november",
@@ -300,8 +300,8 @@
     "translation": "más"
   },
   {
-    "simpli": "vail",
-    "translation": "mientras"
+    "simpli": "wail",
+    "translation": "while"
   },
   {
     "simpli": "si",
@@ -336,8 +336,8 @@
     "translation": "año"
   },
   {
-    "simpli": "vel",
-    "translation": "bueno"
+    "simpli": "wel",
+    "translation": "well"
   },
   {
     "simpli": "yus",
@@ -352,8 +352,8 @@
     "translation": "desde"
   },
   {
-    "simpli": "verk",
-    "translation": "trabajar"
+    "simpli": "wok",
+    "translation": "work"
   },
   {
     "simpli": "tri",
@@ -365,7 +365,7 @@
   },
   {
     "simpli": "bot",
-    "translation": "ambos"
+    "translation": "bot"
   },
   {
     "simpli": "steit",
@@ -412,8 +412,8 @@
     "translation": "ciudad"
   },
   {
-    "simpli": "vikipidia",
-    "translation": "Wikipedia"
+    "simpli": "wikipidia",
+    "translation": "wikipedia"
   },
   {
     "simpli": "seim",
@@ -436,8 +436,8 @@
     "translation": "adecuado"
   },
   {
-    "simpli": "verld",
-    "translation": "mundo"
+    "simpli": "werld",
+    "translation": "world"
   },
   {
     "simpli": "abav",
@@ -544,6 +544,10 @@
     "translation": "por"
   },
   {
+    "simpli": "wan",
+    "translation": "won"
+  },
+  {
     "simpli": "itj",
     "translation": "cada"
   },
@@ -600,8 +604,8 @@
     "translation": "apoyo"
   },
   {
-    "simpli": "vei",
-    "translation": "forma"
+    "simpli": "wei",
+    "translation": "way"
   },
   {
     "simpli": "former",
@@ -636,8 +640,8 @@
     "translation": "alto"
   },
   {
-    "simpli": "vor",
-    "translation": "guerra"
+    "simpli": "wor",
+    "translation": "war"
   },
   {
     "simpli": "gud",
@@ -717,7 +721,7 @@
   },
   {
     "simpli": "du",
-    "translation": "pendiente"
+    "translation": "du"
   },
   {
     "simpli": "lokal",
@@ -736,8 +740,8 @@
     "translation": "último"
   },
   {
-    "simpli": "vidin",
-    "translation": "dentro"
+    "simpli": "widin",
+    "translation": "within"
   },
   {
     "simpli": "eridjanal",
@@ -836,8 +840,8 @@
     "translation": "internacional"
   },
   {
-    "simpli": "vitaut",
-    "translation": "sin"
+    "simpli": "witaut",
+    "translation": "without"
   },
   {
     "simpli": "sistam",
@@ -876,8 +880,8 @@
     "translation": "iglesia"
   },
   {
-    "simpli": "vest",
-    "translation": "Oeste"
+    "simpli": "west",
+    "translation": "west"
   },
   {
     "simpli": "pleier",
@@ -1001,7 +1005,7 @@
   },
   {
     "simpli": "san",
-    "translation": "hijo"
+    "translation": "san"
   },
   {
     "simpli": "igsampal",
@@ -1084,8 +1088,8 @@
     "translation": "notabilidad"
   },
   {
-    "simpli": "vai",
-    "translation": "por qué"
+    "simpli": "wai",
+    "translation": "why"
   },
   {
     "simpli": "rakord",
@@ -1112,8 +1116,8 @@
     "translation": "francés"
   },
   {
-    "simpli": "avord",
-    "translation": "otorgar"
+    "simpli": "aword",
+    "translation": "award"
   },
   {
     "simpli": "never",
@@ -1156,8 +1160,8 @@
     "translation": "condujo"
   },
   {
-    "simpli": "voter",
-    "translation": "agua"
+    "simpli": "woter",
+    "translation": "water"
   },
   {
     "simpli": "kalidj",
@@ -1216,8 +1220,8 @@
     "translation": "similar"
   },
   {
-    "simpli": "vait",
-    "translation": "blanco"
+    "simpli": "wait",
+    "translation": "white"
   },
   {
     "simpli": "kerant",
@@ -1249,7 +1253,7 @@
   },
   {
     "simpli": "fri",
-    "translation": "gratis"
+    "translation": "vie"
   },
   {
     "simpli": "man",
@@ -1261,7 +1265,7 @@
   },
   {
     "simpli": "sort",
-    "translation": "corto"
+    "translation": "clasificar"
   },
   {
     "simpli": "liv",
@@ -1364,8 +1368,8 @@
     "translation": "posición"
   },
   {
-    "simpli": "vant",
-    "translation": "desear"
+    "simpli": "want",
+    "translation": "want"
   },
   {
     "simpli": "fild",
@@ -1445,11 +1449,11 @@
   },
   {
     "simpli": "ad",
-    "translation": "agregar"
+    "translation": "anuncio"
   },
   {
-    "simpli": "vin",
-    "translation": "ganar"
+    "simpli": "win",
+    "translation": "win"
   },
   {
     "simpli": "vidio",
@@ -1568,8 +1572,8 @@
     "translation": "cerca"
   },
   {
-    "simpli": "vaif",
-    "translation": "esposa"
+    "simpli": "waif",
+    "translation": "wife"
   },
   {
     "simpli": "ingland",
@@ -1600,12 +1604,12 @@
     "translation": "fecha"
   },
   {
-    "simpli": "avei",
-    "translation": "lejos"
+    "simpli": "awei",
+    "translation": "away"
   },
   {
-    "simpli": "veder",
-    "translation": "si"
+    "simpli": "weder",
+    "translation": "whether"
   },
   {
     "simpli": "sasaiati",
@@ -1644,8 +1648,8 @@
     "translation": "problema"
   },
   {
-    "simpli": "vestern",
-    "translation": "occidental"
+    "simpli": "western",
+    "translation": "western"
   },
   {
     "simpli": "dipartmant",
@@ -1860,8 +1864,8 @@
     "translation": "primario"
   },
   {
-    "simpli": "vebsait",
-    "translation": "sitio web"
+    "simpli": "websait",
+    "translation": "website"
   },
   {
     "simpli": "deibyu",
@@ -1880,8 +1884,8 @@
     "translation": "especialmente"
   },
   {
-    "simpli": "verd",
-    "translation": "palabra"
+    "simpli": "werd",
+    "translation": "word"
   },
   {
     "simpli": "fyutjer",
@@ -1948,8 +1952,8 @@
     "translation": "luz"
   },
   {
-    "simpli": "vik",
-    "translation": "semana"
+    "simpli": "wik",
+    "translation": "week"
   },
   {
     "simpli": "yuserneim",
@@ -2112,8 +2116,8 @@
     "translation": "específico"
   },
   {
-    "simpli": "vilyam",
-    "translation": "Guillermo"
+    "simpli": "wilyam",
+    "translation": "william"
   },
   {
     "simpli": "ostreilyan",
@@ -2356,12 +2360,12 @@
     "translation": "aeronave"
   },
   {
-    "simpli": "netverk",
-    "translation": "red"
+    "simpli": "netwerk",
+    "translation": "network"
   },
   {
-    "simpli": "vuman",
-    "translation": "mujer"
+    "simpli": "wuman",
+    "translation": "woman"
   },
   {
     "simpli": "medakal",
@@ -2449,7 +2453,7 @@
   },
   {
     "simpli": "fort",
-    "translation": "cuatro"
+    "translation": "fuerte"
   },
   {
     "simpli": "erlier",
@@ -2524,8 +2528,8 @@
     "translation": "base"
   },
   {
-    "simpli": "reilvei",
-    "translation": "ferrocarril"
+    "simpli": "reilwei",
+    "translation": "railway"
   },
   {
     "simpli": "kap",
@@ -2700,7 +2704,7 @@
     "translation": "borde"
   },
   {
-    "simpli": "veb",
+    "simpli": "web",
     "translation": "web"
   },
   {
@@ -2952,7 +2956,7 @@
     "translation": "sentido"
   },
   {
-    "simpli": "viki",
+    "simpli": "wiki",
     "translation": "wiki"
   },
   {
@@ -3004,8 +3008,8 @@
     "translation": "plan"
   },
   {
-    "simpli": "vaid",
-    "translation": "ancho"
+    "simpli": "waid",
+    "translation": "wide"
   },
   {
     "simpli": "ruum",
@@ -3073,7 +3077,7 @@
   },
   {
     "simpli": "los",
-    "translation": "pérdida"
+    "translation": "los"
   },
   {
     "simpli": "global",
@@ -3088,8 +3092,8 @@
     "translation": "asiento"
   },
   {
-    "simpli": "viner",
-    "translation": "ganador"
+    "simpli": "winer",
+    "translation": "winner"
   },
   {
     "simpli": "older",
@@ -3184,8 +3188,8 @@
     "translation": "más grande"
   },
   {
-    "simpli": "vasingtan",
-    "translation": "Washington"
+    "simpli": "wasingtan",
+    "translation": "washington"
   },
   {
     "simpli": "kamplitli",
@@ -3313,7 +3317,7 @@
   },
   {
     "simpli": "sat",
-    "translation": "disparo"
+    "translation": "se sentó"
   },
   {
     "simpli": "format",
@@ -3472,7 +3476,7 @@
     "translation": "muerto"
   },
   {
-    "simpli": "softver",
+    "simpli": "softwer",
     "translation": "software"
   },
   {
@@ -3504,8 +3508,8 @@
     "translation": "considerar"
   },
   {
-    "simpli": "adervais",
-    "translation": "de lo contrario"
+    "simpli": "aderwais",
+    "translation": "otherwise"
   },
   {
     "simpli": "djab",
@@ -3800,8 +3804,8 @@
     "translation": "situación"
   },
   {
-    "simpli": "vidt",
-    "translation": "ancho"
+    "simpli": "widt",
+    "translation": "width"
   },
   {
     "simpli": "prais",
@@ -3956,8 +3960,8 @@
     "translation": "respuesta"
   },
   {
-    "simpli": "vaidli",
-    "translation": "ampliamente"
+    "simpli": "waidli",
+    "translation": "widely"
   },
   {
     "simpli": "dereksan",
@@ -3992,8 +3996,8 @@
     "translation": "inicial"
   },
   {
-    "simpli": "haivei",
-    "translation": "carretera"
+    "simpli": "haiwei",
+    "translation": "highway"
   },
   {
     "simpli": "baskatbol",
@@ -4140,8 +4144,8 @@
     "translation": "aceite"
   },
   {
-    "simpli": "tvais",
-    "translation": "dos veces"
+    "simpli": "twais",
+    "translation": "twice"
   },
   {
     "simpli": "endjanir",
@@ -4304,8 +4308,8 @@
     "translation": "esfuerzo"
   },
   {
-    "simpli": "vert",
-    "translation": "valer"
+    "simpli": "wert",
+    "translation": "worth"
   },
   {
     "simpli": "split",
@@ -4464,8 +4468,12 @@
     "translation": "arroyo"
   },
   {
-    "simpli": "vinter",
-    "translation": "invierno"
+    "simpli": "wol",
+    "translation": "wall"
+  },
+  {
+    "simpli": "winter",
+    "translation": "winter"
   },
   {
     "simpli": "stor",
@@ -4476,8 +4484,8 @@
     "translation": "alternativa"
   },
   {
-    "simpli": "forverd",
-    "translation": "adelante"
+    "simpli": "forwerd",
+    "translation": "forward"
   },
   {
     "simpli": "resalusan",
@@ -4768,8 +4776,8 @@
     "translation": "incapaz"
   },
   {
-    "simpli": "veit",
-    "translation": "peso"
+    "simpli": "weit",
+    "translation": "weight"
   },
   {
     "simpli": "trafik",
@@ -5032,8 +5040,8 @@
     "translation": "más"
   },
   {
-    "simpli": "vud",
-    "translation": "madera"
+    "simpli": "wud",
+    "translation": "wood"
   },
   {
     "simpli": "ikstensiv",
@@ -5056,8 +5064,8 @@
     "translation": "máquina"
   },
   {
-    "simpli": "ved",
-    "translation": "casarse"
+    "simpli": "wed",
+    "translation": "wed"
   },
   {
     "simpli": "seiv",
@@ -5208,8 +5216,8 @@
     "translation": "propuesta"
   },
   {
-    "simpli": "enivei",
-    "translation": "de todos modos"
+    "simpli": "eniwei",
+    "translation": "anyway"
   },
   {
     "simpli": "aplai",
@@ -5248,8 +5256,8 @@
     "translation": "literario"
   },
   {
-    "simpli": "edverd",
-    "translation": "Eduardo"
+    "simpli": "edwerd",
+    "translation": "edward"
   },
   {
     "simpli": "logo",
@@ -5452,8 +5460,8 @@
     "translation": "punto de vista"
   },
   {
-    "simpli": "svidis",
-    "translation": "sueco"
+    "simpli": "swidis",
+    "translation": "swedish"
   },
   {
     "simpli": "von",
@@ -5512,8 +5520,8 @@
     "translation": "piloto"
   },
   {
-    "simpli": "verldvaid",
-    "translation": "mundial"
+    "simpli": "werldwaid",
+    "translation": "worldwide"
   },
   {
     "simpli": "hors",
@@ -5624,8 +5632,8 @@
     "translation": "máximo"
   },
   {
-    "simpli": "samvat",
-    "translation": "un poco"
+    "simpli": "samwat",
+    "translation": "somewhat"
   },
   {
     "simpli": "plat",
@@ -5676,8 +5684,8 @@
     "translation": "generar"
   },
   {
-    "simpli": "tavord",
-    "translation": "hacia"
+    "simpli": "taword",
+    "translation": "toward"
   },
   {
     "simpli": "vies",
@@ -5728,8 +5736,8 @@
     "translation": "graduado"
   },
   {
-    "simpli": "vatever",
-    "translation": "lo que"
+    "simpli": "watever",
+    "translation": "whatever"
   },
   {
     "simpli": "internal",
@@ -5828,8 +5836,8 @@
     "translation": "proteger"
   },
   {
-    "simpli": "nortvest",
-    "translation": "noroeste"
+    "simpli": "nortwest",
+    "translation": "northwest"
   },
   {
     "simpli": "feilyer",
@@ -5916,8 +5924,8 @@
     "translation": "elizabeth"
   },
   {
-    "simpli": "vis",
-    "translation": "desear"
+    "simpli": "wis",
+    "translation": "wish"
   },
   {
     "simpli": "spitj",
@@ -5976,8 +5984,8 @@
     "translation": "ru"
   },
   {
-    "simpli": "vatj",
-    "translation": "mirar"
+    "simpli": "watj",
+    "translation": "watch"
   },
   {
     "simpli": "apart",
@@ -5990,13 +5998,5 @@
   {
     "simpli": "misis",
     "translation": "señora"
-  },
-  {
-    "simpli": "inteladjans",
-    "translation": "inteligencia"
-  },
-  {
-    "simpli": "hevali",
-    "translation": "fuertemente"
   }
 ]

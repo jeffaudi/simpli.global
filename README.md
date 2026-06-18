@@ -62,18 +62,18 @@ The [spec/](spec/) folder holds the language specification as reference docs:
 ## Design principles
 
 1. **One sound = one spelling** (no silent letters, no “th”)
-2. **No verb conjugation** — time with words (yesterde, now, tumoro); optional wil / hav for future or past; alredi / stil for aspect
+2. **No verb conjugation** — time with words (yesterde, now, tumoro); optional wil / hav for future or past; olredi / stil for aspect
 3. **Possession:** noun + possessor (*haus mi* = my house)
 4. **Long vowels** to avoid collisions (e.g. *it* vs *iit* for “eat”)
 
 ## Quick example
 
 ```
-wer yu from ?
-mi from frans.
+wer yu fram?
+mi fram frans.
 
-wat yu du ?
-mi wok wit komputer and langwidj.
+wat yu du?
+mi wok wit kampyuter and langwidj.
 ```
 
 *Where are you from? I'm from France. What do you do? I work with computers and languages.*

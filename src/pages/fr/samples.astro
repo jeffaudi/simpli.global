@@ -1,5 +1,6 @@
 ---
 import Layout from '@/layouts/Base.astro';
+import { dialogueExample, humanRightsArticle1, whySimpliText } from '@/data/simpli-examples';
 const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
 ---
@@ -8,19 +9,10 @@ const t = (await import('../../translations/fr.json')).default;
   <h1>{t.nav.samples}</h1>
   <p>Sample texts in Simpli.</p>
   <h2>Universal Declaration of Human Rights (Article 1)</h2>
-  <div class="simpli-block">ol hyuman pipol born fri and ikwal.
-dey hav digniti and rait.
-    dey hav rizon and konshens and shud akt wit gud spirit tu oder pipol.</div>
+  <div class="simpli-block">{humanRightsArticle1}</div>
   <h2>Short dialogue</h2>
-  <div class="simpli-block">wer yu from ?
-mi from frans.
-
-yu liv hir ?
-yes, mi liv hir now.
-
-wat yu du ?
-mi wok wit komputer and langwidj.</div>
+  <div class="simpli-block">{dialogueExample}</div>
 
   <h2>Why Simpli? (longer text)</h2>
-  <div class="simpli-block">Simpli bi simpil langwidj. Yu kan lern el fast. El hav no hard gramar. Word kam from inglish bat de speling bi izi. Evri sound hav wan leta. Yu rid wat yu sii. Meni pipol in de wold no som inglish. For dey Simpli bi bridj. Dey kan yuse el tu tok tu oder. Dey kan yuse el for wok or trawel. Wi want de wold tu hav wan simpil langwidj. Simpli kan bi dat langwidj.</div>
+  <div class="simpli-block">{whySimpliText}</div>
 </Layout>

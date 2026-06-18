@@ -1,6 +1,7 @@
 ---
 import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
+import { dialogueExample } from '@/data/simpli-examples';
 
 const lang = 'fr';
 const t = (await import('../../../translations/fr.json')).default;
@@ -14,11 +15,7 @@ const lp = t.leafletPrint;
     <p class="leaflet-bullets">{lp.bullets}</p>
 
     <h2>{lp.exampleTitle}</h2>
-    <pre class="simpli-block" dir="ltr">wer yu from ?
-mi from frans.
-
-wat yu du ?
-mi wok wit komputer and langwidj.</pre>
+    <pre class="simpli-block" dir="ltr">{dialogueExample}</pre>
     <p class="gloss">{lp.exampleGloss}</p>
 
     <p class="footer-line">

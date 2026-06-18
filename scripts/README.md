@@ -6,6 +6,8 @@
 | [`generate-vocab-5000-i18n.mjs`](generate-vocab-5000-i18n.mjs) | Machine-translate remaining glosses (after `npm run build`). Run: `npm run vocab:5000:i18n` or `npm run vocab:5000:i18n -- --locale es` |
 | [`generate_vocab_translations.mjs`](generate_vocab_translations.mjs) | Legacy: FR/ES for the 1,500-word list from built HTML |
 | [`generate_vocab_translations.py`](generate_vocab_translations.py) | Alternative 1,500-word translator (MyMemory) |
+| [`build-spec-pdf.py`](build-spec-pdf.py) | Build archived spec PDF from `spec/SIMPLI-SPECIFICATION.md`. Run: `npm run build:spec-pdf` (needs `pip install reportlab`; fonts in [`fonts/dejavu/`](fonts/dejavu/)) |
+| [`audit-simpli-examples.mjs`](audit-simpli-examples.mjs) | Check Simpli prose examples against the 5,000-word list. Run: `node --import tsx/esm scripts/audit-simpli-examples.mjs` (skips spelling pedagogy pages) |
 
 **5,000-word dictionary workflow**
 

@@ -3,14 +3,14 @@
 ## Alphabet
 
 - **Vowels:** a, e, i, o, u (long: aa, ee, ii, oo, uu — doubled letter).
-- **Consonants:** p, b, t, d, k, g, m, n, f, s, l, r, h, **v**, w, y. **No letter c** (removed entirely). Use **k** for /k/. The sound /tʃ/ is written **tj**; /dʒ/ is written **dj** (symmetrical with tj). **G** always = /g/ (hard g). The [v]/[w] sound is written **v** (standard); **w** can still be used for familiarity with English. The two sounds are equivalent.
+- **Consonants:** p, b, t, d, k, g, m, n, f, s, l, r, h, **v**, w, y. **No letter c** (removed entirely). Use **k** for /k/. The sound /tʃ/ is written **tj**; /dʒ/ is written **dj** (symmetrical with tj). **G** always = /g/ (hard g). The [v]/[w] sound is written **w** when English uses **w**, otherwise **v**.
 
 No *th*, *z*, *sh*; mapped to nearest letter (see below).
 
 ## Letter mappings
 
 - **th** → d (*dis*, *dat*, *dey*)
-- **v / w** — Simpli treats the English v and w sounds as equivalent. The standard spelling uses **v**: *seven*, *vata* (water), *vuman* (woman), *hav* (have), *giv* (give), *liv* (live), *mov* (move), *river*, *even*. **W** can still be used for familiarity (e.g. *wata*, *wi*, *windo*). Speakers may pronounce either way.
+- **v / w** — Simpli treats the English [v] and [w] sounds as equivalent. Use **w** when English spells the sound with **w** (at the start or inside the word): *woter* (water), *watever* (whatever), *wi*, *windo*. Use **v** when English uses **v**: *seven*, *river*, *hav*, *giv*, *liv*, *mov*, *even*. Speakers may pronounce either way.
 - **ch** → **tj** (no letter c in Simpli): *tjaild* (child), *tiitjer* (teacher), *tjeendj* (change), *tjiiz* (cheese). For /k/ we always use **k**: *skul* (school), *akson* (action).
 - **ph** → f (*fon*)
 - **sh** → s; **z** → s when needed

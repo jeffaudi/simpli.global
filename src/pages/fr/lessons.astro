@@ -1,6 +1,7 @@
 ---
 import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
+import { dialogueExample, timeAspectExample } from '@/data/simpli-examples';
 
 const lang = 'fr';
 const t = (await import('../../translations/fr.json')).default;
@@ -15,11 +16,7 @@ const lp = t.lessonsPage;
     <h2>{lp.module1Title}</h2>
     <p>{lp.module1Body}</p>
     <p><strong>{lp.module1Examples}</strong></p>
-    <pre class="simpli-block" dir="ltr">wer yu from ?
-mi from frans.
-
-wat yu du ?
-mi wok wit komputer and langwidj.</pre>
+    <pre class="simpli-block" dir="ltr">{dialogueExample}</pre>
   </article>
 
   <article class="card lesson">
@@ -32,22 +29,15 @@ buk yu</pre>
   <article class="card lesson">
     <h2>{lp.module3Title}</h2>
     <p>{lp.module3Body}</p>
-    <pre class="simpli-block" dir="ltr">it (pronom)
-iit (verbe « manger » — voyelle longue)</pre>
+    <pre class="simpli-block" dir="ltr">el (pronom — he/she/it)
+it (verbe « manger »)</pre>
   </article>
 
   <article class="card lesson">
     <h2>{lp.module4Title}</h2>
     <p>{lp.module4Body}</p>
     <p><strong>{lp.module4Examples}</strong></p>
-    <pre class="simpli-block" dir="ltr">tumoro mi sii yu
-mi wil sii yu
-
-yesterde mi fini
-mi hav fini
-mi alredi fini
-
-mi stil wok</pre>
+    <pre class="simpli-block" dir="ltr">{timeAspectExample}</pre>
   </article>
 
   <section class="card">

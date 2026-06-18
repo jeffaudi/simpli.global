@@ -7,8 +7,8 @@ Input:
 Output:
   - public/spec/simpli-specification-v0.1.pdf
 
-This intentionally uses only Debian-packaged dependencies (reportlab),
-so it can run in minimal environments without npm/node tooling.
+Requires reportlab (`pip install reportlab`). DejaVu fonts are bundled under
+scripts/fonts/dejavu/ (with fallbacks to system or matplotlib paths).
 """
 
 from __future__ import annotations
@@ -27,7 +27,42 @@ from reportlab.platypus import PageBreak, Paragraph, Preformatted, SimpleDocTemp
 ROOT = Path(__file__).resolve().parents[1]
 SRC_MD = ROOT / "spec" / "SIMPLI-SPECIFICATION.md"
 OUT_PDF = ROOT / "public" / "spec" / "simpli-specification-v0.1.pdf"
-DEJAVU_DIR = Path("/usr/share/fonts/truetype/dejavu")
+BUNDLED_DEJAVU = ROOT / "scripts" / "fonts" / "dejavu"
+
+REQUIRED_FONTS = (
+  "DejaVuSans.ttf",
+  "DejaVuSans-Bold.ttf",
+  "DejaVuSansMono.ttf",
+  "DejaVuSansMono-Bold.ttf",
+)
+
+
+def find_dejavu_dir() -> Path:
+  candidates: list[Path] = [
+    BUNDLED_DEJAVU,
+    Path("/usr/share/fonts/truetype/dejavu"),
+    Path("/usr/local/share/fonts/dejavu"),
+    Path("/opt/homebrew/share/fonts/dejavu"),
+  ]
+  try:
+    import matplotlib
+
+    candidates.append(
+      Path(matplotlib.get_data_path()) / "mpl-data" / "fonts" / "ttf"
+    )
+  except ImportError:
+    pass
+
+  for directory in candidates:
+    if all((directory / name).is_file() for name in REQUIRED_FONTS):
+      return directory
+
+  searched = "\n".join(f"  - {path}" for path in candidates)
+  raise SystemExit(
+    "DejaVu fonts not found. Need DejaVuSans + DejaVuSansMono (regular and bold).\n"
+    f"Searched:\n{searched}\n"
+    "Bundled copies should live in scripts/fonts/dejavu/ (see that folder’s README)."
+  )
 
 
 def md_inline_to_html(s: str) -> str:
@@ -46,13 +81,14 @@ def build() -> None:
     raise SystemExit(f"Missing source: {SRC_MD}")
 
   OUT_PDF.parent.mkdir(parents=True, exist_ok=True)
+  dejavu_dir = find_dejavu_dir()
 
   # Use a Unicode font so IPA and other phonetic characters render.
   # (Helvetica/Courier are limited and will show missing-glyph squares.)
-  pdfmetrics.registerFont(TTFont("DejaVuSans", str(DEJAVU_DIR / "DejaVuSans.ttf")))
-  pdfmetrics.registerFont(TTFont("DejaVuSans-Bold", str(DEJAVU_DIR / "DejaVuSans-Bold.ttf")))
-  pdfmetrics.registerFont(TTFont("DejaVuSansMono", str(DEJAVU_DIR / "DejaVuSansMono.ttf")))
-  pdfmetrics.registerFont(TTFont("DejaVuSansMono-Bold", str(DEJAVU_DIR / "DejaVuSansMono-Bold.ttf")))
+  pdfmetrics.registerFont(TTFont("DejaVuSans", str(dejavu_dir / "DejaVuSans.ttf")))
+  pdfmetrics.registerFont(TTFont("DejaVuSans-Bold", str(dejavu_dir / "DejaVuSans-Bold.ttf")))
+  pdfmetrics.registerFont(TTFont("DejaVuSansMono", str(dejavu_dir / "DejaVuSansMono.ttf")))
+  pdfmetrics.registerFont(TTFont("DejaVuSansMono-Bold", str(dejavu_dir / "DejaVuSansMono-Bold.ttf")))
 
   styles = getSampleStyleSheet()
   normal = ParagraphStyle(

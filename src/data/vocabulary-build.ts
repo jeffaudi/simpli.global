@@ -136,16 +136,45 @@ const CONSONANT_MAP: Record<string, string> = {
   T: 't',
   TH: 't',
   V: 'v',
-  W: 'v',
   Y: 'y',
   Z: 's',
   ZH: 's',
 };
 
+type ArpabetResult = {
+  simpli: string;
+  /** Indices in simpli where the CMU W phoneme was pronounced. */
+  wSoundIndices: number[];
+};
+
+function arpabetToSimpli(pronunciation: string): ArpabetResult {
+  const tokens = pronunciation.trim().split(/\s+/);
+  let simpli = '';
+  const wSoundIndices: number[] = [];
+
+  for (const token of tokens) {
+    const base = token.replace(/[0-2]/g, '');
+    if (VOWEL_MAP[base]) {
+      simpli += VOWEL_MAP[base];
+      continue;
+    }
+    if (base === 'W') {
+      wSoundIndices.push(simpli.length);
+      simpli += 'w';
+      continue;
+    }
+    if (CONSONANT_MAP[base]) {
+      simpli += CONSONANT_MAP[base];
+      continue;
+    }
+  }
+
+  return { simpli, wSoundIndices };
+}
+
 function toSimpleFallback(english: string): string {
-  return english
-    .toLowerCase()
-    .replace(/[^a-z]/g, '')
+  const lower = english.toLowerCase().replace(/[^a-z]/g, '');
+  let out = lower
     .replace(/tion/g, 'son')
     .replace(/sion/g, 'son')
     .replace(/ch/g, 'tj')
@@ -155,29 +184,32 @@ function toSimpleFallback(english: string): string {
     .replace(/qu/g, 'kv')
     .replace(/c/g, 'k')
     .replace(/x/g, 'ks')
-    .replace(/w/g, 'v')
     .replace(/z/g, 's')
     .replace(/oo/g, 'u')
     .replace(/ee/g, 'i');
+
+  if (!lower.includes('w')) out = out.replace(/w/g, 'v');
+  return out;
 }
 
-function arpabetToSimpli(pronunciation: string): string {
-  const tokens = pronunciation.trim().split(/\s+/);
-  let out = '';
+/**
+ * v and w are equivalent in Simpli. Use w only where English spells w (start or inside);
+ * otherwise use v (e.g. seven → seven, water → woter, whatever → watever).
+ */
+function applyVWFromEnglish(english: string, simpli: string, wSoundIndices: number[]): string {
+  const lower = english.toLowerCase().replace(/[^a-z]/g, '');
+  if (!lower.includes('w')) return simpli.replace(/w/g, 'v');
 
-  for (const token of tokens) {
-    const base = token.replace(/[0-2]/g, '');
-    if (VOWEL_MAP[base]) {
-      out += VOWEL_MAP[base];
-      continue;
-    }
-    if (CONSONANT_MAP[base]) {
-      out += CONSONANT_MAP[base];
-      continue;
+  const wAtSound = new Set(wSoundIndices);
+  const chars = simpli.split('');
+  for (let i = 0; i < chars.length; i++) {
+    if (wAtSound.has(i)) {
+      if (chars[i] === 'v') chars[i] = 'w';
+    } else if (chars[i] === 'w') {
+      chars[i] = 'v';
     }
   }
-
-  return out;
+  return chars.join('');
 }
 
 function normalizeWord(word: string): string {
@@ -244,13 +276,20 @@ const EXACT_OVERRIDES: Record<string, string> = {
   tomorrow: 'tumoro',
   yesterday: 'yesterde',
   people: 'pipol',
-  woman: 'vuman',
   child: 'tjaild',
   teacher: 'tiitjer',
   school: 'skul',
   key: 'kii',
   room: 'ruum',
   road: 'rood',
+  still: 'stil',
+  will: 'wil',
+  when: 'wen',
+  how: 'hau',
+  be: 'bi',
+  work: 'wok',
+  people: 'pipol',
+  rain: 'rein',
 };
 
 function canonicalEnglish(word: string): string {
@@ -264,7 +303,7 @@ function normalizeEnglishGloss(word: string): string {
   return word;
 }
 
-function applySimpliRules(english: string, rawSimpli: string): string {
+function applySimpliRules(english: string, rawSimpli: string, wSoundIndices: number[] = []): string {
   if (EXACT_OVERRIDES[english]) return EXACT_OVERRIDES[english];
 
   let out = rawSimpli;
@@ -275,7 +314,6 @@ function applySimpliRules(english: string, rawSimpli: string): string {
   if (/ous$/.test(english)) out = out.replace(/us$/, 'us');
 
   out = out
-    .replace(/w/g, 'v')
     .replace(/c/g, 'k')
     .replace(/q/g, 'k')
     .replace(/x/g, 'ks')
@@ -285,14 +323,24 @@ function applySimpliRules(english: string, rawSimpli: string): string {
     .replace(/th/g, 'd');
 
   out = collapseDoubleConsonants(out);
-  return out;
+  return applyVWFromEnglish(english, out, wSoundIndices);
 }
 
 function makeEntry(english: string): VocabularyEntry {
   const normalized = normalizeWord(english).replace(/^'+|'+$/g, '');
   const pronunciation = cmuDictionary[normalized];
-  const rawSimpli = pronunciation ? arpabetToSimpli(pronunciation) : toSimpleFallback(normalized);
-  const simpli = applySimpliRules(normalized, rawSimpli);
+  let rawSimpli: string;
+  let wSoundIndices: number[] = [];
+
+  if (pronunciation) {
+    const parsed = arpabetToSimpli(pronunciation);
+    rawSimpli = parsed.simpli;
+    wSoundIndices = parsed.wSoundIndices;
+  } else {
+    rawSimpli = toSimpleFallback(normalized);
+  }
+
+  const simpli = applySimpliRules(normalized, rawSimpli, wSoundIndices);
 
   return {
     simpli: simpli || applySimpliRules(normalized, toSimpleFallback(normalized)),

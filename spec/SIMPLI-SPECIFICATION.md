@@ -39,7 +39,7 @@ There is no *th*, *z*, *sh* in the inventory as in English; they map to other le
 ### 2.2 Letter mappings
 
 - **th** → d (*dis*, *dat*, *dey*)
-- **v / w** — Simpli treats the English v and w sounds as equivalent. The standard spelling uses **v**: *seven*, *vata* (water), *vuman* (woman), *hav*, *giv*, *liv*, *mov*, *river*, *even*. **W** can still be used for familiarity (e.g. *wata*, *wi*, *windo*). Speakers may pronounce either way.
+- **v / w** — Simpli treats the English [v] and [w] sounds as equivalent. Use **w** when English spells the sound with **w** (at the start or inside the word): *woter* (water), *watever* (whatever), *wi*, *windo*. Use **v** when English uses **v**: *seven*, *river*, *hav*, *giv*, *liv*, *mov*, *even*. Speakers may pronounce either way.
 - **ch** → **tj** (no letter c in Simpli): *tjaild* (child), *tiitjer* (teacher), *tjeendj* (change), *tjiiz* (cheese). For /k/ always **k**: *skul*, *akson*.
 - **ph** → f (*fon*)
 - **sh** → s; **z** → s when needed
@@ -64,12 +64,10 @@ There is no *th*, *z*, *sh* in the inventory as in English; they map to other le
 
 0. **Pronouns:** One word for third-person singular: *el* = he, she, it. No separate “it”; *el* is used for people and things.
 1. **Word order:** Subject – Verb – Object.
-2. **No verb conjugation.** Verbs never change. Express time and aspect with fixed particles (before the verb):
-   - **Past:** *did* + verb → *mi did go* (I went)
-   - **Ongoing (present progressive):** *now* + verb → *mi now go* (I am going)
-   - **Future:** *wil* + verb → *mi wil go* (I will go)
-   - **Optional aspect markers:** *olredi* (already), *stil* (still), *not-yet* (not yet) — used when needed for clarity.
-   - Time words like *yesterde*, *tumoro* can be added for precision but are not required when a particle is present.
+2. **No verb conjugation.** Express **when** with time words: yesterde, now, tumoro. Verbs stay the same: *mi go*, *el go*, *dey go*.
+   - **Optional future / past:** *wil* (future) or *hav* (past or perfect) before the main verb when no time word is given: *mi wil go*, *mi hav finis*. When a time word is present, *wil* and *hav* are optional and often omitted: *tumoro mi go*.
+   - **Aspect:** *olredi* (already done) and *stil* (still ongoing): *mi olredi finis*, *mi stil wok*.
+   - *hav* also means “have” as a main verb (*mi hav buk*); context distinguishes auxiliary from main verb.
 3. **Negation:** *no* before the verb.
 4. **Questions:** Start with wat, hu, wer, wen, wai, hou.
 5. **Plural:** Optional; numbers or *meni*.
@@ -78,8 +76,8 @@ There is no *th*, *z*, *sh* in the inventory as in English; they map to other le
 8. **Possession:** Noun + possessor (*haus mi* = my house). Optional *of*: *haus (of) mi*, *haus (of) broder (of) mi* = my brother’s house.
 9. **Prepositions:** in, on, at, from, to, wit, for.
 10. **Connectors:** and, or, but, becos, so.
-11. **Compounds:** e.g. sun-light, fast-tren, wata-food.
-12. **Numbers (reading aloud):** East Asian–style composition is recommended—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 3253 = *tri dausand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *dausand* (thousand).
+11. **Compounds:** e.g. sun-lait, fast-trein, woter-fud.
+12. **Numbers (reading aloud):** East Asian–style composition is recommended—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 3253 = *tri tausand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *tausand* (thousand).
 
 ---
 
