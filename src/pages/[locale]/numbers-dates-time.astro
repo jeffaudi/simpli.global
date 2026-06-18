@@ -1,0 +1,42 @@
+---
+import { getTranslations } from '@/lib/translations';
+import Layout from '@/layouts/Base.astro';
+import { renderPageMarkdown } from '@/content/load';
+import { localeParams, type Lang } from '@/i18n';
+
+export function getStaticPaths() {
+  return localeParams;
+}
+
+const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
+const t = getTranslations(lang);
+const html = renderPageMarkdown('numbers-dates-time', lang);
+---
+
+<Layout lang={lang} title={t.nav.numbersDatesTime} description={t.pages.numbersDatesTime.metaDescription}>
+  <h1>{t.nav.numbersDatesTime}</h1>
+  <article class="page-markdown" set:html={html} />
+</Layout>
+
+<style>
+  .page-markdown :global(table) {
+    border-collapse: collapse;
+    margin: 0.5em 0 1em;
+    width: 100%;
+    max-width: 28em;
+  }
+  .page-markdown :global(th),
+  .page-markdown :global(td) {
+    border: 1px solid var(--color-border, #ccc);
+    padding: 0.35em 0.6em;
+    text-align: left;
+  }
+  .page-markdown :global(th) {
+    background: var(--color-bg-muted, #f5f5f5);
+  }
+  .page-markdown :global(ul),
+  .page-markdown :global(ol) {
+    padding-left: 1.25em;
+    margin: 0.5em 0 1em;
+  }
+</style>

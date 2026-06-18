@@ -6,6 +6,7 @@
     "grammar": "Grammar",
     "vocabulary": "Vocabulary",
     "spelling": "Spelling",
+    "numbersDatesTime": "Numbers, dates & time",
     "comparison": "Comparison",
     "samples": "Sample texts",
     "nextSteps": "Next steps",
@@ -92,16 +93,18 @@
     "backToGrammarOverview": "← Grammar overview"
   },
   "grammarPage": {
-    "numbersBulletTitle": "Numbers:",
-    "numbersBulletBody": "Reading numbers aloud can follow East Asian style (34 → tri ten for).",
-    "numbersBulletLink": "Full grammar rules →"
+    "numbersBulletTitle": "Numbers, dates & time:",
+    "numbersBulletBody": "Western digits (0–9); read aloud East Asian style (2026 → tu tausand tu ten siks). ISO dates; 24-hour clock.",
+    "numbersBulletLink": "Full guide →"
   },
   "grammarNumbers": {
     "h2": "Numbers (reading aloud)",
-    "intro": "For saying numbers aloud, you can use an East Asian–style reading: from large units to small, with tens built as digit + ten + digit (instead of a single word like “thirty-four”).",
-    "ex34Paren": "three–ten–four",
+    "intro": "Write numbers with Western digits (0–9). When reading aloud, use East Asian–style composition: from large units to small, with tens built as digit + ten + digit (instead of a single word like “thirty-four”).",
+    "ex34Paren": "three-ten-four",
+    "ex2026Paren": "two-thousand-two-ten-six",
     "ex3253Paren": "three thousand, two hundred, five-ten-three",
-    "digits": "Digits: sero (0), wan … nain (1–9), ten (10). Larger units: hundrad (hundred), tausand (thousand)."
+    "digits": "Digits: sero (0), wan … nain (1–9), ten (10). Larger units: hundrad (hundred), tausand (thousand).",
+    "fullGuideLink": "Numbers, dates & time →"
   },
   "essentialWordsPage": {
     "h1": "Essential words",
@@ -270,6 +273,9 @@
     },
     "spelling": {
       "metaDescription": "Simpli spelling: simplified letters, phonemes, long vowels."
+    },
+    "numbersDatesTime": {
+      "metaDescription": "Numbers, dates, and time in Simpli: Western digits, East Asian-style reading aloud, ISO dates, international months, 24-hour clock."
     },
     "comparison": {
       "metaDescription": "Simpli vs Indonesian, English, Esperanto, Glosa, Globish.",

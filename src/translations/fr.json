@@ -6,6 +6,7 @@
     "grammar": "Grammaire",
     "vocabulary": "Vocabulaire",
     "spelling": "Orthographe",
+    "numbersDatesTime": "Nombres, dates et heures",
     "comparison": "Comparaison",
     "samples": "Textes types",
     "nextSteps": "Prochaines étapes",
@@ -92,16 +93,18 @@
     "backToGrammarOverview": "← Grammaire"
   },
   "grammarPage": {
-    "numbersBulletTitle": "Nombres :",
-    "numbersBulletBody": "La lecture à voix haute peut suivre le style d’Asie de l’Est (34 → tri ten for).",
-    "numbersBulletLink": "Règles complètes →"
+    "numbersBulletTitle": "Nombres, dates et heures :",
+    "numbersBulletBody": "Chiffres occidentaux (0–9) ; lecture à voix haute style thaï/laotien (2026 → tu tausand tu ten siks). Dates ISO ; horloge 24 h.",
+    "numbersBulletLink": "Guide complet →"
   },
   "grammarNumbers": {
     "h2": "Nombres (lecture à voix haute)",
-    "intro": "Pour dire les nombres à voix haute, on peut utiliser une lecture de type asiatique oriental : des grandes unités aux petites, les dizaines étant formées comme chiffre + ten + chiffre (au lieu d’un seul mot comme « trente-quatre »).",
-    "ex34Paren": "trois–dix–quatre",
+    "intro": "Écrivez les nombres avec les chiffres occidentaux (0–9). À voix haute, utilisez la composition style thaï/laotien : des grandes unités aux petites, les dizaines étant chiffre + ten + chiffre.",
+    "ex34Paren": "trois-dix-quatre",
+    "ex2026Paren": "deux-mille-deux-dix-six",
     "ex3253Paren": "trois mille, deux cents, cinq-dix-trois",
-    "digits": "Chiffres : sero (0), wan … nain (1–9), ten (10). Unités plus grandes : hundrad (cent), tausand (mille)."
+    "digits": "Chiffres : sero (0), wan … nain (1–9), ten (10). Unités : hundrad (cent), tausand (mille).",
+    "fullGuideLink": "Nombres, dates et heures →"
   },
   "essentialWordsPage": {
     "h1": "Mots essentiels",
@@ -123,7 +126,8 @@
     "searchLabel": "Search:",
     "searchPlaceholder": "Type English or Simpli...",
     "columnEnglish": "English",
-    "columnSimpli": "Simpli"
+    "columnSimpli": "Simpli",
+    "columnGloss": "English"
   },
   "vocabularyListPage": {
     "downloadsHeading": "Exports exploitables",
@@ -261,6 +265,9 @@
     },
     "spelling": {
       "metaDescription": "Orthographe Simpli : lettres simplifiées, phonèmes, voyelles longues."
+    },
+    "numbersDatesTime": {
+      "metaDescription": "Nombres, dates et heures en Simpli : chiffres occidentaux, lecture à voix haute style thaï/laotien, dates ISO, mois internationaux, horloge 24 h."
     },
     "comparison": {
       "metaDescription": "Simpli vs indonésien, anglais, espéranto, glosa, globish.",

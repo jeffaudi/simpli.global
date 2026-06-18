@@ -17,7 +17,8 @@
     "groupAbout": "About",
     "groupLearn": "Learn",
     "groupReference": "Reference",
-    "groupCommunity": "Community"
+    "groupCommunity": "Community",
+    "numbersDatesTime": "Numbers, dates & time"
   },
   "discussion": {
     "intro": "Simpli is still new and benefits from broad discussion.",
@@ -101,7 +102,9 @@
     "intro": "For saying numbers aloud, you can use an East Asian–style reading: from large units to small, with tens built as digit + ten + digit (instead of a single word like “thirty-four”).",
     "ex34Paren": "three–ten–four",
     "ex3253Paren": "three thousand, two hundred, five-ten-three",
-    "digits": "Digits: sero (0), wan … nain (1–9), ten (10). Larger units: hundrad (hundred), tausand (thousand)."
+    "digits": "Digits: sero (0), wan … nain (1–9), ten (10). Larger units: hundrad (hundred), tausand (thousand).",
+    "ex2026Paren": "two-thousand-two-ten-six",
+    "fullGuideLink": "Numbers, dates & time →"
   },
   "essentialWordsPage": {
     "h1": "Essential words",
@@ -316,6 +319,9 @@
       "historyH2": "Project history",
       "historyP": "Distilled notes on why past design choices were made. If anything here disagrees with the current spec, follow the spec.",
       "historyLink": "Project history and rationale (Markdown)"
+    },
+    "numbersDatesTime": {
+      "metaDescription": "Numbers, dates, and time in Simpli: Western digits, East Asian-style reading aloud, ISO dates, international months, 24-hour clock."
     }
   },
   "footer": {

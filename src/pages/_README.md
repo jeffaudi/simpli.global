@@ -14,6 +14,7 @@ Astro routes for [simpli.global](https://simpli.global). All localized pages use
 - **`[locale]/vocabulary.astro`** — Vocabulary strategy (`pages.vocabulary`)
 - **`[locale]/spelling.astro`** — Spelling (markdown via `src/page-markdown/spelling/`)
 - **`[locale]/spelling/alphabet-rationale.astro`** — Alphabet rationale (markdown)
+- **`[locale]/numbers-dates-time.astro`** — Numbers, dates & time (markdown via `src/page-markdown/numbers-dates-time/`)
 - **`[locale]/comparison.astro`** — Comparison tables
 - **`[locale]/samples.astro`** — Sample Simpli texts
 - **`[locale]/essential-words.astro`** — Essential words by category

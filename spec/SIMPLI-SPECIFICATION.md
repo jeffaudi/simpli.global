@@ -21,6 +21,7 @@ Informative references on the live site (replace `/en/` with `/fr/` or `/es/` as
 - Alphabet rationale: <https://simpli.global/en/spelling/alphabet-rationale>
 - Grammar overview: <https://simpli.global/en/grammar>
 - Grammar rules: <https://simpli.global/en/grammar-rules>
+- Numbers, dates & time: <https://simpli.global/en/numbers-dates-time>
 - Vocabulary: <https://simpli.global/en/vocabulary>
 - Essential words: <https://simpli.global/en/essential-words>
 - Roots: <https://simpli.global/en/roots>
@@ -77,7 +78,9 @@ There is no *th*, *z*, *sh* in the inventory as in English; they map to other le
 9. **Prepositions:** in, on, at, from, to, wit, for.
 10. **Connectors:** and, or, but, becos, so.
 11. **Compounds:** e.g. sun-lait, fast-trein, woter-fud.
-12. **Numbers (reading aloud):** East Asian–style composition is recommended—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 3253 = *tri tausand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *tausand* (thousand).
+12. **Numbers:** Write with Western digits (0–9). Reading aloud uses East Asian-style composition—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 2026 = *tu tausand tu ten siks*; 3253 = *tri tausand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *tausand* (thousand).
+13. **Dates:** Use international ISO format *YYYY-MM-DD* (e.g. 2026-06-18). In prose: day + month name + year (e.g. *18 djun 2026*). Month names are international English names in Simpli spelling (*djanyueri* … *disember*).
+14. **Time:** 24-hour clock only; no AM/PM. Write *HH:MM* (e.g. 14:30). Read aloud: *ten for ten tri* or *ten for auer tri ten minat* (hours 10–19 omit leading *wan*). Units: *auer* (hour), *minat* (minute), *sekand* (second).
 
 ---
 
