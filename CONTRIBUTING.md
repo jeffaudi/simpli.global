@@ -11,7 +11,7 @@ By sending a translation or a content change, you agree it can be published unde
 
 Translations are managed with [Weblate](https://hosted.weblate.org/). That is the way to amend a locale. The project page will be linked from the README once it is open.
 
-Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, and Malay are machine-translated drafts. They are there so you correct wording rather than start from an empty file. French and Spanish were written for the site.
+Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, Malay, Arabic, Russian, and the European locales other than French and Spanish are machine-translated drafts. They are there so you correct wording rather than start from an empty file. French and Spanish were written for the site.
 
 Rules while you translate:
 

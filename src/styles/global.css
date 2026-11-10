@@ -56,7 +56,7 @@ table {
 th, td {
   border: 1px solid #e8e4df;
   padding: 0.65rem 1rem;
-  text-align: left;
+  text-align: start;
 }
 
 th {
@@ -67,7 +67,9 @@ th {
 
 .simpli-block {
   background: #fffefc;
-  border-left: 4px solid var(--color-theme);
+  direction: ltr;
+  unicode-bidi: isolate;
+  border-inline-start: 4px solid var(--color-theme);
   padding: 1.25rem 1.5rem;
   margin: 1.25rem 0;
   font-family: ui-monospace, monospace;

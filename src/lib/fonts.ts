@@ -8,6 +8,10 @@ export const SCRIPT_FONTS: Record<
     family: "'Noto Sans', system-ui, sans-serif",
     googleUrl: 'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap',
   },
+  arabic: {
+    family: "'Noto Sans Arabic', 'Noto Sans', system-ui, sans-serif",
+    googleUrl: 'https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;700&display=swap',
+  },
   'cjk-sc': {
     family: "'Noto Sans SC', 'Noto Sans', system-ui, sans-serif",
     googleUrl: 'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap',

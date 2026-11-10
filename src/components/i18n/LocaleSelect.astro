@@ -3,7 +3,7 @@ import { getLocalePaths, LOCALES } from '@/i18n';
 import { LOCALE_REGION_LABELS } from '@/locales';
 import type { Lang } from '@/i18n';
 
-const regions = ['europe', 'east-asia', 'southeast-asia'] as const;
+const regions = ['europe', 'middle-east', 'east-asia', 'southeast-asia'] as const;
 const pathsByLang = new Map(getLocalePaths(Astro.url).map((p) => [p.lang, p.path]));
 ---
 

@@ -16,4 +16,4 @@ Shared content consumed by Astro pages and build-time endpoints.
 | [`pedagogy-structure.json`](pedagogy-structure.json) | HTML structure for spelling, alphabet rationale, and numbers pages (strings live in translations) | Those three pages, via `src/lib/pedagogy.ts` |
 | [`vocabulary-locale.ts`](vocabulary-locale.ts) | Loads `vocabulary-5000.{locale}.json` via glob | `[locale]/vocabulary-5000*` routes |
 
-**Dictionary i18n:** `npm run build` then `npm run vocab:5000:i18n -- --locale [code]` (see `scripts/generate-vocab-5000-i18n.mjs` → `VOCAB_LOCALES`). Asian codes: `zh`, `vi`, `th`, `km`, `lo`, `fil`, `id`, `ms`, `ja`, `ko`. Filipino uses Google `tl`. Pilot: `npm run vocab:5000:i18n:id`.
+**Dictionary i18n:** `npm run build` then `npm run vocab:5000:i18n -- --locale [code]` (see `scripts/generate-vocab-5000-i18n.mjs` → `VOCAB_LOCALES`). Registered codes include the Asian locales plus `de`, `it`, `pt`, `pl`, `nl`, `ro`, `el`, `hu`, `cs`, `sv`, `bg`, `da`, `fi`, `sk`, `hr`, `lt`, `sl`, `lv`, `et`, `ga`, `mt`, `ru`, and `ar`. Filipino uses Google `tl`. Pilot: `npm run vocab:5000:i18n:id`.

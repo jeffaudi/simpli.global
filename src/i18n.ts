@@ -7,7 +7,7 @@ type LocaleConfig = {
   readonly lang?: string;
   readonly dir?: 'ltr' | 'rtl';
   readonly script?: import('./locales').ScriptGroup;
-  readonly region?: 'europe' | 'east-asia' | 'southeast-asia';
+  readonly region?: 'europe' | 'middle-east' | 'east-asia' | 'southeast-asia';
 };
 
 export type Lang = keyof typeof LOCALES;

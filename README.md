@@ -10,7 +10,7 @@ Target: basic conversation in **~30–80 hours** for people who already know som
 
 ## Website
 
-The public site is **[simpli.global](https://simpli.global)**. This repository builds that multilingual site (English, French, Spanish, and ten Asian locales) covering the language concept, motivation, roots, grammar, vocabulary, spelling, comparison, sample texts, starter lessons, lookup tools, media downloads, and next steps.
+The public site is **[simpli.global](https://simpli.global)**. This repository builds that multilingual site (European languages, Arabic, Russian, and ten Asian locales) covering the language concept, motivation, roots, grammar, vocabulary, spelling, comparison, sample texts, starter lessons, lookup tools, media downloads, and next steps.
 
 Page folder documentation lives in [`src/pages/_README.md`](src/pages/_README.md) (underscore prefix — Astro ignores it as a route).
 
@@ -44,7 +44,7 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 - **Layout:** `src/layouts/Base.astro`; script-specific fonts via `src/lib/fonts.ts`.
 - **Fallback:** New locales fall back to English in `astro.config.mjs` until translated.
 
-**Locales (13):** `en`, `fr`, `es`, `zh`, `ja`, `ko`, `vi`, `th`, `km`, `lo`, `fil`, `id`, `ms`.
+**Locales (36):** `en`, `fr`, `es`, `de`, `it`, `pt`, `pl`, `nl`, `ro`, `el`, `hu`, `cs`, `sv`, `bg`, `da`, `fi`, `sk`, `hr`, `lt`, `sl`, `lv`, `et`, `ga`, `mt`, `ru`, `ar`, `zh`, `ja`, `ko`, `vi`, `th`, `km`, `lo`, `fil`, `id`, `ms`.
 
 ### Adding a new language
 
@@ -58,7 +58,7 @@ No new `.astro` route files are required. New UI strings are added to `en.json` 
 
 Translations are managed with Weblate. See [CONTRIBUTING.md](CONTRIBUTING.md). The hosted project link will be added here once the project is open.
 
-Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, and Malay on the site are machine-translated drafts, meant to be amended rather than written from scratch.
+Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, Malay, Arabic, Russian, and the European locales other than French and Spanish are machine-translated drafts, meant to be amended rather than written from scratch. French and Spanish were written for the site.
 
 ## License
 

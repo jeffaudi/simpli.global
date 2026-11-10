@@ -8,7 +8,7 @@ The files are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) content.
 
 Nav, page copy, spelling, alphabet rationale, numbers/dates/time, motivation, and the site title and description. Pedagogy pages render a shared HTML structure ([`src/data/pedagogy-structure.json`](../data/pedagogy-structure.json)) filled with these strings.
 
-Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, and Malay are machine-translated drafts.
+Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, Malay, Arabic, Russian, and the European locales other than French and Spanish are machine-translated drafts.
 
 ## Adding a string
 
