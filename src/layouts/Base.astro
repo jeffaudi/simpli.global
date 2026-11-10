@@ -4,9 +4,8 @@ import Footer from '@/components/Footer.astro';
 import Header from '@/components/Header.astro';
 import LocaleHtmlHead from '@/components/i18n/LocaleHtmlHead.astro';
 import LocaleSuggest from '@/components/i18n/LocaleSuggest.astro';
-import { SITE_TITLE, SITE_DESCRIPTION, SEO_DESCRIPTION_LEAD } from '@/consts';
 import { getTranslations } from '@/lib/translations';
-import { useTranslations, LOCALES, getLocalePaths, type Lang } from '@/i18n';
+import { LOCALES, getLocalePaths, type Lang } from '@/i18n';
 import '@/styles/global.css';
 
 interface Props {
@@ -18,13 +17,14 @@ interface Props {
 const { title, description, lang: propLang } = Astro.props;
 const rawLocale = propLang ?? Astro.params?.locale ?? Astro.params?.lang ?? Astro.currentLocale ?? 'en';
 const locale = (typeof rawLocale === 'string' && rawLocale in LOCALES ? rawLocale : 'en') as Lang;
-const t = useTranslations(locale);
-const tJson = getTranslations(locale) as Record<string, unknown>;
+const tJson = getTranslations(locale) as {
+  seo: { title: string; description: string; lead: string };
+};
 
-const localeTitle = title ? `${title} – ${t(SITE_TITLE)}` : t(SITE_TITLE);
+const localeTitle = title ? `${title} – ${tJson.seo.title}` : tJson.seo.title;
 const localeDescription = description
-  ? `${t(SEO_DESCRIPTION_LEAD)} ${description}`
-  : t(SITE_DESCRIPTION);
+  ? `${tJson.seo.lead} ${description}`
+  : tJson.seo.description;
 const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.href;
 ---
 
@@ -37,7 +37,7 @@ const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href :
     <meta property="og:title" content={localeTitle} />
     <meta property="og:description" content={localeDescription} />
     <meta property="og:url" content={canonicalUrl} />
-    <meta property="og:site_name" content={t(SITE_TITLE)} />
+    <meta property="og:site_name" content={tJson.seo.title} />
     <meta property="og:locale" content={LOCALES[locale]?.lang ?? locale} />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />

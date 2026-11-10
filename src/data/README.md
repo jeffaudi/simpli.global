@@ -13,7 +13,7 @@ Shared content consumed by Astro pages and build-time endpoints.
 | [`vocabulary-5000.fr.json`](vocabulary-5000.fr.json) | `{ simpli, translation }[]` | FR dictionary, `/fr/vocabulary-5000.json`, `.csv` |
 | [`vocabulary-5000.es.json`](vocabulary-5000.es.json) | `{ simpli, translation }[]` | ES dictionary, `/es/vocabulary-5000.json`, `.csv` |
 | [`simpli-examples.ts`](simpli-examples.ts) | Canonical Simpli example phrases (5,000-word spellings) | Samples, leaflets, lessons, comparison |
-| [`motivation-content.ts`](motivation-content.ts) | `LocaleContent` motivation blocks | Motivation page |
+| [`pedagogy-structure.json`](pedagogy-structure.json) | HTML structure for spelling, alphabet rationale, and numbers pages (strings live in translations) | Those three pages, via `src/lib/pedagogy.ts` |
 | [`vocabulary-locale.ts`](vocabulary-locale.ts) | Loads `vocabulary-5000.{locale}.json` via glob | `[locale]/vocabulary-5000*` routes |
 
 **Dictionary i18n:** `npm run build` then `npm run vocab:5000:i18n -- --locale [code]` (see `scripts/generate-vocab-5000-i18n.mjs` → `VOCAB_LOCALES`). Asian codes: `zh`, `vi`, `th`, `km`, `lo`, `fil`, `id`, `ms`, `ja`, `ko`. Filipino uses Google `tl`. Pilot: `npm run vocab:5000:i18n:id`.

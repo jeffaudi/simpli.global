@@ -40,7 +40,7 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 
 - **URLs:** `/[locale]/` for every page (e.g. `/en/`, `/zh/`, `/id/`). Root `/` redirects to `/en/`.
 - **Templates:** One shared tree under `src/pages/[locale]/` (not per-locale copies).
-- **Content:** UI strings in `src/translations/[locale].json`; long pedagogy in `src/page-markdown/`; structured blocks in `src/data/*-content.ts`.
+- **Content:** every locale string is in `src/translations/[locale].json`. Missing keys fall back to English.
 - **Layout:** `src/layouts/Base.astro`; script-specific fonts via `src/lib/fonts.ts`.
 - **Fallback:** New locales fall back to English in `astro.config.mjs` until translated.
 
@@ -49,10 +49,22 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 ### Adding a new language
 
 1. Add the locale to `astro.config.mjs` (`i18n.locales` + `fallback`) and `src/locales.ts` (`LOCALES_SETTING` with `script` and `region`).
-2. Create `src/translations/[locale].json` (copy `en.json`, translate keys).
-3. Add markdown under `src/page-markdown/{slug}/[locale].md` where needed; optional `npm run vocab:5000:i18n -- --locale [code]` for dictionary glosses.
+2. Create `src/translations/[locale].json` as `{}` (or with the keys you have translated). Missing keys fall back to English.
+3. Optional: `npm run vocab:5000:i18n -- --locale [code]` for dictionary glosses.
 
-No new `.astro` route files are required.
+No new `.astro` route files are required. New UI strings are added to `en.json` only.
+
+## Translating
+
+Translations are managed with Weblate. See [CONTRIBUTING.md](CONTRIBUTING.md). The hosted project link will be added here once the project is open.
+
+Chinese, Japanese, Korean, Vietnamese, Thai, Khmer, Lao, Filipino, Indonesian, and Malay on the site are machine-translated drafts, meant to be amended rather than written from scratch.
+
+## License
+
+Code in this repository is [MIT](LICENSE).
+
+Site content — `src/translations/`, `spec/`, and `public/media/` — is [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Spec (reference)
 

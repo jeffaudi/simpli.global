@@ -20,13 +20,13 @@ This file distills **decisions and reasoning** from early Cursor-assisted work o
 
 - **Canonical site:** **simpli.global** (replacing an earlier learn-simpli.org emphasis in some docs).
 - **Positioning line (SEO):** Reinforce that **Simpli is a simple international language** in titles, meta descriptions, Open Graph, and shared leads—so search and snippets stay aligned with “international auxiliary / egalitarian communication” rather than drifting into generic “learning platform” positioning.
-- **Implementation note:** `SITE_TITLE`, `SITE_DESCRIPTION`, and `SEO_DESCRIPTION_LEAD` in `src/consts.ts` carry this across **en / fr / es**.
+- **Implementation note:** the site title and default description live in `src/translations/*.json` under `seo` (they were previously `SITE_TITLE` and `SITE_DESCRIPTION` in `src/consts.ts`).
 
 ---
 
 ## Motivation and tone
 
-- **Neutrality wording:** “No single nation owns the standard” was softened to stress **inclusivity**: the standard is **for everyone to read and speak** (EN/FR/ES equivalents in `motivation-content.ts`).
+- **Neutrality wording:** “No single nation owns the standard” was softened to stress **inclusivity**: the standard is **for everyone to read and speak** (now `motivation.neutrality` in `src/translations/`).
 - **Bridge language:** “Dominant national language” was rephrased to **complex historical national language**—same idea (access without full mastery of a heavy national norm), less confrontational.
 - **Pronunciation objective:** Spelling is framed as helping **non-native speakers** be **more easily understood** by both native and non-native listeners—stated on the motivation page and spelled out on the spelling pages as a design goal (clearer pronunciation, fewer misunderstandings).
 - **Grammar inspiration:** Copy emphasizes **Indonesian-style** grammar only; **Lao** was removed from mentions to avoid implying a dual template where only one is central.
@@ -72,5 +72,5 @@ Chats explored several rules and trade-offs. Rationales that keep recurring:
 ## How to use this file
 
 - **Onboarding:** Quick narrative of *why* the site and language are shaped this way.
-- **Writing new copy:** Check **consts**, **motivation-content**, and **spec** first; use this for background only.
+- **Writing new copy:** Check **src/translations** and **spec** first; use this for background only.
 - **Updating:** When a major decision changes the spec or site, add a short dated or ordered note here so future contributors see the intent, not only the diff.

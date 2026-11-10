@@ -1,4 +1,2 @@
-import { defineCollection } from 'astro:content';
-
-/** Markdown page bodies live in `src/page-markdown/` (not routed). */
+/** Page copy lives in `src/translations/`. No Astro content collections. */
 export const collections = {};

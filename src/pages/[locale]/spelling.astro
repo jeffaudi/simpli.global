@@ -1,8 +1,8 @@
 ---
 import { getTranslations } from '@/lib/translations';
 import Layout from '@/layouts/Base.astro';
-import { getRelativeLocaleUrl } from 'astro:i18n';
-import { renderPageMarkdown } from '@/content/load';
+import { renderPedagogy, type PedagogyNode } from '@/lib/pedagogy';
+import structure from '@/data/pedagogy-structure.json';
 import { localeParams, type Lang } from '@/i18n';
 
 export function getStaticPaths() {
@@ -10,8 +10,16 @@ export function getStaticPaths() {
 }
 
 const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
-const t = getTranslations(lang);
-const html = renderPageMarkdown('spelling', lang);
+const t = getTranslations(lang) as {
+  nav: { spelling: string };
+  pages: { spelling: { metaDescription: string }; spellingBody: Record<string, string> };
+};
+const html = renderPedagogy(
+  structure.spelling as PedagogyNode[],
+  t.pages.spellingBody,
+  lang,
+  'spelling',
+);
 ---
 
 <Layout lang={lang} title={t.nav.spelling} description={t.pages.spelling.metaDescription}>

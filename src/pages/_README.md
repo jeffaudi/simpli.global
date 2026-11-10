@@ -7,14 +7,14 @@ Astro routes for [simpli.global](https://simpli.global). All localized pages use
 ## Structure
 
 - **`[locale]/index.astro`** — Home
-- **`[locale]/motivation.astro`** — Why Simpli (`motivation-content.ts` + translations)
+- **`[locale]/motivation.astro`** — Why Simpli (`motivation` in translations)
 - **`[locale]/roots.astro`** — Language roots (`pages.roots` in translations)
 - **`[locale]/grammar.astro`** — Grammar overview (`grammarOverview` in translations)
 - **`[locale]/grammar-rules.astro`** — Full rules (`grammarRulesPage` + `grammarNumbers`)
 - **`[locale]/vocabulary.astro`** — Vocabulary strategy (`pages.vocabulary`)
-- **`[locale]/spelling.astro`** — Spelling (markdown via `src/page-markdown/spelling/`)
-- **`[locale]/spelling/alphabet-rationale.astro`** — Alphabet rationale (markdown)
-- **`[locale]/numbers-dates-time.astro`** — Numbers, dates & time (markdown via `src/page-markdown/numbers-dates-time/`)
+- **`[locale]/spelling.astro`** — Spelling (`pages.spellingBody` + `pedagogy-structure.json`)
+- **`[locale]/spelling/alphabet-rationale.astro`** — Alphabet rationale (`pages.alphabetRationale`)
+- **`[locale]/numbers-dates-time.astro`** — Numbers, dates & time (`pages.numbersBody`)
 - **`[locale]/comparison.astro`** — Comparison tables
 - **`[locale]/samples.astro`** — Sample Simpli texts
 - **`[locale]/essential-words.astro`** — Essential words by category

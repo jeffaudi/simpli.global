@@ -2,7 +2,6 @@
 import { getTranslations } from '@/lib/translations';
 import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
-import { getMotivationContent } from '@/data/motivation-content';
 import { localeParams, type Lang } from '@/i18n';
 
 export function getStaticPaths() {
@@ -11,8 +10,8 @@ export function getStaticPaths() {
 
 const lang = (Astro.props.lang ?? Astro.params.locale ?? Astro.currentLocale ?? 'en') as Lang;
 const t = getTranslations(lang);
-const c = getMotivationContent(lang);
-const m = t.motivationPage;
+const c = t.motivation as Record<string, string>;
+const m = t.motivationPage as Record<string, string>;
 ---
 
 <Layout lang={lang} title={t.nav.motivation} description={m.metaDescription}>
@@ -45,7 +44,7 @@ const m = t.motivationPage;
     <li>{c.scalabilityRules}</li>
     <li>{c.scalabilityCommunity}</li>
   </ul>
-  {c.scalabilityRisk && <p><strong>{c.scalabilityRisk}</strong></p>}
+  <p><strong>{c.scalabilityRisk}</strong></p>
   <p>
     <a href={getRelativeLocaleUrl(lang, 'roots')}>{m.linkRoots}</a>
     {' · '}

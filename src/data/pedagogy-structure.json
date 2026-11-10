@@ -1,0 +1,985 @@
+{
+  "spelling": [
+    {
+      "tag": "p",
+      "key": "s1"
+    },
+    {
+      "tag": "p",
+      "key": "s2"
+    },
+    {
+      "tag": "h2",
+      "key": "s3"
+    },
+    {
+      "tag": "p",
+      "key": "s4"
+    },
+    {
+      "tag": "ul",
+      "attrs": " class=\"letter-list\"",
+      "children": [
+        {
+          "tag": "li",
+          "key": "s5"
+        },
+        {
+          "tag": "li",
+          "key": "s6"
+        },
+        {
+          "tag": "li",
+          "key": "s7"
+        },
+        {
+          "tag": "li",
+          "key": "s8"
+        },
+        {
+          "tag": "li",
+          "key": "s9"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "s10"
+    },
+    {
+      "tag": "ul",
+      "attrs": " class=\"letter-list\"",
+      "children": [
+        {
+          "tag": "li",
+          "key": "s11"
+        },
+        {
+          "tag": "li",
+          "key": "s12"
+        },
+        {
+          "tag": "li",
+          "key": "s13"
+        },
+        {
+          "tag": "li",
+          "key": "s14"
+        },
+        {
+          "tag": "li",
+          "key": "s15"
+        },
+        {
+          "tag": "li",
+          "key": "s16"
+        },
+        {
+          "tag": "li",
+          "key": "s17"
+        },
+        {
+          "tag": "li",
+          "key": "s18"
+        },
+        {
+          "tag": "li",
+          "key": "s19"
+        },
+        {
+          "tag": "li",
+          "key": "s20"
+        },
+        {
+          "tag": "li",
+          "key": "s21"
+        },
+        {
+          "tag": "li",
+          "key": "s22"
+        },
+        {
+          "tag": "li",
+          "key": "s23"
+        },
+        {
+          "tag": "li",
+          "key": "s24"
+        },
+        {
+          "tag": "li",
+          "key": "s25"
+        },
+        {
+          "tag": "li",
+          "key": "s26"
+        },
+        {
+          "tag": "li",
+          "key": "s27"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "s28"
+    },
+    {
+      "tag": "p",
+      "key": "s29"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "<strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
+        },
+        {
+          "tag": "li",
+          "key": "s30"
+        },
+        {
+          "tag": "li",
+          "key": "s31"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>ph</strong> → f (<em>fon</em>)"
+        },
+        {
+          "tag": "li",
+          "key": "s32"
+        },
+        {
+          "tag": "li",
+          "key": "s33"
+        },
+        {
+          "tag": "li",
+          "key": "s34"
+        },
+        {
+          "tag": "li",
+          "key": "s35"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "s36"
+    },
+    {
+      "tag": "p",
+      "key": "s37"
+    },
+    {
+      "tag": "p",
+      "key": "s38"
+    },
+    {
+      "tag": "h2",
+      "key": "s39"
+    },
+    {
+      "tag": "p",
+      "key": "s40"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "<em>it</em> (it) vs <em>iit</em> (eat)"
+        },
+        {
+          "tag": "li",
+          "key": "s41"
+        },
+        {
+          "tag": "li",
+          "key": "s42"
+        },
+        {
+          "tag": "li",
+          "html": "<em>ful</em> (full) vs <em>fuul</em> (fool)"
+        },
+        {
+          "tag": "li",
+          "html": "<em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "s43"
+    },
+    {
+      "tag": "p",
+      "key": "s44"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "<em>lait</em> (light), <em>windo</em> (window), <em>dor</em> (door)"
+        },
+        {
+          "tag": "li",
+          "html": "<em>bred</em> (bread), <em>faind</em> (find), <em>plei</em> (play)"
+        },
+        {
+          "tag": "li",
+          "key": "s45"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "s46"
+    },
+    {
+      "tag": "p",
+      "key": "s47"
+    },
+    {
+      "tag": "h2",
+      "key": "s48"
+    },
+    {
+      "tag": "p",
+      "key": "s49"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "-tion, -sion → <strong>-son</strong> (akson, vison)"
+        },
+        {
+          "tag": "li",
+          "html": "-ture → <strong>-tur</strong> (natur, futur)"
+        },
+        {
+          "tag": "li",
+          "key": "s50"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "s51"
+    },
+    {
+      "tag": "p",
+      "key": "s52"
+    },
+    {
+      "tag": "ol",
+      "children": [
+        {
+          "tag": "li",
+          "key": "s53"
+        },
+        {
+          "tag": "li",
+          "key": "s54"
+        },
+        {
+          "tag": "li",
+          "key": "s55"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "s56"
+    },
+    {
+      "tag": "p",
+      "key": "s57"
+    },
+    {
+      "tag": "p",
+      "key": "s58"
+    }
+  ],
+  "alphabetRationale": [
+    {
+      "tag": "p",
+      "key": "a1"
+    },
+    {
+      "tag": "h2",
+      "key": "a2"
+    },
+    {
+      "tag": "p",
+      "key": "a3"
+    },
+    {
+      "tag": "p",
+      "key": "a4"
+    },
+    {
+      "tag": "p",
+      "key": "a5"
+    },
+    {
+      "tag": "h2",
+      "key": "a6"
+    },
+    {
+      "tag": "p",
+      "key": "a7"
+    },
+    {
+      "tag": "p",
+      "key": "a8"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "<em>water</em> → <strong>woter</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>whatever</em> → <strong>watever</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>woman</em> → <strong>wuman</strong>"
+        },
+        {
+          "tag": "li",
+          "key": "a9"
+        },
+        {
+          "tag": "li",
+          "html": "<em>seven</em> → <strong>seven</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>have</em> → <strong>hav</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>give</em> → <strong>giv</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>live</em> → <strong>liv</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>move</em> → <strong>mov</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>river</em> → <strong>river</strong>"
+        },
+        {
+          "tag": "li",
+          "html": "<em>even</em> → <strong>even</strong>"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "a10"
+    },
+    {
+      "tag": "h2",
+      "key": "a11"
+    },
+    {
+      "tag": "p",
+      "key": "a12"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "key": "a13"
+        },
+        {
+          "tag": "li",
+          "key": "a14"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "a15"
+    },
+    {
+      "tag": "h2",
+      "key": "a16"
+    },
+    {
+      "tag": "p",
+      "key": "a17"
+    },
+    {
+      "tag": "h2",
+      "key": "a18"
+    },
+    {
+      "tag": "p",
+      "key": "a19"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "<strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
+        },
+        {
+          "tag": "li",
+          "key": "a20"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>ph</strong> → f (<em>fon</em>)"
+        },
+        {
+          "tag": "li",
+          "key": "a21"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "a22"
+    },
+    {
+      "tag": "p",
+      "key": "a23"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "cat → /k/ → <em>kat</em>"
+        },
+        {
+          "tag": "li",
+          "html": "city → /s/ → <em>siti</em>"
+        },
+        {
+          "tag": "li",
+          "key": "a24"
+        },
+        {
+          "tag": "li",
+          "key": "a25"
+        },
+        {
+          "tag": "li",
+          "key": "a26"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "a27"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "/k/ → k"
+        },
+        {
+          "tag": "li",
+          "html": "/s/ → s"
+        },
+        {
+          "tag": "li",
+          "html": "/tʃ/ → tj"
+        },
+        {
+          "tag": "li",
+          "html": "/dʒ/ → dj"
+        },
+        {
+          "tag": "li",
+          "key": "a28"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "key": "a29"
+    },
+    {
+      "tag": "p",
+      "key": "a30"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "key": "a31"
+        },
+        {
+          "tag": "li",
+          "key": "a32"
+        },
+        {
+          "tag": "li",
+          "key": "a33"
+        },
+        {
+          "tag": "li",
+          "key": "a34"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "a35"
+    },
+    {
+      "tag": "p",
+      "key": "a36"
+    }
+  ],
+  "numbersDatesTime": [
+    {
+      "tag": "p",
+      "key": "n1"
+    },
+    {
+      "tag": "h2",
+      "key": "n2"
+    },
+    {
+      "tag": "p",
+      "key": "n3"
+    },
+    {
+      "tag": "p",
+      "html": "<strong>0 1 2 3 4 5 6 7 8 9</strong>"
+    },
+    {
+      "tag": "p",
+      "key": "n4"
+    },
+    {
+      "tag": "h2",
+      "key": "n5"
+    },
+    {
+      "tag": "p",
+      "key": "n6"
+    },
+    {
+      "tag": "p",
+      "key": "n7"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "key": "n8"
+        },
+        {
+          "tag": "li",
+          "key": "n9"
+        },
+        {
+          "tag": "li",
+          "html": "3253 → <strong>tri tausand tu hundrad faiv ten tri</strong>"
+        },
+        {
+          "tag": "li",
+          "key": "n10"
+        },
+        {
+          "tag": "li",
+          "html": "10 → <strong>ten</strong>"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n11"
+    },
+    {
+      "tag": "p",
+      "key": "n12"
+    },
+    {
+      "tag": "p",
+      "key": "n13"
+    },
+    {
+      "tag": "h2",
+      "key": "n14"
+    },
+    {
+      "tag": "p",
+      "key": "n15"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "2026-06-18"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n16"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "18 djun 2026"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n17"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "18 djun 2026 → <strong>wan ten eit djun tu tausand tu ten siks</strong>"
+        },
+        {
+          "tag": "li",
+          "key": "n18"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "key": "n19"
+    },
+    {
+      "tag": "p",
+      "key": "n20"
+    },
+    {
+      "tag": "table",
+      "children": [
+        {
+          "tag": "thead",
+          "children": [
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "th",
+                  "html": "#"
+                },
+                {
+                  "tag": "th",
+                  "key": "n21"
+                },
+                {
+                  "tag": "th",
+                  "html": "Simpli"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "tbody",
+          "children": [
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "01"
+                },
+                {
+                  "tag": "td",
+                  "html": "January"
+                },
+                {
+                  "tag": "td",
+                  "html": "djanyueri"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "02"
+                },
+                {
+                  "tag": "td",
+                  "html": "February"
+                },
+                {
+                  "tag": "td",
+                  "html": "febyaveri"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "03"
+                },
+                {
+                  "tag": "td",
+                  "html": "March"
+                },
+                {
+                  "tag": "td",
+                  "html": "martj"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "04"
+                },
+                {
+                  "tag": "td",
+                  "html": "April"
+                },
+                {
+                  "tag": "td",
+                  "html": "eipral"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "05"
+                },
+                {
+                  "tag": "td",
+                  "html": "May"
+                },
+                {
+                  "tag": "td",
+                  "html": "mei"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "06"
+                },
+                {
+                  "tag": "td",
+                  "html": "June"
+                },
+                {
+                  "tag": "td",
+                  "html": "djun"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "07"
+                },
+                {
+                  "tag": "td",
+                  "html": "July"
+                },
+                {
+                  "tag": "td",
+                  "html": "djulai"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "08"
+                },
+                {
+                  "tag": "td",
+                  "html": "August"
+                },
+                {
+                  "tag": "td",
+                  "html": "agast"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "09"
+                },
+                {
+                  "tag": "td",
+                  "html": "September"
+                },
+                {
+                  "tag": "td",
+                  "html": "september"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "10"
+                },
+                {
+                  "tag": "td",
+                  "html": "October"
+                },
+                {
+                  "tag": "td",
+                  "html": "aktober"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "11"
+                },
+                {
+                  "tag": "td",
+                  "html": "November"
+                },
+                {
+                  "tag": "td",
+                  "html": "november"
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "html": "12"
+                },
+                {
+                  "tag": "td",
+                  "html": "December"
+                },
+                {
+                  "tag": "td",
+                  "html": "disember"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n22"
+    },
+    {
+      "tag": "p",
+      "key": "n23"
+    },
+    {
+      "tag": "h2",
+      "key": "n24"
+    },
+    {
+      "tag": "p",
+      "key": "n25"
+    },
+    {
+      "tag": "p",
+      "key": "n26"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "html": "14:30"
+        },
+        {
+          "tag": "li",
+          "html": "09:05"
+        },
+        {
+          "tag": "li",
+          "html": "00:00"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n27"
+    },
+    {
+      "tag": "ul",
+      "children": [
+        {
+          "tag": "li",
+          "key": "n28"
+        },
+        {
+          "tag": "li",
+          "key": "n29"
+        },
+        {
+          "tag": "li",
+          "key": "n30"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "key": "n31"
+    },
+    {
+      "tag": "p",
+      "key": "n32"
+    }
+  ]
+}
