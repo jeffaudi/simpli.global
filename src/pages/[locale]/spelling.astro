@@ -2,6 +2,7 @@
 import { getTranslations } from '@/lib/translations';
 import Layout from '@/layouts/Base.astro';
 import { renderPedagogy, type PedagogyNode } from '@/lib/pedagogy';
+import { renderPhonologyGuide } from '@/lib/phonology-page';
 import structure from '@/data/pedagogy-structure.json';
 import { localeParams, type Lang } from '@/i18n';
 
@@ -14,12 +15,14 @@ const t = getTranslations(lang) as {
   nav: { spelling: string };
   pages: { spelling: { metaDescription: string }; spellingBody: Record<string, string> };
 };
-const html = renderPedagogy(
-  structure.spelling as PedagogyNode[],
-  t.pages.spellingBody,
-  lang,
-  'spelling',
-);
+const nodes = structure.spelling as PedagogyNode[];
+const alphabetAt = nodes.findIndex((node) => node.key === 's3');
+const mappingsAt = nodes.findIndex((node) => node.key === 's28');
+const html = [
+  renderPedagogy(nodes.slice(0, alphabetAt), t.pages.spellingBody, lang, 'spelling'),
+  renderPhonologyGuide(lang),
+  renderPedagogy(nodes.slice(mappingsAt), t.pages.spellingBody, lang, 'spelling'),
+].join('');
 ---
 
 <Layout lang={lang} title={t.nav.spelling} description={t.pages.spelling.metaDescription}>
@@ -28,6 +31,55 @@ const html = renderPedagogy(
 </Layout>
 
 <style>
+  .page-markdown :global(.phonology) {
+    margin: 1.25rem 0 1.75rem;
+  }
+  .page-markdown :global(.term-list) {
+    margin: 0.5rem 0 1rem;
+  }
+  .page-markdown :global(.term-list dt) {
+    font-weight: 600;
+    margin-top: 0.65rem;
+  }
+  .page-markdown :global(.term-list dd) {
+    margin: 0.15rem 0 0;
+  }
+  .page-markdown :global(.phoneme-scroll) {
+    overflow-x: auto;
+    margin: 0.5rem 0 1.25rem;
+  }
+  .page-markdown :global(table.phoneme-table) {
+    width: 100%;
+    min-width: 36rem;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+  }
+  .page-markdown :global(table.phoneme-table th),
+  .page-markdown :global(table.phoneme-table td) {
+    border: 1px solid #e8e4df;
+    padding: 0.45rem 0.6rem;
+    text-align: start;
+    vertical-align: top;
+  }
+  .page-markdown :global(table.phoneme-table thead th) {
+    background: #fffefc;
+    color: var(--color-main, #2d2a26);
+    font-weight: 600;
+  }
+  .page-markdown :global(table.phoneme-table p) {
+    margin: 0 0 0.35rem;
+  }
+  .page-markdown :global(.english-ref) {
+    color: #6b6560;
+    font-size: 0.92em;
+  }
+  .page-markdown :global(details.variants) {
+    margin-top: 0.15rem;
+  }
+  .page-markdown :global(details.variants summary) {
+    cursor: pointer;
+    color: var(--color-theme, #2d6a4f);
+  }
   .page-markdown :global(ul.letter-list) {
     padding-inline-start: 1.25em;
     list-style: disc;

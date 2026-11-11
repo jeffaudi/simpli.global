@@ -133,11 +133,7 @@
       "children": [
         {
           "tag": "li",
-          "html": "<strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
-        },
-        {
-          "tag": "li",
-          "key": "s30"
+          "html": "<strong>θ</strong> → t (<em>tingk</em>, <em>tri</em>); <strong>ð</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
         },
         {
           "tag": "li",
@@ -176,39 +172,6 @@
     {
       "tag": "p",
       "key": "s38"
-    },
-    {
-      "tag": "h2",
-      "key": "s39"
-    },
-    {
-      "tag": "p",
-      "key": "s40"
-    },
-    {
-      "tag": "ul",
-      "children": [
-        {
-          "tag": "li",
-          "html": "<em>it</em> (it) vs <em>iit</em> (eat)"
-        },
-        {
-          "tag": "li",
-          "key": "s41"
-        },
-        {
-          "tag": "li",
-          "key": "s42"
-        },
-        {
-          "tag": "li",
-          "html": "<em>ful</em> (full) vs <em>fuul</em> (fool)"
-        },
-        {
-          "tag": "li",
-          "html": "<em>ston</em> (stone), <em>kii</em> (key), <em>leef</em> (leaf)"
-        }
-      ]
     },
     {
       "tag": "h2",
@@ -438,7 +401,7 @@
       "children": [
         {
           "tag": "li",
-          "html": "<strong>th</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
+          "html": "<strong>θ</strong> → t (<em>tingk</em>, <em>tri</em>); <strong>ð</strong> → d (<em>dis</em>, <em>dat</em>, <em>dey</em>)"
         },
         {
           "tag": "li",

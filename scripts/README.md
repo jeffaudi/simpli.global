@@ -9,6 +9,7 @@
 | [`build-spec-pdf.py`](build-spec-pdf.py) | Build archived spec PDF from `spec/SIMPLI-SPECIFICATION.md`. Run: `npm run build:spec-pdf` (needs `pip install reportlab`; fonts in [`fonts/dejavu/`](fonts/dejavu/)) |
 | [`audit-simpli-examples.mjs`](audit-simpli-examples.mjs) | Check Simpli prose examples against the 5,000-word list. Run: `node --import tsx/esm scripts/audit-simpli-examples.mjs` |
 | [`check-translations.mjs`](check-translations.mjs) | Reject unknown keys and disallowed HTML in locale JSON. Run: `npm run check:translations` (also runs at the start of `npm run build`) |
+| [`check-phonology.mjs`](check-phonology.mjs) | Require one canonical IPA per phoneme, the same inventory in `spec/PRONUNCIATION.md`, and a complete explanation file for every locale. Run: `npm run check:phonology` |
 | [`generate-ui-translations.mjs`](generate-ui-translations.mjs) | Machine-translate `en.json` into the European, Arabic, and Russian UI drafts. Run: `npm run i18n:ui` or `npm run i18n:ui -- --locale de` |
 
 **5,000-word dictionary workflow**

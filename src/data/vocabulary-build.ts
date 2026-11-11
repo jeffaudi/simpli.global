@@ -193,19 +193,30 @@ function toSimpleFallback(english: string): string {
 }
 
 /**
- * v and w are equivalent in Simpli. Use w only where English spells w (start or inside);
- * otherwise use v (e.g. seven → seven, water → woter, whatever → watever).
+ * v /v/ and w /w/ are different sounds.
+ * A dictionary W becomes w when English spells that sound with w, and v otherwise
+ * (one → van, won → wan, water → woter). A fallback spelling already follows the English letters.
  */
-function applyVWFromEnglish(english: string, simpli: string, wSoundIndices: number[]): string {
+function applyVWFromEnglish(
+  english: string,
+  simpli: string,
+  wSoundIndices: number[],
+  hasPronunciation: boolean,
+): string {
+  if (!hasPronunciation) return simpli;
   const lower = english.toLowerCase().replace(/[^a-z]/g, '');
-  if (!lower.includes('w')) return simpli.replace(/w/g, 'v');
+  const keepW = (word: string, index: number) =>
+    word[index - 1] === 'v' || word[index + 1] === 'v';
+  if (!lower.includes('w')) {
+    return simpli.replace(/w/g, (letter, index) => (keepW(simpli, index) ? letter : 'v'));
+  }
 
   const wAtSound = new Set(wSoundIndices);
   const chars = simpli.split('');
   for (let i = 0; i < chars.length; i++) {
     if (wAtSound.has(i)) {
       if (chars[i] === 'v') chars[i] = 'w';
-    } else if (chars[i] === 'w') {
+    } else if (chars[i] === 'w' && !keepW(chars.join(''), i)) {
       chars[i] = 'v';
     }
   }
@@ -249,7 +260,9 @@ function isAllowedEnglishWord(word: string): boolean {
 }
 
 function collapseDoubleConsonants(word: string): string {
-  return word.replace(/([bcdfghjklmnpqrstvwxyz])\1+/g, '$1');
+  // ng + g is ŋg, as in finger. Keep the g; do not treat it as a doubled letter.
+  const marked = word.replace(/ngg/g, 'ng\u0000g');
+  return marked.replace(/([bcdfghjklmnpqrstvwxyz])\1+/g, '$1').replace(/\u0000/g, '');
 }
 
 const EXACT_OVERRIDES: Record<string, string> = {
@@ -272,17 +285,17 @@ const EXACT_OVERRIDES: Record<string, string> = {
   live: 'liv',
   move: 'mov',
   language: 'langwidj',
-  because: 'becos',
   tomorrow: 'tumoro',
   yesterday: 'yesterde',
   people: 'pipol',
   child: 'tjaild',
-  teacher: 'tiitjer',
   school: 'skul',
-  key: 'kii',
-  room: 'ruum',
-  road: 'rood',
   still: 'stil',
+  wouldn: 'wudn',
+  shouldn: 'sudn',
+  couldn: 'kudn',
+  councillor: 'kaonsiler',
+  teahouse: 'tihaos',
   will: 'wil',
   when: 'wen',
   be: 'bi',
@@ -302,10 +315,15 @@ function normalizeEnglishGloss(word: string): string {
   return word;
 }
 
-function applySimpliRules(english: string, rawSimpli: string, wSoundIndices: number[] = []): string {
+function applySimpliRules(
+  english: string,
+  rawSimpli: string,
+  wSoundIndices: number[] = [],
+  hasPronunciation = false,
+): string {
   if (EXACT_OVERRIDES[english]) return EXACT_OVERRIDES[english];
 
-  let out = rawSimpli;
+  let out = applyVWFromEnglish(english, rawSimpli, wSoundIndices, hasPronunciation);
 
   // Keep endings aligned with spelling page.
   if (/(tion|sion)$/.test(english)) out = out.replace(/(shan|sian|syon|syon|jan)$/, 'son');
@@ -321,8 +339,7 @@ function applySimpliRules(english: string, rawSimpli: string, wSoundIndices: num
     .replace(/ph/g, 'f')
     .replace(/th/g, 'd');
 
-  out = collapseDoubleConsonants(out);
-  return applyVWFromEnglish(english, out, wSoundIndices);
+  return collapseDoubleConsonants(out);
 }
 
 function makeEntry(english: string): VocabularyEntry {
@@ -339,10 +356,10 @@ function makeEntry(english: string): VocabularyEntry {
     rawSimpli = toSimpleFallback(normalized);
   }
 
-  const simpli = applySimpliRules(normalized, rawSimpli, wSoundIndices);
+  const simpli = applySimpliRules(normalized, rawSimpli, wSoundIndices, Boolean(pronunciation));
 
   return {
-    simpli: simpli || applySimpliRules(normalized, toSimpleFallback(normalized)),
+    simpli: simpli || applySimpliRules(normalized, toSimpleFallback(normalized), [], false),
     english: normalizeEnglishGloss(normalized),
   };
 }

@@ -9,15 +9,15 @@ export const essentialWords = {
   ],
   people: [
     'pipol', 'man', 'wuman', 'tjaild', 'fren', 'famali', 'person', 'boss', 'werker', 'lider',
-    'tiitjer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'tiim', 'group',
+    'titjer', 'student', 'doktor', 'polis', 'nebor', 'guest', 'host', 'partner', 'tiim', 'group',
   ],
   nature: [
     'ert', 'sky', 'sun', 'mun', 'star', 'woter', 'fire', 'air', 'land', 'osan', 'river', 'mountain',
     'forest', 'animal', 'plant', 'fud', 'fruut', 'rais', 'bred', 'miit', 'fish', 'tree', 'flaoer', 'leef', 'ston',
   ],
   objects: [
-    'haos', 'ruum', 'bed', 'table', 'chair', 'dor', 'windo', 'lait', 'fon', 'kampyuter',
-    'buk', 'pen', 'paper', 'bag', 'box', 'kii', 'kar', 'bus', 'tren', 'bike', 'rood', 'map',
+    'haos', 'rum', 'bed', 'table', 'chair', 'dor', 'windo', 'lait', 'fon', 'kampyuter',
+    'buk', 'pen', 'paper', 'bag', 'box', 'ki', 'kar', 'bus', 'tren', 'bike', 'rod', 'map',
     'mani', 'bank', 'shop', 'market', 'tiket', 'hotel', 'siti', 'kantri',
   ],
   adjectives: [
@@ -26,7 +26,7 @@ export const essentialWords = {
     'safe', 'danger', 'klin', 'dirti', 'simpal', 'kompleks', 'hapi', 'sad', 'kam', 'angri', 'tired', 'redi', 'bizi', 'fri',
   ],
   connectors: [
-    'and', 'or', 'but', 'if', 'wen', 'becos', 'so', 'den', 'also', 'only', 'even', 'maybe',
+    'and', 'or', 'but', 'if', 'wen', 'bikos', 'so', 'den', 'also', 'only', 'even', 'maybe',
     'yes', 'no', 'ok', 'nao', 'later', 'yesterde', 'tumoro', 'wil', 'olredi', 'stil',
   ],
 } as const;

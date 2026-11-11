@@ -10,7 +10,8 @@
   "scripts": {
     "dev": "astro dev",
     "check:translations": "node scripts/check-translations.mjs",
-    "build": "npm run check:translations && astro build",
+    "check:phonology": "node --import tsx/esm scripts/check-phonology.mjs",
+    "build": "npm run check:translations && npm run check:phonology && astro build",
     "build:spec-pdf": "python3 scripts/build-spec-pdf.py",
     "preview": "astro preview",
     "vocab:5000:bootstrap": "node --import tsx/esm scripts/bootstrap-vocab-5000-json.mjs",

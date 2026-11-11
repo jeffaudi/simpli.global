@@ -3,6 +3,7 @@ import { getTranslations } from '@/lib/translations';
 import Layout from '@/layouts/Base.astro';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import { renderPedagogy, type PedagogyNode } from '@/lib/pedagogy';
+import { renderRationalePointer } from '@/lib/phonology-page';
 import structure from '@/data/pedagogy-structure.json';
 import { localeParams, type Lang } from '@/i18n';
 
@@ -29,7 +30,10 @@ const html = renderPedagogy(
 <Layout lang={lang} title={page.h1} description={page.metaDescription}>
   <h1>{page.h1}</h1>
   <p><a href={getRelativeLocaleUrl(lang, 'spelling')}>← {t.nav.spelling}</a></p>
-  <article class="page-markdown" set:html={html} />
+  <article class="page-markdown">
+    <div set:html={renderRationalePointer(lang, `${getRelativeLocaleUrl(lang, 'spelling')}#pronunciation`)} />
+    <div set:html={html} />
+  </article>
 </Layout>
 
 <style>

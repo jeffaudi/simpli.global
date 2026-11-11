@@ -15,7 +15,7 @@
 7. **Adjectives:** Before noun, never change.
 8. **Possession:** Noun + possessor (*haos mi* = my house). You can add *of* for clarity but it's not needed: *haos (of) mi*, *haos (of) broder (of) mi* = my brother's house.
 9. **Prepositions:** in, on, at, from, to, wit, for.
-10. **Connectors:** and, or, but, becos, so.
+10. **Connectors:** and, or, but, bikos, so.
 11. **Compounds:** e.g. sun-lait, fast-trein, woter-fud.
 12. **Numbers:** Write with Western digits (0–9). Reading aloud uses East Asian–style composition—name units from large to small, with tens as *digit + ten + digit*. Examples: 34 = *tri ten for*; 2026 = *tu taosand tu ten siks*; 3253 = *tri taosand tu hundrad faiv ten tri*. Digits use the essential set (*sero* … *nain*, *ten*); larger units *hundrad* (hundred), *taosand* (thousand).
 13. **Dates:** Use international ISO format *YYYY-MM-DD* (e.g. 2026-06-18). In prose: day + month name + year (e.g. *18 djun 2026*). Month names are international English names in Simpli spelling (*djanyueri* … *disember*).

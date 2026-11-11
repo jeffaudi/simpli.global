@@ -12,7 +12,7 @@ Astro routes for [simpli.global](https://simpli.global). All localized pages use
 - **`[locale]/grammar.astro`** — Grammar overview (`grammarOverview` in translations)
 - **`[locale]/grammar-rules.astro`** — Full rules (`grammarRulesPage` + `grammarNumbers`)
 - **`[locale]/vocabulary.astro`** — Vocabulary strategy (`pages.vocabulary`)
-- **`[locale]/spelling.astro`** — Spelling (`pages.spellingBody` + `pedagogy-structure.json`)
+- **`[locale]/spelling.astro`** — Spelling (`pages.spellingBody` + `pedagogy-structure.json`, with the pronunciation table from `src/data/phonology.ts`)
 - **`[locale]/spelling/alphabet-rationale.astro`** — Alphabet rationale (`pages.alphabetRationale`)
 - **`[locale]/numbers-dates-time.astro`** — Numbers, dates & time (`pages.numbersBody`)
 - **`[locale]/comparison.astro`** — Comparison tables

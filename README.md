@@ -72,7 +72,7 @@ For **why** past choices were made (distilled from early project chats), see [HI
 
 The [spec/](spec/) folder holds the language specification as reference docs:
 
-- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet, spelling rules, long vowels (see also [Alphabet rationale](/en/spelling/alphabet-rationale) for V/W and i/y)
+- [spec/ORTHOGRAPHY.md](spec/ORTHOGRAPHY.md) — Alphabet and spelling rules, including optional long vowels (see also [Alphabet rationale](/en/spelling/alphabet-rationale) for V/W and i/y)
 - [spec/GRAMMAR.md](spec/GRAMMAR.md) — Core grammar rules (SVO, possession, questions, etc.)
 - [spec/VOCABULARY.md](spec/VOCABULARY.md) — Vocabulary strategy and link to essential words
 
