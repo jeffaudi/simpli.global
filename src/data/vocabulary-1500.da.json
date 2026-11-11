@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "af"
+  },
+  {
+    "simpli": "in",
+    "translation": "i"
+  },
+  {
+    "simpli": "and",
+    "translation": "og"
+  },
+  {
+    "simpli": "tu",
+    "translation": "til"
+  },
+  {
+    "simpli": "an",
+    "translation": "på"
+  },
+  {
+    "simpli": "as",
+    "translation": "som"
+  },
+  {
+    "simpli": "for",
+    "translation": "for"
+  },
+  {
+    "simpli": "bai",
+    "translation": "af"
+  },
+  {
+    "simpli": "dat",
+    "translation": "at"
+  },
+  {
+    "simpli": "el",
+    "translation": "han/hun/den"
+  },
+  {
+    "simpli": "wit",
+    "translation": "med"
+  },
+  {
+    "simpli": "at",
+    "translation": "ved"
+  },
+  {
+    "simpli": "fram",
+    "translation": "fra"
+  },
+  {
+    "simpli": "nat",
+    "translation": "ikke"
+  },
+  {
+    "simpli": "or",
+    "translation": "eller"
+  },
+  {
+    "simpli": "witj",
+    "translation": "hvilken"
+  },
+  {
+    "simpli": "bat",
+    "translation": "men"
+  },
+  {
+    "simpli": "hav",
+    "translation": "have"
+  },
+  {
+    "simpli": "olso",
+    "translation": "også"
+  },
+  {
+    "simpli": "van",
+    "translation": "en"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "side"
+  },
+  {
+    "simpli": "yu",
+    "translation": "du"
+  },
+  {
+    "simpli": "no",
+    "translation": "nej"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "første"
+  },
+  {
+    "simpli": "dey",
+    "translation": "de"
+  },
+  {
+    "simpli": "hu",
+    "translation": "hvem"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "mei",
+    "translation": "måtte"
+  },
+  {
+    "simpli": "after",
+    "translation": "efter"
+  },
+  {
+    "simpli": "ol",
+    "translation": "alle"
+  },
+  {
+    "simpli": "nu",
+    "translation": "ny"
+  },
+  {
+    "simpli": "ader",
+    "translation": "anden"
+  },
+  {
+    "simpli": "if",
+    "translation": "hvis"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "diskussion"
+  },
+  {
+    "simpli": "kan",
+    "translation": "kunne"
+  },
+  {
+    "simpli": "mor",
+    "translation": "mere"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "om"
+  },
+  {
+    "simpli": "satj",
+    "translation": "sådan"
+  },
+  {
+    "simpli": "sam",
+    "translation": "nogle"
+  },
+  {
+    "simpli": "taim",
+    "translation": "tid"
+  },
+  {
+    "simpli": "onli",
+    "translation": "kun"
+  },
+  {
+    "simpli": "intu",
+    "translation": "ind i"
+  },
+  {
+    "simpli": "so",
+    "translation": "så"
+  },
+  {
+    "simpli": "ap",
+    "translation": "op"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "slette"
+  },
+  {
+    "simpli": "wer",
+    "translation": "hvor"
+  },
+  {
+    "simpli": "aot",
+    "translation": "ud"
+  },
+  {
+    "simpli": "dan",
+    "translation": "end"
+  },
+  {
+    "simpli": "most",
+    "translation": "mest"
+  },
+  {
+    "simpli": "over",
+    "translation": "over"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "link"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "januar"
+  },
+  {
+    "simpli": "martj",
+    "translation": "marts"
+  },
+  {
+    "simpli": "born",
+    "translation": "født"
+  },
+  {
+    "simpli": "september",
+    "translation": "september"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "oktober"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "juli"
+  },
+  {
+    "simpli": "agast",
+    "translation": "august"
+  },
+  {
+    "simpli": "plis",
+    "translation": "venligst"
+  },
+  {
+    "simpli": "disember",
+    "translation": "december"
+  },
+  {
+    "simpli": "djun",
+    "translation": "juni"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "april"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "te"
+  },
+  {
+    "simpli": "wil",
+    "translation": "ville"
+  },
+  {
+    "simpli": "eni",
+    "translation": "nogen"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "hvad"
+  },
+  {
+    "simpli": "november",
+    "translation": "november"
+  },
+  {
+    "simpli": "dis",
+    "translation": "disse"
+  },
+  {
+    "simpli": "wi",
+    "translation": "vi"
+  },
+  {
+    "simpli": "meni",
+    "translation": "mange"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "februar"
+  },
+  {
+    "simpli": "laik",
+    "translation": "som"
+  },
+  {
+    "simpli": "dem",
+    "translation": "dem"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "yderligere"
+  },
+  {
+    "simpli": "wail",
+    "translation": "mens"
+  },
+  {
+    "simpli": "si",
+    "translation": "se"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "senere"
+  },
+  {
+    "simpli": "neim",
+    "translation": "navn"
+  },
+  {
+    "simpli": "skul",
+    "translation": "skole"
+  },
+  {
+    "simpli": "part",
+    "translation": "del"
+  },
+  {
+    "simpli": "ander",
+    "translation": "under"
+  },
+  {
+    "simpli": "djast",
+    "translation": "bare"
+  },
+  {
+    "simpli": "yir",
+    "translation": "år"
+  },
+  {
+    "simpli": "wel",
+    "translation": "godt"
+  },
+  {
+    "simpli": "yus",
+    "translation": "bruge"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "debat"
+  },
+  {
+    "simpli": "sins",
+    "translation": "siden"
+  },
+  {
+    "simpli": "wok",
+    "translation": "arbejde"
+  },
+  {
+    "simpli": "tri",
+    "translation": "tre"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "før"
+  },
+  {
+    "simpli": "bot",
+    "translation": "begge"
+  },
+  {
+    "simpli": "steit",
+    "translation": "stat"
+  },
+  {
+    "simpli": "stail",
+    "translation": "stil"
+  },
+  {
+    "simpli": "film",
+    "translation": "film"
+  },
+  {
+    "simpli": "nao",
+    "translation": "nu"
+  },
+  {
+    "simpli": "tru",
+    "translation": "gennem"
+  },
+  {
+    "simpli": "becos",
+    "translation": "fordi"
+  },
+  {
+    "simpli": "grup",
+    "translation": "gruppe"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "amerikansk"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "bruger"
+  },
+  {
+    "simpli": "alain",
+    "translation": "justere"
+  },
+  {
+    "simpli": "siti",
+    "translation": "by"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "Wikipedia"
+  },
+  {
+    "simpli": "seim",
+    "translation": "samme"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "dog"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "blev"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "anden"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "passende"
+  },
+  {
+    "simpli": "werld",
+    "translation": "verden"
+  },
+  {
+    "simpli": "abav",
+    "translation": "ovenfor"
+  },
+  {
+    "simpli": "tim",
+    "translation": "hold"
+  },
+  {
+    "simpli": "kip",
+    "translation": "beholde"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "efterfølgende"
+  },
+  {
+    "simpli": "rait",
+    "translation": "højre"
+  },
+  {
+    "simpli": "antil",
+    "translation": "indtil"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "ændre"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "mod"
+  },
+  {
+    "simpli": "tok",
+    "translation": "tale"
+  },
+  {
+    "simpli": "namber",
+    "translation": "nummer"
+  },
+  {
+    "simpli": "senter",
+    "translation": "center"
+  },
+  {
+    "simpli": "list",
+    "translation": "liste"
+  },
+  {
+    "simpli": "albam",
+    "translation": "album"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "flere"
+  },
+  {
+    "simpli": "famali",
+    "translation": "familie"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "omdirigere"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "sæson"
+  },
+  {
+    "simpli": "veri",
+    "translation": "meget"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "firma"
+  },
+  {
+    "simpli": "eria",
+    "translation": "område"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "nedenfor"
+  },
+  {
+    "simpli": "hir",
+    "translation": "her"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "historie"
+  },
+  {
+    "simpli": "mi",
+    "translation": "mig"
+  },
+  {
+    "simpli": "hao",
+    "translation": "hvordan"
+  },
+  {
+    "simpli": "per",
+    "translation": "per"
+  },
+  {
+    "simpli": "wan",
+    "translation": "vandt"
+  },
+  {
+    "simpli": "itj",
+    "translation": "hver"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "national"
+  },
+  {
+    "simpli": "saot",
+    "translation": "syd"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "sted"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "resultat"
+  },
+  {
+    "simpli": "meik",
+    "translation": "lave"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "musik"
+  },
+  {
+    "simpli": "best",
+    "translation": "bedst"
+  },
+  {
+    "simpli": "dos",
+    "translation": "de"
+  },
+  {
+    "simpli": "anader",
+    "translation": "en anden"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "tænke"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "afsnit"
+  },
+  {
+    "simpli": "not",
+    "translation": "note"
+  },
+  {
+    "simpli": "saport",
+    "translation": "støtte"
+  },
+  {
+    "simpli": "wei",
+    "translation": "måde"
+  },
+  {
+    "simpli": "former",
+    "translation": "tidligere"
+  },
+  {
+    "simpli": "geim",
+    "translation": "spil"
+  },
+  {
+    "simpli": "member",
+    "translation": "medlem"
+  },
+  {
+    "simpli": "erli",
+    "translation": "tidlig"
+  },
+  {
+    "simpli": "matj",
+    "translation": "meget"
+  },
+  {
+    "simpli": "stil",
+    "translation": "stadig"
+  },
+  {
+    "simpli": "nort",
+    "translation": "nord"
+  },
+  {
+    "simpli": "hai",
+    "translation": "høj"
+  },
+  {
+    "simpli": "wor",
+    "translation": "krig"
+  },
+  {
+    "simpli": "gud",
+    "translation": "god"
+  },
+  {
+    "simpli": "bak",
+    "translation": "tilbage"
+  },
+  {
+    "simpli": "on",
+    "translation": "egen"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "regering"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "universitet"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "omkring"
+  },
+  {
+    "simpli": "end",
+    "translation": "ende"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "bemærkelsesværdig"
+  },
+  {
+    "simpli": "song",
+    "translation": "sang"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "militær"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "generel"
+  },
+  {
+    "simpli": "taital",
+    "translation": "titel"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "offentlig"
+  },
+  {
+    "simpli": "buk",
+    "translation": "bog"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "billede"
+  },
+  {
+    "simpli": "dei",
+    "translation": "dag"
+  },
+  {
+    "simpli": "long",
+    "translation": "lang"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "sletning"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "information"
+  },
+  {
+    "simpli": "du",
+    "translation": "forfalden"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "lokal"
+  },
+  {
+    "simpli": "haos",
+    "translation": "hus"
+  },
+  {
+    "simpli": "mein",
+    "translation": "hoved"
+  },
+  {
+    "simpli": "last",
+    "translation": "sidste"
+  },
+  {
+    "simpli": "widin",
+    "translation": "inden for"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "original"
+  },
+  {
+    "simpli": "hom",
+    "translation": "hjem"
+  },
+  {
+    "simpli": "kament",
+    "translation": "kommentar"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "større"
+  },
+  {
+    "simpli": "laif",
+    "translation": "liv"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "forskellig"
+  },
+  {
+    "simpli": "klab",
+    "translation": "klub"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "engelsk"
+  },
+  {
+    "simpli": "point",
+    "translation": "punkt"
+  },
+  {
+    "simpli": "smol",
+    "translation": "lille"
+  },
+  {
+    "simpli": "lain",
+    "translation": "linje"
+  },
+  {
+    "simpli": "singal",
+    "translation": "enkelt"
+  },
+  {
+    "simpli": "band",
+    "translation": "band"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "arkiv"
+  },
+  {
+    "simpli": "get",
+    "translation": "få"
+  },
+  {
+    "simpli": "taon",
+    "translation": "by"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "befolkning"
+  },
+  {
+    "simpli": "sors",
+    "translation": "kilde"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "omfatte"
+  },
+  {
+    "simpli": "agen",
+    "translation": "igen"
+  },
+  {
+    "simpli": "keis",
+    "translation": "sag"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "selvom"
+  },
+  {
+    "simpli": "along",
+    "translation": "langs"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "international"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "uden"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "system"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "station"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "bygget"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "alder"
+  },
+  {
+    "simpli": "tap",
+    "translation": "top"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "århundrede"
+  },
+  {
+    "simpli": "set",
+    "translation": "sætte"
+  },
+  {
+    "simpli": "britis",
+    "translation": "britisk"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "kirke"
+  },
+  {
+    "simpli": "west",
+    "translation": "vest"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "spiller"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "præsident"
+  },
+  {
+    "simpli": "do",
+    "translation": "selvom"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "landsby"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "kategori"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "stor"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "distrikt"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "få"
+  },
+  {
+    "simpli": "order",
+    "translation": "orden"
+  },
+  {
+    "simpli": "servas",
+    "translation": "service"
+  },
+  {
+    "simpli": "faind",
+    "translation": "finde"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "overlappe"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "tage"
+  },
+  {
+    "simpli": "old",
+    "translation": "gammel"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "land"
+  },
+  {
+    "simpli": "det",
+    "translation": "død"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "forskning"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "endelig"
+  },
+  {
+    "simpli": "midia",
+    "translation": "medie"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "fællesskab"
+  },
+  {
+    "simpli": "terd",
+    "translation": "tredje"
+  },
+  {
+    "simpli": "vi",
+    "translation": "ve"
+  },
+  {
+    "simpli": "ist",
+    "translation": "øst"
+  },
+  {
+    "simpli": "daon",
+    "translation": "ned"
+  },
+  {
+    "simpli": "djan",
+    "translation": "John"
+  },
+  {
+    "simpli": "versan",
+    "translation": "version"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "fem"
+  },
+  {
+    "simpli": "edat",
+    "translation": "redigere"
+  },
+  {
+    "simpli": "everi",
+    "translation": "hver"
+  },
+  {
+    "simpli": "san",
+    "translation": "søn"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "eksempel"
+  },
+  {
+    "simpli": "parti",
+    "translation": "parti"
+  },
+  {
+    "simpli": "york",
+    "translation": "York"
+  },
+  {
+    "simpli": "form",
+    "translation": "form"
+  },
+  {
+    "simpli": "nir",
+    "translation": "nær"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "emne"
+  },
+  {
+    "simpli": "go",
+    "translation": "gå"
+  },
+  {
+    "simpli": "amang",
+    "translation": "blandt"
+  },
+  {
+    "simpli": "sait",
+    "translation": "sted"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "indhold"
+  },
+  {
+    "simpli": "art",
+    "translation": "kunst"
+  },
+  {
+    "simpli": "help",
+    "translation": "hjælpe"
+  },
+  {
+    "simpli": "fader",
+    "translation": "far"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "projekt"
+  },
+  {
+    "simpli": "said",
+    "translation": "side"
+  },
+  {
+    "simpli": "rood",
+    "translation": "vej"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "tekst"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "direktør"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "karriere"
+  },
+  {
+    "simpli": "notability",
+    "translation": "notabilitet"
+  },
+  {
+    "simpli": "wai",
+    "translation": "hvorfor"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "rekord"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "baggrund"
+  },
+  {
+    "simpli": "lig",
+    "translation": "liga"
+  },
+  {
+    "simpli": "plei",
+    "translation": "spille"
+  },
+  {
+    "simpli": "greit",
+    "translation": "stor"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "fransk"
+  },
+  {
+    "simpli": "aword",
+    "translation": "pris"
+  },
+  {
+    "simpli": "never",
+    "translation": "aldrig"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "nok"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "grevskab"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "million"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "udvikling"
+  },
+  {
+    "simpli": "total",
+    "translation": "total"
+  },
+  {
+    "simpli": "risan",
+    "translation": "grund"
+  },
+  {
+    "simpli": "lo",
+    "translation": "lov"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "næste"
+  },
+  {
+    "simpli": "led",
+    "translation": "ledede"
+  },
+  {
+    "simpli": "woter",
+    "translation": "vand"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "college"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "tysk"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "politisk"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "blive"
+  },
+  {
+    "simpli": "rader",
+    "translation": "hellere"
+  },
+  {
+    "simpli": "leit",
+    "translation": "sen"
+  },
+  {
+    "simpli": "hed",
+    "translation": "hoved"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "allerede"
+  },
+  {
+    "simpli": "ider",
+    "translation": "enten"
+  },
+  {
+    "simpli": "lital",
+    "translation": "lille"
+  },
+  {
+    "simpli": "edater",
+    "translation": "redaktør"
+  },
+  {
+    "simpli": "important",
+    "translation": "vigtig"
+  },
+  {
+    "simpli": "rol",
+    "translation": "rolle"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "lignende"
+  },
+  {
+    "simpli": "wait",
+    "translation": "hvid"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "nuværende"
+  },
+  {
+    "simpli": "landan",
+    "translation": "London"
+  },
+  {
+    "simpli": "beter",
+    "translation": "bedre"
+  },
+  {
+    "simpli": "isu",
+    "translation": "spørgsmål"
+  },
+  {
+    "simpli": "sei",
+    "translation": "sige"
+  },
+  {
+    "simpli": "fail",
+    "translation": "fil"
+  },
+  {
+    "simpli": "persan",
+    "translation": "person"
+  },
+  {
+    "simpli": "fri",
+    "translation": "fri"
+  },
+  {
+    "simpli": "man",
+    "translation": "mand"
+  },
+  {
+    "simpli": "stori",
+    "translation": "historie"
+  },
+  {
+    "simpli": "sort",
+    "translation": "kort"
+  },
+  {
+    "simpli": "liv",
+    "translation": "leve"
+  },
+  {
+    "simpli": "vans",
+    "translation": "en gang"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "periode"
+  },
+  {
+    "simpli": "blak",
+    "translation": "sort"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "magt"
+  },
+  {
+    "simpli": "presant",
+    "translation": "nuværende"
+  },
+  {
+    "simpli": "strit",
+    "translation": "gade"
+  },
+  {
+    "simpli": "river",
+    "translation": "flod"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "i øjeblikket"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "produktion"
+  },
+  {
+    "simpli": "siks",
+    "translation": "seks"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "uddannelse"
+  },
+  {
+    "simpli": "rili",
+    "translation": "virkelig"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "fodbold"
+  },
+  {
+    "simpli": "land",
+    "translation": "land"
+  },
+  {
+    "simpli": "term",
+    "translation": "betegnelse"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "kontor"
+  },
+  {
+    "simpli": "program",
+    "translation": "program"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "division"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "fjernsyn"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "ændre"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "begivenhed"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "sammen"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "sprog"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "position"
+  },
+  {
+    "simpli": "want",
+    "translation": "ønske"
+  },
+  {
+    "simpli": "fild",
+    "translation": "felt"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "almindelig"
+  },
+  {
+    "simpli": "leval",
+    "translation": "niveau"
+  },
+  {
+    "simpli": "armi",
+    "translation": "hær"
+  },
+  {
+    "simpli": "deita",
+    "translation": "data"
+  },
+  {
+    "simpli": "park",
+    "translation": "park"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "faktum"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "professionel"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "mulig"
+  },
+  {
+    "simpli": "taip",
+    "translation": "type"
+  },
+  {
+    "simpli": "yang",
+    "translation": "ung"
+  },
+  {
+    "simpli": "kort",
+    "translation": "domstol"
+  },
+  {
+    "simpli": "mov",
+    "translation": "flytte"
+  },
+  {
+    "simpli": "les",
+    "translation": "mindre"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "tilgængelig"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "nogen"
+  },
+  {
+    "simpli": "ful",
+    "translation": "fuld"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "central"
+  },
+  {
+    "simpli": "templat",
+    "translation": "skabelon"
+  },
+  {
+    "simpli": "ad",
+    "translation": "tilføje"
+  },
+  {
+    "simpli": "win",
+    "translation": "vinde"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "video"
+  },
+  {
+    "simpli": "lost",
+    "translation": "mistet"
+  },
+  {
+    "simpli": "put",
+    "translation": "sætte"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "region"
+  },
+  {
+    "simpli": "er",
+    "translation": "luft"
+  },
+  {
+    "simpli": "ran",
+    "translation": "løbe"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "betydelig"
+  },
+  {
+    "simpli": "insted",
+    "translation": "i stedet"
+  },
+  {
+    "simpli": "oter",
+    "translation": "forfatter"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "anmeldelse"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "sandsynligvis"
+  },
+  {
+    "simpli": "raond",
+    "translation": "runde"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "speciel"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "officiel"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "politik"
+  },
+  {
+    "simpli": "far",
+    "translation": "fjern"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "faktisk"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "social"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "via"
+  },
+  {
+    "simpli": "disain",
+    "translation": "design"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "anmodning"
+  },
+  {
+    "simpli": "bord",
+    "translation": "bestyrelse"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "spørgsmål"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "karakter"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "oprindeligt"
+  },
+  {
+    "simpli": "start",
+    "translation": "begynde"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "uafhængig"
+  },
+  {
+    "simpli": "klos",
+    "translation": "tæt"
+  },
+  {
+    "simpli": "waif",
+    "translation": "kone"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "England"
+  },
+  {
+    "simpli": "luk",
+    "translation": "kigge"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "udgivelse"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "tilføjelse"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "bevis"
+  },
+  {
+    "simpli": "lav",
+    "translation": "kærlighed"
+  },
+  {
+    "simpli": "deit",
+    "translation": "dato"
+  },
+  {
+    "simpli": "awei",
+    "translation": "væk"
+  },
+  {
+    "simpli": "weder",
+    "translation": "om"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "samfund"
+  },
+  {
+    "simpli": "itself",
+    "translation": "sig selv"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "radio"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "pålidelig"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "dækning"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "ø"
+  },
+  {
+    "simpli": "himself",
+    "translation": "ham selv"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "populær"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "problem"
+  },
+  {
+    "simpli": "western",
+    "translation": "vestlig"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "afdeling"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "råd"
+  },
+  {
+    "simpli": "apan",
+    "translation": "på"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "kontrol"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "i stand"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "forhold"
+  },
+  {
+    "simpli": "madern",
+    "translation": "moderne"
+  },
+  {
+    "simpli": "trak",
+    "translation": "spor"
+  },
+  {
+    "simpli": "kors",
+    "translation": "kursus"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "episode"
+  },
+  {
+    "simpli": "mader",
+    "translation": "mor"
+  },
+  {
+    "simpli": "artast",
+    "translation": "kunstner"
+  },
+  {
+    "simpli": "saians",
+    "translation": "videnskab"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "levere"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "sædvanligvis"
+  },
+  {
+    "simpli": "fors",
+    "translation": "styrke"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "nordlig"
+  },
+  {
+    "simpli": "badi",
+    "translation": "krop"
+  },
+  {
+    "simpli": "sur",
+    "translation": "sikker"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "Amerika"
+  },
+  {
+    "simpli": "speis",
+    "translation": "rum"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "tv"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "henvise"
+  },
+  {
+    "simpli": "red",
+    "translation": "rød"
+  },
+  {
+    "simpli": "riport",
+    "translation": "rapport"
+  },
+  {
+    "simpli": "doter",
+    "translation": "datter"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "næsten"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "søge"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "forening"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "Australien"
+  },
+  {
+    "simpli": "giv",
+    "translation": "give"
+  },
+  {
+    "simpli": "akt",
+    "translation": "handling"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "materiale"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "trods"
+  },
+  {
+    "simpli": "palis",
+    "translation": "politi"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "minister"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "menneske"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "byggeri"
+  },
+  {
+    "simpli": "post",
+    "translation": "indlæg"
+  },
+  {
+    "simpli": "india",
+    "translation": "Indien"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "i dag"
+  },
+  {
+    "simpli": "reis",
+    "translation": "race"
+  },
+  {
+    "simpli": "das",
+    "translation": "således"
+  },
+  {
+    "simpli": "ril",
+    "translation": "virkelig"
+  },
+  {
+    "simpli": "nan",
+    "translation": "ingen"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "scene"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "sydlig"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "træner"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "personlig"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "professor"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "studere"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "udenfor"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "primær"
+  },
+  {
+    "simpli": "websait",
+    "translation": "websted"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "debut"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "igennem"
+  },
+  {
+    "simpli": "helt",
+    "translation": "sundhed"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "især"
+  },
+  {
+    "simpli": "werd",
+    "translation": "ord"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "fremtid"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "osv"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "syn"
+  },
+  {
+    "simpli": "frans",
+    "translation": "Frankrig"
+  },
+  {
+    "simpli": "sais",
+    "translation": "størrelse"
+  },
+  {
+    "simpli": "sold",
+    "translation": "solgt"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "organisation"
+  },
+  {
+    "simpli": "yet",
+    "translation": "endnu"
+  },
+  {
+    "simpli": "strong",
+    "translation": "stærk"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "mesterskab"
+  },
+  {
+    "simpli": "klir",
+    "translation": "klar"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "flere"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "gennemsnit"
+  },
+  {
+    "simpli": "ever",
+    "translation": "nogensinde"
+  },
+  {
+    "simpli": "lait",
+    "translation": "lys"
+  },
+  {
+    "simpli": "wik",
+    "translation": "uge"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "brugernavn"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "skabe"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "række"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "dække"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "til sidst"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "vende tilbage"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "handling"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "farve"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "Canada"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "japansk"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "interesse"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "museum"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "magasin"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "tidligere"
+  },
+  {
+    "simpli": "haf",
+    "translation": "halv"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "forfatter"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "chef"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "emne"
+  },
+  {
+    "simpli": "brader",
+    "translation": "bror"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "generelt"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "udvalg"
+  },
+  {
+    "simpli": "hol",
+    "translation": "hal"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "individuel"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "største"
+  },
+  {
+    "simpli": "past",
+    "translation": "fortid"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "valg"
+  },
+  {
+    "simpli": "performans",
+    "translation": "præstation"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "særlig"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "samling"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "tro"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "privat"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "sandsynlig"
+  },
+  {
+    "simpli": "big",
+    "translation": "stor"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "politiker"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "aktiv"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "konto"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "union"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "etiket"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "specifik"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "William"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "australsk"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "idé"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "yderligere"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "europæisk"
+  },
+  {
+    "simpli": "indian",
+    "translation": "indisk"
+  },
+  {
+    "simpli": "referans",
+    "translation": "henvisning"
+  },
+  {
+    "simpli": "rul",
+    "translation": "regel"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "Europa"
+  },
+  {
+    "simpli": "lat",
+    "translation": "masse"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "flette"
+  },
+  {
+    "simpli": "sun",
+    "translation": "snart"
+  },
+  {
+    "simpli": "faier",
+    "translation": "ild"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "simpelthen"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "konkurrence"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "standard"
+  },
+  {
+    "simpli": "let",
+    "translation": "lade"
+  },
+  {
+    "simpli": "madal",
+    "translation": "model"
+  },
+  {
+    "simpli": "lider",
+    "translation": "leder"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "Tyskland"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Google"
+  },
+  {
+    "simpli": "mar",
+    "translation": "mar"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "værdi"
+  },
+  {
+    "simpli": "nait",
+    "translation": "nat"
+  },
+  {
+    "simpli": "rut",
+    "translation": "rute"
+  },
+  {
+    "simpli": "apir",
+    "translation": "dukke op"
+  },
+  {
+    "simpli": "akter",
+    "translation": "skuespiller"
+  },
+  {
+    "simpli": "gold",
+    "translation": "guld"
+  },
+  {
+    "simpli": "sival",
+    "translation": "civil"
+  },
+  {
+    "simpli": "digri",
+    "translation": "grad"
+  },
+  {
+    "simpli": "atak",
+    "translation": "angreb"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "kvindelig"
+  },
+  {
+    "simpli": "roial",
+    "translation": "kongelig"
+  },
+  {
+    "simpli": "frant",
+    "translation": "front"
+  },
+  {
+    "simpli": "vot",
+    "translation": "stemme"
+  },
+  {
+    "simpli": "yes",
+    "translation": "ja"
+  },
+  {
+    "simpli": "naval",
+    "translation": "roman"
+  },
+  {
+    "simpli": "samer",
+    "translation": "sommer"
+  },
+  {
+    "simpli": "sent",
+    "translation": "sendt"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "kvalitet"
+  },
+  {
+    "simpli": "studio",
+    "translation": "studie"
+  },
+  {
+    "simpli": "istern",
+    "translation": "østlig"
+  },
+  {
+    "simpli": "praier",
+    "translation": "forudgående"
+  },
+  {
+    "simpli": "ten",
+    "translation": "ti"
+  },
+  {
+    "simpli": "rak",
+    "translation": "rock"
+  },
+  {
+    "simpli": "dek",
+    "translation": "dec"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "Kina"
+  },
+  {
+    "simpli": "midal",
+    "translation": "midte"
+  },
+  {
+    "simpli": "kar",
+    "translation": "bil"
+  },
+  {
+    "simpli": "okt",
+    "translation": "okt"
+  },
+  {
+    "simpli": "longer",
+    "translation": "længere"
+  },
+  {
+    "simpli": "trai",
+    "translation": "prøve"
+  },
+  {
+    "simpli": "singer",
+    "translation": "sanger"
+  },
+  {
+    "simpli": "agri",
+    "translation": "samtykke"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "dr"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "officer"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "ganske"
+  },
+  {
+    "simpli": "sim",
+    "translation": "synes"
+  },
+  {
+    "simpli": "tur",
+    "translation": "turné"
+  },
+  {
+    "simpli": "bar",
+    "translation": "bar"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "fly"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "netværk"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "kvinde"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "medicinsk"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "David"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "historisk"
+  },
+  {
+    "simpli": "eit",
+    "translation": "otte"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "fuldstændig"
+  },
+  {
+    "simpli": "mit",
+    "translation": "møde"
+  },
+  {
+    "simpli": "loer",
+    "translation": "lavere"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "bag"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "beliggenhed"
+  },
+  {
+    "simpli": "nov",
+    "translation": "nov"
+  },
+  {
+    "simpli": "leik",
+    "translation": "sø"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "Japan"
+  },
+  {
+    "simpli": "bit",
+    "translation": "smule"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "bibliotek"
+  },
+  {
+    "simpli": "didn",
+    "translation": "gjorde ikke"
+  },
+  {
+    "simpli": "risant",
+    "translation": "nylig"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "hovedstad"
+  },
+  {
+    "simpli": "apr",
+    "translation": "apr"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "producent"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "ophavsret"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "senior"
+  },
+  {
+    "simpli": "fort",
+    "translation": "fjerde"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "tidligere"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "nogen"
+  },
+  {
+    "simpli": "min",
+    "translation": "betyde"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "ledelse"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "nominering"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "George"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "industri"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "vis"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "kan ikke"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "guitar"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "særligt"
+  },
+  {
+    "simpli": "sep",
+    "translation": "sep"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "turnering"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "festival"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "kinesisk"
+  },
+  {
+    "simpli": "sip",
+    "translation": "skib"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "barn"
+  },
+  {
+    "simpli": "beis",
+    "translation": "base"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "jernbane"
+  },
+  {
+    "simpli": "kap",
+    "translation": "pokal"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "online"
+  },
+  {
+    "simpli": "san",
+    "translation": "San"
+  },
+  {
+    "simpli": "studant",
+    "translation": "studerende"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "succesfuld"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "kampagne"
+  },
+  {
+    "simpli": "haier",
+    "translation": "højere"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "kultur"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "separat"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "aug"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "derfor"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "teknologi"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "bevægelse"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "regelmæssig"
+  },
+  {
+    "simpli": "mani",
+    "translation": "penge"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "russisk"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "cirka"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "mest"
+  },
+  {
+    "simpli": "rest",
+    "translation": "hvile"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "struktur"
+  },
+  {
+    "simpli": "graond",
+    "translation": "jord"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "canadisk"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "italiensk"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "hel"
+  },
+  {
+    "simpli": "markat",
+    "translation": "marked"
+  },
+  {
+    "simpli": "mater",
+    "translation": "sag"
+  },
+  {
+    "simpli": "saond",
+    "translation": "lyd"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "praksis"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "påstand"
+  },
+  {
+    "simpli": "hum",
+    "translation": "hvem"
+  },
+  {
+    "simpli": "hand",
+    "translation": "hånd"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "institut"
+  },
+  {
+    "simpli": "batal",
+    "translation": "slag"
+  },
+  {
+    "simpli": "star",
+    "translation": "stjerne"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "juridisk"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "kommerciel"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "spansk"
+  },
+  {
+    "simpli": "notas",
+    "translation": "meddelelse"
+  },
+  {
+    "simpli": "mark",
+    "translation": "mærke"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "indfødt"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "enhed"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "beslutning"
+  },
+  {
+    "simpli": "border",
+    "translation": "grænse"
+  },
+  {
+    "simpli": "web",
+    "translation": "web"
+  },
+  {
+    "simpli": "lak",
+    "translation": "mangel"
+  },
+  {
+    "simpli": "met",
+    "translation": "mødte"
+  },
+  {
+    "simpli": "hit",
+    "translation": "ramme"
+  },
+  {
+    "simpli": "net",
+    "translation": "net"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "leder"
+  },
+  {
+    "simpli": "overol",
+    "translation": "samlet"
+  },
+  {
+    "simpli": "staf",
+    "translation": "personale"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "svar"
+  },
+  {
+    "simpli": "mant",
+    "translation": "måned"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "indledningsvis"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "naturlig"
+  },
+  {
+    "simpli": "fil",
+    "translation": "føle"
+  },
+  {
+    "simpli": "son",
+    "translation": "vist"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "træk"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "hospital"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "mindre"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "forsøg"
+  },
+  {
+    "simpli": "blu",
+    "translation": "blå"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "ejendom"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "tydeligt"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "længde"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "traditionel"
+  },
+  {
+    "simpli": "medal",
+    "translation": "medalje"
+  },
+  {
+    "simpli": "kol",
+    "translation": "kalde"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "erfaring"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "bro"
+  },
+  {
+    "simpli": "test",
+    "translation": "test"
+  },
+  {
+    "simpli": "els",
+    "translation": "ellers"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "film"
+  },
+  {
+    "simpli": "spent",
+    "translation": "brugt"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "tidsskrift"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "bank"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "mening"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "sidenavn"
+  },
+  {
+    "simpli": "jul",
+    "translation": "jul"
+  },
+  {
+    "simpli": "ro",
+    "translation": "række"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "Californien"
+  },
+  {
+    "simpli": "skop",
+    "translation": "omfang"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "regional"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "fond"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "flertal"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "årlig"
+  },
+  {
+    "simpli": "ker",
+    "translation": "omsorg"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rækkespan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "mad"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Robert"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "energi"
+  },
+  {
+    "simpli": "bad",
+    "translation": "dårlig"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "musikalsk"
+  },
+  {
+    "simpli": "federal",
+    "translation": "føderal"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "hurtig"
+  },
+  {
+    "simpli": "mister",
+    "translation": "hr"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "for nylig"
+  },
+  {
+    "simpli": "dil",
+    "translation": "aftale"
+  },
+  {
+    "simpli": "foran",
+    "translation": "udenlandsk"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "endelig"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "direktør"
+  },
+  {
+    "simpli": "gol",
+    "translation": "mål"
+  },
+  {
+    "simpli": "lt",
+    "translation": "lt"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "slags"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "natur"
+  },
+  {
+    "simpli": "sens",
+    "translation": "sans"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "wiki"
+  },
+  {
+    "simpli": "stap",
+    "translation": "stoppe"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "konference"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "nævne"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "indeks"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "Afrika"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "forstå"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "direkte"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "udseende"
+  },
+  {
+    "simpli": "master",
+    "translation": "mester"
+  },
+  {
+    "simpli": "entri",
+    "translation": "indgang"
+  },
+  {
+    "simpli": "skver",
+    "translation": "firkant"
+  },
+  {
+    "simpli": "plan",
+    "translation": "plan"
+  },
+  {
+    "simpli": "waid",
+    "translation": "bred"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "værelse"
+  },
+  {
+    "simpli": "kost",
+    "translation": "kyst"
+  },
+  {
+    "simpli": "tern",
+    "translation": "dreje"
+  },
+  {
+    "simpli": "pik",
+    "translation": "top"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "undtagen"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "guvernør"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "økonomisk"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "kontrakt"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "kongerige"
+  },
+  {
+    "simpli": "hil",
+    "translation": "bakke"
+  },
+  {
+    "simpli": "grand",
+    "translation": "storslået"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "kaptajn"
+  },
+  {
+    "simpli": "fer",
+    "translation": "retfærdig"
+  },
+  {
+    "simpli": "fain",
+    "translation": "fin"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Michael"
+  },
+  {
+    "simpli": "kii",
+    "translation": "nøgle"
+  },
+  {
+    "simpli": "los",
+    "translation": "tab"
+  },
+  {
+    "simpli": "global",
+    "translation": "global"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "sæde"
+  },
+  {
+    "simpli": "winer",
+    "translation": "vinder"
+  },
+  {
+    "simpli": "older",
+    "translation": "ældre"
+  },
+  {
+    "simpli": "rong",
+    "translation": "forkert"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "assistent"
+  },
+  {
+    "simpli": "hard",
+    "translation": "hård"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Paul"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "højest"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "teori"
+  },
+  {
+    "simpli": "frend",
+    "translation": "ven"
+  },
+  {
+    "simpli": "til",
+    "translation": "indtil"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "kulturel"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "avis"
+  },
+  {
+    "simpli": "treid",
+    "translation": "handel"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "sekundær"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "takke"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "kandidat"
+  },
+  {
+    "simpli": "apos",
+    "translation": "modsætte"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "akademisk"
+  },
+  {
+    "simpli": "braon",
+    "translation": "brun"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "kompleks"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "efterfølgende"
+  },
+  {
+    "simpli": "alao",
+    "translation": "tillade"
+  },
+  {
+    "simpli": "plant",
+    "translation": "plante"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "større"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "Washington"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "fuldstændigt"
+  },
+  {
+    "simpli": "historik",
+    "translation": "historisk"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "virkning"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "kanal"
+  },
+  {
+    "simpli": "fol",
+    "translation": "falde"
+  },
+  {
+    "simpli": "kas",
+    "translation": "årsag"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "kolonnespan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "passere"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "nyttig"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "teater"
+  },
+  {
+    "simpli": "gad",
+    "translation": "gud"
+  },
+  {
+    "simpli": "admin",
+    "translation": "admin"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "sikkerhed"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "formand"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "opmærksomhed"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "kommando"
+  },
+  {
+    "simpli": "sister",
+    "translation": "søster"
+  },
+  {
+    "simpli": "ed",
+    "translation": "udgave"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "kommune"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "fortsætte"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "par"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "papir"
+  },
+  {
+    "simpli": "kod",
+    "translation": "kode"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "kristen"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "foreslå"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "formål"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "computer"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "hovedsageligt"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "skabelse"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Mary"
+  },
+  {
+    "simpli": "sat",
+    "translation": "skud"
+  },
+  {
+    "simpli": "format",
+    "translation": "format"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "eksistere"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "provins"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "forhold"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "ægtemand"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "relevant"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "næsten"
+  },
+  {
+    "simpli": "al",
+    "translation": "Al"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "bjerg"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "finansiel"
+  },
+  {
+    "simpli": "nam",
+    "translation": "nom"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "variation"
+  },
+  {
+    "simpli": "haili",
+    "translation": "meget"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "viden"
+  },
+  {
+    "simpli": "felo",
+    "translation": "fælle"
+  },
+  {
+    "simpli": "salad",
+    "translation": "solid"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "akademi"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Smith"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "måske"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "operation"
+  },
+  {
+    "simpli": "silver",
+    "translation": "sølv"
+  },
+  {
+    "simpli": "et",
+    "translation": "et"
+  },
+  {
+    "simpli": "misan",
+    "translation": "mission"
+  },
+  {
+    "simpli": "skor",
+    "translation": "score"
+  },
+  {
+    "simpli": "vali",
+    "translation": "dal"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "cd"
+  },
+  {
+    "simpli": "meil",
+    "translation": "mandlig"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Peter"
+  },
+  {
+    "simpli": "later",
+    "translation": "sidstnævnte"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "nødvendig"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "tidligere"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "sekretær"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "afrikansk"
+  },
+  {
+    "simpli": "nain",
+    "translation": "ni"
+  },
+  {
+    "simpli": "yut",
+    "translation": "ungdom"
+  },
+  {
+    "simpli": "map",
+    "translation": "kort"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "sejr"
+  },
+  {
+    "simpli": "ser",
+    "translation": "sir"
+  },
+  {
+    "simpli": "ded",
+    "translation": "død"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "software"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "funktion"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "motor"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "mester"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "tabel"
+  },
+  {
+    "simpli": "ert",
+    "translation": "jord"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "mængde"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "overveje"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "ellers"
+  },
+  {
+    "simpli": "djab",
+    "translation": "job"
+  },
+  {
+    "simpli": "fait",
+    "translation": "kamp"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "bind"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "Irland"
+  },
+  {
+    "simpli": "serv",
+    "translation": "tjene"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "korrekt"
+  },
+  {
+    "simpli": "siland",
+    "translation": "Sjælland"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "direkte"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "simpel"
+  },
+  {
+    "simpli": "feis",
+    "translation": "ansigt"
+  },
+  {
+    "simpli": "kast",
+    "translation": "rollebesætning"
+  },
+  {
+    "simpli": "reit",
+    "translation": "rate"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "figur"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "inde"
+  },
+  {
+    "simpli": "trein",
+    "translation": "tog"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "øge"
+  },
+  {
+    "simpli": "vois",
+    "translation": "stemme"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "rang"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "straks"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "udsagn"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "vanskelig"
+  },
+  {
+    "simpli": "bil",
+    "translation": "lovforslag"
+  },
+  {
+    "simpli": "biand",
+    "translation": "hinsides"
+  },
+  {
+    "simpli": "hop",
+    "translation": "håb"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "billede"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "kommission"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "ældgammel"
+  },
+  {
+    "simpli": "info",
+    "translation": "info"
+  },
+  {
+    "simpli": "pur",
+    "translation": "fattig"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "dommer"
+  },
+  {
+    "simpli": "ston",
+    "translation": "sten"
+  },
+  {
+    "simpli": "itali",
+    "translation": "Italien"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "fjerne"
+  },
+  {
+    "simpli": "targat",
+    "translation": "mål"
+  },
+  {
+    "simpli": "van",
+    "translation": "van"
+  },
+  {
+    "simpli": "ago",
+    "translation": "siden"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Henry"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "muligvis"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "digital"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "primært"
+  },
+  {
+    "simpli": "maind",
+    "translation": "sind"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "flåde"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "produkt"
+  },
+  {
+    "simpli": "hart",
+    "translation": "hjerte"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "overflade"
+  },
+  {
+    "simpli": "los",
+    "translation": "Los"
+  },
+  {
+    "simpli": "baks",
+    "translation": "kasse"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "diagram"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "katolsk"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "kriterier"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "specifikt"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "begreb"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "positiv"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "potentiel"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "encyklopædi"
+  },
+  {
+    "simpli": "tel",
+    "translation": "fortælle"
+  },
+  {
+    "simpli": "alon",
+    "translation": "alene"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "tjekke"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "ansvarlig"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "bestemt"
+  },
+  {
+    "simpli": "priti",
+    "translation": "pæn"
+  },
+  {
+    "simpli": "dans",
+    "translation": "dans"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "gren"
+  },
+  {
+    "simpli": "era",
+    "translation": "æra"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "teknisk"
+  },
+  {
+    "simpli": "praim",
+    "translation": "primær"
+  },
+  {
+    "simpli": "host",
+    "translation": "vært"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "tempel"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "litteratur"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "administration"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "situation"
+  },
+  {
+    "simpli": "widt",
+    "translation": "bredde"
+  },
+  {
+    "simpli": "prais",
+    "translation": "pris"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "udsendelse"
+  },
+  {
+    "simpli": "nor",
+    "translation": "eller"
+  },
+  {
+    "simpli": "roman",
+    "translation": "romersk"
+  },
+  {
+    "simpli": "influans",
+    "translation": "indflydelse"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Richard"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "sætning"
+  },
+  {
+    "simpli": "leter",
+    "translation": "brev"
+  },
+  {
+    "simpli": "domein",
+    "translation": "domæne"
+  },
+  {
+    "simpli": "kat",
+    "translation": "skære"
+  },
+  {
+    "simpli": "el",
+    "translation": "El"
+  },
+  {
+    "simpli": "hold",
+    "translation": "holde"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "administrativ"
+  },
+  {
+    "simpli": "aper",
+    "translation": "øvre"
+  },
+  {
+    "simpli": "ask",
+    "translation": "spørge"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "faktisk"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "kommandør"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "Rusland"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "evne"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "ægteskab"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "videnskabelig"
+  },
+  {
+    "simpli": "oner",
+    "translation": "ejer"
+  },
+  {
+    "simpli": "internet",
+    "translation": "internet"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "nærliggende"
+  },
+  {
+    "simpli": "bei",
+    "translation": "bugt"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "fremtrædende"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "grundlæggende"
+  },
+  {
+    "simpli": "bas",
+    "translation": "bas"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "republik"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "retfærdighed"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "parlament"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "tilgang"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "grundlægger"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "hurtigt"
+  },
+  {
+    "simpli": "grik",
+    "translation": "græsk"
+  },
+  {
+    "simpli": "erport",
+    "translation": "lufthavn"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "strid"
+  },
+  {
+    "simpli": "anser",
+    "translation": "svar"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "bredt"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "retning"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "indkomst"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "almindeligvis"
+  },
+  {
+    "simpli": "maont",
+    "translation": "bjerg"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "sovjetisk"
+  },
+  {
+    "simpli": "airis",
+    "translation": "irsk"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "typisk"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "indledende"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "hovedvej"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "basketball"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "samtidig"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "jødisk"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "pige"
+  },
+  {
+    "simpli": "meier",
+    "translation": "borgmester"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "bebyggelse"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "sammenhæng"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "mindre"
+  },
+  {
+    "simpli": "sin",
+    "translation": "scene"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "kritisk"
+  },
+  {
+    "simpli": "anon",
+    "translation": "ukendt"
+  },
+  {
+    "simpli": "tag",
+    "translation": "mærke"
+  },
+  {
+    "simpli": "mas",
+    "translation": "masse"
+  },
+  {
+    "simpli": "foto",
+    "translation": "foto"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "biskop"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "hotel"
+  },
+  {
+    "simpli": "piano",
+    "translation": "piano"
+  },
+  {
+    "simpli": "sain",
+    "translation": "tegn"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "argument"
+  },
+  {
+    "simpli": "fift",
+    "translation": "femte"
+  },
+  {
+    "simpli": "perant",
+    "translation": "forælder"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "beskrivelse"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "forbedre"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "undgå"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "producere"
+  },
+  {
+    "simpli": "dark",
+    "translation": "mørk"
+  },
+  {
+    "simpli": "flait",
+    "translation": "flyvning"
+  },
+  {
+    "simpli": "ga",
+    "translation": "Georgia"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "tung"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "udgivelse"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "fysisk"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "ekstern"
+  },
+  {
+    "simpli": "deili",
+    "translation": "daglig"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "USA"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "Mexico"
+  },
+  {
+    "simpli": "oil",
+    "translation": "olie"
+  },
+  {
+    "simpli": "twais",
+    "translation": "to gange"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "ingeniør"
+  },
+  {
+    "simpli": "falo",
+    "translation": "følge"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "officielt"
+  },
+  {
+    "simpli": "lord",
+    "translation": "lord"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "større"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "lærer"
+  },
+  {
+    "simpli": "importans",
+    "translation": "betydning"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "helt"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "aktivitet"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "fuldt"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "junior"
+  },
+  {
+    "simpli": "vol",
+    "translation": "bind"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "nå"
+  },
+  {
+    "simpli": "feit",
+    "translation": "tro"
+  },
+  {
+    "simpli": "datj",
+    "translation": "nederlandsk"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "snart"
+  },
+  {
+    "simpli": "solo",
+    "translation": "solo"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "komponist"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "oprette"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "nation"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "Chicago"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "forblive"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "slot"
+  },
+  {
+    "simpli": "displei",
+    "translation": "vise"
+  },
+  {
+    "simpli": "rural",
+    "translation": "landlig"
+  },
+  {
+    "simpli": "metad",
+    "translation": "metode"
+  },
+  {
+    "simpli": "isali",
+    "translation": "let"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "alle"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "kopi"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "territorium"
+  },
+  {
+    "simpli": "britan",
+    "translation": "Storbritannien"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "udstyr"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "galleri"
+  },
+  {
+    "simpli": "normal",
+    "translation": "normal"
+  },
+  {
+    "simpli": "prins",
+    "translation": "prins"
+  },
+  {
+    "simpli": "pis",
+    "translation": "stykke"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "konflikt"
+  },
+  {
+    "simpli": "forast",
+    "translation": "skov"
+  },
+  {
+    "simpli": "efert",
+    "translation": "indsats"
+  },
+  {
+    "simpli": "wert",
+    "translation": "værd"
+  },
+  {
+    "simpli": "split",
+    "translation": "opdele"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "lejr"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "gods"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "behandling"
+  },
+  {
+    "simpli": "bild",
+    "translation": "bygge"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "regiment"
+  },
+  {
+    "simpli": "sort",
+    "translation": "slags"
+  },
+  {
+    "simpli": "draft",
+    "translation": "udkast"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "baseball"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "ved siden af"
+  },
+  {
+    "simpli": "port",
+    "translation": "havn"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "firma"
+  },
+  {
+    "simpli": "kru",
+    "translation": "besætning"
+  },
+  {
+    "simpli": "drama",
+    "translation": "drama"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "myndighed"
+  },
+  {
+    "simpli": "paris",
+    "translation": "sogn"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "beskyttelse"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "aftale"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "forsamling"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "slutte"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "stort set"
+  },
+  {
+    "simpli": "poland",
+    "translation": "Polen"
+  },
+  {
+    "simpli": "gru",
+    "translation": "voksede"
+  },
+  {
+    "simpli": "spein",
+    "translation": "Spanien"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "greve"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "tårn"
+  },
+  {
+    "simpli": "poat",
+    "translation": "digter"
+  },
+  {
+    "simpli": "ment",
+    "translation": "betød"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "forslagsstiller"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "time"
+  },
+  {
+    "simpli": "distans",
+    "translation": "afstand"
+  },
+  {
+    "simpli": "traval",
+    "translation": "rejse"
+  },
+  {
+    "simpli": "dai",
+    "translation": "dø"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "unik"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "dobbelt"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "præcis"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "kapacitet"
+  },
+  {
+    "simpli": "krik",
+    "translation": "bæk"
+  },
+  {
+    "simpli": "wol",
+    "translation": "væg"
+  },
+  {
+    "simpli": "winter",
+    "translation": "vinter"
+  },
+  {
+    "simpli": "stor",
+    "translation": "butik"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "alternativ"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "frem"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "opløsning"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "indvirkning"
+  },
+  {
+    "simpli": "bert",
+    "translation": "fødsel"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Martin"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "interview"
+  },
+  {
+    "simpli": "grot",
+    "translation": "vækst"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "besked"
+  },
+  {
+    "simpli": "pei",
+    "translation": "betale"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "anklage"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "stedfortræder"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "acceptere"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "miljø"
+  },
+  {
+    "simpli": "traial",
+    "translation": "retssag"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "tilbyde"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "uddannelsesmæssig"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "Carolina"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Joseph"
+  },
+  {
+    "simpli": "latan",
+    "translation": "latin"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "tilsyneladende"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "resumé"
+  },
+  {
+    "simpli": "des",
+    "translation": "des"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "ledelse"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "vigtigste"
+  },
+  {
+    "simpli": "batam",
+    "translation": "bund"
+  },
+  {
+    "simpli": "ais",
+    "translation": "is"
+  },
+  {
+    "simpli": "erban",
+    "translation": "bymæssig"
+  },
+  {
+    "simpli": "herd",
+    "translation": "hørte"
+  },
+  {
+    "simpli": "flag",
+    "translation": "flag"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "journalist"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "eksistens"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "fodboldspiller"
+  },
+  {
+    "simpli": "boi",
+    "translation": "dreng"
+  },
+  {
+    "simpli": "flor",
+    "translation": "gulv"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "skade"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "kontakt"
+  },
+  {
+    "simpli": "hait",
+    "translation": "højde"
+  },
+  {
+    "simpli": "presans",
+    "translation": "tilstedeværelse"
+  },
+  {
+    "simpli": "mon",
+    "translation": "man"
+  },
+  {
+    "simpli": "difens",
+    "translation": "forsvar"
+  },
+  {
+    "simpli": "farm",
+    "translation": "gård"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "forskel"
+  },
+  {
+    "simpli": "ad",
+    "translation": "efter kristus"
+  },
+  {
+    "simpli": "sat",
+    "translation": "sad"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "fængsel"
+  },
+  {
+    "simpli": "linier",
+    "translation": "lineær"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "udstilling"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "henholdsvis"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "adfærd"
+  },
+  {
+    "simpli": "stei",
+    "translation": "blive"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "repræsentant"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "modtage"
+  },
+  {
+    "simpli": "platform",
+    "translation": "platform"
+  },
+  {
+    "simpli": "li",
+    "translation": "Lee"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "mindesmærke"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "før kristus"
+  },
+  {
+    "simpli": "aner",
+    "translation": "ære"
+  },
+  {
+    "simpli": "greid",
+    "translation": "karakter"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "demokratisk"
+  },
+  {
+    "simpli": "transport",
+    "translation": "transport"
+  },
+  {
+    "simpli": "fort",
+    "translation": "fort"
+  },
+  {
+    "simpli": "tot",
+    "translation": "underviste"
+  },
+  {
+    "simpli": "breik",
+    "translation": "bryde"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "valg"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "allé"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "dame"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "Skotland"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "dokumentar"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "fordeling"
+  },
+  {
+    "simpli": "privent",
+    "translation": "forhindre"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "ude af stand"
+  },
+  {
+    "simpli": "weit",
+    "translation": "vægt"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "trafik"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "koncert"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "relativt"
+  },
+  {
+    "simpli": "stand",
+    "translation": "stå"
+  },
+  {
+    "simpli": "midian",
+    "translation": "median"
+  },
+  {
+    "simpli": "praper",
+    "translation": "korrekt"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "Asien"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "industriel"
+  },
+  {
+    "simpli": "dro",
+    "translation": "trække"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "imperium"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "guide"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "forbindelse"
+  },
+  {
+    "simpli": "persent",
+    "translation": "procent"
+  },
+  {
+    "simpli": "merin",
+    "translation": "marine"
+  },
+  {
+    "simpli": "seint",
+    "translation": "helgen"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "forfremmelse"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "ministerium"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "dannelse"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "Israel"
+  },
+  {
+    "simpli": "blad",
+    "translation": "blod"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "udvikle"
+  },
+  {
+    "simpli": "sport",
+    "translation": "sport"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "lidt"
+  },
+  {
+    "simpli": "apra",
+    "translation": "opera"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "byområde"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "definition"
+  },
+  {
+    "simpli": "alt",
+    "translation": "alternativ"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "inkludering"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "opposition"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "musiker"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "oversættelse"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "yngre"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "del"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "læge"
+  },
+  {
+    "simpli": "ka",
+    "translation": "Californien"
+  },
+  {
+    "simpli": "sari",
+    "translation": "ked"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "indeholde"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "religion"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "var ikke"
+  },
+  {
+    "simpli": "spred",
+    "translation": "sprede"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "oprindelse"
+  },
+  {
+    "simpli": "metal",
+    "translation": "metal"
+  },
+  {
+    "simpli": "del",
+    "translation": "del"
+  },
+  {
+    "simpli": "gas",
+    "translation": "gas"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "hyppigt"
+  },
+  {
+    "simpli": "visit",
+    "translation": "besøge"
+  },
+  {
+    "simpli": "dip",
+    "translation": "dyb"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "maler"
+  },
+  {
+    "simpli": "trast",
+    "translation": "tillid"
+  },
+  {
+    "simpli": "difit",
+    "translation": "nederlag"
+  },
+  {
+    "simpli": "bol",
+    "translation": "bold"
+  },
+  {
+    "simpli": "isi",
+    "translation": "let"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "forklare"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "neutral"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "ældst"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "fakultet"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "arkitektur"
+  },
+  {
+    "simpli": "preser",
+    "translation": "pres"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "kejser"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "BBC"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "udvidelse"
+  },
+  {
+    "simpli": "valid",
+    "translation": "gyldig"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "skala"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "tilbageføre"
+  },
+  {
+    "simpli": "plas",
+    "translation": "plus"
+  },
+  {
+    "simpli": "wud",
+    "translation": "træ"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "omfattende"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "chance"
+  },
+  {
+    "simpli": "merder",
+    "translation": "mord"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "hukommelse"
+  },
+  {
+    "simpli": "masin",
+    "translation": "maskine"
+  },
+  {
+    "simpli": "wed",
+    "translation": "ons"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "gemme"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "kræve"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "inc"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "udveksling"
+  },
+  {
+    "simpli": "ros",
+    "translation": "rose"
+  },
+  {
+    "simpli": "neival",
+    "translation": "sømilitær"
+  },
+  {
+    "simpli": "fis",
+    "translation": "fisk"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "begrundelse"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "mig selv"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "glad"
+  },
+  {
+    "simpli": "nider",
+    "translation": "heller ikke"
+  },
+  {
+    "simpli": "ban",
+    "translation": "forbud"
+  },
+  {
+    "simpli": "pap",
+    "translation": "pop"
+  },
+  {
+    "simpli": "brand",
+    "translation": "mærke"
+  },
+  {
+    "simpli": "gest",
+    "translation": "gæst"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "ville ikke"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "indledning"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "efternavn"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "sikkerhed"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "stadion"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "strand"
+  },
+  {
+    "simpli": "gan",
+    "translation": "skydevåben"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "forbrydelse"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Kitt"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "facilitet"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "Georgia"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Jack"
+  },
+  {
+    "simpli": "okei",
+    "translation": "ok"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "eskadron"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "reserve"
+  },
+  {
+    "simpli": "risk",
+    "translation": "risiko"
+  },
+  {
+    "simpli": "fel",
+    "translation": "faldt"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "skotsk"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "republikansk"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "begynde"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "forslag"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "alligevel"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "anvende"
+  },
+  {
+    "simpli": "vais",
+    "translation": "vice"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "poesi"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "Virginia"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "agentur"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "elektrisk"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "fælles"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "navigationsboks"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "litterær"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Edward"
+  },
+  {
+    "simpli": "logo",
+    "translation": "logo"
+  },
+  {
+    "simpli": "adians",
+    "translation": "publikum"
+  },
+  {
+    "simpli": "brans",
+    "translation": "bronze"
+  },
+  {
+    "simpli": "mail",
+    "translation": "mile"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "nyligt"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "ansøgning"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "medicin"
+  },
+  {
+    "simpli": "florada",
+    "translation": "Florida"
+  },
+  {
+    "simpli": "fols",
+    "translation": "falsk"
+  },
+  {
+    "simpli": "du",
+    "translation": "du"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "løsning"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "genstand"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "komedie"
+  },
+  {
+    "simpli": "brif",
+    "translation": "kort"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "Stillehavet"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "underholdning"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "arkitekt"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "ulig"
+  },
+  {
+    "simpli": "historian",
+    "translation": "historiker"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "bataljon"
+  },
+  {
+    "simpli": "limat",
+    "translation": "grænse"
+  },
+  {
+    "simpli": "grant",
+    "translation": "bevilling"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "fiktion"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "bidrag"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "skaber"
+  },
+  {
+    "simpli": "ref",
+    "translation": "henvisning"
+  },
+  {
+    "simpli": "finis",
+    "translation": "afslutte"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "orkester"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "permanent"
+  },
+  {
+    "simpli": "sel",
+    "translation": "celle"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "omdøbe"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "negativ"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "gul"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Johnson"
+  },
+  {
+    "simpli": "task",
+    "translation": "opgave"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "i sidste ende"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "repræsentere"
+  },
+  {
+    "simpli": "rer",
+    "translation": "sjælden"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "foreslå"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "tradition"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "effektiv"
+  },
+  {
+    "simpli": "partner",
+    "translation": "partner"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "hemmelig"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "milliard"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "mulighed"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "yderst"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "tilstrækkelig"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "fremme"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "kapitel"
+  },
+  {
+    "simpli": "pov",
+    "translation": "synsvinkel"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "svensk"
+  },
+  {
+    "simpli": "von",
+    "translation": "von"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "personale"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "respekt"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Tom"
+  },
+  {
+    "simpli": "djas",
+    "translation": "jazz"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "agent"
+  },
+  {
+    "simpli": "fri",
+    "translation": "fre"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "detalje"
+  },
+  {
+    "simpli": "antu",
+    "translation": "op på"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "generation"
+  },
+  {
+    "simpli": "perform",
+    "translation": "optræde"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "Oxford"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "tilsvarende"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "pilot"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "verdensomspændende"
+  },
+  {
+    "simpli": "hors",
+    "translation": "hest"
+  },
+  {
+    "simpli": "senat",
+    "translation": "senat"
+  },
+  {
+    "simpli": "kor",
+    "translation": "kerne"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "forsyning"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "erstatte"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Socorro"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "hærværk"
+  },
+  {
+    "simpli": "hat",
+    "translation": "varm"
+  },
+  {
+    "simpli": "instans",
+    "translation": "tilfælde"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "olympisk"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "økonomi"
+  },
+  {
+    "simpli": "servei",
+    "translation": "undersøgelse"
+  },
+  {
+    "simpli": "di",
+    "translation": "di"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "tydeligvis"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "bekymring"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "selskab"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "udfordring"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "filosofi"
+  },
+  {
+    "simpli": "advans",
+    "translation": "fremrykning"
+  },
+  {
+    "simpli": "taks",
+    "translation": "skat"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "licens"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "hændelse"
+  },
+  {
+    "simpli": "bot",
+    "translation": "bot"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "sjette"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "frihed"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "identitet"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "maksimum"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "noget"
+  },
+  {
+    "simpli": "plat",
+    "translation": "handling"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "Boston"
+  },
+  {
+    "simpli": "step",
+    "translation": "trin"
+  },
+  {
+    "simpli": "disis",
+    "translation": "sygdom"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "Berlin"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "miljømæssig"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "undersøgelse"
+  },
+  {
+    "simpli": "flit",
+    "translation": "flåde"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "infanteri"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "kamp"
+  },
+  {
+    "simpli": "rais",
+    "translation": "stige"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "generere"
+  },
+  {
+    "simpli": "taword",
+    "translation": "mod"
+  },
+  {
+    "simpli": "vies",
+    "translation": "mod"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "tilstand"
+  },
+  {
+    "simpli": "mis",
+    "translation": "savne"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "klassisk"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "klassiker"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "huske"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "dyr"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "indre"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Frank"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "øjeblik"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "kandidat"
+  },
+  {
+    "simpli": "watever",
+    "translation": "hvad end"
+  },
+  {
+    "simpli": "internal",
+    "translation": "intern"
+  },
+  {
+    "simpli": "seip",
+    "translation": "form"
+  },
+  {
+    "simpli": "herself",
+    "translation": "hende selv"
+  },
+  {
+    "simpli": "streit",
+    "translation": "lige"
+  },
+  {
+    "simpli": "seks",
+    "translation": "køn"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "tæt"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Scott"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "kommunikation"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "husstand"
+  },
+  {
+    "simpli": "edj",
+    "translation": "kant"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "overførsel"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "angive"
+  },
+  {
+    "simpli": "haki",
+    "translation": "hockey"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "visuel"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "kraftfuld"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "kommunal"
+  },
+  {
+    "simpli": "fot",
+    "translation": "kæmpede"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "stol"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "betydeligt"
+  },
+  {
+    "simpli": "minat",
+    "translation": "minut"
+  },
+  {
+    "simpli": "lern",
+    "translation": "lære"
+  },
+  {
+    "simpli": "kard",
+    "translation": "kort"
+  },
+  {
+    "simpli": "gard",
+    "translation": "vagt"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "beskytte"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "nordvest"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "fiasko"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "forlag"
+  },
+  {
+    "simpli": "ai",
+    "translation": "øje"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "mode"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "uafhængighed"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "chauffør"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "stærkt"
+  },
+  {
+    "simpli": "advais",
+    "translation": "råd"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "anerkendelse"
+  },
+  {
+    "simpli": "kil",
+    "translation": "dræbe"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "rugby"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "køretøj"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "advokat"
+  },
+  {
+    "simpli": "brok",
+    "translation": "brød"
+  },
+  {
+    "simpli": "huk",
+    "translation": "krog"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "arv"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "sydøst"
+  },
+  {
+    "simpli": "korner",
+    "translation": "hjørne"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "seksuel"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Elizabeth"
+  },
+  {
+    "simpli": "wis",
+    "translation": "ønske"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "tale"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "fastslå"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "overtrædelse"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "Pennsylvania"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "jernbane"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "jern"
+  },
+  {
+    "simpli": "gav",
+    "translation": "regering"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "pension"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Francisco"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "foran"
+  },
+  {
+    "simpli": "eid",
+    "translation": "hjælp"
+  },
+  {
+    "simpli": "daot",
+    "translation": "tvivl"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "deling"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "se"
+  },
+  {
+    "simpli": "apart",
+    "translation": "adskilt"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "kræft"
+  },
+  {
+    "simpli": "misis",
+    "translation": "fr"
+  }
+]

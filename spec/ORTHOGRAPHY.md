@@ -21,7 +21,7 @@ No *th*, *z*, *sh*; mapped to nearest letter (see below).
 ## Rules
 
 1. **One sound = one spelling;** no silent letters (*lait*, *windo*, *dor*, *bred*, *faind*, *plei*).
-2. **Long vowels = doubled letter:** Short vowel = single letter; long vowel = doubled letter. *it* vs *iit* (eat), *rod* vs *rood* (road), *rum* vs *ruum* (room), *ful* vs *fuul* (full vs fool). The aim is to **differentiate homonyms**; in general **context is enough** to understand. Diphthongs: /aɪ/ → **ai** (*bai*, *tjaild*), /eɪ/ → **ei** (*plei*).
+2. **Long vowels = doubled letter:** Short vowel = single letter; long vowel = doubled letter. *it* vs *iit* (eat), *rod* vs *rood* (road), *rum* vs *ruum* (room), *ful* vs *fuul* (full vs fool). The aim is to **differentiate homonyms**; in general **context is enough** to understand. Diphthongs: /aɪ/ → **ai** (*bai*, *tjaild*), /eɪ/ → **ei** (*plei*), /aʊ/ → **ao** (*hao* how, *nao* now). Do not write **au** for /aʊ/: **au** reads as a-ou, and **ou** is already **u**.
 3. **Syllable structure:** (C)V(C). Stress on second-to-last syllable (*komputer*, *yesterde*, *tumoro*).
 4. **Common endings:** -tion/-sion → -son (*akson*, *vison*), -ture → -tur, -ous → -us.
 5. **ou → u:** Standard writing is **yu** (you); **you** is acceptable for clarity or acceptability.

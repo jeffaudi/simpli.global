@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "του"
+  },
+  {
+    "simpli": "in",
+    "translation": "σε"
+  },
+  {
+    "simpli": "and",
+    "translation": "και"
+  },
+  {
+    "simpli": "tu",
+    "translation": "προς"
+  },
+  {
+    "simpli": "an",
+    "translation": "επί"
+  },
+  {
+    "simpli": "as",
+    "translation": "ως"
+  },
+  {
+    "simpli": "for",
+    "translation": "για"
+  },
+  {
+    "simpli": "bai",
+    "translation": "από"
+  },
+  {
+    "simpli": "dat",
+    "translation": "ότι"
+  },
+  {
+    "simpli": "el",
+    "translation": "αυτός/αυτή/αυτό"
+  },
+  {
+    "simpli": "wit",
+    "translation": "με"
+  },
+  {
+    "simpli": "at",
+    "translation": "σε"
+  },
+  {
+    "simpli": "fram",
+    "translation": "από"
+  },
+  {
+    "simpli": "nat",
+    "translation": "δεν"
+  },
+  {
+    "simpli": "or",
+    "translation": "ή"
+  },
+  {
+    "simpli": "witj",
+    "translation": "ο οποίος"
+  },
+  {
+    "simpli": "bat",
+    "translation": "αλλά"
+  },
+  {
+    "simpli": "hav",
+    "translation": "έχω"
+  },
+  {
+    "simpli": "olso",
+    "translation": "επίσης"
+  },
+  {
+    "simpli": "van",
+    "translation": "ένας"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "σελίδα"
+  },
+  {
+    "simpli": "yu",
+    "translation": "εσύ"
+  },
+  {
+    "simpli": "no",
+    "translation": "όχι"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "πρώτος"
+  },
+  {
+    "simpli": "dey",
+    "translation": "αυτοί"
+  },
+  {
+    "simpli": "hu",
+    "translation": "ποιος"
+  },
+  {
+    "simpli": "der",
+    "translation": "εκεί"
+  },
+  {
+    "simpli": "mei",
+    "translation": "μπορεί"
+  },
+  {
+    "simpli": "after",
+    "translation": "μετά"
+  },
+  {
+    "simpli": "ol",
+    "translation": "όλος"
+  },
+  {
+    "simpli": "nu",
+    "translation": "νέος"
+  },
+  {
+    "simpli": "ader",
+    "translation": "άλλος"
+  },
+  {
+    "simpli": "if",
+    "translation": "αν"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "συζήτηση"
+  },
+  {
+    "simpli": "kan",
+    "translation": "μπορώ"
+  },
+  {
+    "simpli": "mor",
+    "translation": "περισσότερο"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "περί"
+  },
+  {
+    "simpli": "satj",
+    "translation": "τέτοιος"
+  },
+  {
+    "simpli": "sam",
+    "translation": "κάποιος"
+  },
+  {
+    "simpli": "taim",
+    "translation": "χρόνος"
+  },
+  {
+    "simpli": "onli",
+    "translation": "μόνο"
+  },
+  {
+    "simpli": "intu",
+    "translation": "μέσα"
+  },
+  {
+    "simpli": "so",
+    "translation": "έτσι"
+  },
+  {
+    "simpli": "ap",
+    "translation": "πάνω"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "διαγράφω"
+  },
+  {
+    "simpli": "wer",
+    "translation": "όπου"
+  },
+  {
+    "simpli": "aot",
+    "translation": "έξω"
+  },
+  {
+    "simpli": "dan",
+    "translation": "από"
+  },
+  {
+    "simpli": "most",
+    "translation": "περισσότερος"
+  },
+  {
+    "simpli": "over",
+    "translation": "πάνω"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "σύνδεσμος"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "Ιανουάριος"
+  },
+  {
+    "simpli": "martj",
+    "translation": "Μάρτιος"
+  },
+  {
+    "simpli": "born",
+    "translation": "γεννημένος"
+  },
+  {
+    "simpli": "september",
+    "translation": "Σεπτέμβριος"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "Οκτώβριος"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "Ιούλιος"
+  },
+  {
+    "simpli": "agast",
+    "translation": "Αύγουστος"
+  },
+  {
+    "simpli": "plis",
+    "translation": "παρακαλώ"
+  },
+  {
+    "simpli": "disember",
+    "translation": "Δεκέμβριος"
+  },
+  {
+    "simpli": "djun",
+    "translation": "Ιούνιος"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "Απρίλιος"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "ος"
+  },
+  {
+    "simpli": "wil",
+    "translation": "θα"
+  },
+  {
+    "simpli": "eni",
+    "translation": "οποιοσδήποτε"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "τι"
+  },
+  {
+    "simpli": "november",
+    "translation": "Νοέμβριος"
+  },
+  {
+    "simpli": "dis",
+    "translation": "αυτοί"
+  },
+  {
+    "simpli": "wi",
+    "translation": "εμείς"
+  },
+  {
+    "simpli": "meni",
+    "translation": "πολλοί"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "Φεβρουάριος"
+  },
+  {
+    "simpli": "laik",
+    "translation": "σαν"
+  },
+  {
+    "simpli": "dem",
+    "translation": "αυτούς"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "περαιτέρω"
+  },
+  {
+    "simpli": "wail",
+    "translation": "ενώ"
+  },
+  {
+    "simpli": "si",
+    "translation": "βλέπω"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "αργότερα"
+  },
+  {
+    "simpli": "neim",
+    "translation": "όνομα"
+  },
+  {
+    "simpli": "skul",
+    "translation": "σχολείο"
+  },
+  {
+    "simpli": "part",
+    "translation": "μέρος"
+  },
+  {
+    "simpli": "ander",
+    "translation": "κάτω"
+  },
+  {
+    "simpli": "djast",
+    "translation": "μόλις"
+  },
+  {
+    "simpli": "yir",
+    "translation": "έτος"
+  },
+  {
+    "simpli": "wel",
+    "translation": "καλά"
+  },
+  {
+    "simpli": "yus",
+    "translation": "χρησιμοποιώ"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "αντιπαράθεση"
+  },
+  {
+    "simpli": "sins",
+    "translation": "αφού"
+  },
+  {
+    "simpli": "wok",
+    "translation": "εργασία"
+  },
+  {
+    "simpli": "tri",
+    "translation": "τρία"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "πριν"
+  },
+  {
+    "simpli": "bot",
+    "translation": "αμφότεροι"
+  },
+  {
+    "simpli": "steit",
+    "translation": "πολιτεία"
+  },
+  {
+    "simpli": "stail",
+    "translation": "στυλ"
+  },
+  {
+    "simpli": "film",
+    "translation": "ταινία"
+  },
+  {
+    "simpli": "nao",
+    "translation": "τώρα"
+  },
+  {
+    "simpli": "tru",
+    "translation": "διαμέσου"
+  },
+  {
+    "simpli": "becos",
+    "translation": "επειδή"
+  },
+  {
+    "simpli": "grup",
+    "translation": "ομάδα"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "αμερικανικός"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "χρήστης"
+  },
+  {
+    "simpli": "alain",
+    "translation": "ευθυγραμμίζω"
+  },
+  {
+    "simpli": "siti",
+    "translation": "πόλη"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "Βικιπαίδεια"
+  },
+  {
+    "simpli": "seim",
+    "translation": "ίδιος"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "ωστόσο"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "έγινε"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "δεύτερος"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "κατάλληλος"
+  },
+  {
+    "simpli": "werld",
+    "translation": "κόσμος"
+  },
+  {
+    "simpli": "abav",
+    "translation": "πάνω"
+  },
+  {
+    "simpli": "tim",
+    "translation": "ομάδα"
+  },
+  {
+    "simpli": "kip",
+    "translation": "κρατώ"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "μεταγενέστερος"
+  },
+  {
+    "simpli": "rait",
+    "translation": "δεξιός"
+  },
+  {
+    "simpli": "antil",
+    "translation": "μέχρι"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "τροποποιώ"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "εναντίον"
+  },
+  {
+    "simpli": "tok",
+    "translation": "μιλώ"
+  },
+  {
+    "simpli": "namber",
+    "translation": "αριθμός"
+  },
+  {
+    "simpli": "senter",
+    "translation": "κέντρο"
+  },
+  {
+    "simpli": "list",
+    "translation": "κατάλογος"
+  },
+  {
+    "simpli": "albam",
+    "translation": "άλμπουμ"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "αρκετοί"
+  },
+  {
+    "simpli": "famali",
+    "translation": "οικογένεια"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "ανακατεύθυνση"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "σεζόν"
+  },
+  {
+    "simpli": "veri",
+    "translation": "πολύ"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "εταιρεία"
+  },
+  {
+    "simpli": "eria",
+    "translation": "περιοχή"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "κάτωθεν"
+  },
+  {
+    "simpli": "hir",
+    "translation": "εδώ"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "ιστορία"
+  },
+  {
+    "simpli": "mi",
+    "translation": "εμένα"
+  },
+  {
+    "simpli": "hao",
+    "translation": "πώς"
+  },
+  {
+    "simpli": "per",
+    "translation": "ανά"
+  },
+  {
+    "simpli": "wan",
+    "translation": "κέρδισε"
+  },
+  {
+    "simpli": "itj",
+    "translation": "κάθε"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "εθνικός"
+  },
+  {
+    "simpli": "saot",
+    "translation": "νότος"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "τόπος"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "αποτέλεσμα"
+  },
+  {
+    "simpli": "meik",
+    "translation": "κάνω"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "μουσική"
+  },
+  {
+    "simpli": "best",
+    "translation": "άριστος"
+  },
+  {
+    "simpli": "dos",
+    "translation": "εκείνοι"
+  },
+  {
+    "simpli": "anader",
+    "translation": "άλλος"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "νομίζω"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "ενότητα"
+  },
+  {
+    "simpli": "not",
+    "translation": "σημείωση"
+  },
+  {
+    "simpli": "saport",
+    "translation": "υποστήριξη"
+  },
+  {
+    "simpli": "wei",
+    "translation": "τρόπος"
+  },
+  {
+    "simpli": "former",
+    "translation": "πρώην"
+  },
+  {
+    "simpli": "geim",
+    "translation": "παιχνίδι"
+  },
+  {
+    "simpli": "member",
+    "translation": "μέλος"
+  },
+  {
+    "simpli": "erli",
+    "translation": "νωρίς"
+  },
+  {
+    "simpli": "matj",
+    "translation": "πολύ"
+  },
+  {
+    "simpli": "stil",
+    "translation": "ακόμα"
+  },
+  {
+    "simpli": "nort",
+    "translation": "βορράς"
+  },
+  {
+    "simpli": "hai",
+    "translation": "υψηλός"
+  },
+  {
+    "simpli": "wor",
+    "translation": "πόλεμος"
+  },
+  {
+    "simpli": "gud",
+    "translation": "καλός"
+  },
+  {
+    "simpli": "bak",
+    "translation": "πίσω"
+  },
+  {
+    "simpli": "on",
+    "translation": "δικός"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "κυβέρνηση"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "πανεπιστήμιο"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "γύρω"
+  },
+  {
+    "simpli": "end",
+    "translation": "τέλος"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "αξιοσημείωτος"
+  },
+  {
+    "simpli": "song",
+    "translation": "τραγούδι"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "στρατιωτικός"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "γενικός"
+  },
+  {
+    "simpli": "taital",
+    "translation": "τίτλος"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "δημόσιος"
+  },
+  {
+    "simpli": "buk",
+    "translation": "βιβλίο"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "εικόνα"
+  },
+  {
+    "simpli": "dei",
+    "translation": "ημέρα"
+  },
+  {
+    "simpli": "long",
+    "translation": "μακρύς"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "διαγραφή"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "πληροφορία"
+  },
+  {
+    "simpli": "du",
+    "translation": "οφειλόμενος"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "τοπικός"
+  },
+  {
+    "simpli": "haos",
+    "translation": "οικία"
+  },
+  {
+    "simpli": "mein",
+    "translation": "κύριος"
+  },
+  {
+    "simpli": "last",
+    "translation": "τελευταίος"
+  },
+  {
+    "simpli": "widin",
+    "translation": "εντός"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "πρωτότυπος"
+  },
+  {
+    "simpli": "hom",
+    "translation": "σπίτι"
+  },
+  {
+    "simpli": "kament",
+    "translation": "σχόλιο"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "μείζων"
+  },
+  {
+    "simpli": "laif",
+    "translation": "ζωή"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "διαφορετικός"
+  },
+  {
+    "simpli": "klab",
+    "translation": "σύλλογος"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "αγγλικός"
+  },
+  {
+    "simpli": "point",
+    "translation": "σημείο"
+  },
+  {
+    "simpli": "smol",
+    "translation": "μικρός"
+  },
+  {
+    "simpli": "lain",
+    "translation": "γραμμή"
+  },
+  {
+    "simpli": "singal",
+    "translation": "μονός"
+  },
+  {
+    "simpli": "band",
+    "translation": "συγκρότημα"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "αρχειοθήκη"
+  },
+  {
+    "simpli": "get",
+    "translation": "παίρνω"
+  },
+  {
+    "simpli": "taon",
+    "translation": "κωμόπολη"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "πληθυσμός"
+  },
+  {
+    "simpli": "sors",
+    "translation": "πηγή"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "περιλαμβάνω"
+  },
+  {
+    "simpli": "agen",
+    "translation": "ξανά"
+  },
+  {
+    "simpli": "keis",
+    "translation": "περίπτωση"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "μολονότι"
+  },
+  {
+    "simpli": "along",
+    "translation": "κατά μήκος"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "διεθνής"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "χωρίς"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "σύστημα"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "σταθμός"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "χτισμένος"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "ηλικία"
+  },
+  {
+    "simpli": "tap",
+    "translation": "κορυφή"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "αιώνας"
+  },
+  {
+    "simpli": "set",
+    "translation": "σύνολο"
+  },
+  {
+    "simpli": "britis",
+    "translation": "βρετανικός"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "εκκλησία"
+  },
+  {
+    "simpli": "west",
+    "translation": "δύση"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "παίκτης"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "πρόεδρος"
+  },
+  {
+    "simpli": "do",
+    "translation": "αν και"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "χωριό"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "κατηγορία"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "μεγάλος"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "διαμέρισμα"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "λίγοι"
+  },
+  {
+    "simpli": "order",
+    "translation": "τάξη"
+  },
+  {
+    "simpli": "servas",
+    "translation": "υπηρεσία"
+  },
+  {
+    "simpli": "faind",
+    "translation": "βρίσκω"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "επικάλυψη"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "λαμβάνω"
+  },
+  {
+    "simpli": "old",
+    "translation": "παλιός"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "χώρα"
+  },
+  {
+    "simpli": "det",
+    "translation": "θάνατος"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "έρευνα"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "τελικός"
+  },
+  {
+    "simpli": "midia",
+    "translation": "μέσα"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "κοινότητα"
+  },
+  {
+    "simpli": "terd",
+    "translation": "τρίτος"
+  },
+  {
+    "simpli": "vi",
+    "translation": "έχω"
+  },
+  {
+    "simpli": "ist",
+    "translation": "ανατολή"
+  },
+  {
+    "simpli": "daon",
+    "translation": "κάτω"
+  },
+  {
+    "simpli": "djan",
+    "translation": "Τζον"
+  },
+  {
+    "simpli": "versan",
+    "translation": "έκδοση"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "πέντε"
+  },
+  {
+    "simpli": "edat",
+    "translation": "επεξεργάζομαι"
+  },
+  {
+    "simpli": "everi",
+    "translation": "κάθε"
+  },
+  {
+    "simpli": "san",
+    "translation": "γιος"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "παράδειγμα"
+  },
+  {
+    "simpli": "parti",
+    "translation": "κόμμα"
+  },
+  {
+    "simpli": "york",
+    "translation": "Γιορκ"
+  },
+  {
+    "simpli": "form",
+    "translation": "μορφή"
+  },
+  {
+    "simpli": "nir",
+    "translation": "κοντά"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "θέμα"
+  },
+  {
+    "simpli": "go",
+    "translation": "πηγαίνω"
+  },
+  {
+    "simpli": "amang",
+    "translation": "ανάμεσα"
+  },
+  {
+    "simpli": "sait",
+    "translation": "ιστότοπος"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "περιεχόμενο"
+  },
+  {
+    "simpli": "art",
+    "translation": "τέχνη"
+  },
+  {
+    "simpli": "help",
+    "translation": "βοήθεια"
+  },
+  {
+    "simpli": "fader",
+    "translation": "πατέρας"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "έργο"
+  },
+  {
+    "simpli": "said",
+    "translation": "πλευρά"
+  },
+  {
+    "simpli": "rood",
+    "translation": "δρόμος"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "κείμενο"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "σκηνοθέτης"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "καριέρα"
+  },
+  {
+    "simpli": "notability",
+    "translation": "σημαντικότητα"
+  },
+  {
+    "simpli": "wai",
+    "translation": "γιατί"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "εγγραφή"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "υπόβαθρο"
+  },
+  {
+    "simpli": "lig",
+    "translation": "λίγκα"
+  },
+  {
+    "simpli": "plei",
+    "translation": "παίζω"
+  },
+  {
+    "simpli": "greit",
+    "translation": "σπουδαίος"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "γαλλικός"
+  },
+  {
+    "simpli": "aword",
+    "translation": "βραβείο"
+  },
+  {
+    "simpli": "never",
+    "translation": "ποτέ"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "αρκετά"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "κομητεία"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "εκατομμύριο"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "ανάπτυξη"
+  },
+  {
+    "simpli": "total",
+    "translation": "συνολικός"
+  },
+  {
+    "simpli": "risan",
+    "translation": "λόγος"
+  },
+  {
+    "simpli": "lo",
+    "translation": "νόμος"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "επόμενος"
+  },
+  {
+    "simpli": "led",
+    "translation": "οδήγησε"
+  },
+  {
+    "simpli": "woter",
+    "translation": "νερό"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "κολέγιο"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "γερμανικός"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "πολιτικός"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "γίνομαι"
+  },
+  {
+    "simpli": "rader",
+    "translation": "μάλλον"
+  },
+  {
+    "simpli": "leit",
+    "translation": "αργά"
+  },
+  {
+    "simpli": "hed",
+    "translation": "κεφάλι"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "ήδη"
+  },
+  {
+    "simpli": "ider",
+    "translation": "είτε"
+  },
+  {
+    "simpli": "lital",
+    "translation": "λίγος"
+  },
+  {
+    "simpli": "edater",
+    "translation": "συντάκτης"
+  },
+  {
+    "simpli": "important",
+    "translation": "σημαντικός"
+  },
+  {
+    "simpli": "rol",
+    "translation": "ρόλος"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "παρόμοιος"
+  },
+  {
+    "simpli": "wait",
+    "translation": "λευκός"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "τρέχων"
+  },
+  {
+    "simpli": "landan",
+    "translation": "Λονδίνο"
+  },
+  {
+    "simpli": "beter",
+    "translation": "καλύτερος"
+  },
+  {
+    "simpli": "isu",
+    "translation": "ζήτημα"
+  },
+  {
+    "simpli": "sei",
+    "translation": "λέω"
+  },
+  {
+    "simpli": "fail",
+    "translation": "αρχείο"
+  },
+  {
+    "simpli": "persan",
+    "translation": "άτομο"
+  },
+  {
+    "simpli": "fri",
+    "translation": "ελεύθερος"
+  },
+  {
+    "simpli": "man",
+    "translation": "άνδρας"
+  },
+  {
+    "simpli": "stori",
+    "translation": "αφήγηση"
+  },
+  {
+    "simpli": "sort",
+    "translation": "σύντομος"
+  },
+  {
+    "simpli": "liv",
+    "translation": "ζω"
+  },
+  {
+    "simpli": "vans",
+    "translation": "άπαξ"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "περίοδος"
+  },
+  {
+    "simpli": "blak",
+    "translation": "μαύρος"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "δύναμη"
+  },
+  {
+    "simpli": "presant",
+    "translation": "παρών"
+  },
+  {
+    "simpli": "strit",
+    "translation": "οδός"
+  },
+  {
+    "simpli": "river",
+    "translation": "ποταμός"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "επί του παρόντος"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "παραγωγή"
+  },
+  {
+    "simpli": "siks",
+    "translation": "έξι"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "εκπαίδευση"
+  },
+  {
+    "simpli": "rili",
+    "translation": "πραγματικά"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "ποδόσφαιρο"
+  },
+  {
+    "simpli": "land",
+    "translation": "γη"
+  },
+  {
+    "simpli": "term",
+    "translation": "όρος"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "γραφείο"
+  },
+  {
+    "simpli": "program",
+    "translation": "πρόγραμμα"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "διαίρεση"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "τηλεόραση"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "αλλαγή"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "εκδήλωση"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "μαζί"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "γλώσσα"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "θέση"
+  },
+  {
+    "simpli": "want",
+    "translation": "θέλω"
+  },
+  {
+    "simpli": "fild",
+    "translation": "πεδίο"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "κοινός"
+  },
+  {
+    "simpli": "leval",
+    "translation": "επίπεδο"
+  },
+  {
+    "simpli": "armi",
+    "translation": "στρατός"
+  },
+  {
+    "simpli": "deita",
+    "translation": "δεδομένα"
+  },
+  {
+    "simpli": "park",
+    "translation": "πάρκο"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "γεγονός"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "επαγγελματικός"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "πιθανός"
+  },
+  {
+    "simpli": "taip",
+    "translation": "τύπος"
+  },
+  {
+    "simpli": "yang",
+    "translation": "νεαρός"
+  },
+  {
+    "simpli": "kort",
+    "translation": "δικαστήριο"
+  },
+  {
+    "simpli": "mov",
+    "translation": "μετακινώ"
+  },
+  {
+    "simpli": "les",
+    "translation": "λιγότερος"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "διαθέσιμος"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "κάποιος"
+  },
+  {
+    "simpli": "ful",
+    "translation": "γεμάτος"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "κεντρικός"
+  },
+  {
+    "simpli": "templat",
+    "translation": "πρότυπο"
+  },
+  {
+    "simpli": "ad",
+    "translation": "προσθέτω"
+  },
+  {
+    "simpli": "win",
+    "translation": "κερδίζω"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "βίντεο"
+  },
+  {
+    "simpli": "lost",
+    "translation": "χαμένος"
+  },
+  {
+    "simpli": "put",
+    "translation": "βάζω"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "περιφέρεια"
+  },
+  {
+    "simpli": "er",
+    "translation": "αέρας"
+  },
+  {
+    "simpli": "ran",
+    "translation": "τρέχω"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "σημαίνων"
+  },
+  {
+    "simpli": "insted",
+    "translation": "αντί"
+  },
+  {
+    "simpli": "oter",
+    "translation": "συγγραφέας"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "κριτική"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "πιθανόν"
+  },
+  {
+    "simpli": "raond",
+    "translation": "γύρος"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "ειδικός"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "επίσημος"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "πολιτική"
+  },
+  {
+    "simpli": "far",
+    "translation": "μακριά"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "πράγματι"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "κοινωνικός"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "μέσω"
+  },
+  {
+    "simpli": "disain",
+    "translation": "σχεδιασμός"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "αίτημα"
+  },
+  {
+    "simpli": "bord",
+    "translation": "συμβούλιο"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "ερώτηση"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "χαρακτήρας"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "αρχικά"
+  },
+  {
+    "simpli": "start",
+    "translation": "αρχή"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "ανεξάρτητος"
+  },
+  {
+    "simpli": "klos",
+    "translation": "κοντά"
+  },
+  {
+    "simpli": "waif",
+    "translation": "σύζυγος"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "Αγγλία"
+  },
+  {
+    "simpli": "luk",
+    "translation": "κοιτάζω"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "κυκλοφορία"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "προσθήκη"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "απόδειξη"
+  },
+  {
+    "simpli": "lav",
+    "translation": "αγάπη"
+  },
+  {
+    "simpli": "deit",
+    "translation": "ημερομηνία"
+  },
+  {
+    "simpli": "awei",
+    "translation": "μακριά"
+  },
+  {
+    "simpli": "weder",
+    "translation": "εάν"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "κοινωνία"
+  },
+  {
+    "simpli": "itself",
+    "translation": "εαυτό"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "ραδιόφωνο"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "αξιόπιστος"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "κάλυψη"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "νησί"
+  },
+  {
+    "simpli": "himself",
+    "translation": "εαυτόν"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "δημοφιλής"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "πρόβλημα"
+  },
+  {
+    "simpli": "western",
+    "translation": "δυτικός"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "τμήμα"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "συμβούλιο"
+  },
+  {
+    "simpli": "apan",
+    "translation": "επί"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "έλεγχος"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "ικανός"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "αναλογία"
+  },
+  {
+    "simpli": "madern",
+    "translation": "σύγχρονος"
+  },
+  {
+    "simpli": "trak",
+    "translation": "πίστα"
+  },
+  {
+    "simpli": "kors",
+    "translation": "πορεία"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "επεισόδιο"
+  },
+  {
+    "simpli": "mader",
+    "translation": "μητέρα"
+  },
+  {
+    "simpli": "artast",
+    "translation": "καλλιτέχνης"
+  },
+  {
+    "simpli": "saians",
+    "translation": "επιστήμη"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "παρέχω"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "συνήθως"
+  },
+  {
+    "simpli": "fors",
+    "translation": "δύναμη"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "βόρειος"
+  },
+  {
+    "simpli": "badi",
+    "translation": "σώμα"
+  },
+  {
+    "simpli": "sur",
+    "translation": "βέβαιος"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "Αμερική"
+  },
+  {
+    "simpli": "speis",
+    "translation": "διάστημα"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "τηλεόραση"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "παραπέμπω"
+  },
+  {
+    "simpli": "red",
+    "translation": "κόκκινος"
+  },
+  {
+    "simpli": "riport",
+    "translation": "έκθεση"
+  },
+  {
+    "simpli": "doter",
+    "translation": "κόρη"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "σχεδόν"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "αναζήτηση"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "σύνδεσμος"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "Αυστραλία"
+  },
+  {
+    "simpli": "giv",
+    "translation": "δίνω"
+  },
+  {
+    "simpli": "akt",
+    "translation": "πράξη"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "υλικό"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "παρά"
+  },
+  {
+    "simpli": "palis",
+    "translation": "αστυνομία"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "υπουργός"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "ανθρώπινος"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "κατασκευή"
+  },
+  {
+    "simpli": "post",
+    "translation": "δημοσίευση"
+  },
+  {
+    "simpli": "india",
+    "translation": "Ινδία"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "σήμερα"
+  },
+  {
+    "simpli": "reis",
+    "translation": "φυλή"
+  },
+  {
+    "simpli": "das",
+    "translation": "συνεπώς"
+  },
+  {
+    "simpli": "ril",
+    "translation": "αληθινός"
+  },
+  {
+    "simpli": "nan",
+    "translation": "κανένας"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "σκηνή"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "νότιος"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "προπονητής"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "προσωπικός"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "καθηγητής"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "μελέτη"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "εκτός"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "πρωτοβάθμιος"
+  },
+  {
+    "simpli": "websait",
+    "translation": "ιστοσελίδα"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "ντεμπούτο"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "καθόλη"
+  },
+  {
+    "simpli": "helt",
+    "translation": "υγεία"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "ιδιαίτερα"
+  },
+  {
+    "simpli": "werd",
+    "translation": "λέξη"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "μέλλον"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "κλπ"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "άποψη"
+  },
+  {
+    "simpli": "frans",
+    "translation": "Γαλλία"
+  },
+  {
+    "simpli": "sais",
+    "translation": "μέγεθος"
+  },
+  {
+    "simpli": "sold",
+    "translation": "πωλημένος"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "οργάνωση"
+  },
+  {
+    "simpli": "yet",
+    "translation": "ακόμη"
+  },
+  {
+    "simpli": "strong",
+    "translation": "ισχυρός"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "πρωτάθλημα"
+  },
+  {
+    "simpli": "klir",
+    "translation": "σαφής"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "πολλαπλός"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "μέσος"
+  },
+  {
+    "simpli": "ever",
+    "translation": "ποτέ"
+  },
+  {
+    "simpli": "lait",
+    "translation": "φως"
+  },
+  {
+    "simpli": "wik",
+    "translation": "εβδομάδα"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "όνομα χρήστη"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "δημιουργώ"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "εύρος"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "καλύπτω"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "εντέλει"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "επιστρέφω"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "δράση"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "χρώμα"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "Καναδάς"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "ιαπωνικός"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "ενδιαφέρον"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "μουσείο"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "περιοδικό"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "προηγουμένως"
+  },
+  {
+    "simpli": "haf",
+    "translation": "μισός"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "συγγραφέας"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "αρχηγός"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "θέμα"
+  },
+  {
+    "simpli": "brader",
+    "translation": "αδελφός"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "γενικά"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "επιτροπή"
+  },
+  {
+    "simpli": "hol",
+    "translation": "αίθουσα"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "άτομο"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "μεγαλύτερος"
+  },
+  {
+    "simpli": "past",
+    "translation": "παρελθόν"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "εκλογή"
+  },
+  {
+    "simpli": "performans",
+    "translation": "επίδοση"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "ιδιαίτερος"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "συλλογή"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "πιστεύω"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "ιδιωτικός"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "πιθανός"
+  },
+  {
+    "simpli": "big",
+    "translation": "μεγάλος"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "πολιτικός"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "ενεργός"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "λογαριασμός"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "ένωση"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "ετικέτα"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "συγκεκριμένος"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "Γουίλιαμ"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "αυστραλιανός"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "ιδέα"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "πρόσθετος"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "ευρωπαϊκός"
+  },
+  {
+    "simpli": "indian",
+    "translation": "ινδικός"
+  },
+  {
+    "simpli": "referans",
+    "translation": "παραπομπή"
+  },
+  {
+    "simpli": "rul",
+    "translation": "κανόνας"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "Ευρώπη"
+  },
+  {
+    "simpli": "lat",
+    "translation": "πολύ"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "συγχώνευση"
+  },
+  {
+    "simpli": "sun",
+    "translation": "σύντομα"
+  },
+  {
+    "simpli": "faier",
+    "translation": "φωτιά"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "απλώς"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "διαγωνισμός"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "πρότυπο"
+  },
+  {
+    "simpli": "let",
+    "translation": "αφήνω"
+  },
+  {
+    "simpli": "madal",
+    "translation": "μοντέλο"
+  },
+  {
+    "simpli": "lider",
+    "translation": "ηγέτης"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "Γερμανία"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Γκουγκλ"
+  },
+  {
+    "simpli": "mar",
+    "translation": "Μαρ"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "αξία"
+  },
+  {
+    "simpli": "nait",
+    "translation": "νύχτα"
+  },
+  {
+    "simpli": "rut",
+    "translation": "διαδρομή"
+  },
+  {
+    "simpli": "apir",
+    "translation": "εμφανίζομαι"
+  },
+  {
+    "simpli": "akter",
+    "translation": "ηθοποιός"
+  },
+  {
+    "simpli": "gold",
+    "translation": "χρυσός"
+  },
+  {
+    "simpli": "sival",
+    "translation": "αστικός"
+  },
+  {
+    "simpli": "digri",
+    "translation": "βαθμός"
+  },
+  {
+    "simpli": "atak",
+    "translation": "επίθεση"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "θηλυκός"
+  },
+  {
+    "simpli": "roial",
+    "translation": "βασιλικός"
+  },
+  {
+    "simpli": "frant",
+    "translation": "μέτωπο"
+  },
+  {
+    "simpli": "vot",
+    "translation": "ψήφος"
+  },
+  {
+    "simpli": "yes",
+    "translation": "ναι"
+  },
+  {
+    "simpli": "naval",
+    "translation": "μυθιστόρημα"
+  },
+  {
+    "simpli": "samer",
+    "translation": "καλοκαίρι"
+  },
+  {
+    "simpli": "sent",
+    "translation": "απεσταλμένος"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "ποιότητα"
+  },
+  {
+    "simpli": "studio",
+    "translation": "στούντιο"
+  },
+  {
+    "simpli": "istern",
+    "translation": "ανατολικός"
+  },
+  {
+    "simpli": "praier",
+    "translation": "προηγούμενος"
+  },
+  {
+    "simpli": "ten",
+    "translation": "δέκα"
+  },
+  {
+    "simpli": "rak",
+    "translation": "ροκ"
+  },
+  {
+    "simpli": "dek",
+    "translation": "Δεκ"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "Κίνα"
+  },
+  {
+    "simpli": "midal",
+    "translation": "μέσος"
+  },
+  {
+    "simpli": "kar",
+    "translation": "αυτοκίνητο"
+  },
+  {
+    "simpli": "okt",
+    "translation": "Οκτ"
+  },
+  {
+    "simpli": "longer",
+    "translation": "μακρύτερος"
+  },
+  {
+    "simpli": "trai",
+    "translation": "προσπαθώ"
+  },
+  {
+    "simpli": "singer",
+    "translation": "τραγουδιστής"
+  },
+  {
+    "simpli": "agri",
+    "translation": "συμφωνώ"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "δρ"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "αξιωματικός"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "μάλλον"
+  },
+  {
+    "simpli": "sim",
+    "translation": "φαίνομαι"
+  },
+  {
+    "simpli": "tur",
+    "translation": "περιοδεία"
+  },
+  {
+    "simpli": "bar",
+    "translation": "μπαρ"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "αεροσκάφος"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "δίκτυο"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "γυναίκα"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "ιατρικός"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "Ντέιβιντ"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "ιστορικός"
+  },
+  {
+    "simpli": "eit",
+    "translation": "οκτώ"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "πλήρης"
+  },
+  {
+    "simpli": "mit",
+    "translation": "συναντώ"
+  },
+  {
+    "simpli": "loer",
+    "translation": "κατώτερος"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "πίσω"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "τοποθεσία"
+  },
+  {
+    "simpli": "nov",
+    "translation": "Νοε"
+  },
+  {
+    "simpli": "leik",
+    "translation": "λίμνη"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "Ιαπωνία"
+  },
+  {
+    "simpli": "bit",
+    "translation": "κομμάτι"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "βιβλιοθήκη"
+  },
+  {
+    "simpli": "didn",
+    "translation": "δεν"
+  },
+  {
+    "simpli": "risant",
+    "translation": "πρόσφατος"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "πρωτεύουσα"
+  },
+  {
+    "simpli": "apr",
+    "translation": "Απρ"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "παραγωγός"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "πνευματικά δικαιώματα"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "πρεσβύτερος"
+  },
+  {
+    "simpli": "fort",
+    "translation": "τέταρτος"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "νωρίτερα"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "οποιοσδήποτε"
+  },
+  {
+    "simpli": "min",
+    "translation": "σημαίνω"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "διαχείριση"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "υποψηφιότητα"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "Τζορτζ"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "βιομηχανία"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "ορισμένος"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "αδυνατώ"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "κιθάρα"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "ιδιαίτερα"
+  },
+  {
+    "simpli": "sep",
+    "translation": "Σεπ"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "τουρνουά"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "φεστιβάλ"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "κινεζικός"
+  },
+  {
+    "simpli": "sip",
+    "translation": "πλοίο"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "παιδί"
+  },
+  {
+    "simpli": "beis",
+    "translation": "βάση"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "σιδηρόδρομος"
+  },
+  {
+    "simpli": "kap",
+    "translation": "κύπελλο"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "διαδικτυακός"
+  },
+  {
+    "simpli": "san",
+    "translation": "Σαν"
+  },
+  {
+    "simpli": "studant",
+    "translation": "φοιτητής"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "επιτυχής"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "εκστρατεία"
+  },
+  {
+    "simpli": "haier",
+    "translation": "ανώτερος"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "πολιτισμός"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "χωριστός"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "Αυγ"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "επομένως"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "τεχνολογία"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "κίνημα"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "τακτικός"
+  },
+  {
+    "simpli": "mani",
+    "translation": "χρήμα"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "ρωσικός"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "περίπου"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "κυρίως"
+  },
+  {
+    "simpli": "rest",
+    "translation": "υπόλοιπο"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "δομή"
+  },
+  {
+    "simpli": "graond",
+    "translation": "έδαφος"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "καναδικός"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "ιταλικός"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "ολόκληρος"
+  },
+  {
+    "simpli": "markat",
+    "translation": "αγορά"
+  },
+  {
+    "simpli": "mater",
+    "translation": "ύλη"
+  },
+  {
+    "simpli": "saond",
+    "translation": "ήχος"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "πρακτική"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "ισχυρισμός"
+  },
+  {
+    "simpli": "hum",
+    "translation": "τον οποίο"
+  },
+  {
+    "simpli": "hand",
+    "translation": "χέρι"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "ινστιτούτο"
+  },
+  {
+    "simpli": "batal",
+    "translation": "μάχη"
+  },
+  {
+    "simpli": "star",
+    "translation": "αστέρι"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "νομικός"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "εμπορικός"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "ισπανικός"
+  },
+  {
+    "simpli": "notas",
+    "translation": "ειδοποίηση"
+  },
+  {
+    "simpli": "mark",
+    "translation": "σημάδι"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "γηγενής"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "μονάδα"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "απόφαση"
+  },
+  {
+    "simpli": "border",
+    "translation": "σύνορο"
+  },
+  {
+    "simpli": "web",
+    "translation": "ιστός"
+  },
+  {
+    "simpli": "lak",
+    "translation": "έλλειψη"
+  },
+  {
+    "simpli": "met",
+    "translation": "συνάντησε"
+  },
+  {
+    "simpli": "hit",
+    "translation": "χτύπημα"
+  },
+  {
+    "simpli": "net",
+    "translation": "δίχτυ"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "διευθυντής"
+  },
+  {
+    "simpli": "overol",
+    "translation": "γενικός"
+  },
+  {
+    "simpli": "staf",
+    "translation": "προσωπικό"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "απόκριση"
+  },
+  {
+    "simpli": "mant",
+    "translation": "μήνας"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "αρχικά"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "φυσικός"
+  },
+  {
+    "simpli": "fil",
+    "translation": "νιώθω"
+  },
+  {
+    "simpli": "son",
+    "translation": "παρουσιασμένος"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "χαρακτηριστικό"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "νοσοκομείο"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "ελάσσων"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "απόπειρα"
+  },
+  {
+    "simpli": "blu",
+    "translation": "μπλε"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "ιδιοκτησία"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "σαφώς"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "μήκος"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "παραδοσιακός"
+  },
+  {
+    "simpli": "medal",
+    "translation": "μετάλλιο"
+  },
+  {
+    "simpli": "kol",
+    "translation": "καλώ"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "εμπειρία"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "γέφυρα"
+  },
+  {
+    "simpli": "test",
+    "translation": "δοκιμή"
+  },
+  {
+    "simpli": "els",
+    "translation": "αλλιώς"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "ταινία"
+  },
+  {
+    "simpli": "spent",
+    "translation": "δαπανημένος"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "περιοδικό"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "τράπεζα"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "γνώμη"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "pagename"
+  },
+  {
+    "simpli": "jul",
+    "translation": "Ιουλ"
+  },
+  {
+    "simpli": "ro",
+    "translation": "σειρά"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "Καλιφόρνια"
+  },
+  {
+    "simpli": "skop",
+    "translation": "εμβέλεια"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "περιφερειακός"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "ίδρυμα"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "πλειοψηφία"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "ετήσιος"
+  },
+  {
+    "simpli": "ker",
+    "translation": "φροντίδα"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rowspan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "φαγητό"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Ρόμπερτ"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "ενέργεια"
+  },
+  {
+    "simpli": "bad",
+    "translation": "κακός"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "μουσικός"
+  },
+  {
+    "simpli": "federal",
+    "translation": "ομοσπονδιακός"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "ταχύς"
+  },
+  {
+    "simpli": "mister",
+    "translation": "κύριος"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "πρόσφατα"
+  },
+  {
+    "simpli": "dil",
+    "translation": "συμφωνία"
+  },
+  {
+    "simpli": "foran",
+    "translation": "ξένος"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "τελικά"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "εκτελεστικός"
+  },
+  {
+    "simpli": "gol",
+    "translation": "στόχος"
+  },
+  {
+    "simpli": "lt",
+    "translation": "lt"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "είδος"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "φύση"
+  },
+  {
+    "simpli": "sens",
+    "translation": "αίσθηση"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "βίκι"
+  },
+  {
+    "simpli": "stap",
+    "translation": "σταματώ"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "συνέδριο"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "μνεία"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "δείκτης"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "Αφρική"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "καταλαβαίνω"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "άμεσα"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "εμφάνιση"
+  },
+  {
+    "simpli": "master",
+    "translation": "κύριος"
+  },
+  {
+    "simpli": "entri",
+    "translation": "καταχώριση"
+  },
+  {
+    "simpli": "skver",
+    "translation": "τετράγωνο"
+  },
+  {
+    "simpli": "plan",
+    "translation": "σχέδιο"
+  },
+  {
+    "simpli": "waid",
+    "translation": "πλατύς"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "δωμάτιο"
+  },
+  {
+    "simpli": "kost",
+    "translation": "ακτή"
+  },
+  {
+    "simpli": "tern",
+    "translation": "στροφή"
+  },
+  {
+    "simpli": "pik",
+    "translation": "κορυφή"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "εκτός"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "κυβερνήτης"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "οικονομικός"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "σύμβαση"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "βασίλειο"
+  },
+  {
+    "simpli": "hil",
+    "translation": "λόφος"
+  },
+  {
+    "simpli": "grand",
+    "translation": "μέγας"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "καπετάνιος"
+  },
+  {
+    "simpli": "fer",
+    "translation": "δίκαιος"
+  },
+  {
+    "simpli": "fain",
+    "translation": "ωραίος"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Μάικλ"
+  },
+  {
+    "simpli": "kii",
+    "translation": "κλειδί"
+  },
+  {
+    "simpli": "los",
+    "translation": "απώλεια"
+  },
+  {
+    "simpli": "global",
+    "translation": "παγκόσμιος"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "έδρα"
+  },
+  {
+    "simpli": "winer",
+    "translation": "νικητής"
+  },
+  {
+    "simpli": "older",
+    "translation": "μεγαλύτερος"
+  },
+  {
+    "simpli": "rong",
+    "translation": "λανθασμένος"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "βοηθός"
+  },
+  {
+    "simpli": "hard",
+    "translation": "σκληρός"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Πολ"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "ύψιστος"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "θεωρία"
+  },
+  {
+    "simpli": "frend",
+    "translation": "φίλος"
+  },
+  {
+    "simpli": "til",
+    "translation": "μέχρι"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "πολιτιστικός"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "εφημερίδα"
+  },
+  {
+    "simpli": "treid",
+    "translation": "εμπόριο"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "δευτερεύων"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "ευχαριστώ"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "υποψήφιος"
+  },
+  {
+    "simpli": "apos",
+    "translation": "εναντιώνομαι"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "ακαδημαϊκός"
+  },
+  {
+    "simpli": "braon",
+    "translation": "καστανός"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "σύνθετος"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "έπειτα"
+  },
+  {
+    "simpli": "alao",
+    "translation": "επιτρέπω"
+  },
+  {
+    "simpli": "plant",
+    "translation": "φυτό"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "μεγαλύτερος"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "Ουάσινγκτον"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "εντελώς"
+  },
+  {
+    "simpli": "historik",
+    "translation": "ιστορικός"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "επίδραση"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "κανάλι"
+  },
+  {
+    "simpli": "fol",
+    "translation": "πτώση"
+  },
+  {
+    "simpli": "kas",
+    "translation": "αιτία"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "colspan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "περνώ"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "χρήσιμος"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "θέατρο"
+  },
+  {
+    "simpli": "gad",
+    "translation": "θεός"
+  },
+  {
+    "simpli": "admin",
+    "translation": "διαχειριστής"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "ασφάλεια"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "πρόεδρος"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "προσοχή"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "εντολή"
+  },
+  {
+    "simpli": "sister",
+    "translation": "αδελφή"
+  },
+  {
+    "simpli": "ed",
+    "translation": "έκδ"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "δήμος"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "συνεχίζω"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "ζευγάρι"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "χαρτί"
+  },
+  {
+    "simpli": "kod",
+    "translation": "κώδικας"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "χριστιανικός"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "προτείνω"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "σκοπός"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "υπολογιστής"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "κυρίως"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "δημιουργία"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Μαρία"
+  },
+  {
+    "simpli": "sat",
+    "translation": "βολή"
+  },
+  {
+    "simpli": "format",
+    "translation": "μορφότυπος"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "υπάρχω"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "επαρχία"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "σχέση"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "σύζυγος"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "σχετικός"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "σχεδόν"
+  },
+  {
+    "simpli": "al",
+    "translation": "Αλ"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "βουνό"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "χρηματοοικονομικός"
+  },
+  {
+    "simpli": "nam",
+    "translation": "ονομαστική"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "ποικιλία"
+  },
+  {
+    "simpli": "haili",
+    "translation": "εξαιρετικά"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "γνώση"
+  },
+  {
+    "simpli": "felo",
+    "translation": "συνάδελφος"
+  },
+  {
+    "simpli": "salad",
+    "translation": "στερεός"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "ακαδημία"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Σμιθ"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "ίσως"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "επιχείρηση"
+  },
+  {
+    "simpli": "silver",
+    "translation": "ασήμι"
+  },
+  {
+    "simpli": "et",
+    "translation": "et"
+  },
+  {
+    "simpli": "misan",
+    "translation": "αποστολή"
+  },
+  {
+    "simpli": "skor",
+    "translation": "σκορ"
+  },
+  {
+    "simpli": "vali",
+    "translation": "κοιλάδα"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "cd"
+  },
+  {
+    "simpli": "meil",
+    "translation": "αρσενικός"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Πίτερ"
+  },
+  {
+    "simpli": "later",
+    "translation": "ύστερος"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "απαραίτητος"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "παλαιότερα"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "γραμματέας"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "αφρικανικός"
+  },
+  {
+    "simpli": "nain",
+    "translation": "εννέα"
+  },
+  {
+    "simpli": "yut",
+    "translation": "νεολαία"
+  },
+  {
+    "simpli": "map",
+    "translation": "χάρτης"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "νίκη"
+  },
+  {
+    "simpli": "ser",
+    "translation": "σερ"
+  },
+  {
+    "simpli": "ded",
+    "translation": "νεκρός"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "λογισμικό"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "λειτουργία"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "μηχανή"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "πρωταθλητής"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "πίνακας"
+  },
+  {
+    "simpli": "ert",
+    "translation": "Γη"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "ποσότητα"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "θεωρώ"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "διαφορετικά"
+  },
+  {
+    "simpli": "djab",
+    "translation": "δουλειά"
+  },
+  {
+    "simpli": "fait",
+    "translation": "αγώνας"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "τόμος"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "Ιρλανδία"
+  },
+  {
+    "simpli": "serv",
+    "translation": "υπηρετώ"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "σωστός"
+  },
+  {
+    "simpli": "siland",
+    "translation": "Ζηλανδία"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "άμεσος"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "απλός"
+  },
+  {
+    "simpli": "feis",
+    "translation": "πρόσωπο"
+  },
+  {
+    "simpli": "kast",
+    "translation": "διανομή"
+  },
+  {
+    "simpli": "reit",
+    "translation": "ρυθμός"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "σχήμα"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "μέσα"
+  },
+  {
+    "simpli": "trein",
+    "translation": "τρένο"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "αύξηση"
+  },
+  {
+    "simpli": "vois",
+    "translation": "φωνή"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "βαθμίδα"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "αμέσως"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "δήλωση"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "δύσκολος"
+  },
+  {
+    "simpli": "bil",
+    "translation": "νομοσχέδιο"
+  },
+  {
+    "simpli": "biand",
+    "translation": "πέρα"
+  },
+  {
+    "simpli": "hop",
+    "translation": "ελπίδα"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "εικόνα"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "επιτροπή"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "αρχαίος"
+  },
+  {
+    "simpli": "info",
+    "translation": "πληροφορία"
+  },
+  {
+    "simpli": "pur",
+    "translation": "φτωχός"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "δικαστής"
+  },
+  {
+    "simpli": "ston",
+    "translation": "πέτρα"
+  },
+  {
+    "simpli": "itali",
+    "translation": "Ιταλία"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "αφαιρώ"
+  },
+  {
+    "simpli": "targat",
+    "translation": "στόχος"
+  },
+  {
+    "simpli": "van",
+    "translation": "βαν"
+  },
+  {
+    "simpli": "ago",
+    "translation": "πριν"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Χένρι"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "ενδεχομένως"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "ψηφιακός"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "πρωτίστως"
+  },
+  {
+    "simpli": "maind",
+    "translation": "νους"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "ναυτικό"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "προϊόν"
+  },
+  {
+    "simpli": "hart",
+    "translation": "καρδιά"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "επιφάνεια"
+  },
+  {
+    "simpli": "los",
+    "translation": "Λος"
+  },
+  {
+    "simpli": "baks",
+    "translation": "κουτί"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "διάγραμμα"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "καθολικός"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "κριτήρια"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "συγκεκριμένα"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "έννοια"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "θετικός"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "δυνητικός"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "εγκυκλοπαίδεια"
+  },
+  {
+    "simpli": "tel",
+    "translation": "λέω"
+  },
+  {
+    "simpli": "alon",
+    "translation": "μόνος"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "ελέγχω"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "υπεύθυνος"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "ασφαλώς"
+  },
+  {
+    "simpli": "priti",
+    "translation": "όμορφος"
+  },
+  {
+    "simpli": "dans",
+    "translation": "χορός"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "κλάδος"
+  },
+  {
+    "simpli": "era",
+    "translation": "εποχή"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "τεχνικός"
+  },
+  {
+    "simpli": "praim",
+    "translation": "πρώτος"
+  },
+  {
+    "simpli": "host",
+    "translation": "οικοδεσπότης"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "ναός"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "λογοτεχνία"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "διοίκηση"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "κατάσταση"
+  },
+  {
+    "simpli": "widt",
+    "translation": "πλάτος"
+  },
+  {
+    "simpli": "prais",
+    "translation": "έπαθλο"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "εκπομπή"
+  },
+  {
+    "simpli": "nor",
+    "translation": "ούτε"
+  },
+  {
+    "simpli": "roman",
+    "translation": "ρωμαϊκός"
+  },
+  {
+    "simpli": "influans",
+    "translation": "επιρροή"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Ρίτσαρντ"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "πρόταση"
+  },
+  {
+    "simpli": "leter",
+    "translation": "γράμμα"
+  },
+  {
+    "simpli": "domein",
+    "translation": "τομέας"
+  },
+  {
+    "simpli": "kat",
+    "translation": "κόβω"
+  },
+  {
+    "simpli": "el",
+    "translation": "ελ"
+  },
+  {
+    "simpli": "hold",
+    "translation": "κρατώ"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "διοικητικός"
+  },
+  {
+    "simpli": "aper",
+    "translation": "άνω"
+  },
+  {
+    "simpli": "ask",
+    "translation": "ρωτώ"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "πραγματικός"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "διοικητής"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "Ρωσία"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "ικανότητα"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "γάμος"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "επιστημονικός"
+  },
+  {
+    "simpli": "oner",
+    "translation": "ιδιοκτήτης"
+  },
+  {
+    "simpli": "internet",
+    "translation": "διαδίκτυο"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "κοντινός"
+  },
+  {
+    "simpli": "bei",
+    "translation": "κόλπος"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "εξέχων"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "βασικός"
+  },
+  {
+    "simpli": "bas",
+    "translation": "μπάσο"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "δημοκρατία"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "δικαιοσύνη"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "κοινοβούλιο"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "προσέγγιση"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "ιδρυτής"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "γρήγορα"
+  },
+  {
+    "simpli": "grik",
+    "translation": "ελληνικός"
+  },
+  {
+    "simpli": "erport",
+    "translation": "αεροδρόμιο"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "διένεξη"
+  },
+  {
+    "simpli": "anser",
+    "translation": "απάντηση"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "ευρέως"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "κατεύθυνση"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "εισόδημα"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "συχνά"
+  },
+  {
+    "simpli": "maont",
+    "translation": "όρος"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "σοβιετικός"
+  },
+  {
+    "simpli": "airis",
+    "translation": "ιρλανδικός"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "τυπικά"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "αρχικός"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "αυτοκινητόδρομος"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "μπάσκετ"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "σύγχρονος"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "εβραϊκός"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "κορίτσι"
+  },
+  {
+    "simpli": "meier",
+    "translation": "δήμαρχος"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "οικισμός"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "πλαίσιο"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "μικρότερος"
+  },
+  {
+    "simpli": "sin",
+    "translation": "σκηνή"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "κρίσιμος"
+  },
+  {
+    "simpli": "anon",
+    "translation": "άγνωστος"
+  },
+  {
+    "simpli": "tag",
+    "translation": "ετικέτα"
+  },
+  {
+    "simpli": "mas",
+    "translation": "μάζα"
+  },
+  {
+    "simpli": "foto",
+    "translation": "φωτογραφία"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "επίσκοπος"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "ξενοδοχείο"
+  },
+  {
+    "simpli": "piano",
+    "translation": "πιάνο"
+  },
+  {
+    "simpli": "sain",
+    "translation": "σήμα"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "επιχείρημα"
+  },
+  {
+    "simpli": "fift",
+    "translation": "πέμπτος"
+  },
+  {
+    "simpli": "perant",
+    "translation": "γονέας"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "περιγραφή"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "βελτιώνω"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "αποφεύγω"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "παράγω"
+  },
+  {
+    "simpli": "dark",
+    "translation": "σκοτεινός"
+  },
+  {
+    "simpli": "flait",
+    "translation": "πτήση"
+  },
+  {
+    "simpli": "ga",
+    "translation": "Γεωργία"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "βαρύς"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "δημοσίευση"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "σωματικός"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "εξωτερικός"
+  },
+  {
+    "simpli": "deili",
+    "translation": "καθημερινός"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "ΗΠΑ"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "Μεξικό"
+  },
+  {
+    "simpli": "oil",
+    "translation": "πετρέλαιο"
+  },
+  {
+    "simpli": "twais",
+    "translation": "δύο φορές"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "μηχανικός"
+  },
+  {
+    "simpli": "falo",
+    "translation": "ακολουθώ"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "επίσημα"
+  },
+  {
+    "simpli": "lord",
+    "translation": "λόρδος"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "μεγαλύτερος"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "δάσκαλος"
+  },
+  {
+    "simpli": "importans",
+    "translation": "σημασία"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "εξ ολοκλήρου"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "δραστηριότητα"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "πλήρως"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "νεότερος"
+  },
+  {
+    "simpli": "vol",
+    "translation": "τόμος"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "φτάνω"
+  },
+  {
+    "simpli": "feit",
+    "translation": "πίστη"
+  },
+  {
+    "simpli": "datj",
+    "translation": "ολλανδικός"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "σύντομα"
+  },
+  {
+    "simpli": "solo",
+    "translation": "σόλο"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "συνθέτης"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "ιδρύω"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "έθνος"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "Σικάγο"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "παραμένω"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "κάστρο"
+  },
+  {
+    "simpli": "displei",
+    "translation": "προβολή"
+  },
+  {
+    "simpli": "rural",
+    "translation": "αγροτικός"
+  },
+  {
+    "simpli": "metad",
+    "translation": "μέθοδος"
+  },
+  {
+    "simpli": "isali",
+    "translation": "εύκολα"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "όλοι"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "αντίγραφο"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "επικράτεια"
+  },
+  {
+    "simpli": "britan",
+    "translation": "Βρετανία"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "εξοπλισμός"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "γκαλερί"
+  },
+  {
+    "simpli": "normal",
+    "translation": "κανονικός"
+  },
+  {
+    "simpli": "prins",
+    "translation": "πρίγκιπας"
+  },
+  {
+    "simpli": "pis",
+    "translation": "κομμάτι"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "σύγκρουση"
+  },
+  {
+    "simpli": "forast",
+    "translation": "δάσος"
+  },
+  {
+    "simpli": "efert",
+    "translation": "προσπάθεια"
+  },
+  {
+    "simpli": "wert",
+    "translation": "άξιος"
+  },
+  {
+    "simpli": "split",
+    "translation": "διαχωρισμός"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "καταυλισμός"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "κτήμα"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "θεραπεία"
+  },
+  {
+    "simpli": "bild",
+    "translation": "χτίζω"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "σύνταγμα"
+  },
+  {
+    "simpli": "sort",
+    "translation": "ταξινομώ"
+  },
+  {
+    "simpli": "draft",
+    "translation": "προσχέδιο"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "μπέιζμπολ"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "δίπλα"
+  },
+  {
+    "simpli": "port",
+    "translation": "λιμάνι"
+  },
+  {
+    "simpli": "der",
+    "translation": "ντερ"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "εταιρεία"
+  },
+  {
+    "simpli": "kru",
+    "translation": "πλήρωμα"
+  },
+  {
+    "simpli": "drama",
+    "translation": "δράμα"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "εξουσία"
+  },
+  {
+    "simpli": "paris",
+    "translation": "ενορία"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "προστασία"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "συμφωνία"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "συνέλευση"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "ενώνω"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "σε μεγάλο βαθμό"
+  },
+  {
+    "simpli": "poland",
+    "translation": "Πολωνία"
+  },
+  {
+    "simpli": "gru",
+    "translation": "μεγάλωσε"
+  },
+  {
+    "simpli": "spein",
+    "translation": "Ισπανία"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "μετρώ"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "πύργος"
+  },
+  {
+    "simpli": "poat",
+    "translation": "ποιητής"
+  },
+  {
+    "simpli": "ment",
+    "translation": "σήμαινε"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "προτείνων"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "ώρα"
+  },
+  {
+    "simpli": "distans",
+    "translation": "απόσταση"
+  },
+  {
+    "simpli": "traval",
+    "translation": "ταξίδι"
+  },
+  {
+    "simpli": "dai",
+    "translation": "πεθαίνω"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "μοναδικός"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "διπλός"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "ακριβώς"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "χωρητικότητα"
+  },
+  {
+    "simpli": "krik",
+    "translation": "ρυάκι"
+  },
+  {
+    "simpli": "wol",
+    "translation": "τοίχος"
+  },
+  {
+    "simpli": "winter",
+    "translation": "χειμώνας"
+  },
+  {
+    "simpli": "stor",
+    "translation": "κατάστημα"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "εναλλακτικός"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "εμπρός"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "ανάλυση"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "αντίκτυπος"
+  },
+  {
+    "simpli": "bert",
+    "translation": "γέννηση"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Μάρτιν"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "συνέντευξη"
+  },
+  {
+    "simpli": "grot",
+    "translation": "ανάπτυξη"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "μήνυμα"
+  },
+  {
+    "simpli": "pei",
+    "translation": "πληρώνω"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "χρέωση"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "αναπληρωτής"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "αποδέχομαι"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "περιβάλλον"
+  },
+  {
+    "simpli": "traial",
+    "translation": "δίκη"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "προσφορά"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "εκπαιδευτικός"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "Καρολίνα"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Τζόζεφ"
+  },
+  {
+    "simpli": "latan",
+    "translation": "λατινικός"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "φαινομενικά"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "περίληψη"
+  },
+  {
+    "simpli": "des",
+    "translation": "ντε"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "ηγεσία"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "διευθυντής"
+  },
+  {
+    "simpli": "batam",
+    "translation": "πυθμένας"
+  },
+  {
+    "simpli": "ais",
+    "translation": "πάγος"
+  },
+  {
+    "simpli": "erban",
+    "translation": "αστικός"
+  },
+  {
+    "simpli": "herd",
+    "translation": "άκουσε"
+  },
+  {
+    "simpli": "flag",
+    "translation": "σημαία"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "δημοσιογράφος"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "ύπαρξη"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "ποδοσφαιριστής"
+  },
+  {
+    "simpli": "boi",
+    "translation": "αγόρι"
+  },
+  {
+    "simpli": "flor",
+    "translation": "πάτωμα"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "ζημιά"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "επαφή"
+  },
+  {
+    "simpli": "hait",
+    "translation": "ύψος"
+  },
+  {
+    "simpli": "presans",
+    "translation": "παρουσία"
+  },
+  {
+    "simpli": "mon",
+    "translation": "Δευ"
+  },
+  {
+    "simpli": "difens",
+    "translation": "άμυνα"
+  },
+  {
+    "simpli": "farm",
+    "translation": "αγρόκτημα"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "διαφορά"
+  },
+  {
+    "simpli": "ad",
+    "translation": "διαφήμιση"
+  },
+  {
+    "simpli": "sat",
+    "translation": "κάθισε"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "φυλακή"
+  },
+  {
+    "simpli": "linier",
+    "translation": "γραμμικός"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "έκθεση"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "αντίστοιχα"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "συμπεριφορά"
+  },
+  {
+    "simpli": "stei",
+    "translation": "μένω"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "αντιπρόσωπος"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "δέχομαι"
+  },
+  {
+    "simpli": "platform",
+    "translation": "πλατφόρμα"
+  },
+  {
+    "simpli": "li",
+    "translation": "Λι"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "μνημείο"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "προ Χριστού"
+  },
+  {
+    "simpli": "aner",
+    "translation": "τιμή"
+  },
+  {
+    "simpli": "greid",
+    "translation": "βαθμός"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "δημοκρατικός"
+  },
+  {
+    "simpli": "transport",
+    "translation": "μεταφορά"
+  },
+  {
+    "simpli": "fort",
+    "translation": "φρούριο"
+  },
+  {
+    "simpli": "tot",
+    "translation": "δίδαξε"
+  },
+  {
+    "simpli": "breik",
+    "translation": "σπάζω"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "επιλογή"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "λεωφόρος"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "κυρία"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "Σκωτία"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "ντοκιμαντέρ"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "διανομή"
+  },
+  {
+    "simpli": "privent",
+    "translation": "αποτρέπω"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "ανίκανος"
+  },
+  {
+    "simpli": "weit",
+    "translation": "βάρος"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "κίνηση"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "συναυλία"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "σχετικά"
+  },
+  {
+    "simpli": "stand",
+    "translation": "στέκομαι"
+  },
+  {
+    "simpli": "midian",
+    "translation": "διάμεσος"
+  },
+  {
+    "simpli": "praper",
+    "translation": "ορθός"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "Ασία"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "βιομηχανικός"
+  },
+  {
+    "simpli": "dro",
+    "translation": "τραβώ"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "αυτοκρατορία"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "οδηγός"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "σύνδεση"
+  },
+  {
+    "simpli": "persent",
+    "translation": "ποσοστό"
+  },
+  {
+    "simpli": "merin",
+    "translation": "θαλάσσιος"
+  },
+  {
+    "simpli": "seint",
+    "translation": "άγιος"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "προαγωγή"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "υπουργείο"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "σχηματισμός"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "Ισραήλ"
+  },
+  {
+    "simpli": "blad",
+    "translation": "αίμα"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "αναπτύσσω"
+  },
+  {
+    "simpli": "sport",
+    "translation": "άθλημα"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "ελαφρά"
+  },
+  {
+    "simpli": "apra",
+    "translation": "όπερα"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "κοινότητα"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "ορισμός"
+  },
+  {
+    "simpli": "alt",
+    "translation": "alt"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "ένταξη"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "αντιπολίτευση"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "μουσικός"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "μετάφραση"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "νεότερος"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "μερίδα"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "γιατρός"
+  },
+  {
+    "simpli": "ka",
+    "translation": "Καλιφόρνια"
+  },
+  {
+    "simpli": "sari",
+    "translation": "συγγνώμη"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "περιέχω"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "θρησκεία"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "δεν"
+  },
+  {
+    "simpli": "spred",
+    "translation": "εξάπλωση"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "προέλευση"
+  },
+  {
+    "simpli": "metal",
+    "translation": "μέταλλο"
+  },
+  {
+    "simpli": "del",
+    "translation": "ντελ"
+  },
+  {
+    "simpli": "gas",
+    "translation": "αέριο"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "συχνά"
+  },
+  {
+    "simpli": "visit",
+    "translation": "επίσκεψη"
+  },
+  {
+    "simpli": "dip",
+    "translation": "βαθύς"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "ζωγράφος"
+  },
+  {
+    "simpli": "trast",
+    "translation": "εμπιστοσύνη"
+  },
+  {
+    "simpli": "difit",
+    "translation": "ήττα"
+  },
+  {
+    "simpli": "bol",
+    "translation": "μπάλα"
+  },
+  {
+    "simpli": "isi",
+    "translation": "εύκολος"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "εξηγώ"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "ουδέτερος"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "παλαιότερος"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "σχολή"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "αρχιτεκτονική"
+  },
+  {
+    "simpli": "preser",
+    "translation": "πίεση"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "αυτοκράτορας"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "bbc"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "επέκταση"
+  },
+  {
+    "simpli": "valid",
+    "translation": "έγκυρος"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "κλίμακα"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "επαναφέρω"
+  },
+  {
+    "simpli": "plas",
+    "translation": "συν"
+  },
+  {
+    "simpli": "wud",
+    "translation": "ξύλο"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "εκτεταμένος"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "ευκαιρία"
+  },
+  {
+    "simpli": "merder",
+    "translation": "φόνος"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "μνήμη"
+  },
+  {
+    "simpli": "masin",
+    "translation": "μηχανή"
+  },
+  {
+    "simpli": "wed",
+    "translation": "Τετ"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "αποθηκεύω"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "απαιτώ"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "inc"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "ανταλλαγή"
+  },
+  {
+    "simpli": "ros",
+    "translation": "τριαντάφυλλο"
+  },
+  {
+    "simpli": "neival",
+    "translation": "ναυτικός"
+  },
+  {
+    "simpli": "fis",
+    "translation": "ψάρι"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "αιτιολογία"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "εμαυτόν"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "ευτυχισμένος"
+  },
+  {
+    "simpli": "nider",
+    "translation": "ούτε"
+  },
+  {
+    "simpli": "ban",
+    "translation": "απαγόρευση"
+  },
+  {
+    "simpli": "pap",
+    "translation": "ποπ"
+  },
+  {
+    "simpli": "brand",
+    "translation": "μάρκα"
+  },
+  {
+    "simpli": "gest",
+    "translation": "επισκέπτης"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "δεν"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "εισαγωγή"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "επώνυμο"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "ασφάλεια"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "στάδιο"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "παραλία"
+  },
+  {
+    "simpli": "gan",
+    "translation": "όπλο"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "έγκλημα"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Κιτ"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "εγκατάσταση"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "Γεωργία"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Τζακ"
+  },
+  {
+    "simpli": "okei",
+    "translation": "εντάξει"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "μοίρα"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "εφεδρεία"
+  },
+  {
+    "simpli": "risk",
+    "translation": "κίνδυνος"
+  },
+  {
+    "simpli": "fel",
+    "translation": "έπεσε"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "σκωτικός"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "ρεπουμπλικανικός"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "αρχίζω"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "πρόταση"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "ούτως ή άλλως"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "εφαρμόζω"
+  },
+  {
+    "simpli": "vais",
+    "translation": "αντι"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "ποίηση"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "Βιρτζίνια"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "οργανισμός"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "ηλεκτρικός"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "κοινός"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "navbox"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "λογοτεχνικός"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Έντουαρντ"
+  },
+  {
+    "simpli": "logo",
+    "translation": "λογότυπο"
+  },
+  {
+    "simpli": "adians",
+    "translation": "κοινό"
+  },
+  {
+    "simpli": "brans",
+    "translation": "χάλκινος"
+  },
+  {
+    "simpli": "mail",
+    "translation": "μίλι"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "νεωστί"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "εφαρμογή"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "ιατρική"
+  },
+  {
+    "simpli": "florada",
+    "translation": "Φλόριντα"
+  },
+  {
+    "simpli": "fols",
+    "translation": "ψευδής"
+  },
+  {
+    "simpli": "du",
+    "translation": "ντυ"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "λύση"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "αντικείμενο"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "κωμωδία"
+  },
+  {
+    "simpli": "brif",
+    "translation": "σύντομος"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "ειρηνικός"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "ψυχαγωγία"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "αρχιτέκτονας"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "αντίθετα"
+  },
+  {
+    "simpli": "historian",
+    "translation": "ιστορικός"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "τάγμα"
+  },
+  {
+    "simpli": "limat",
+    "translation": "όριο"
+  },
+  {
+    "simpli": "grant",
+    "translation": "επιχορήγηση"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "μυθοπλασία"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "συνεισφορά"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "δημιουργός"
+  },
+  {
+    "simpli": "ref",
+    "translation": "παραπομπή"
+  },
+  {
+    "simpli": "finis",
+    "translation": "τελειώνω"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "ορχήστρα"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "μόνιμος"
+  },
+  {
+    "simpli": "sel",
+    "translation": "κύτταρο"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "μετονομάζω"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "αρνητικός"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "κίτρινος"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Τζόνσον"
+  },
+  {
+    "simpli": "task",
+    "translation": "καθήκον"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "τελικά"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "αντιπροσωπεύω"
+  },
+  {
+    "simpli": "rer",
+    "translation": "σπάνιος"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "προτείνω"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "παράδοση"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "αποτελεσματικός"
+  },
+  {
+    "simpli": "partner",
+    "translation": "εταίρος"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "μυστικός"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "δισεκατομμύριο"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "επιλογή"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "εξαιρετικά"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "επαρκής"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "προωθώ"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "κεφάλαιο"
+  },
+  {
+    "simpli": "pov",
+    "translation": "οπτική"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "σουηδικός"
+  },
+  {
+    "simpli": "von",
+    "translation": "φον"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "προσωπικό"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "σεβασμός"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Τομ"
+  },
+  {
+    "simpli": "djas",
+    "translation": "τζαζ"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "πράκτορας"
+  },
+  {
+    "simpli": "fri",
+    "translation": "Παρ"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "λεπτομέρεια"
+  },
+  {
+    "simpli": "antu",
+    "translation": "επάνω"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "γενιά"
+  },
+  {
+    "simpli": "perform",
+    "translation": "εκτελώ"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "Οξφόρδη"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "ισοδύναμος"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "πιλότος"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "παγκοσμίως"
+  },
+  {
+    "simpli": "hors",
+    "translation": "άλογο"
+  },
+  {
+    "simpli": "senat",
+    "translation": "γερουσία"
+  },
+  {
+    "simpli": "kor",
+    "translation": "πυρήνας"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "προμήθεια"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "αντικαθιστώ"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Σοκόρο"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "βανδαλισμός"
+  },
+  {
+    "simpli": "hat",
+    "translation": "ζεστός"
+  },
+  {
+    "simpli": "instans",
+    "translation": "περίσταση"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "ολυμπιακός"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "οικονομία"
+  },
+  {
+    "simpli": "servei",
+    "translation": "επισκόπηση"
+  },
+  {
+    "simpli": "di",
+    "translation": "ντι"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "προφανώς"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "ανησυχία"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "εταιρεία"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "πρόκληση"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "φιλοσοφία"
+  },
+  {
+    "simpli": "advans",
+    "translation": "πρόοδος"
+  },
+  {
+    "simpli": "taks",
+    "translation": "φόρος"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "άδεια"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "περιστατικό"
+  },
+  {
+    "simpli": "bot",
+    "translation": "bot"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "έκτος"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "ελευθερία"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "ταυτότητα"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "μέγιστος"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "κάπως"
+  },
+  {
+    "simpli": "plat",
+    "translation": "πλοκή"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "Βοστώνη"
+  },
+  {
+    "simpli": "step",
+    "translation": "βήμα"
+  },
+  {
+    "simpli": "disis",
+    "translation": "ασθένεια"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "Βερολίνο"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "περιβαλλοντικός"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "διερεύνηση"
+  },
+  {
+    "simpli": "flit",
+    "translation": "στόλος"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "πεζικό"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "μάχη"
+  },
+  {
+    "simpli": "rais",
+    "translation": "άνοδος"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "παράγω"
+  },
+  {
+    "simpli": "taword",
+    "translation": "προς"
+  },
+  {
+    "simpli": "vies",
+    "translation": "κατά"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "συνθήκη"
+  },
+  {
+    "simpli": "mis",
+    "translation": "χάνω"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "κλασικός"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "κλασικός"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "θυμάμαι"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "ζώο"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "εσωτερικό"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Φρανκ"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "στιγμή"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "απόφοιτος"
+  },
+  {
+    "simpli": "watever",
+    "translation": "οτιδήποτε"
+  },
+  {
+    "simpli": "internal",
+    "translation": "εσωτερικός"
+  },
+  {
+    "simpli": "seip",
+    "translation": "σχήμα"
+  },
+  {
+    "simpli": "herself",
+    "translation": "εαυτήν"
+  },
+  {
+    "simpli": "streit",
+    "translation": "ευθύς"
+  },
+  {
+    "simpli": "seks",
+    "translation": "φύλο"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "στενά"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Σκοτ"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "επικοινωνία"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "νοικοκυριό"
+  },
+  {
+    "simpli": "edj",
+    "translation": "άκρη"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "μεταφορά"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "δείχνω"
+  },
+  {
+    "simpli": "haki",
+    "translation": "χόκεϊ"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "οπτικός"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "ισχυρός"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "δημοτικός"
+  },
+  {
+    "simpli": "fot",
+    "translation": "πολέμησε"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "καρέκλα"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "σημαντικά"
+  },
+  {
+    "simpli": "minat",
+    "translation": "λεπτό"
+  },
+  {
+    "simpli": "lern",
+    "translation": "μαθαίνω"
+  },
+  {
+    "simpli": "kard",
+    "translation": "κάρτα"
+  },
+  {
+    "simpli": "gard",
+    "translation": "φρουρός"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "προστατεύω"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "βορειοδυτικός"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "αποτυχία"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "εκδότης"
+  },
+  {
+    "simpli": "ai",
+    "translation": "μάτι"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "μόδα"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "ανεξαρτησία"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "οδηγός"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "έντονα"
+  },
+  {
+    "simpli": "advais",
+    "translation": "συμβουλή"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "αναγνώριση"
+  },
+  {
+    "simpli": "kil",
+    "translation": "σκοτώνω"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "ράγκμπι"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "όχημα"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "δικηγόρος"
+  },
+  {
+    "simpli": "brok",
+    "translation": "έσπασε"
+  },
+  {
+    "simpli": "huk",
+    "translation": "γάντζος"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "κληρονομιά"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "νοτιοανατολικός"
+  },
+  {
+    "simpli": "korner",
+    "translation": "γωνία"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "σεξουαλικός"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Ελισάβετ"
+  },
+  {
+    "simpli": "wis",
+    "translation": "ευχή"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "ομιλία"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "καθορίζω"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "παράβαση"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "Πενσυλβάνια"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "σιδηρόδρομος"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "σίδηρος"
+  },
+  {
+    "simpli": "gav",
+    "translation": "κυβέρνηση"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "συνταξιοδότηση"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Φρανσίσκο"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "μπροστά"
+  },
+  {
+    "simpli": "eid",
+    "translation": "ενίσχυση"
+  },
+  {
+    "simpli": "daot",
+    "translation": "αμφιβολία"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "διμοιρία"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "ρολόι"
+  },
+  {
+    "simpli": "apart",
+    "translation": "χωριστά"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "καρκίνος"
+  },
+  {
+    "simpli": "misis",
+    "translation": "κυρία"
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "的"
+  },
+  {
+    "simpli": "in",
+    "translation": "在"
+  },
+  {
+    "simpli": "and",
+    "translation": "和"
+  },
+  {
+    "simpli": "tu",
+    "translation": "到"
+  },
+  {
+    "simpli": "an",
+    "translation": "上"
+  },
+  {
+    "simpli": "as",
+    "translation": "作为"
+  },
+  {
+    "simpli": "for",
+    "translation": "为"
+  },
+  {
+    "simpli": "bai",
+    "translation": "由"
+  },
+  {
+    "simpli": "dat",
+    "translation": "那"
+  },
+  {
+    "simpli": "el",
+    "translation": "他/她"
+  },
+  {
+    "simpli": "wit",
+    "translation": "与"
+  },
+  {
+    "simpli": "at",
+    "translation": "在"
+  },
+  {
+    "simpli": "fram",
+    "translation": "从"
+  },
+  {
+    "simpli": "nat",
+    "translation": "不"
+  },
+  {
+    "simpli": "or",
+    "translation": "或"
+  },
+  {
+    "simpli": "witj",
+    "translation": "哪个"
+  },
+  {
+    "simpli": "bat",
+    "translation": "但"
+  },
+  {
+    "simpli": "hav",
+    "translation": "有"
+  },
+  {
+    "simpli": "olso",
+    "translation": "也"
+  },
+  {
+    "simpli": "van",
+    "translation": "一"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "页"
+  },
+  {
+    "simpli": "yu",
+    "translation": "你"
+  },
+  {
+    "simpli": "no",
+    "translation": "不"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "第一"
+  },
+  {
+    "simpli": "dey",
+    "translation": "他们"
+  },
+  {
+    "simpli": "hu",
+    "translation": "谁"
+  },
+  {
+    "simpli": "der",
+    "translation": "那里"
+  },
+  {
+    "simpli": "mei",
+    "translation": "可以"
+  },
+  {
+    "simpli": "after",
+    "translation": "之后"
+  },
+  {
+    "simpli": "ol",
+    "translation": "所有"
+  },
+  {
+    "simpli": "nu",
+    "translation": "新"
+  },
+  {
+    "simpli": "ader",
+    "translation": "其他"
+  },
+  {
+    "simpli": "if",
+    "translation": "如果"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "讨论"
+  },
+  {
+    "simpli": "kan",
+    "translation": "能"
+  },
+  {
+    "simpli": "mor",
+    "translation": "更多"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "关于"
+  },
+  {
+    "simpli": "satj",
+    "translation": "如此"
+  },
+  {
+    "simpli": "sam",
+    "translation": "一些"
+  },
+  {
+    "simpli": "taim",
+    "translation": "时间"
+  },
+  {
+    "simpli": "onli",
+    "translation": "只"
+  },
+  {
+    "simpli": "intu",
+    "translation": "进入"
+  },
+  {
+    "simpli": "so",
+    "translation": "所以"
+  },
+  {
+    "simpli": "ap",
+    "translation": "上"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "删除"
+  },
+  {
+    "simpli": "wer",
+    "translation": "哪里"
+  },
+  {
+    "simpli": "aot",
+    "translation": "外"
+  },
+  {
+    "simpli": "dan",
+    "translation": "比"
+  },
+  {
+    "simpli": "most",
+    "translation": "最"
+  },
+  {
+    "simpli": "over",
+    "translation": "过"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "链接"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "一月"
+  },
+  {
+    "simpli": "martj",
+    "translation": "三月"
+  },
+  {
+    "simpli": "born",
+    "translation": "出生"
+  },
+  {
+    "simpli": "september",
+    "translation": "九月"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "十月"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "七月"
+  },
+  {
+    "simpli": "agast",
+    "translation": "八月"
+  },
+  {
+    "simpli": "plis",
+    "translation": "请"
+  },
+  {
+    "simpli": "disember",
+    "translation": "十二月"
+  },
+  {
+    "simpli": "djun",
+    "translation": "六月"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "四月"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "第"
+  },
+  {
+    "simpli": "wil",
+    "translation": "将"
+  },
+  {
+    "simpli": "eni",
+    "translation": "任何"
+  },
+  {
+    "simpli": "kam",
+    "translation": "商业"
+  },
+  {
+    "simpli": "wat",
+    "translation": "什么"
+  },
+  {
+    "simpli": "november",
+    "translation": "十一月"
+  },
+  {
+    "simpli": "dis",
+    "translation": "这些"
+  },
+  {
+    "simpli": "wi",
+    "translation": "我们"
+  },
+  {
+    "simpli": "meni",
+    "translation": "许多"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "二月"
+  },
+  {
+    "simpli": "laik",
+    "translation": "像"
+  },
+  {
+    "simpli": "dem",
+    "translation": "他们"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "进一步"
+  },
+  {
+    "simpli": "wail",
+    "translation": "当"
+  },
+  {
+    "simpli": "si",
+    "translation": "看"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "后来"
+  },
+  {
+    "simpli": "neim",
+    "translation": "名字"
+  },
+  {
+    "simpli": "skul",
+    "translation": "学校"
+  },
+  {
+    "simpli": "part",
+    "translation": "部分"
+  },
+  {
+    "simpli": "ander",
+    "translation": "下"
+  },
+  {
+    "simpli": "djast",
+    "translation": "刚刚"
+  },
+  {
+    "simpli": "yir",
+    "translation": "年"
+  },
+  {
+    "simpli": "wel",
+    "translation": "好"
+  },
+  {
+    "simpli": "yus",
+    "translation": "使用"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "辩论"
+  },
+  {
+    "simpli": "sins",
+    "translation": "自从"
+  },
+  {
+    "simpli": "wok",
+    "translation": "工作"
+  },
+  {
+    "simpli": "tri",
+    "translation": "三"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "之前"
+  },
+  {
+    "simpli": "bot",
+    "translation": "两者"
+  },
+  {
+    "simpli": "steit",
+    "translation": "状态"
+  },
+  {
+    "simpli": "stail",
+    "translation": "风格"
+  },
+  {
+    "simpli": "film",
+    "translation": "电影"
+  },
+  {
+    "simpli": "nao",
+    "translation": "现在"
+  },
+  {
+    "simpli": "tru",
+    "translation": "通过"
+  },
+  {
+    "simpli": "becos",
+    "translation": "因为"
+  },
+  {
+    "simpli": "grup",
+    "translation": "组"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "美国的"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "用户"
+  },
+  {
+    "simpli": "alain",
+    "translation": "对齐"
+  },
+  {
+    "simpli": "siti",
+    "translation": "城市"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "维基百科"
+  },
+  {
+    "simpli": "seim",
+    "translation": "相同"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "然而"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "成为"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "第二"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "适当"
+  },
+  {
+    "simpli": "werld",
+    "translation": "世界"
+  },
+  {
+    "simpli": "abav",
+    "translation": "以上"
+  },
+  {
+    "simpli": "tim",
+    "translation": "队"
+  },
+  {
+    "simpli": "kip",
+    "translation": "保持"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "随后"
+  },
+  {
+    "simpli": "rait",
+    "translation": "右"
+  },
+  {
+    "simpli": "antil",
+    "translation": "直到"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "修改"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "反对"
+  },
+  {
+    "simpli": "tok",
+    "translation": "谈话"
+  },
+  {
+    "simpli": "namber",
+    "translation": "数字"
+  },
+  {
+    "simpli": "senter",
+    "translation": "中心"
+  },
+  {
+    "simpli": "list",
+    "translation": "列表"
+  },
+  {
+    "simpli": "albam",
+    "translation": "专辑"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "若干"
+  },
+  {
+    "simpli": "famali",
+    "translation": "家庭"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "重定向"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "季节"
+  },
+  {
+    "simpli": "veri",
+    "translation": "非常"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "公司"
+  },
+  {
+    "simpli": "eria",
+    "translation": "地区"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "以下"
+  },
+  {
+    "simpli": "hir",
+    "translation": "这里"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "历史"
+  },
+  {
+    "simpli": "mi",
+    "translation": "我"
+  },
+  {
+    "simpli": "hao",
+    "translation": "如何"
+  },
+  {
+    "simpli": "per",
+    "translation": "每"
+  },
+  {
+    "simpli": "wan",
+    "translation": "赢了"
+  },
+  {
+    "simpli": "itj",
+    "translation": "每个"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "国家的"
+  },
+  {
+    "simpli": "saot",
+    "translation": "南"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "地方"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "结果"
+  },
+  {
+    "simpli": "meik",
+    "translation": "制作"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "音乐"
+  },
+  {
+    "simpli": "best",
+    "translation": "最好"
+  },
+  {
+    "simpli": "dos",
+    "translation": "那些"
+  },
+  {
+    "simpli": "anader",
+    "translation": "另一"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "想"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "节"
+  },
+  {
+    "simpli": "not",
+    "translation": "注释"
+  },
+  {
+    "simpli": "saport",
+    "translation": "支持"
+  },
+  {
+    "simpli": "wei",
+    "translation": "方式"
+  },
+  {
+    "simpli": "former",
+    "translation": "前"
+  },
+  {
+    "simpli": "geim",
+    "translation": "游戏"
+  },
+  {
+    "simpli": "member",
+    "translation": "成员"
+  },
+  {
+    "simpli": "erli",
+    "translation": "早"
+  },
+  {
+    "simpli": "matj",
+    "translation": "很多"
+  },
+  {
+    "simpli": "stil",
+    "translation": "仍然"
+  },
+  {
+    "simpli": "nort",
+    "translation": "北"
+  },
+  {
+    "simpli": "hai",
+    "translation": "高"
+  },
+  {
+    "simpli": "wor",
+    "translation": "战争"
+  },
+  {
+    "simpli": "gud",
+    "translation": "好"
+  },
+  {
+    "simpli": "bak",
+    "translation": "回"
+  },
+  {
+    "simpli": "on",
+    "translation": "自己的"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "政府"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "大学"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "周围"
+  },
+  {
+    "simpli": "end",
+    "translation": "结束"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "著名"
+  },
+  {
+    "simpli": "song",
+    "translation": "歌曲"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "军事"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "一般"
+  },
+  {
+    "simpli": "taital",
+    "translation": "标题"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "公共"
+  },
+  {
+    "simpli": "buk",
+    "translation": "书"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "图像"
+  },
+  {
+    "simpli": "dei",
+    "translation": "日"
+  },
+  {
+    "simpli": "long",
+    "translation": "长"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "删除"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "信息"
+  },
+  {
+    "simpli": "du",
+    "translation": "由于"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "当地"
+  },
+  {
+    "simpli": "haos",
+    "translation": "房屋"
+  },
+  {
+    "simpli": "mein",
+    "translation": "主要"
+  },
+  {
+    "simpli": "last",
+    "translation": "最后"
+  },
+  {
+    "simpli": "widin",
+    "translation": "之内"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "原始"
+  },
+  {
+    "simpli": "hom",
+    "translation": "家"
+  },
+  {
+    "simpli": "kament",
+    "translation": "评论"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "主要"
+  },
+  {
+    "simpli": "laif",
+    "translation": "生活"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "不同"
+  },
+  {
+    "simpli": "klab",
+    "translation": "俱乐部"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "英语"
+  },
+  {
+    "simpli": "point",
+    "translation": "点"
+  },
+  {
+    "simpli": "smol",
+    "translation": "小"
+  },
+  {
+    "simpli": "lain",
+    "translation": "线"
+  },
+  {
+    "simpli": "singal",
+    "translation": "单个"
+  },
+  {
+    "simpli": "band",
+    "translation": "乐队"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "档案"
+  },
+  {
+    "simpli": "get",
+    "translation": "得到"
+  },
+  {
+    "simpli": "taon",
+    "translation": "镇"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "人口"
+  },
+  {
+    "simpli": "sors",
+    "translation": "来源"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "包括"
+  },
+  {
+    "simpli": "agen",
+    "translation": "再"
+  },
+  {
+    "simpli": "keis",
+    "translation": "情况"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "虽然"
+  },
+  {
+    "simpli": "along",
+    "translation": "沿着"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "国际"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "没有"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "系统"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "站"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "建成"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "年龄"
+  },
+  {
+    "simpli": "tap",
+    "translation": "顶"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "世纪"
+  },
+  {
+    "simpli": "set",
+    "translation": "集"
+  },
+  {
+    "simpli": "britis",
+    "translation": "英国的"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "教堂"
+  },
+  {
+    "simpli": "west",
+    "translation": "西"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "选手"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "总统"
+  },
+  {
+    "simpli": "do",
+    "translation": "虽然"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "村"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "类别"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "大"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "区"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "少"
+  },
+  {
+    "simpli": "order",
+    "translation": "顺序"
+  },
+  {
+    "simpli": "servas",
+    "translation": "服务"
+  },
+  {
+    "simpli": "faind",
+    "translation": "找到"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "重叠"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "背景色"
+  },
+  {
+    "simpli": "teik",
+    "translation": "拿"
+  },
+  {
+    "simpli": "old",
+    "translation": "旧"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "国家"
+  },
+  {
+    "simpli": "det",
+    "translation": "死亡"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "研究"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "最终"
+  },
+  {
+    "simpli": "midia",
+    "translation": "媒体"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "社区"
+  },
+  {
+    "simpli": "terd",
+    "translation": "第三"
+  },
+  {
+    "simpli": "vi",
+    "translation": "已经"
+  },
+  {
+    "simpli": "ist",
+    "translation": "东"
+  },
+  {
+    "simpli": "daon",
+    "translation": "下"
+  },
+  {
+    "simpli": "djan",
+    "translation": "约翰"
+  },
+  {
+    "simpli": "versan",
+    "translation": "版本"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "五"
+  },
+  {
+    "simpli": "edat",
+    "translation": "编辑"
+  },
+  {
+    "simpli": "everi",
+    "translation": "每"
+  },
+  {
+    "simpli": "san",
+    "translation": "儿子"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "例子"
+  },
+  {
+    "simpli": "parti",
+    "translation": "聚会"
+  },
+  {
+    "simpli": "york",
+    "translation": "约克"
+  },
+  {
+    "simpli": "form",
+    "translation": "形式"
+  },
+  {
+    "simpli": "nir",
+    "translation": "近"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "主题"
+  },
+  {
+    "simpli": "go",
+    "translation": "去"
+  },
+  {
+    "simpli": "amang",
+    "translation": "之中"
+  },
+  {
+    "simpli": "sait",
+    "translation": "站点"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "内容"
+  },
+  {
+    "simpli": "art",
+    "translation": "艺术"
+  },
+  {
+    "simpli": "help",
+    "translation": "帮助"
+  },
+  {
+    "simpli": "fader",
+    "translation": "父亲"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "项目"
+  },
+  {
+    "simpli": "said",
+    "translation": "边"
+  },
+  {
+    "simpli": "rood",
+    "translation": "路"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "文本"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "导演"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "生涯"
+  },
+  {
+    "simpli": "notability",
+    "translation": "知名度"
+  },
+  {
+    "simpli": "wai",
+    "translation": "为什么"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "记录"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "背景"
+  },
+  {
+    "simpli": "lig",
+    "translation": "联赛"
+  },
+  {
+    "simpli": "plei",
+    "translation": "玩"
+  },
+  {
+    "simpli": "greit",
+    "translation": "伟大"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "法语"
+  },
+  {
+    "simpli": "aword",
+    "translation": "奖"
+  },
+  {
+    "simpli": "never",
+    "translation": "从不"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "足够"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "县"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "百万"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "发展"
+  },
+  {
+    "simpli": "total",
+    "translation": "总计"
+  },
+  {
+    "simpli": "risan",
+    "translation": "原因"
+  },
+  {
+    "simpli": "lo",
+    "translation": "法律"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "下一"
+  },
+  {
+    "simpli": "led",
+    "translation": "带领"
+  },
+  {
+    "simpli": "woter",
+    "translation": "水"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "学院"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "德语"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "政治"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "成为"
+  },
+  {
+    "simpli": "rader",
+    "translation": "相当"
+  },
+  {
+    "simpli": "leit",
+    "translation": "晚"
+  },
+  {
+    "simpli": "hed",
+    "translation": "头"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "已经"
+  },
+  {
+    "simpli": "ider",
+    "translation": "任一"
+  },
+  {
+    "simpli": "lital",
+    "translation": "小"
+  },
+  {
+    "simpli": "edater",
+    "translation": "编辑者"
+  },
+  {
+    "simpli": "important",
+    "translation": "重要"
+  },
+  {
+    "simpli": "rol",
+    "translation": "角色"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "相似"
+  },
+  {
+    "simpli": "wait",
+    "translation": "白"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "当前"
+  },
+  {
+    "simpli": "landan",
+    "translation": "伦敦"
+  },
+  {
+    "simpli": "beter",
+    "translation": "更好"
+  },
+  {
+    "simpli": "isu",
+    "translation": "问题"
+  },
+  {
+    "simpli": "sei",
+    "translation": "说"
+  },
+  {
+    "simpli": "fail",
+    "translation": "文件"
+  },
+  {
+    "simpli": "persan",
+    "translation": "人"
+  },
+  {
+    "simpli": "fri",
+    "translation": "自由"
+  },
+  {
+    "simpli": "man",
+    "translation": "男人"
+  },
+  {
+    "simpli": "stori",
+    "translation": "故事"
+  },
+  {
+    "simpli": "sort",
+    "translation": "短"
+  },
+  {
+    "simpli": "liv",
+    "translation": "生活"
+  },
+  {
+    "simpli": "vans",
+    "translation": "一次"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "时期"
+  },
+  {
+    "simpli": "blak",
+    "translation": "黑"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "权力"
+  },
+  {
+    "simpli": "presant",
+    "translation": "现在"
+  },
+  {
+    "simpli": "strit",
+    "translation": "街"
+  },
+  {
+    "simpli": "river",
+    "translation": "河"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "目前"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "生产"
+  },
+  {
+    "simpli": "siks",
+    "translation": "六"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "教育"
+  },
+  {
+    "simpli": "rili",
+    "translation": "真正"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "足球"
+  },
+  {
+    "simpli": "land",
+    "translation": "土地"
+  },
+  {
+    "simpli": "term",
+    "translation": "术语"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "办公室"
+  },
+  {
+    "simpli": "program",
+    "translation": "节目"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "部门"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "电视"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "改变"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "事件"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "一起"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "语言"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "位置"
+  },
+  {
+    "simpli": "want",
+    "translation": "想要"
+  },
+  {
+    "simpli": "fild",
+    "translation": "领域"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "常见"
+  },
+  {
+    "simpli": "leval",
+    "translation": "水平"
+  },
+  {
+    "simpli": "armi",
+    "translation": "军队"
+  },
+  {
+    "simpli": "deita",
+    "translation": "数据"
+  },
+  {
+    "simpli": "park",
+    "translation": "公园"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "事实"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "专业"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "可能"
+  },
+  {
+    "simpli": "taip",
+    "translation": "类型"
+  },
+  {
+    "simpli": "yang",
+    "translation": "年轻"
+  },
+  {
+    "simpli": "kort",
+    "translation": "法院"
+  },
+  {
+    "simpli": "mov",
+    "translation": "移动"
+  },
+  {
+    "simpli": "les",
+    "translation": "更少"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "可用"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "某人"
+  },
+  {
+    "simpli": "ful",
+    "translation": "全"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "中央"
+  },
+  {
+    "simpli": "templat",
+    "translation": "模板"
+  },
+  {
+    "simpli": "ad",
+    "translation": "添加"
+  },
+  {
+    "simpli": "win",
+    "translation": "赢"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "视频"
+  },
+  {
+    "simpli": "lost",
+    "translation": "失去"
+  },
+  {
+    "simpli": "put",
+    "translation": "放"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "区域"
+  },
+  {
+    "simpli": "er",
+    "translation": "空气"
+  },
+  {
+    "simpli": "ran",
+    "translation": "跑"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "显著"
+  },
+  {
+    "simpli": "insted",
+    "translation": "代替"
+  },
+  {
+    "simpli": "oter",
+    "translation": "作者"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "评论"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "大概"
+  },
+  {
+    "simpli": "raond",
+    "translation": "圆"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "特别"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "官方"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "政策"
+  },
+  {
+    "simpli": "far",
+    "translation": "远"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "实际上"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "社会"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "经由"
+  },
+  {
+    "simpli": "disain",
+    "translation": "设计"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "请求"
+  },
+  {
+    "simpli": "bord",
+    "translation": "委员会"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "超文本"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "问题"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "人物"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "原本"
+  },
+  {
+    "simpli": "start",
+    "translation": "开始"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "独立"
+  },
+  {
+    "simpli": "klos",
+    "translation": "关闭"
+  },
+  {
+    "simpli": "waif",
+    "translation": "妻子"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "英格兰"
+  },
+  {
+    "simpli": "luk",
+    "translation": "看"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "发布"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "添加"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "证据"
+  },
+  {
+    "simpli": "lav",
+    "translation": "爱"
+  },
+  {
+    "simpli": "deit",
+    "translation": "日期"
+  },
+  {
+    "simpli": "awei",
+    "translation": "离开"
+  },
+  {
+    "simpli": "weder",
+    "translation": "是否"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "社会"
+  },
+  {
+    "simpli": "itself",
+    "translation": "自身"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "广播"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "可靠"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "覆盖"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "岛"
+  },
+  {
+    "simpli": "himself",
+    "translation": "他自己"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "流行"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "问题"
+  },
+  {
+    "simpli": "western",
+    "translation": "西部"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "部门"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "理事会"
+  },
+  {
+    "simpli": "apan",
+    "translation": "在上"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "控制"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "能够"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "比率"
+  },
+  {
+    "simpli": "madern",
+    "translation": "现代"
+  },
+  {
+    "simpli": "trak",
+    "translation": "轨道"
+  },
+  {
+    "simpli": "kors",
+    "translation": "课程"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "集"
+  },
+  {
+    "simpli": "mader",
+    "translation": "母亲"
+  },
+  {
+    "simpli": "artast",
+    "translation": "艺术家"
+  },
+  {
+    "simpli": "saians",
+    "translation": "科学"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "提供"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "通常"
+  },
+  {
+    "simpli": "fors",
+    "translation": "力量"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "北部"
+  },
+  {
+    "simpli": "badi",
+    "translation": "身体"
+  },
+  {
+    "simpli": "sur",
+    "translation": "确定"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "美国"
+  },
+  {
+    "simpli": "speis",
+    "translation": "空间"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "电视"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "提及"
+  },
+  {
+    "simpli": "red",
+    "translation": "红"
+  },
+  {
+    "simpli": "riport",
+    "translation": "报告"
+  },
+  {
+    "simpli": "doter",
+    "translation": "女儿"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "几乎"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "搜索"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "协会"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "澳大利亚"
+  },
+  {
+    "simpli": "giv",
+    "translation": "给"
+  },
+  {
+    "simpli": "akt",
+    "translation": "行为"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "材料"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "尽管"
+  },
+  {
+    "simpli": "palis",
+    "translation": "警察"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "部长"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "人"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "建设"
+  },
+  {
+    "simpli": "post",
+    "translation": "帖子"
+  },
+  {
+    "simpli": "india",
+    "translation": "印度"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "今天"
+  },
+  {
+    "simpli": "reis",
+    "translation": "种族"
+  },
+  {
+    "simpli": "das",
+    "translation": "因此"
+  },
+  {
+    "simpli": "ril",
+    "translation": "真实"
+  },
+  {
+    "simpli": "nan",
+    "translation": "无"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "阶段"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "南部"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "教练"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "个人"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "教授"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "学习"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "外面"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "主要"
+  },
+  {
+    "simpli": "websait",
+    "translation": "网站"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "首秀"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "贯穿"
+  },
+  {
+    "simpli": "helt",
+    "translation": "健康"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "尤其"
+  },
+  {
+    "simpli": "werd",
+    "translation": "词"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "未来"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "等等"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "视图"
+  },
+  {
+    "simpli": "frans",
+    "translation": "法国"
+  },
+  {
+    "simpli": "sais",
+    "translation": "大小"
+  },
+  {
+    "simpli": "sold",
+    "translation": "售出"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "组织"
+  },
+  {
+    "simpli": "yet",
+    "translation": "还"
+  },
+  {
+    "simpli": "strong",
+    "translation": "强"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "破折号"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "锦标赛"
+  },
+  {
+    "simpli": "klir",
+    "translation": "清楚"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "多个"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "平均"
+  },
+  {
+    "simpli": "ever",
+    "translation": "曾经"
+  },
+  {
+    "simpli": "lait",
+    "translation": "光"
+  },
+  {
+    "simpli": "wik",
+    "translation": "周"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "用户名"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "创建"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "范围"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "覆盖"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "最终"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "返回"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "行动"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "颜色"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "加拿大"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "日语"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "兴趣"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "博物馆"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "杂志"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "以前"
+  },
+  {
+    "simpli": "haf",
+    "translation": "一半"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "作家"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "首领"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "主题"
+  },
+  {
+    "simpli": "brader",
+    "translation": "兄弟"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "大体"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "委员会"
+  },
+  {
+    "simpli": "hol",
+    "translation": "大厅"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "个人"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "最大"
+  },
+  {
+    "simpli": "past",
+    "translation": "过去"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "选举"
+  },
+  {
+    "simpli": "performans",
+    "translation": "表演"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "特定"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "收藏"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "相信"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "私人"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "很可能"
+  },
+  {
+    "simpli": "big",
+    "translation": "大"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "政客"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "活跃"
+  },
+  {
+    "simpli": "en",
+    "translation": "英语"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "账户"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "联盟"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "标签"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "具体"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "威廉"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "澳大利亚的"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "主意"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "附加"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "欧洲的"
+  },
+  {
+    "simpli": "indian",
+    "translation": "印度的"
+  },
+  {
+    "simpli": "referans",
+    "translation": "参考"
+  },
+  {
+    "simpli": "rul",
+    "translation": "规则"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "欧洲"
+  },
+  {
+    "simpli": "lat",
+    "translation": "许多"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "合并"
+  },
+  {
+    "simpli": "sun",
+    "translation": "不久"
+  },
+  {
+    "simpli": "faier",
+    "translation": "火"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "仅仅"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "竞赛"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "标准"
+  },
+  {
+    "simpli": "let",
+    "translation": "让"
+  },
+  {
+    "simpli": "madal",
+    "translation": "模型"
+  },
+  {
+    "simpli": "lider",
+    "translation": "领导者"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "德国"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "谷歌"
+  },
+  {
+    "simpli": "mar",
+    "translation": "三月"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "价值"
+  },
+  {
+    "simpli": "nait",
+    "translation": "夜晚"
+  },
+  {
+    "simpli": "rut",
+    "translation": "路线"
+  },
+  {
+    "simpli": "apir",
+    "translation": "出现"
+  },
+  {
+    "simpli": "akter",
+    "translation": "演员"
+  },
+  {
+    "simpli": "gold",
+    "translation": "黄金"
+  },
+  {
+    "simpli": "sival",
+    "translation": "民用"
+  },
+  {
+    "simpli": "digri",
+    "translation": "度"
+  },
+  {
+    "simpli": "atak",
+    "translation": "攻击"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "女性"
+  },
+  {
+    "simpli": "roial",
+    "translation": "皇家"
+  },
+  {
+    "simpli": "frant",
+    "translation": "前方"
+  },
+  {
+    "simpli": "vot",
+    "translation": "投票"
+  },
+  {
+    "simpli": "yes",
+    "translation": "是"
+  },
+  {
+    "simpli": "naval",
+    "translation": "小说"
+  },
+  {
+    "simpli": "samer",
+    "translation": "夏天"
+  },
+  {
+    "simpli": "sent",
+    "translation": "送出"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "质量"
+  },
+  {
+    "simpli": "studio",
+    "translation": "工作室"
+  },
+  {
+    "simpli": "istern",
+    "translation": "东方"
+  },
+  {
+    "simpli": "praier",
+    "translation": "先前"
+  },
+  {
+    "simpli": "ten",
+    "translation": "十"
+  },
+  {
+    "simpli": "rak",
+    "translation": "岩石"
+  },
+  {
+    "simpli": "dek",
+    "translation": "十二月"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "中国"
+  },
+  {
+    "simpli": "midal",
+    "translation": "中间"
+  },
+  {
+    "simpli": "kar",
+    "translation": "汽车"
+  },
+  {
+    "simpli": "okt",
+    "translation": "十月"
+  },
+  {
+    "simpli": "longer",
+    "translation": "更长"
+  },
+  {
+    "simpli": "trai",
+    "translation": "尝试"
+  },
+  {
+    "simpli": "singer",
+    "translation": "歌手"
+  },
+  {
+    "simpli": "agri",
+    "translation": "同意"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "博士"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "官员"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "相当"
+  },
+  {
+    "simpli": "sim",
+    "translation": "似乎"
+  },
+  {
+    "simpli": "tur",
+    "translation": "旅游"
+  },
+  {
+    "simpli": "bar",
+    "translation": "酒吧"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "飞机"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "网络"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "女人"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "医疗"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "戴维"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "历史的"
+  },
+  {
+    "simpli": "eit",
+    "translation": "八"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "完成"
+  },
+  {
+    "simpli": "mit",
+    "translation": "见面"
+  },
+  {
+    "simpli": "loer",
+    "translation": "较低"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "后面"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "位置"
+  },
+  {
+    "simpli": "nov",
+    "translation": "十一月"
+  },
+  {
+    "simpli": "leik",
+    "translation": "湖"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "日本"
+  },
+  {
+    "simpli": "bit",
+    "translation": "一点"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "图书馆"
+  },
+  {
+    "simpli": "didn",
+    "translation": "没有"
+  },
+  {
+    "simpli": "risant",
+    "translation": "近来"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "首都"
+  },
+  {
+    "simpli": "apr",
+    "translation": "四月"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "生产者"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "版权"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "年长"
+  },
+  {
+    "simpli": "fort",
+    "translation": "第四"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "更早"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "任何人"
+  },
+  {
+    "simpli": "min",
+    "translation": "意思"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "管理"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "提名"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "乔治"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "工业"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "确定"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "不能"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "吉他"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "尤其"
+  },
+  {
+    "simpli": "sep",
+    "translation": "九月"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "锦标赛"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "节日"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "中文"
+  },
+  {
+    "simpli": "sip",
+    "translation": "船"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "孩子"
+  },
+  {
+    "simpli": "beis",
+    "translation": "基础"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "铁路"
+  },
+  {
+    "simpli": "kap",
+    "translation": "杯"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "在线"
+  },
+  {
+    "simpli": "san",
+    "translation": "圣"
+  },
+  {
+    "simpli": "studant",
+    "translation": "学生"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "成功"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "竞选"
+  },
+  {
+    "simpli": "haier",
+    "translation": "更高"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "文化"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "分离"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "八月"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "因此"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "技术"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "运动"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "常规"
+  },
+  {
+    "simpli": "mani",
+    "translation": "钱"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "俄语"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "大约"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "大多"
+  },
+  {
+    "simpli": "rest",
+    "translation": "其余"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "结构"
+  },
+  {
+    "simpli": "graond",
+    "translation": "地面"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "加拿大的"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "意大利语"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "整个"
+  },
+  {
+    "simpli": "markat",
+    "translation": "市场"
+  },
+  {
+    "simpli": "mater",
+    "translation": "事情"
+  },
+  {
+    "simpli": "saond",
+    "translation": "声音"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "实践"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "声称"
+  },
+  {
+    "simpli": "hum",
+    "translation": "谁"
+  },
+  {
+    "simpli": "hand",
+    "translation": "手"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "学院"
+  },
+  {
+    "simpli": "batal",
+    "translation": "战斗"
+  },
+  {
+    "simpli": "star",
+    "translation": "星"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "合法"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "商业"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "西班牙语"
+  },
+  {
+    "simpli": "notas",
+    "translation": "通知"
+  },
+  {
+    "simpli": "mark",
+    "translation": "标记"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "本地"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "单元"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "决定"
+  },
+  {
+    "simpli": "border",
+    "translation": "边界"
+  },
+  {
+    "simpli": "web",
+    "translation": "网"
+  },
+  {
+    "simpli": "lak",
+    "translation": "缺少"
+  },
+  {
+    "simpli": "met",
+    "translation": "遇见"
+  },
+  {
+    "simpli": "hit",
+    "translation": "击"
+  },
+  {
+    "simpli": "net",
+    "translation": "网"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "经理"
+  },
+  {
+    "simpli": "overol",
+    "translation": "总体"
+  },
+  {
+    "simpli": "staf",
+    "translation": "人员"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "回应"
+  },
+  {
+    "simpli": "mant",
+    "translation": "月"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "最初"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "自然"
+  },
+  {
+    "simpli": "fil",
+    "translation": "觉得"
+  },
+  {
+    "simpli": "son",
+    "translation": "显示"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "特点"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "医院"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "次要"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "企图"
+  },
+  {
+    "simpli": "blu",
+    "translation": "蓝色"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "财产"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "清楚地"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "长度"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "传统"
+  },
+  {
+    "simpli": "medal",
+    "translation": "奖牌"
+  },
+  {
+    "simpli": "kol",
+    "translation": "称呼"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "经验"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "桥"
+  },
+  {
+    "simpli": "test",
+    "translation": "测试"
+  },
+  {
+    "simpli": "els",
+    "translation": "其他"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "电影"
+  },
+  {
+    "simpli": "spent",
+    "translation": "花费"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "期刊"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "银行"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "观点"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "页面名"
+  },
+  {
+    "simpli": "jul",
+    "translation": "七月"
+  },
+  {
+    "simpli": "ro",
+    "translation": "行"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "加利福尼亚"
+  },
+  {
+    "simpli": "skop",
+    "translation": "范围"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "区域的"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "基金会"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "多数"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "每年"
+  },
+  {
+    "simpli": "ker",
+    "translation": "关心"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "跨行"
+  },
+  {
+    "simpli": "fud",
+    "translation": "食物"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "罗伯特"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "能量"
+  },
+  {
+    "simpli": "bad",
+    "translation": "坏"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "音乐的"
+  },
+  {
+    "simpli": "federal",
+    "translation": "联邦"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "迅速"
+  },
+  {
+    "simpli": "mister",
+    "translation": "先生"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "最近"
+  },
+  {
+    "simpli": "dil",
+    "translation": "交易"
+  },
+  {
+    "simpli": "foran",
+    "translation": "外国的"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "终于"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "行政"
+  },
+  {
+    "simpli": "gol",
+    "translation": "目标"
+  },
+  {
+    "simpli": "lt",
+    "translation": "中尉"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "种类"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "自然"
+  },
+  {
+    "simpli": "sens",
+    "translation": "感觉"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "维基"
+  },
+  {
+    "simpli": "stap",
+    "translation": "停止"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "会议"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "提及"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "索引"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "非洲"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "理解"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "直接"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "外表"
+  },
+  {
+    "simpli": "master",
+    "translation": "主人"
+  },
+  {
+    "simpli": "entri",
+    "translation": "条目"
+  },
+  {
+    "simpli": "skver",
+    "translation": "正方形"
+  },
+  {
+    "simpli": "plan",
+    "translation": "计划"
+  },
+  {
+    "simpli": "waid",
+    "translation": "宽"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "房间"
+  },
+  {
+    "simpli": "kost",
+    "translation": "海岸"
+  },
+  {
+    "simpli": "tern",
+    "translation": "转动"
+  },
+  {
+    "simpli": "pik",
+    "translation": "顶峰"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "除外"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "州长"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "经济的"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "合同"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "王国"
+  },
+  {
+    "simpli": "hil",
+    "translation": "丘陵"
+  },
+  {
+    "simpli": "grand",
+    "translation": "盛大"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "队长"
+  },
+  {
+    "simpli": "fer",
+    "translation": "公平"
+  },
+  {
+    "simpli": "fain",
+    "translation": "好"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "迈克尔"
+  },
+  {
+    "simpli": "kii",
+    "translation": "钥匙"
+  },
+  {
+    "simpli": "los",
+    "translation": "损失"
+  },
+  {
+    "simpli": "global",
+    "translation": "全球"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "超文本预处理器"
+  },
+  {
+    "simpli": "sit",
+    "translation": "座位"
+  },
+  {
+    "simpli": "winer",
+    "translation": "赢家"
+  },
+  {
+    "simpli": "older",
+    "translation": "更老"
+  },
+  {
+    "simpli": "rong",
+    "translation": "错误"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "助理"
+  },
+  {
+    "simpli": "hard",
+    "translation": "硬"
+  },
+  {
+    "simpli": "pol",
+    "translation": "保罗"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "最高"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "理论"
+  },
+  {
+    "simpli": "frend",
+    "translation": "朋友"
+  },
+  {
+    "simpli": "til",
+    "translation": "直到"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "文化的"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "报纸"
+  },
+  {
+    "simpli": "treid",
+    "translation": "贸易"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "次要"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "感谢"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "候选人"
+  },
+  {
+    "simpli": "apos",
+    "translation": "反对"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "学术"
+  },
+  {
+    "simpli": "braon",
+    "translation": "棕色"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "复杂"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "其后"
+  },
+  {
+    "simpli": "alao",
+    "translation": "允许"
+  },
+  {
+    "simpli": "plant",
+    "translation": "植物"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "更大"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "华盛顿"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "完全"
+  },
+  {
+    "simpli": "historik",
+    "translation": "历史性"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "效果"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "频道"
+  },
+  {
+    "simpli": "fol",
+    "translation": "落下"
+  },
+  {
+    "simpli": "kas",
+    "translation": "原因"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "跨列"
+  },
+  {
+    "simpli": "pas",
+    "translation": "通过"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "网络协议"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "有用"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "剧院"
+  },
+  {
+    "simpli": "gad",
+    "translation": "上帝"
+  },
+  {
+    "simpli": "admin",
+    "translation": "管理"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "安全"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "主席"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "注意"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "命令"
+  },
+  {
+    "simpli": "sister",
+    "translation": "姐妹"
+  },
+  {
+    "simpli": "ed",
+    "translation": "编辑"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "自治市"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "继续"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "一对"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "纸"
+  },
+  {
+    "simpli": "kod",
+    "translation": "代码"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "基督教的"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "建议"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "目的"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "计算机"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "主要"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "创造"
+  },
+  {
+    "simpli": "meri",
+    "translation": "玛丽"
+  },
+  {
+    "simpli": "sat",
+    "translation": "射击"
+  },
+  {
+    "simpli": "format",
+    "translation": "格式"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "存在"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "省"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "关系"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "丈夫"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "相关"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "几乎"
+  },
+  {
+    "simpli": "al",
+    "translation": "阿尔"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "山"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "金融"
+  },
+  {
+    "simpli": "nam",
+    "translation": "提名"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "多样"
+  },
+  {
+    "simpli": "haili",
+    "translation": "高度"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "知识"
+  },
+  {
+    "simpli": "felo",
+    "translation": "同事"
+  },
+  {
+    "simpli": "salad",
+    "translation": "固体"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "学会"
+  },
+  {
+    "simpli": "smit",
+    "translation": "史密斯"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "也许"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "行动"
+  },
+  {
+    "simpli": "silver",
+    "translation": "银"
+  },
+  {
+    "simpli": "et",
+    "translation": "和"
+  },
+  {
+    "simpli": "misan",
+    "translation": "任务"
+  },
+  {
+    "simpli": "skor",
+    "translation": "比分"
+  },
+  {
+    "simpli": "vali",
+    "translation": "山谷"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "光盘"
+  },
+  {
+    "simpli": "meil",
+    "translation": "男性"
+  },
+  {
+    "simpli": "piter",
+    "translation": "彼得"
+  },
+  {
+    "simpli": "later",
+    "translation": "后者"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "必要"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "从前"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "秘书"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "非洲的"
+  },
+  {
+    "simpli": "nain",
+    "translation": "九"
+  },
+  {
+    "simpli": "yut",
+    "translation": "青年"
+  },
+  {
+    "simpli": "map",
+    "translation": "地图"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "胜利"
+  },
+  {
+    "simpli": "ser",
+    "translation": "先生"
+  },
+  {
+    "simpli": "ded",
+    "translation": "死的"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "软件"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "功能"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "引擎"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "冠军"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "桌子"
+  },
+  {
+    "simpli": "ert",
+    "translation": "地球"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "数量"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "考虑"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "否则"
+  },
+  {
+    "simpli": "djab",
+    "translation": "工作"
+  },
+  {
+    "simpli": "fait",
+    "translation": "打架"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "体积"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "爱尔兰"
+  },
+  {
+    "simpli": "serv",
+    "translation": "服务"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "正确"
+  },
+  {
+    "simpli": "siland",
+    "translation": "西兰"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "直接"
+  },
+  {
+    "simpli": "la",
+    "translation": "勒"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "简单"
+  },
+  {
+    "simpli": "feis",
+    "translation": "脸"
+  },
+  {
+    "simpli": "kast",
+    "translation": "投"
+  },
+  {
+    "simpli": "reit",
+    "translation": "速率"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "数字"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "里面"
+  },
+  {
+    "simpli": "trein",
+    "translation": "火车"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "增加"
+  },
+  {
+    "simpli": "vois",
+    "translation": "嗓音"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "排名"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "立刻"
+  },
+  {
+    "simpli": "htm",
+    "translation": "超文本"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "陈述"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "困难"
+  },
+  {
+    "simpli": "bil",
+    "translation": "账单"
+  },
+  {
+    "simpli": "biand",
+    "translation": "超出"
+  },
+  {
+    "simpli": "hop",
+    "translation": "希望"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "图片"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "委员会"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "古代"
+  },
+  {
+    "simpli": "info",
+    "translation": "信息"
+  },
+  {
+    "simpli": "pur",
+    "translation": "贫穷"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "法官"
+  },
+  {
+    "simpli": "ston",
+    "translation": "石头"
+  },
+  {
+    "simpli": "itali",
+    "translation": "意大利"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "移除"
+  },
+  {
+    "simpli": "targat",
+    "translation": "目标"
+  },
+  {
+    "simpli": "van",
+    "translation": "范"
+  },
+  {
+    "simpli": "ago",
+    "translation": "以前"
+  },
+  {
+    "simpli": "henri",
+    "translation": "亨利"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "可能"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "数字的"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "主要"
+  },
+  {
+    "simpli": "maind",
+    "translation": "心智"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "海军"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "产品"
+  },
+  {
+    "simpli": "hart",
+    "translation": "心脏"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "表面"
+  },
+  {
+    "simpli": "los",
+    "translation": "洛斯"
+  },
+  {
+    "simpli": "baks",
+    "translation": "盒子"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "图表"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "天主教的"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "标准"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "具体地"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "概念"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "积极"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "潜力"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "百科全书"
+  },
+  {
+    "simpli": "tel",
+    "translation": "告诉"
+  },
+  {
+    "simpli": "alon",
+    "translation": "独自"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "检查"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "负责"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "当然"
+  },
+  {
+    "simpli": "priti",
+    "translation": "漂亮"
+  },
+  {
+    "simpli": "dans",
+    "translation": "跳舞"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "分支"
+  },
+  {
+    "simpli": "era",
+    "translation": "时代"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "技术的"
+  },
+  {
+    "simpli": "praim",
+    "translation": "主要的"
+  },
+  {
+    "simpli": "host",
+    "translation": "主人"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "庙"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "文学"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "行政管理"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "情况"
+  },
+  {
+    "simpli": "widt",
+    "translation": "宽度"
+  },
+  {
+    "simpli": "prais",
+    "translation": "奖品"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "广播"
+  },
+  {
+    "simpli": "nor",
+    "translation": "也不"
+  },
+  {
+    "simpli": "roman",
+    "translation": "罗马的"
+  },
+  {
+    "simpli": "influans",
+    "translation": "影响"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "理查德"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "句子"
+  },
+  {
+    "simpli": "leter",
+    "translation": "字母"
+  },
+  {
+    "simpli": "domein",
+    "translation": "域"
+  },
+  {
+    "simpli": "kat",
+    "translation": "切"
+  },
+  {
+    "simpli": "el",
+    "translation": "埃尔"
+  },
+  {
+    "simpli": "hold",
+    "translation": "握住"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "行政的"
+  },
+  {
+    "simpli": "aper",
+    "translation": "上部"
+  },
+  {
+    "simpli": "ask",
+    "translation": "问"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "实际"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "指挥官"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "俄罗斯"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "能力"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "婚姻"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "科学的"
+  },
+  {
+    "simpli": "oner",
+    "translation": "所有者"
+  },
+  {
+    "simpli": "internet",
+    "translation": "互联网"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "附近"
+  },
+  {
+    "simpli": "bei",
+    "translation": "海湾"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "突出"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "基本"
+  },
+  {
+    "simpli": "bas",
+    "translation": "低音"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "共和国"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "司法"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "议会"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "方法"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "创始人"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "迅速"
+  },
+  {
+    "simpli": "grik",
+    "translation": "希腊语"
+  },
+  {
+    "simpli": "erport",
+    "translation": "机场"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "争端"
+  },
+  {
+    "simpli": "anser",
+    "translation": "答案"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "广泛"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "方向"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "收入"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "通常"
+  },
+  {
+    "simpli": "maont",
+    "translation": "山"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "苏联的"
+  },
+  {
+    "simpli": "airis",
+    "translation": "爱尔兰的"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "典型"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "最初"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "公路"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "篮球"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "当代"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "犹太的"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "女孩"
+  },
+  {
+    "simpli": "meier",
+    "translation": "市长"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "定居点"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "上下文"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "更小"
+  },
+  {
+    "simpli": "sin",
+    "translation": "场景"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "关键"
+  },
+  {
+    "simpli": "anon",
+    "translation": "未知"
+  },
+  {
+    "simpli": "tag",
+    "translation": "标签"
+  },
+  {
+    "simpli": "mas",
+    "translation": "群众"
+  },
+  {
+    "simpli": "foto",
+    "translation": "照片"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "主教"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "酒店"
+  },
+  {
+    "simpli": "piano",
+    "translation": "钢琴"
+  },
+  {
+    "simpli": "sain",
+    "translation": "标志"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "论点"
+  },
+  {
+    "simpli": "fift",
+    "translation": "第五"
+  },
+  {
+    "simpli": "perant",
+    "translation": "父母"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "描述"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "改进"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "避免"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "生产"
+  },
+  {
+    "simpli": "dark",
+    "translation": "黑暗"
+  },
+  {
+    "simpli": "flait",
+    "translation": "飞行"
+  },
+  {
+    "simpli": "ga",
+    "translation": "佐治亚"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "重"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "出版物"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "物理"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "外部"
+  },
+  {
+    "simpli": "deili",
+    "translation": "每日"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "美国"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "墨西哥"
+  },
+  {
+    "simpli": "oil",
+    "translation": "油"
+  },
+  {
+    "simpli": "twais",
+    "translation": "两次"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "工程师"
+  },
+  {
+    "simpli": "falo",
+    "translation": "跟随"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "正式"
+  },
+  {
+    "simpli": "lord",
+    "translation": "领主"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "更大"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "教师"
+  },
+  {
+    "simpli": "importans",
+    "translation": "重要性"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "完全"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "活动"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "充分"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "初级"
+  },
+  {
+    "simpli": "vol",
+    "translation": "卷"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "到达"
+  },
+  {
+    "simpli": "feit",
+    "translation": "信仰"
+  },
+  {
+    "simpli": "datj",
+    "translation": "荷兰语"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "不久"
+  },
+  {
+    "simpli": "solo",
+    "translation": "独奏"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "作曲家"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "建立"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "国家"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "芝加哥"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "保持"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "城堡"
+  },
+  {
+    "simpli": "displei",
+    "translation": "显示"
+  },
+  {
+    "simpli": "rural",
+    "translation": "农村"
+  },
+  {
+    "simpli": "metad",
+    "translation": "方法"
+  },
+  {
+    "simpli": "isali",
+    "translation": "容易"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "每个人"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "复制"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "领土"
+  },
+  {
+    "simpli": "britan",
+    "translation": "英国"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "设备"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "画廊"
+  },
+  {
+    "simpli": "normal",
+    "translation": "正常"
+  },
+  {
+    "simpli": "prins",
+    "translation": "王子"
+  },
+  {
+    "simpli": "pis",
+    "translation": "片"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "冲突"
+  },
+  {
+    "simpli": "forast",
+    "translation": "森林"
+  },
+  {
+    "simpli": "efert",
+    "translation": "努力"
+  },
+  {
+    "simpli": "wert",
+    "translation": "值得"
+  },
+  {
+    "simpli": "split",
+    "translation": "分裂"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "营地"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "庄园"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "治疗"
+  },
+  {
+    "simpli": "bild",
+    "translation": "建造"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "团"
+  },
+  {
+    "simpli": "sort",
+    "translation": "种类"
+  },
+  {
+    "simpli": "draft",
+    "translation": "草稿"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "棒球"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "旁边"
+  },
+  {
+    "simpli": "port",
+    "translation": "港口"
+  },
+  {
+    "simpli": "der",
+    "translation": "德"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "公司"
+  },
+  {
+    "simpli": "kru",
+    "translation": "船员"
+  },
+  {
+    "simpli": "drama",
+    "translation": "戏剧"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "权威"
+  },
+  {
+    "simpli": "paris",
+    "translation": "教区"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "保护"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "协议"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "集会"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "加入"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "很大"
+  },
+  {
+    "simpli": "poland",
+    "translation": "波兰"
+  },
+  {
+    "simpli": "gru",
+    "translation": "成长"
+  },
+  {
+    "simpli": "spein",
+    "translation": "西班牙"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "计数"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "塔"
+  },
+  {
+    "simpli": "poat",
+    "translation": "诗人"
+  },
+  {
+    "simpli": "ment",
+    "translation": "意思是"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "提名者"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "小时"
+  },
+  {
+    "simpli": "distans",
+    "translation": "距离"
+  },
+  {
+    "simpli": "traval",
+    "translation": "旅行"
+  },
+  {
+    "simpli": "dai",
+    "translation": "死"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "独特"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "双"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "正好"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "容量"
+  },
+  {
+    "simpli": "krik",
+    "translation": "小溪"
+  },
+  {
+    "simpli": "wol",
+    "translation": "墙"
+  },
+  {
+    "simpli": "winter",
+    "translation": "冬天"
+  },
+  {
+    "simpli": "stor",
+    "translation": "商店"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "替代"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "向前"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "决议"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "影响"
+  },
+  {
+    "simpli": "bert",
+    "translation": "出生"
+  },
+  {
+    "simpli": "martan",
+    "translation": "马丁"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "采访"
+  },
+  {
+    "simpli": "grot",
+    "translation": "增长"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "消息"
+  },
+  {
+    "simpli": "pei",
+    "translation": "支付"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "收费"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "副手"
+  },
+  {
+    "simpli": "es",
+    "translation": "西班牙语"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "接受"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "环境"
+  },
+  {
+    "simpli": "traial",
+    "translation": "审判"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "提供"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "教育的"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "卡罗来纳"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "约瑟夫"
+  },
+  {
+    "simpli": "latan",
+    "translation": "拉丁语"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "显然"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "摘要"
+  },
+  {
+    "simpli": "des",
+    "translation": "德"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "领导"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "校长"
+  },
+  {
+    "simpli": "batam",
+    "translation": "底部"
+  },
+  {
+    "simpli": "ais",
+    "translation": "冰"
+  },
+  {
+    "simpli": "erban",
+    "translation": "城市"
+  },
+  {
+    "simpli": "herd",
+    "translation": "听到"
+  },
+  {
+    "simpli": "flag",
+    "translation": "旗"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "记者"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "存在"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "足球运动员"
+  },
+  {
+    "simpli": "boi",
+    "translation": "男孩"
+  },
+  {
+    "simpli": "flor",
+    "translation": "地板"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "损害"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "联系"
+  },
+  {
+    "simpli": "hait",
+    "translation": "高度"
+  },
+  {
+    "simpli": "presans",
+    "translation": "存在"
+  },
+  {
+    "simpli": "mon",
+    "translation": "星期一"
+  },
+  {
+    "simpli": "difens",
+    "translation": "防御"
+  },
+  {
+    "simpli": "farm",
+    "translation": "农场"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "差异"
+  },
+  {
+    "simpli": "ad",
+    "translation": "广告"
+  },
+  {
+    "simpli": "sat",
+    "translation": "坐"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "监狱"
+  },
+  {
+    "simpli": "linier",
+    "translation": "线性"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "展览"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "分别"
+  },
+  {
+    "simpli": "iii",
+    "translation": "三"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "行为"
+  },
+  {
+    "simpli": "stei",
+    "translation": "停留"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "代表"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "收到"
+  },
+  {
+    "simpli": "platform",
+    "translation": "平台"
+  },
+  {
+    "simpli": "li",
+    "translation": "李"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "纪念"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "公元前"
+  },
+  {
+    "simpli": "aner",
+    "translation": "荣誉"
+  },
+  {
+    "simpli": "greid",
+    "translation": "等级"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "民主"
+  },
+  {
+    "simpli": "transport",
+    "translation": "运输"
+  },
+  {
+    "simpli": "fort",
+    "translation": "堡"
+  },
+  {
+    "simpli": "tot",
+    "translation": "教"
+  },
+  {
+    "simpli": "breik",
+    "translation": "打破"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "选择"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "大街"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "女士"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "苏格兰"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "纪录片"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "分布"
+  },
+  {
+    "simpli": "privent",
+    "translation": "防止"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "不能"
+  },
+  {
+    "simpli": "weit",
+    "translation": "重量"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "交通"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "音乐会"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "相对"
+  },
+  {
+    "simpli": "stand",
+    "translation": "站"
+  },
+  {
+    "simpli": "midian",
+    "translation": "中位数"
+  },
+  {
+    "simpli": "praper",
+    "translation": "适当"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "亚洲"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "工业的"
+  },
+  {
+    "simpli": "dro",
+    "translation": "画"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "帝国"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "指南"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "连接"
+  },
+  {
+    "simpli": "persent",
+    "translation": "百分比"
+  },
+  {
+    "simpli": "merin",
+    "translation": "海洋"
+  },
+  {
+    "simpli": "seint",
+    "translation": "圣"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "晋升"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "部"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "形成"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "以色列"
+  },
+  {
+    "simpli": "blad",
+    "translation": "血"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "发展"
+  },
+  {
+    "simpli": "sport",
+    "translation": "体育"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "稍微"
+  },
+  {
+    "simpli": "apra",
+    "translation": "歌剧"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "镇区"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "定义"
+  },
+  {
+    "simpli": "alt",
+    "translation": "替代"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "纳入"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "反对"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "音乐家"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "翻译"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "更年轻"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "部分"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "医生"
+  },
+  {
+    "simpli": "ka",
+    "translation": "加利福尼亚"
+  },
+  {
+    "simpli": "sari",
+    "translation": "抱歉"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "包含"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "宗教"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "不是"
+  },
+  {
+    "simpli": "spred",
+    "translation": "传播"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "起源"
+  },
+  {
+    "simpli": "metal",
+    "translation": "金属"
+  },
+  {
+    "simpli": "del",
+    "translation": "德尔"
+  },
+  {
+    "simpli": "gas",
+    "translation": "气体"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "经常"
+  },
+  {
+    "simpli": "visit",
+    "translation": "访问"
+  },
+  {
+    "simpli": "dip",
+    "translation": "深"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "画家"
+  },
+  {
+    "simpli": "trast",
+    "translation": "信任"
+  },
+  {
+    "simpli": "difit",
+    "translation": "击败"
+  },
+  {
+    "simpli": "bol",
+    "translation": "球"
+  },
+  {
+    "simpli": "isi",
+    "translation": "容易"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "解释"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "中立"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "最老"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "教职工"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "建筑"
+  },
+  {
+    "simpli": "preser",
+    "translation": "压力"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "皇帝"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "英国广播公司"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "扩张"
+  },
+  {
+    "simpli": "valid",
+    "translation": "有效"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "规模"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "还原"
+  },
+  {
+    "simpli": "plas",
+    "translation": "加"
+  },
+  {
+    "simpli": "wud",
+    "translation": "木头"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "广泛"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "机会"
+  },
+  {
+    "simpli": "merder",
+    "translation": "谋杀"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "记忆"
+  },
+  {
+    "simpli": "masin",
+    "translation": "机器"
+  },
+  {
+    "simpli": "wed",
+    "translation": "星期三"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "保存"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "需要"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "公司"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "交换"
+  },
+  {
+    "simpli": "ros",
+    "translation": "玫瑰"
+  },
+  {
+    "simpli": "neival",
+    "translation": "海军的"
+  },
+  {
+    "simpli": "fis",
+    "translation": "鱼"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "理由"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "我自己"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "快乐"
+  },
+  {
+    "simpli": "nider",
+    "translation": "都不"
+  },
+  {
+    "simpli": "ban",
+    "translation": "禁止"
+  },
+  {
+    "simpli": "pap",
+    "translation": "流行"
+  },
+  {
+    "simpli": "brand",
+    "translation": "品牌"
+  },
+  {
+    "simpli": "gest",
+    "translation": "客人"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "不会"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "介绍"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "姓"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "安全"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "体育场"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "海滩"
+  },
+  {
+    "simpli": "gan",
+    "translation": "枪"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "犯罪"
+  },
+  {
+    "simpli": "kit",
+    "translation": "基特"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "设施"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "佐治亚"
+  },
+  {
+    "simpli": "fa",
+    "translation": "法"
+  },
+  {
+    "simpli": "djak",
+    "translation": "杰克"
+  },
+  {
+    "simpli": "okei",
+    "translation": "好"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "中队"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "储备"
+  },
+  {
+    "simpli": "risk",
+    "translation": "风险"
+  },
+  {
+    "simpli": "fel",
+    "translation": "落下"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "苏格兰的"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "共和党的"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "开始"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "提案"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "无论如何"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "应用"
+  },
+  {
+    "simpli": "vais",
+    "translation": "副"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "诗歌"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "弗吉尼亚"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "机构"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "电的"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "联合"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "导航框"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "文学的"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "爱德华"
+  },
+  {
+    "simpli": "logo",
+    "translation": "标志"
+  },
+  {
+    "simpli": "adians",
+    "translation": "观众"
+  },
+  {
+    "simpli": "brans",
+    "translation": "青铜"
+  },
+  {
+    "simpli": "mail",
+    "translation": "英里"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "新近"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "应用"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "医学"
+  },
+  {
+    "simpli": "florada",
+    "translation": "佛罗里达"
+  },
+  {
+    "simpli": "fols",
+    "translation": "假"
+  },
+  {
+    "simpli": "du",
+    "translation": "杜"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "解答"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "物体"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "喜剧"
+  },
+  {
+    "simpli": "brif",
+    "translation": "简短"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "太平洋"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "娱乐"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "建筑师"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "不像"
+  },
+  {
+    "simpli": "historian",
+    "translation": "历史学家"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "营"
+  },
+  {
+    "simpli": "limat",
+    "translation": "限制"
+  },
+  {
+    "simpli": "grant",
+    "translation": "授予"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "小说"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "贡献"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "创作者"
+  },
+  {
+    "simpli": "ref",
+    "translation": "参考"
+  },
+  {
+    "simpli": "finis",
+    "translation": "完成"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "管弦乐队"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "永久"
+  },
+  {
+    "simpli": "sel",
+    "translation": "细胞"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "重命名"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "负面"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "黄色"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "约翰逊"
+  },
+  {
+    "simpli": "task",
+    "translation": "任务"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "最终"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "代表"
+  },
+  {
+    "simpli": "rer",
+    "translation": "稀有"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "提议"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "传统"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "有效"
+  },
+  {
+    "simpli": "partner",
+    "translation": "伙伴"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "秘密"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "十亿"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "选项"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "极其"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "足够"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "促进"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "章"
+  },
+  {
+    "simpli": "pov",
+    "translation": "观点"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "瑞典的"
+  },
+  {
+    "simpli": "von",
+    "translation": "冯"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "人员"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "尊重"
+  },
+  {
+    "simpli": "tam",
+    "translation": "汤姆"
+  },
+  {
+    "simpli": "djas",
+    "translation": "爵士乐"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "代理人"
+  },
+  {
+    "simpli": "fri",
+    "translation": "星期五"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "细节"
+  },
+  {
+    "simpli": "antu",
+    "translation": "到上"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "一代"
+  },
+  {
+    "simpli": "perform",
+    "translation": "执行"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "牛津"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "等价"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "飞行员"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "全世界"
+  },
+  {
+    "simpli": "hors",
+    "translation": "马"
+  },
+  {
+    "simpli": "senat",
+    "translation": "参议院"
+  },
+  {
+    "simpli": "kor",
+    "translation": "核心"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "供应"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "替换"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "索科罗"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "破坏"
+  },
+  {
+    "simpli": "hat",
+    "translation": "热"
+  },
+  {
+    "simpli": "instans",
+    "translation": "实例"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "奥林匹克"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "经济"
+  },
+  {
+    "simpli": "servei",
+    "translation": "调查"
+  },
+  {
+    "simpli": "di",
+    "translation": "迪"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "显然"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "关心"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "公司"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "挑战"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "哲学"
+  },
+  {
+    "simpli": "advans",
+    "translation": "前进"
+  },
+  {
+    "simpli": "taks",
+    "translation": "税"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "许可证"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "事件"
+  },
+  {
+    "simpli": "bot",
+    "translation": "机器人"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "第六"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "自由"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "身份"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "最大"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "有些"
+  },
+  {
+    "simpli": "plat",
+    "translation": "情节"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "波士顿"
+  },
+  {
+    "simpli": "step",
+    "translation": "步"
+  },
+  {
+    "simpli": "disis",
+    "translation": "疾病"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "柏林"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "环境的"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "调查"
+  },
+  {
+    "simpli": "flit",
+    "translation": "舰队"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "步兵"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "战斗"
+  },
+  {
+    "simpli": "rais",
+    "translation": "上升"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "生成"
+  },
+  {
+    "simpli": "taword",
+    "translation": "朝向"
+  },
+  {
+    "simpli": "vies",
+    "translation": "对"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "条件"
+  },
+  {
+    "simpli": "mis",
+    "translation": "错过"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "古典"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "经典"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "记得"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "动物"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "内部"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "弗兰克"
+  },
+  {
+    "simpli": "fr",
+    "translation": "法语"
+  },
+  {
+    "simpli": "momant",
+    "translation": "时刻"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "毕业"
+  },
+  {
+    "simpli": "watever",
+    "translation": "无论"
+  },
+  {
+    "simpli": "internal",
+    "translation": "内部"
+  },
+  {
+    "simpli": "seip",
+    "translation": "形状"
+  },
+  {
+    "simpli": "herself",
+    "translation": "她自己"
+  },
+  {
+    "simpli": "streit",
+    "translation": "直"
+  },
+  {
+    "simpli": "seks",
+    "translation": "性别"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "密切"
+  },
+  {
+    "simpli": "skat",
+    "translation": "斯科特"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "通信"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "家庭"
+  },
+  {
+    "simpli": "edj",
+    "translation": "边缘"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "转移"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "表明"
+  },
+  {
+    "simpli": "haki",
+    "translation": "曲棍球"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "视觉"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "强大"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "市政"
+  },
+  {
+    "simpli": "fot",
+    "translation": "战斗"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "椅子"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "显著"
+  },
+  {
+    "simpli": "minat",
+    "translation": "分钟"
+  },
+  {
+    "simpli": "lern",
+    "translation": "学习"
+  },
+  {
+    "simpli": "kard",
+    "translation": "卡片"
+  },
+  {
+    "simpli": "gard",
+    "translation": "守卫"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "保护"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "西北"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "失败"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "出版商"
+  },
+  {
+    "simpli": "ai",
+    "translation": "眼睛"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "时尚"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "独立"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "便携文档"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "司机"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "强烈"
+  },
+  {
+    "simpli": "advais",
+    "translation": "建议"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "认可"
+  },
+  {
+    "simpli": "kil",
+    "translation": "杀死"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "橄榄球"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "车辆"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "律师"
+  },
+  {
+    "simpli": "brok",
+    "translation": "打破"
+  },
+  {
+    "simpli": "huk",
+    "translation": "钩"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "遗产"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "东南"
+  },
+  {
+    "simpli": "korner",
+    "translation": "角落"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "性的"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "伊丽莎白"
+  },
+  {
+    "simpli": "wis",
+    "translation": "希望"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "演讲"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "确定"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "违反"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "宾夕法尼亚"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "铁路"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "铁"
+  },
+  {
+    "simpli": "gav",
+    "translation": "政府"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "退休"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "弗朗西斯科"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "向前"
+  },
+  {
+    "simpli": "eid",
+    "translation": "援助"
+  },
+  {
+    "simpli": "daot",
+    "translation": "怀疑"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "小队"
+  },
+  {
+    "simpli": "ru",
+    "translation": "俄语"
+  },
+  {
+    "simpli": "watj",
+    "translation": "观看"
+  },
+  {
+    "simpli": "apart",
+    "translation": "分开"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "癌症"
+  },
+  {
+    "simpli": "misis",
+    "translation": "夫人"
+  }
+]

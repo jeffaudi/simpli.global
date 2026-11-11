@@ -600,7 +600,7 @@
         },
         {
           "tag": "li",
-          "html": "3253 → <strong>tri tausand tu hundrad faiv ten tri</strong>"
+          "html": "3253 → <strong>tri taosand tu hundrad faiv ten tri</strong>"
         },
         {
           "tag": "li",
@@ -663,7 +663,7 @@
       "children": [
         {
           "tag": "li",
-          "html": "18 djun 2026 → <strong>wan ten eit djun tu tausand tu ten siks</strong>"
+          "html": "18 djun 2026 → <strong>wan ten eit djun tu taosand tu ten siks</strong>"
         },
         {
           "tag": "li",
@@ -716,7 +716,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "January"
+                  "key": "month1"
                 },
                 {
                   "tag": "td",
@@ -733,7 +733,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "February"
+                  "key": "month2"
                 },
                 {
                   "tag": "td",
@@ -750,7 +750,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "March"
+                  "key": "month3"
                 },
                 {
                   "tag": "td",
@@ -767,7 +767,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "April"
+                  "key": "month4"
                 },
                 {
                   "tag": "td",
@@ -784,7 +784,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "May"
+                  "key": "month5"
                 },
                 {
                   "tag": "td",
@@ -801,7 +801,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "June"
+                  "key": "month6"
                 },
                 {
                   "tag": "td",
@@ -818,7 +818,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "July"
+                  "key": "month7"
                 },
                 {
                   "tag": "td",
@@ -835,7 +835,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "August"
+                  "key": "month8"
                 },
                 {
                   "tag": "td",
@@ -852,7 +852,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "September"
+                  "key": "month9"
                 },
                 {
                   "tag": "td",
@@ -869,7 +869,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "October"
+                  "key": "month10"
                 },
                 {
                   "tag": "td",
@@ -886,7 +886,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "November"
+                  "key": "month11"
                 },
                 {
                   "tag": "td",
@@ -903,7 +903,7 @@
                 },
                 {
                   "tag": "td",
-                  "html": "December"
+                  "key": "month12"
                 },
                 {
                   "tag": "td",

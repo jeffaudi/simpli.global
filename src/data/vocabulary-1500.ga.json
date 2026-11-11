@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "de"
+  },
+  {
+    "simpli": "in",
+    "translation": "i"
+  },
+  {
+    "simpli": "and",
+    "translation": "agus"
+  },
+  {
+    "simpli": "tu",
+    "translation": "chuig"
+  },
+  {
+    "simpli": "an",
+    "translation": "ar"
+  },
+  {
+    "simpli": "as",
+    "translation": "mar"
+  },
+  {
+    "simpli": "for",
+    "translation": "do"
+  },
+  {
+    "simpli": "bai",
+    "translation": "ag"
+  },
+  {
+    "simpli": "dat",
+    "translation": "sin"
+  },
+  {
+    "simpli": "el",
+    "translation": "sé/sí"
+  },
+  {
+    "simpli": "wit",
+    "translation": "le"
+  },
+  {
+    "simpli": "at",
+    "translation": "ag"
+  },
+  {
+    "simpli": "fram",
+    "translation": "ó"
+  },
+  {
+    "simpli": "nat",
+    "translation": "ní"
+  },
+  {
+    "simpli": "or",
+    "translation": "nó"
+  },
+  {
+    "simpli": "witj",
+    "translation": "cé acu"
+  },
+  {
+    "simpli": "bat",
+    "translation": "ach"
+  },
+  {
+    "simpli": "hav",
+    "translation": "bheith ag"
+  },
+  {
+    "simpli": "olso",
+    "translation": "freisin"
+  },
+  {
+    "simpli": "van",
+    "translation": "aon"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "leathanach"
+  },
+  {
+    "simpli": "yu",
+    "translation": "tú"
+  },
+  {
+    "simpli": "no",
+    "translation": "níl"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "céad"
+  },
+  {
+    "simpli": "dey",
+    "translation": "siad"
+  },
+  {
+    "simpli": "hu",
+    "translation": "cé"
+  },
+  {
+    "simpli": "der",
+    "translation": "ansin"
+  },
+  {
+    "simpli": "mei",
+    "translation": "b'fhéidir"
+  },
+  {
+    "simpli": "after",
+    "translation": "tar éis"
+  },
+  {
+    "simpli": "ol",
+    "translation": "uile"
+  },
+  {
+    "simpli": "nu",
+    "translation": "nua"
+  },
+  {
+    "simpli": "ader",
+    "translation": "eile"
+  },
+  {
+    "simpli": "if",
+    "translation": "má"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "plé"
+  },
+  {
+    "simpli": "kan",
+    "translation": "féad"
+  },
+  {
+    "simpli": "mor",
+    "translation": "tuilleadh"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "faoi"
+  },
+  {
+    "simpli": "satj",
+    "translation": "a leithéid"
+  },
+  {
+    "simpli": "sam",
+    "translation": "roinnt"
+  },
+  {
+    "simpli": "taim",
+    "translation": "am"
+  },
+  {
+    "simpli": "onli",
+    "translation": "amháin"
+  },
+  {
+    "simpli": "intu",
+    "translation": "isteach"
+  },
+  {
+    "simpli": "so",
+    "translation": "mar sin"
+  },
+  {
+    "simpli": "ap",
+    "translation": "suas"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "scriosadh"
+  },
+  {
+    "simpli": "wer",
+    "translation": "cá"
+  },
+  {
+    "simpli": "aot",
+    "translation": "amach"
+  },
+  {
+    "simpli": "dan",
+    "translation": "ná"
+  },
+  {
+    "simpli": "most",
+    "translation": "formhór"
+  },
+  {
+    "simpli": "over",
+    "translation": "thar"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "nasc"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "Eanáir"
+  },
+  {
+    "simpli": "martj",
+    "translation": "Márta"
+  },
+  {
+    "simpli": "born",
+    "translation": "rugadh"
+  },
+  {
+    "simpli": "september",
+    "translation": "Meán Fómhair"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "Deireadh Fómhair"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "Iúil"
+  },
+  {
+    "simpli": "agast",
+    "translation": "Lúnasa"
+  },
+  {
+    "simpli": "plis",
+    "translation": "le do thoil"
+  },
+  {
+    "simpli": "disember",
+    "translation": "Nollaig"
+  },
+  {
+    "simpli": "djun",
+    "translation": "Meitheamh"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "Aibreán"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "ú"
+  },
+  {
+    "simpli": "wil",
+    "translation": "todhchaí"
+  },
+  {
+    "simpli": "eni",
+    "translation": "aon"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "cad"
+  },
+  {
+    "simpli": "november",
+    "translation": "Samhain"
+  },
+  {
+    "simpli": "dis",
+    "translation": "iad seo"
+  },
+  {
+    "simpli": "wi",
+    "translation": "muid"
+  },
+  {
+    "simpli": "meni",
+    "translation": "a lán"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "Feabhra"
+  },
+  {
+    "simpli": "laik",
+    "translation": "cosúil"
+  },
+  {
+    "simpli": "dem",
+    "translation": "iad"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "breise"
+  },
+  {
+    "simpli": "wail",
+    "translation": "fad is"
+  },
+  {
+    "simpli": "si",
+    "translation": "feiceáil"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "níos déanaí"
+  },
+  {
+    "simpli": "neim",
+    "translation": "ainm"
+  },
+  {
+    "simpli": "skul",
+    "translation": "scoil"
+  },
+  {
+    "simpli": "part",
+    "translation": "cuid"
+  },
+  {
+    "simpli": "ander",
+    "translation": "faoi"
+  },
+  {
+    "simpli": "djast",
+    "translation": "díreach"
+  },
+  {
+    "simpli": "yir",
+    "translation": "bliain"
+  },
+  {
+    "simpli": "wel",
+    "translation": "go maith"
+  },
+  {
+    "simpli": "yus",
+    "translation": "úsáid"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "díospóireacht"
+  },
+  {
+    "simpli": "sins",
+    "translation": "ó"
+  },
+  {
+    "simpli": "wok",
+    "translation": "obair"
+  },
+  {
+    "simpli": "tri",
+    "translation": "trí"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "roimh"
+  },
+  {
+    "simpli": "bot",
+    "translation": "araon"
+  },
+  {
+    "simpli": "steit",
+    "translation": "stát"
+  },
+  {
+    "simpli": "stail",
+    "translation": "stíl"
+  },
+  {
+    "simpli": "film",
+    "translation": "scannán"
+  },
+  {
+    "simpli": "nao",
+    "translation": "anois"
+  },
+  {
+    "simpli": "tru",
+    "translation": "trí"
+  },
+  {
+    "simpli": "becos",
+    "translation": "mar"
+  },
+  {
+    "simpli": "grup",
+    "translation": "grúpa"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "meiriceánach"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "úsáideoir"
+  },
+  {
+    "simpli": "alain",
+    "translation": "ailíniú"
+  },
+  {
+    "simpli": "siti",
+    "translation": "cathair"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "Vicipéid"
+  },
+  {
+    "simpli": "seim",
+    "translation": "céanna"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "áfach"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "rinneadh"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "dara"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "oiriúnach"
+  },
+  {
+    "simpli": "werld",
+    "translation": "domhan"
+  },
+  {
+    "simpli": "abav",
+    "translation": "os cionn"
+  },
+  {
+    "simpli": "tim",
+    "translation": "foireann"
+  },
+  {
+    "simpli": "kip",
+    "translation": "coimeád"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "leantach"
+  },
+  {
+    "simpli": "rait",
+    "translation": "ceart"
+  },
+  {
+    "simpli": "antil",
+    "translation": "go dtí"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "mionathrú"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "in aghaidh"
+  },
+  {
+    "simpli": "tok",
+    "translation": "caint"
+  },
+  {
+    "simpli": "namber",
+    "translation": "uimhir"
+  },
+  {
+    "simpli": "senter",
+    "translation": "ionad"
+  },
+  {
+    "simpli": "list",
+    "translation": "liosta"
+  },
+  {
+    "simpli": "albam",
+    "translation": "albam"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "roinnt"
+  },
+  {
+    "simpli": "famali",
+    "translation": "teaghlach"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "atreorú"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "séasúr"
+  },
+  {
+    "simpli": "veri",
+    "translation": "fíor"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "comhlacht"
+  },
+  {
+    "simpli": "eria",
+    "translation": "limistéar"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "faoi bhun"
+  },
+  {
+    "simpli": "hir",
+    "translation": "anseo"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "stair"
+  },
+  {
+    "simpli": "mi",
+    "translation": "mé"
+  },
+  {
+    "simpli": "hao",
+    "translation": "conas"
+  },
+  {
+    "simpli": "per",
+    "translation": "in aghaidh"
+  },
+  {
+    "simpli": "wan",
+    "translation": "bhuaigh"
+  },
+  {
+    "simpli": "itj",
+    "translation": "gach"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "náisiúnta"
+  },
+  {
+    "simpli": "saot",
+    "translation": "deisceart"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "áit"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "toradh"
+  },
+  {
+    "simpli": "meik",
+    "translation": "déanamh"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "ceol"
+  },
+  {
+    "simpli": "best",
+    "translation": "is fearr"
+  },
+  {
+    "simpli": "dos",
+    "translation": "iad sin"
+  },
+  {
+    "simpli": "anader",
+    "translation": "ceann eile"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "smaoineamh"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "rannán"
+  },
+  {
+    "simpli": "not",
+    "translation": "nóta"
+  },
+  {
+    "simpli": "saport",
+    "translation": "tacaíocht"
+  },
+  {
+    "simpli": "wei",
+    "translation": "slí"
+  },
+  {
+    "simpli": "former",
+    "translation": "iar"
+  },
+  {
+    "simpli": "geim",
+    "translation": "cluiche"
+  },
+  {
+    "simpli": "member",
+    "translation": "ball"
+  },
+  {
+    "simpli": "erli",
+    "translation": "luath"
+  },
+  {
+    "simpli": "matj",
+    "translation": "mórán"
+  },
+  {
+    "simpli": "stil",
+    "translation": "fós"
+  },
+  {
+    "simpli": "nort",
+    "translation": "tuaisceart"
+  },
+  {
+    "simpli": "hai",
+    "translation": "ard"
+  },
+  {
+    "simpli": "wor",
+    "translation": "cogadh"
+  },
+  {
+    "simpli": "gud",
+    "translation": "maith"
+  },
+  {
+    "simpli": "bak",
+    "translation": "ar ais"
+  },
+  {
+    "simpli": "on",
+    "translation": "féin"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "rialtas"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "ollscoil"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "timpeall"
+  },
+  {
+    "simpli": "end",
+    "translation": "deireadh"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "suntasach"
+  },
+  {
+    "simpli": "song",
+    "translation": "amhrán"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "míleata"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "ginearálta"
+  },
+  {
+    "simpli": "taital",
+    "translation": "teideal"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "poiblí"
+  },
+  {
+    "simpli": "buk",
+    "translation": "leabhar"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "íomhá"
+  },
+  {
+    "simpli": "dei",
+    "translation": "lá"
+  },
+  {
+    "simpli": "long",
+    "translation": "fada"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "scriosadh"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "faisnéis"
+  },
+  {
+    "simpli": "du",
+    "translation": "dlite"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "áitiúil"
+  },
+  {
+    "simpli": "haos",
+    "translation": "teach"
+  },
+  {
+    "simpli": "mein",
+    "translation": "príomh"
+  },
+  {
+    "simpli": "last",
+    "translation": "deireanach"
+  },
+  {
+    "simpli": "widin",
+    "translation": "laistigh"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "bunaidh"
+  },
+  {
+    "simpli": "hom",
+    "translation": "baile"
+  },
+  {
+    "simpli": "kament",
+    "translation": "trácht"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "mór"
+  },
+  {
+    "simpli": "laif",
+    "translation": "saol"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "difriúil"
+  },
+  {
+    "simpli": "klab",
+    "translation": "club"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "Béarla"
+  },
+  {
+    "simpli": "point",
+    "translation": "pointe"
+  },
+  {
+    "simpli": "smol",
+    "translation": "beag"
+  },
+  {
+    "simpli": "lain",
+    "translation": "líne"
+  },
+  {
+    "simpli": "singal",
+    "translation": "aonair"
+  },
+  {
+    "simpli": "band",
+    "translation": "banna"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "cartlann"
+  },
+  {
+    "simpli": "get",
+    "translation": "fáil"
+  },
+  {
+    "simpli": "taon",
+    "translation": "baile"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "daonra"
+  },
+  {
+    "simpli": "sors",
+    "translation": "foinse"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "áireamh"
+  },
+  {
+    "simpli": "agen",
+    "translation": "arís"
+  },
+  {
+    "simpli": "keis",
+    "translation": "cás"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "cé go"
+  },
+  {
+    "simpli": "along",
+    "translation": "feadh"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "idirnáisiúnta"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "gan"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "córas"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "stáisiún"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "tógtha"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "aois"
+  },
+  {
+    "simpli": "tap",
+    "translation": "barr"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "haois"
+  },
+  {
+    "simpli": "set",
+    "translation": "socrú"
+  },
+  {
+    "simpli": "britis",
+    "translation": "briotanach"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "eaglais"
+  },
+  {
+    "simpli": "west",
+    "translation": "iarthar"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "imreoir"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "uachtarán"
+  },
+  {
+    "simpli": "do",
+    "translation": "cé"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "sráidbhaile"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "catagóir"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "mór"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "ceantar"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "beagán"
+  },
+  {
+    "simpli": "order",
+    "translation": "ord"
+  },
+  {
+    "simpli": "servas",
+    "translation": "seirbhís"
+  },
+  {
+    "simpli": "faind",
+    "translation": "aimsiú"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "forluí"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "tógáil"
+  },
+  {
+    "simpli": "old",
+    "translation": "sean"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "tír"
+  },
+  {
+    "simpli": "det",
+    "translation": "bás"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "taighde"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "deiridh"
+  },
+  {
+    "simpli": "midia",
+    "translation": "meáin"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "pobal"
+  },
+  {
+    "simpli": "terd",
+    "translation": "tríú"
+  },
+  {
+    "simpli": "vi",
+    "translation": "ve"
+  },
+  {
+    "simpli": "ist",
+    "translation": "oirthear"
+  },
+  {
+    "simpli": "daon",
+    "translation": "síos"
+  },
+  {
+    "simpli": "djan",
+    "translation": "John"
+  },
+  {
+    "simpli": "versan",
+    "translation": "leagan"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "cúig"
+  },
+  {
+    "simpli": "edat",
+    "translation": "eagarthóireacht"
+  },
+  {
+    "simpli": "everi",
+    "translation": "gach"
+  },
+  {
+    "simpli": "san",
+    "translation": "mac"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "sampla"
+  },
+  {
+    "simpli": "parti",
+    "translation": "páirtí"
+  },
+  {
+    "simpli": "york",
+    "translation": "Eabhrac"
+  },
+  {
+    "simpli": "form",
+    "translation": "foirm"
+  },
+  {
+    "simpli": "nir",
+    "translation": "in aice"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "ábhar"
+  },
+  {
+    "simpli": "go",
+    "translation": "dul"
+  },
+  {
+    "simpli": "amang",
+    "translation": "i measc"
+  },
+  {
+    "simpli": "sait",
+    "translation": "láithreán"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "inneachar"
+  },
+  {
+    "simpli": "art",
+    "translation": "ealaín"
+  },
+  {
+    "simpli": "help",
+    "translation": "cabhair"
+  },
+  {
+    "simpli": "fader",
+    "translation": "athair"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "tionscadal"
+  },
+  {
+    "simpli": "said",
+    "translation": "taobh"
+  },
+  {
+    "simpli": "rood",
+    "translation": "bóthar"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "téacs"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "stiúrthóir"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "gairm"
+  },
+  {
+    "simpli": "notability",
+    "translation": "suntasacht"
+  },
+  {
+    "simpli": "wai",
+    "translation": "cén fáth"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "taifead"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "cúlra"
+  },
+  {
+    "simpli": "lig",
+    "translation": "sraith"
+  },
+  {
+    "simpli": "plei",
+    "translation": "imirt"
+  },
+  {
+    "simpli": "greit",
+    "translation": "iontach"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "francach"
+  },
+  {
+    "simpli": "aword",
+    "translation": "duais"
+  },
+  {
+    "simpli": "never",
+    "translation": "riamh"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "go leor"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "contae"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "milliún"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "forbairt"
+  },
+  {
+    "simpli": "total",
+    "translation": "iomlán"
+  },
+  {
+    "simpli": "risan",
+    "translation": "fáth"
+  },
+  {
+    "simpli": "lo",
+    "translation": "dlí"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "ar aghaidh"
+  },
+  {
+    "simpli": "led",
+    "translation": "threoraigh"
+  },
+  {
+    "simpli": "woter",
+    "translation": "uisce"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "coláiste"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "gearmánach"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "polaitiúil"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "éirí"
+  },
+  {
+    "simpli": "rader",
+    "translation": "seachas"
+  },
+  {
+    "simpli": "leit",
+    "translation": "déanach"
+  },
+  {
+    "simpli": "hed",
+    "translation": "ceann"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "cheana"
+  },
+  {
+    "simpli": "ider",
+    "translation": "ceachtar"
+  },
+  {
+    "simpli": "lital",
+    "translation": "beag"
+  },
+  {
+    "simpli": "edater",
+    "translation": "eagarthóir"
+  },
+  {
+    "simpli": "important",
+    "translation": "tábhachtach"
+  },
+  {
+    "simpli": "rol",
+    "translation": "ról"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "cosúil"
+  },
+  {
+    "simpli": "wait",
+    "translation": "bán"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "reatha"
+  },
+  {
+    "simpli": "landan",
+    "translation": "Londain"
+  },
+  {
+    "simpli": "beter",
+    "translation": "níos fearr"
+  },
+  {
+    "simpli": "isu",
+    "translation": "ceist"
+  },
+  {
+    "simpli": "sei",
+    "translation": "rá"
+  },
+  {
+    "simpli": "fail",
+    "translation": "comhad"
+  },
+  {
+    "simpli": "persan",
+    "translation": "duine"
+  },
+  {
+    "simpli": "fri",
+    "translation": "saor"
+  },
+  {
+    "simpli": "man",
+    "translation": "fear"
+  },
+  {
+    "simpli": "stori",
+    "translation": "scéal"
+  },
+  {
+    "simpli": "sort",
+    "translation": "gearr"
+  },
+  {
+    "simpli": "liv",
+    "translation": "cónaí"
+  },
+  {
+    "simpli": "vans",
+    "translation": "uair amháin"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "tréimhse"
+  },
+  {
+    "simpli": "blak",
+    "translation": "dubh"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "cumhacht"
+  },
+  {
+    "simpli": "presant",
+    "translation": "láithreach"
+  },
+  {
+    "simpli": "strit",
+    "translation": "sráid"
+  },
+  {
+    "simpli": "river",
+    "translation": "abhainn"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "faoi láthair"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "léiriúchán"
+  },
+  {
+    "simpli": "siks",
+    "translation": "sé"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "oideachas"
+  },
+  {
+    "simpli": "rili",
+    "translation": "dáiríre"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "peil"
+  },
+  {
+    "simpli": "land",
+    "translation": "talamh"
+  },
+  {
+    "simpli": "term",
+    "translation": "téarma"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "oifig"
+  },
+  {
+    "simpli": "program",
+    "translation": "clár"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "roinn"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "teilifís"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "athrú"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "imeacht"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "le chéile"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "teanga"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "post"
+  },
+  {
+    "simpli": "want",
+    "translation": "iarraidh"
+  },
+  {
+    "simpli": "fild",
+    "translation": "réimse"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "coitianta"
+  },
+  {
+    "simpli": "leval",
+    "translation": "leibhéal"
+  },
+  {
+    "simpli": "armi",
+    "translation": "arm"
+  },
+  {
+    "simpli": "deita",
+    "translation": "sonraí"
+  },
+  {
+    "simpli": "park",
+    "translation": "páirc"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "fíric"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "gairmiúil"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "féideartha"
+  },
+  {
+    "simpli": "taip",
+    "translation": "cineál"
+  },
+  {
+    "simpli": "yang",
+    "translation": "óg"
+  },
+  {
+    "simpli": "kort",
+    "translation": "cúirt"
+  },
+  {
+    "simpli": "mov",
+    "translation": "bogadh"
+  },
+  {
+    "simpli": "les",
+    "translation": "níos lú"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "ar fáil"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "duine éigin"
+  },
+  {
+    "simpli": "ful",
+    "translation": "lán"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "lárnach"
+  },
+  {
+    "simpli": "templat",
+    "translation": "teimpléad"
+  },
+  {
+    "simpli": "ad",
+    "translation": "cur leis"
+  },
+  {
+    "simpli": "win",
+    "translation": "buachan"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "físeán"
+  },
+  {
+    "simpli": "lost",
+    "translation": "caillte"
+  },
+  {
+    "simpli": "put",
+    "translation": "cur"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "réigiún"
+  },
+  {
+    "simpli": "er",
+    "translation": "aer"
+  },
+  {
+    "simpli": "ran",
+    "translation": "rith"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "suntasach"
+  },
+  {
+    "simpli": "insted",
+    "translation": "ina ionad"
+  },
+  {
+    "simpli": "oter",
+    "translation": "údar"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "athbhreithniú"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "is dócha"
+  },
+  {
+    "simpli": "raond",
+    "translation": "cruinn"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "speisialta"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "oifigiúil"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "polasaí"
+  },
+  {
+    "simpli": "far",
+    "translation": "i bhfad"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "i ndáiríre"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "sóisialta"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "trí"
+  },
+  {
+    "simpli": "disain",
+    "translation": "dearadh"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "iarratas"
+  },
+  {
+    "simpli": "bord",
+    "translation": "bord"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "ceist"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "carachtar"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "ar dtús"
+  },
+  {
+    "simpli": "start",
+    "translation": "tús"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "neamhspleách"
+  },
+  {
+    "simpli": "klos",
+    "translation": "gar"
+  },
+  {
+    "simpli": "waif",
+    "translation": "bean chéile"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "Sasana"
+  },
+  {
+    "simpli": "luk",
+    "translation": "féachaint"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "eisiúint"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "suimiú"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "fianaise"
+  },
+  {
+    "simpli": "lav",
+    "translation": "grá"
+  },
+  {
+    "simpli": "deit",
+    "translation": "dáta"
+  },
+  {
+    "simpli": "awei",
+    "translation": "ar shiúl"
+  },
+  {
+    "simpli": "weder",
+    "translation": "cé acu"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "sochaí"
+  },
+  {
+    "simpli": "itself",
+    "translation": "é féin"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "raidió"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "iontaofa"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "clúdach"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "oileán"
+  },
+  {
+    "simpli": "himself",
+    "translation": "é féin"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "coitianta"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "fadhb"
+  },
+  {
+    "simpli": "western",
+    "translation": "thiar"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "roinn"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "comhairle"
+  },
+  {
+    "simpli": "apan",
+    "translation": "ar"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "rialú"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "in ann"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "cóimheas"
+  },
+  {
+    "simpli": "madern",
+    "translation": "nua-aimseartha"
+  },
+  {
+    "simpli": "trak",
+    "translation": "rian"
+  },
+  {
+    "simpli": "kors",
+    "translation": "cúrsa"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "eipeasóid"
+  },
+  {
+    "simpli": "mader",
+    "translation": "máthair"
+  },
+  {
+    "simpli": "artast",
+    "translation": "ealaíontóir"
+  },
+  {
+    "simpli": "saians",
+    "translation": "eolaíocht"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "soláthar"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "de ghnáth"
+  },
+  {
+    "simpli": "fors",
+    "translation": "fórsa"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "tuaisceartach"
+  },
+  {
+    "simpli": "badi",
+    "translation": "corp"
+  },
+  {
+    "simpli": "sur",
+    "translation": "cinnte"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "Meiriceá"
+  },
+  {
+    "simpli": "speis",
+    "translation": "spás"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "teilifís"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "tagairt"
+  },
+  {
+    "simpli": "red",
+    "translation": "dearg"
+  },
+  {
+    "simpli": "riport",
+    "translation": "tuairisc"
+  },
+  {
+    "simpli": "doter",
+    "translation": "iníon"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "beagnach"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "cuardach"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "cumann"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "Astráil"
+  },
+  {
+    "simpli": "giv",
+    "translation": "tabhairt"
+  },
+  {
+    "simpli": "akt",
+    "translation": "gníomh"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "ábhar"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "in ainneoin"
+  },
+  {
+    "simpli": "palis",
+    "translation": "póilíní"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "aire"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "daonna"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "tógáil"
+  },
+  {
+    "simpli": "post",
+    "translation": "post"
+  },
+  {
+    "simpli": "india",
+    "translation": "India"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "inniu"
+  },
+  {
+    "simpli": "reis",
+    "translation": "cine"
+  },
+  {
+    "simpli": "das",
+    "translation": "mar sin"
+  },
+  {
+    "simpli": "ril",
+    "translation": "fíor"
+  },
+  {
+    "simpli": "nan",
+    "translation": "aon cheann"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "stáitse"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "deisceartach"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "cóitseálaí"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "pearsanta"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "ollamh"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "staidéar"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "lasmuigh"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "príomhúil"
+  },
+  {
+    "simpli": "websait",
+    "translation": "suíomh gréasáin"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "céad léiriú"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "ar fud"
+  },
+  {
+    "simpli": "helt",
+    "translation": "sláinte"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "go háirithe"
+  },
+  {
+    "simpli": "werd",
+    "translation": "focal"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "todhchaí"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "srl"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "radharc"
+  },
+  {
+    "simpli": "frans",
+    "translation": "Frainc"
+  },
+  {
+    "simpli": "sais",
+    "translation": "méid"
+  },
+  {
+    "simpli": "sold",
+    "translation": "díolta"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "eagraíocht"
+  },
+  {
+    "simpli": "yet",
+    "translation": "fós"
+  },
+  {
+    "simpli": "strong",
+    "translation": "láidir"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "craobhchomórtas"
+  },
+  {
+    "simpli": "klir",
+    "translation": "soiléir"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "il"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "meán"
+  },
+  {
+    "simpli": "ever",
+    "translation": "riamh"
+  },
+  {
+    "simpli": "lait",
+    "translation": "solas"
+  },
+  {
+    "simpli": "wik",
+    "translation": "seachtain"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "ainm úsáideora"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "cruthú"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "raon"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "clúdach"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "sa deireadh"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "filleadh"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "gníomh"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "dath"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "Ceanada"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "seapánach"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "spéis"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "iarsmalann"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "iris"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "roimhe seo"
+  },
+  {
+    "simpli": "haf",
+    "translation": "leath"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "scríbhneoir"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "príomh"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "ábhar"
+  },
+  {
+    "simpli": "brader",
+    "translation": "deartháir"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "go ginearálta"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "coiste"
+  },
+  {
+    "simpli": "hol",
+    "translation": "halla"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "duine"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "is mó"
+  },
+  {
+    "simpli": "past",
+    "translation": "caite"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "toghchán"
+  },
+  {
+    "simpli": "performans",
+    "translation": "léiriú"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "ar leith"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "bailiúchán"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "creidiúint"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "príobháideach"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "is dócha"
+  },
+  {
+    "simpli": "big",
+    "translation": "mór"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "polaiteoir"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "gníomhach"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "cuntas"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "aontas"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "lipéad"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "sonrach"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "William"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "astrálach"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "tuairim"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "breise"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "eorpach"
+  },
+  {
+    "simpli": "indian",
+    "translation": "indiach"
+  },
+  {
+    "simpli": "referans",
+    "translation": "tagairt"
+  },
+  {
+    "simpli": "rul",
+    "translation": "riail"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "Eoraip"
+  },
+  {
+    "simpli": "lat",
+    "translation": "cuid mhaith"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "cumasc"
+  },
+  {
+    "simpli": "sun",
+    "translation": "go luath"
+  },
+  {
+    "simpli": "faier",
+    "translation": "tine"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "go simplí"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "iomaíocht"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "caighdeán"
+  },
+  {
+    "simpli": "let",
+    "translation": "ligean"
+  },
+  {
+    "simpli": "madal",
+    "translation": "samhail"
+  },
+  {
+    "simpli": "lider",
+    "translation": "ceannaire"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "Gearmáin"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Google"
+  },
+  {
+    "simpli": "mar",
+    "translation": "Márta"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "luach"
+  },
+  {
+    "simpli": "nait",
+    "translation": "oíche"
+  },
+  {
+    "simpli": "rut",
+    "translation": "bealach"
+  },
+  {
+    "simpli": "apir",
+    "translation": "nochtadh"
+  },
+  {
+    "simpli": "akter",
+    "translation": "aisteoir"
+  },
+  {
+    "simpli": "gold",
+    "translation": "ór"
+  },
+  {
+    "simpli": "sival",
+    "translation": "sibhialta"
+  },
+  {
+    "simpli": "digri",
+    "translation": "céim"
+  },
+  {
+    "simpli": "atak",
+    "translation": "ionsaí"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "baineann"
+  },
+  {
+    "simpli": "roial",
+    "translation": "ríoga"
+  },
+  {
+    "simpli": "frant",
+    "translation": "tosach"
+  },
+  {
+    "simpli": "vot",
+    "translation": "vóta"
+  },
+  {
+    "simpli": "yes",
+    "translation": "sea"
+  },
+  {
+    "simpli": "naval",
+    "translation": "úrscéal"
+  },
+  {
+    "simpli": "samer",
+    "translation": "samhradh"
+  },
+  {
+    "simpli": "sent",
+    "translation": "seolta"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "cáilíocht"
+  },
+  {
+    "simpli": "studio",
+    "translation": "stiúideo"
+  },
+  {
+    "simpli": "istern",
+    "translation": "oirthearach"
+  },
+  {
+    "simpli": "praier",
+    "translation": "roimhe"
+  },
+  {
+    "simpli": "ten",
+    "translation": "deich"
+  },
+  {
+    "simpli": "rak",
+    "translation": "carraig"
+  },
+  {
+    "simpli": "dek",
+    "translation": "Nollaig"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "Sín"
+  },
+  {
+    "simpli": "midal",
+    "translation": "lár"
+  },
+  {
+    "simpli": "kar",
+    "translation": "carr"
+  },
+  {
+    "simpli": "okt",
+    "translation": "Deireadh Fómhair"
+  },
+  {
+    "simpli": "longer",
+    "translation": "níos faide"
+  },
+  {
+    "simpli": "trai",
+    "translation": "iarracht"
+  },
+  {
+    "simpli": "singer",
+    "translation": "amhránaí"
+  },
+  {
+    "simpli": "agri",
+    "translation": "aontú"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "dochtúir"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "oifigeach"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "sách"
+  },
+  {
+    "simpli": "sim",
+    "translation": "dealramh"
+  },
+  {
+    "simpli": "tur",
+    "translation": "turas"
+  },
+  {
+    "simpli": "bar",
+    "translation": "beár"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "aerárthach"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "líonra"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "bean"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "leighis"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "David"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "stairiúil"
+  },
+  {
+    "simpli": "eit",
+    "translation": "ocht"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "iomlán"
+  },
+  {
+    "simpli": "mit",
+    "translation": "casadh"
+  },
+  {
+    "simpli": "loer",
+    "translation": "níos ísle"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "taobh thiar"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "suíomh"
+  },
+  {
+    "simpli": "nov",
+    "translation": "Samhain"
+  },
+  {
+    "simpli": "leik",
+    "translation": "loch"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "Seapáin"
+  },
+  {
+    "simpli": "bit",
+    "translation": "giota"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "leabharlann"
+  },
+  {
+    "simpli": "didn",
+    "translation": "didn"
+  },
+  {
+    "simpli": "risant",
+    "translation": "déanach"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "príomhchathair"
+  },
+  {
+    "simpli": "apr",
+    "translation": "Aibreán"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "léiritheoir"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "cóipcheart"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "sinsearach"
+  },
+  {
+    "simpli": "fort",
+    "translation": "ceathrú"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "níos luaithe"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "éinne"
+  },
+  {
+    "simpli": "min",
+    "translation": "ciallú"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "bainistíocht"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "ainmniúchán"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "George"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "tionscal"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "áirithe"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "ní féidir"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "giotár"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "go háirithe"
+  },
+  {
+    "simpli": "sep",
+    "translation": "Meán Fómhair"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "comórtas"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "féile"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "síneach"
+  },
+  {
+    "simpli": "sip",
+    "translation": "long"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "páiste"
+  },
+  {
+    "simpli": "beis",
+    "translation": "bun"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "iarnród"
+  },
+  {
+    "simpli": "kap",
+    "translation": "corn"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "ar líne"
+  },
+  {
+    "simpli": "san",
+    "translation": "san"
+  },
+  {
+    "simpli": "studant",
+    "translation": "mac léinn"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "rathúil"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "feachtas"
+  },
+  {
+    "simpli": "haier",
+    "translation": "níos airde"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "cultúr"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "scaradh"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "Lúnasa"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "dá bhrí sin"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "teicneolaíocht"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "gluaiseacht"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "rialta"
+  },
+  {
+    "simpli": "mani",
+    "translation": "airgead"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "rúiseach"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "tuairim is"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "den chuid is mó"
+  },
+  {
+    "simpli": "rest",
+    "translation": "fuílleach"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "struchtúr"
+  },
+  {
+    "simpli": "graond",
+    "translation": "talamh"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "ceanadach"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "iodálach"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "iomlán"
+  },
+  {
+    "simpli": "markat",
+    "translation": "margadh"
+  },
+  {
+    "simpli": "mater",
+    "translation": "ábhar"
+  },
+  {
+    "simpli": "saond",
+    "translation": "fuaim"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "cleachtas"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "éileamh"
+  },
+  {
+    "simpli": "hum",
+    "translation": "cé"
+  },
+  {
+    "simpli": "hand",
+    "translation": "lámh"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "institiúid"
+  },
+  {
+    "simpli": "batal",
+    "translation": "cath"
+  },
+  {
+    "simpli": "star",
+    "translation": "réalta"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "dlíthiúil"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "tráchtála"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "spáinneach"
+  },
+  {
+    "simpli": "notas",
+    "translation": "fógra"
+  },
+  {
+    "simpli": "mark",
+    "translation": "marc"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "dúchasach"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "aonad"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "cinneadh"
+  },
+  {
+    "simpli": "border",
+    "translation": "teorainn"
+  },
+  {
+    "simpli": "web",
+    "translation": "gréasán"
+  },
+  {
+    "simpli": "lak",
+    "translation": "easpa"
+  },
+  {
+    "simpli": "met",
+    "translation": "bhuail"
+  },
+  {
+    "simpli": "hit",
+    "translation": "bualadh"
+  },
+  {
+    "simpli": "net",
+    "translation": "líon"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "bainisteoir"
+  },
+  {
+    "simpli": "overol",
+    "translation": "san iomlán"
+  },
+  {
+    "simpli": "staf",
+    "translation": "foireann"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "freagra"
+  },
+  {
+    "simpli": "mant",
+    "translation": "mí"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "ar dtús"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "nádúrtha"
+  },
+  {
+    "simpli": "fil",
+    "translation": "mothú"
+  },
+  {
+    "simpli": "son",
+    "translation": "léirithe"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "gné"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "ospidéal"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "mion"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "iarracht"
+  },
+  {
+    "simpli": "blu",
+    "translation": "gorm"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "maoin"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "go soiléir"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "fad"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "traidisiúnta"
+  },
+  {
+    "simpli": "medal",
+    "translation": "bonn"
+  },
+  {
+    "simpli": "kol",
+    "translation": "glaoch"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "taithí"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "droichead"
+  },
+  {
+    "simpli": "test",
+    "translation": "tástáil"
+  },
+  {
+    "simpli": "els",
+    "translation": "eile"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "scannán"
+  },
+  {
+    "simpli": "spent",
+    "translation": "caite"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "irisleabhar"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "banc"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "tuairim"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "pagename"
+  },
+  {
+    "simpli": "jul",
+    "translation": "Iúil"
+  },
+  {
+    "simpli": "ro",
+    "translation": "ró"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "California"
+  },
+  {
+    "simpli": "skop",
+    "translation": "scóip"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "réigiúnach"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "fondúireacht"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "tromlach"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "bliantúil"
+  },
+  {
+    "simpli": "ker",
+    "translation": "cúram"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rowspan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "bia"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Robert"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "fuinneamh"
+  },
+  {
+    "simpli": "bad",
+    "translation": "dona"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "ceoil"
+  },
+  {
+    "simpli": "federal",
+    "translation": "cónaidhme"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "tapa"
+  },
+  {
+    "simpli": "mister",
+    "translation": "uasal"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "le déanaí"
+  },
+  {
+    "simpli": "dil",
+    "translation": "comhaontú"
+  },
+  {
+    "simpli": "foran",
+    "translation": "eachtrannach"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "faoi dheireadh"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "feidhmeannach"
+  },
+  {
+    "simpli": "gol",
+    "translation": "aidhm"
+  },
+  {
+    "simpli": "lt",
+    "translation": "leifteanant"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "sórt"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "nádúr"
+  },
+  {
+    "simpli": "sens",
+    "translation": "ciall"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "vicí"
+  },
+  {
+    "simpli": "stap",
+    "translation": "stad"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "comhdháil"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "lua"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "innéacs"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "Afraic"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "tuiscint"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "go díreach"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "cuma"
+  },
+  {
+    "simpli": "master",
+    "translation": "máistir"
+  },
+  {
+    "simpli": "entri",
+    "translation": "iontráil"
+  },
+  {
+    "simpli": "skver",
+    "translation": "cearnóg"
+  },
+  {
+    "simpli": "plan",
+    "translation": "plean"
+  },
+  {
+    "simpli": "waid",
+    "translation": "leathan"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "seomra"
+  },
+  {
+    "simpli": "kost",
+    "translation": "cósta"
+  },
+  {
+    "simpli": "tern",
+    "translation": "casadh"
+  },
+  {
+    "simpli": "pik",
+    "translation": "buaic"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "ach amháin"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "gobharnóir"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "eacnamaíoch"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "conradh"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "ríocht"
+  },
+  {
+    "simpli": "hil",
+    "translation": "cnoc"
+  },
+  {
+    "simpli": "grand",
+    "translation": "mór"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "captaen"
+  },
+  {
+    "simpli": "fer",
+    "translation": "cothrom"
+  },
+  {
+    "simpli": "fain",
+    "translation": "breá"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Michael"
+  },
+  {
+    "simpli": "kii",
+    "translation": "eochair"
+  },
+  {
+    "simpli": "los",
+    "translation": "caillteanas"
+  },
+  {
+    "simpli": "global",
+    "translation": "domhanda"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "suíochán"
+  },
+  {
+    "simpli": "winer",
+    "translation": "buaiteoir"
+  },
+  {
+    "simpli": "older",
+    "translation": "níos sine"
+  },
+  {
+    "simpli": "rong",
+    "translation": "mícheart"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "cúntóir"
+  },
+  {
+    "simpli": "hard",
+    "translation": "crua"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Paul"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "is airde"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "teoiric"
+  },
+  {
+    "simpli": "frend",
+    "translation": "cara"
+  },
+  {
+    "simpli": "til",
+    "translation": "go dtí"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "cultúrtha"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "nuachtán"
+  },
+  {
+    "simpli": "treid",
+    "translation": "trádáil"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "tánaisteach"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "buíochas"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "iarrthóir"
+  },
+  {
+    "simpli": "apos",
+    "translation": "cur in aghaidh"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "acadúil"
+  },
+  {
+    "simpli": "braon",
+    "translation": "donn"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "casta"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "ina dhiaidh sin"
+  },
+  {
+    "simpli": "alao",
+    "translation": "ceadú"
+  },
+  {
+    "simpli": "plant",
+    "translation": "planda"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "níos mó"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "Washington"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "go hiomlán"
+  },
+  {
+    "simpli": "historik",
+    "translation": "stairiúil"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "éifeacht"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "cainéal"
+  },
+  {
+    "simpli": "fol",
+    "translation": "titim"
+  },
+  {
+    "simpli": "kas",
+    "translation": "cúis"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "colspan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "pasáil"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "úsáideach"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "amharclann"
+  },
+  {
+    "simpli": "gad",
+    "translation": "Dia"
+  },
+  {
+    "simpli": "admin",
+    "translation": "riarthóir"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "slándáil"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "cathaoirleach"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "aird"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "ordú"
+  },
+  {
+    "simpli": "sister",
+    "translation": "deirfiúr"
+  },
+  {
+    "simpli": "ed",
+    "translation": "eagarthóir"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "bardas"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "leanúint"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "lánúin"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "páipéar"
+  },
+  {
+    "simpli": "kod",
+    "translation": "cód"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "críostaí"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "moladh"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "cuspóir"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "ríomhaire"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "go príomha"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "cruthú"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Mary"
+  },
+  {
+    "simpli": "sat",
+    "translation": "urchar"
+  },
+  {
+    "simpli": "format",
+    "translation": "formáid"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "bheith ann"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "cúige"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "caidreamh"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "fear céile"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "ábhartha"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "beagnach"
+  },
+  {
+    "simpli": "al",
+    "translation": "al"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "sliabh"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "airgeadais"
+  },
+  {
+    "simpli": "nam",
+    "translation": "nom"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "éagsúlacht"
+  },
+  {
+    "simpli": "haili",
+    "translation": "go mór"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "eolas"
+  },
+  {
+    "simpli": "felo",
+    "translation": "comrádaí"
+  },
+  {
+    "simpli": "salad",
+    "translation": "soladach"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "acadamh"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Smith"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "b'fhéidir"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "oibríocht"
+  },
+  {
+    "simpli": "silver",
+    "translation": "airgead"
+  },
+  {
+    "simpli": "et",
+    "translation": "et"
+  },
+  {
+    "simpli": "misan",
+    "translation": "misean"
+  },
+  {
+    "simpli": "skor",
+    "translation": "scór"
+  },
+  {
+    "simpli": "vali",
+    "translation": "gleann"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "dlúthdhiosca"
+  },
+  {
+    "simpli": "meil",
+    "translation": "fireann"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Peter"
+  },
+  {
+    "simpli": "later",
+    "translation": "an dara ceann"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "riachtanach"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "tráth"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "rúnaí"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "afraiceach"
+  },
+  {
+    "simpli": "nain",
+    "translation": "naoi"
+  },
+  {
+    "simpli": "yut",
+    "translation": "óige"
+  },
+  {
+    "simpli": "map",
+    "translation": "léarscáil"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "bua"
+  },
+  {
+    "simpli": "ser",
+    "translation": "Sir"
+  },
+  {
+    "simpli": "ded",
+    "translation": "marbh"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "bogearraí"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "feidhm"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "inneall"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "curadh"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "tábla"
+  },
+  {
+    "simpli": "ert",
+    "translation": "Talamh"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "méid"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "machnamh"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "murach sin"
+  },
+  {
+    "simpli": "djab",
+    "translation": "post"
+  },
+  {
+    "simpli": "fait",
+    "translation": "troid"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "imleabhar"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "Éire"
+  },
+  {
+    "simpli": "serv",
+    "translation": "freastal"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "ceart"
+  },
+  {
+    "simpli": "siland",
+    "translation": "Séalainn"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "stiúradh"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "simplí"
+  },
+  {
+    "simpli": "feis",
+    "translation": "aghaidh"
+  },
+  {
+    "simpli": "kast",
+    "translation": "foireann"
+  },
+  {
+    "simpli": "reit",
+    "translation": "ráta"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "figiúr"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "istigh"
+  },
+  {
+    "simpli": "trein",
+    "translation": "traein"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "méadú"
+  },
+  {
+    "simpli": "vois",
+    "translation": "guth"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "céim"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "láithreach"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "ráiteas"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "deacair"
+  },
+  {
+    "simpli": "bil",
+    "translation": "bille"
+  },
+  {
+    "simpli": "biand",
+    "translation": "thar"
+  },
+  {
+    "simpli": "hop",
+    "translation": "dóchas"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "pictiúr"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "coimisiún"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "ársa"
+  },
+  {
+    "simpli": "info",
+    "translation": "eolas"
+  },
+  {
+    "simpli": "pur",
+    "translation": "bocht"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "breitheamh"
+  },
+  {
+    "simpli": "ston",
+    "translation": "cloch"
+  },
+  {
+    "simpli": "itali",
+    "translation": "Iodáil"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "baint"
+  },
+  {
+    "simpli": "targat",
+    "translation": "sprioc"
+  },
+  {
+    "simpli": "van",
+    "translation": "van"
+  },
+  {
+    "simpli": "ago",
+    "translation": "ó shin"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Henry"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "b'fhéidir"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "digiteach"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "go príomha"
+  },
+  {
+    "simpli": "maind",
+    "translation": "intinn"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "cabhlach"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "táirge"
+  },
+  {
+    "simpli": "hart",
+    "translation": "croí"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "dromchla"
+  },
+  {
+    "simpli": "los",
+    "translation": "los"
+  },
+  {
+    "simpli": "baks",
+    "translation": "bosca"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "cairt"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "caitliceach"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "critéir"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "go sonrach"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "coincheap"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "dearfach"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "acmhainneacht"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "ciclipéid"
+  },
+  {
+    "simpli": "tel",
+    "translation": "insint"
+  },
+  {
+    "simpli": "alon",
+    "translation": "ina aonar"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "seiceáil"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "freagrach"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "go cinnte"
+  },
+  {
+    "simpli": "priti",
+    "translation": "deas"
+  },
+  {
+    "simpli": "dans",
+    "translation": "damhsa"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "craobh"
+  },
+  {
+    "simpli": "era",
+    "translation": "ré"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "teicniúil"
+  },
+  {
+    "simpli": "praim",
+    "translation": "príomh"
+  },
+  {
+    "simpli": "host",
+    "translation": "óstach"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "teampall"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "litríocht"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "riarachán"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "staid"
+  },
+  {
+    "simpli": "widt",
+    "translation": "leithead"
+  },
+  {
+    "simpli": "prais",
+    "translation": "duais"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "craoladh"
+  },
+  {
+    "simpli": "nor",
+    "translation": "ná"
+  },
+  {
+    "simpli": "roman",
+    "translation": "rómhánach"
+  },
+  {
+    "simpli": "influans",
+    "translation": "tionchar"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Richard"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "abairt"
+  },
+  {
+    "simpli": "leter",
+    "translation": "litir"
+  },
+  {
+    "simpli": "domein",
+    "translation": "fearann"
+  },
+  {
+    "simpli": "kat",
+    "translation": "gearradh"
+  },
+  {
+    "simpli": "el",
+    "translation": "el"
+  },
+  {
+    "simpli": "hold",
+    "translation": "coinneáil"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "riaracháin"
+  },
+  {
+    "simpli": "aper",
+    "translation": "uachtarach"
+  },
+  {
+    "simpli": "ask",
+    "translation": "fiafraí"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "iarbhír"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "ceannasaí"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "Rúis"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "cumas"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "pósadh"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "eolaíoch"
+  },
+  {
+    "simpli": "oner",
+    "translation": "úinéir"
+  },
+  {
+    "simpli": "internet",
+    "translation": "idirlíon"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "in aice láimhe"
+  },
+  {
+    "simpli": "bei",
+    "translation": "bá"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "feiceálach"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "bunúsach"
+  },
+  {
+    "simpli": "bas",
+    "translation": "dord"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "poblacht"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "ceartas"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "parlaimint"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "cur chuige"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "bunaitheoir"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "go tapa"
+  },
+  {
+    "simpli": "grik",
+    "translation": "gréagach"
+  },
+  {
+    "simpli": "erport",
+    "translation": "aerfort"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "aighneas"
+  },
+  {
+    "simpli": "anser",
+    "translation": "freagra"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "go forleathan"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "treo"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "ioncam"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "go coitianta"
+  },
+  {
+    "simpli": "maont",
+    "translation": "sliabh"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "sóivéadach"
+  },
+  {
+    "simpli": "airis",
+    "translation": "éireannach"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "go tipiciúil"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "tosaigh"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "mórbhealach"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "cispheil"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "comhaimseartha"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "giúdach"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "cailín"
+  },
+  {
+    "simpli": "meier",
+    "translation": "méara"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "lonnaíocht"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "comhthéacs"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "níos lú"
+  },
+  {
+    "simpli": "sin",
+    "translation": "radharc"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "criticiúil"
+  },
+  {
+    "simpli": "anon",
+    "translation": "anaithnid"
+  },
+  {
+    "simpli": "tag",
+    "translation": "clib"
+  },
+  {
+    "simpli": "mas",
+    "translation": "mais"
+  },
+  {
+    "simpli": "foto",
+    "translation": "grianghraf"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "easpag"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "óstán"
+  },
+  {
+    "simpli": "piano",
+    "translation": "pianó"
+  },
+  {
+    "simpli": "sain",
+    "translation": "comhartha"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "argóint"
+  },
+  {
+    "simpli": "fift",
+    "translation": "cúigiú"
+  },
+  {
+    "simpli": "perant",
+    "translation": "tuismitheoir"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "cur síos"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "feabhsú"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "seachaint"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "táirgeadh"
+  },
+  {
+    "simpli": "dark",
+    "translation": "dorcha"
+  },
+  {
+    "simpli": "flait",
+    "translation": "eitilt"
+  },
+  {
+    "simpli": "ga",
+    "translation": "ga"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "trom"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "foilseachán"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "fisiciúil"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "seachtrach"
+  },
+  {
+    "simpli": "deili",
+    "translation": "laethúil"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "SAM"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "Meicsiceo"
+  },
+  {
+    "simpli": "oil",
+    "translation": "ola"
+  },
+  {
+    "simpli": "twais",
+    "translation": "faoi dhó"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "innealtóir"
+  },
+  {
+    "simpli": "falo",
+    "translation": "leanúint"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "go hoifigiúil"
+  },
+  {
+    "simpli": "lord",
+    "translation": "tiarna"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "níos mó"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "múinteoir"
+  },
+  {
+    "simpli": "importans",
+    "translation": "tábhacht"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "go hiomlán"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "gníomhaíocht"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "go hiomlán"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "sóisearach"
+  },
+  {
+    "simpli": "vol",
+    "translation": "imleabhar"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "sroicheadh"
+  },
+  {
+    "simpli": "feit",
+    "translation": "creideamh"
+  },
+  {
+    "simpli": "datj",
+    "translation": "ollannach"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "go gairid"
+  },
+  {
+    "simpli": "solo",
+    "translation": "aonair"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "cumadóir"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "bunú"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "náisiún"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "Chicago"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "fanacht"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "caisleán"
+  },
+  {
+    "simpli": "displei",
+    "translation": "taispeáint"
+  },
+  {
+    "simpli": "rural",
+    "translation": "tuaithe"
+  },
+  {
+    "simpli": "metad",
+    "translation": "modh"
+  },
+  {
+    "simpli": "isali",
+    "translation": "go héasca"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "gach duine"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "cóip"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "críoch"
+  },
+  {
+    "simpli": "britan",
+    "translation": "Breatain"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "trealamh"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "gailearaí"
+  },
+  {
+    "simpli": "normal",
+    "translation": "gnáth"
+  },
+  {
+    "simpli": "prins",
+    "translation": "prionsa"
+  },
+  {
+    "simpli": "pis",
+    "translation": "píosa"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "coimhlint"
+  },
+  {
+    "simpli": "forast",
+    "translation": "foraois"
+  },
+  {
+    "simpli": "efert",
+    "translation": "iarracht"
+  },
+  {
+    "simpli": "wert",
+    "translation": "fiú"
+  },
+  {
+    "simpli": "split",
+    "translation": "scoilt"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "campa"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "eastát"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "cóireáil"
+  },
+  {
+    "simpli": "bild",
+    "translation": "tógáil"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "reisimint"
+  },
+  {
+    "simpli": "sort",
+    "translation": "sórt"
+  },
+  {
+    "simpli": "draft",
+    "translation": "dréacht"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "daorchluiche"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "in éineacht"
+  },
+  {
+    "simpli": "port",
+    "translation": "port"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "gnólacht"
+  },
+  {
+    "simpli": "kru",
+    "translation": "criú"
+  },
+  {
+    "simpli": "drama",
+    "translation": "dráma"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "údarás"
+  },
+  {
+    "simpli": "paris",
+    "translation": "paróiste"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "cosaint"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "comhaontú"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "tionól"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "páirt a ghlacadh"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "den chuid is mó"
+  },
+  {
+    "simpli": "poland",
+    "translation": "Polainn"
+  },
+  {
+    "simpli": "gru",
+    "translation": "d'fhás"
+  },
+  {
+    "simpli": "spein",
+    "translation": "Spáinn"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "comhaireamh"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "túr"
+  },
+  {
+    "simpli": "poat",
+    "translation": "file"
+  },
+  {
+    "simpli": "ment",
+    "translation": "chiallaigh"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "ainmnitheoir"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "uair"
+  },
+  {
+    "simpli": "distans",
+    "translation": "fad"
+  },
+  {
+    "simpli": "traval",
+    "translation": "taisteal"
+  },
+  {
+    "simpli": "dai",
+    "translation": "éag"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "uathúil"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "dúbailte"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "go díreach"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "acmhainn"
+  },
+  {
+    "simpli": "krik",
+    "translation": "sruthán"
+  },
+  {
+    "simpli": "wol",
+    "translation": "balla"
+  },
+  {
+    "simpli": "winter",
+    "translation": "geimhreadh"
+  },
+  {
+    "simpli": "stor",
+    "translation": "siopa"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "malartach"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "ar aghaidh"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "rún"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "tionchar"
+  },
+  {
+    "simpli": "bert",
+    "translation": "breith"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Martin"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "agallamh"
+  },
+  {
+    "simpli": "grot",
+    "translation": "fás"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "teachtaireacht"
+  },
+  {
+    "simpli": "pei",
+    "translation": "íoc"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "cúram"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "leas"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "glacadh"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "timpeallacht"
+  },
+  {
+    "simpli": "traial",
+    "translation": "triail"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "tairiscint"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "oideachasúil"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "Carolina"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Joseph"
+  },
+  {
+    "simpli": "latan",
+    "translation": "Laidin"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "is cosúil"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "achoimre"
+  },
+  {
+    "simpli": "des",
+    "translation": "des"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "ceannaireacht"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "príomhúil"
+  },
+  {
+    "simpli": "batam",
+    "translation": "bun"
+  },
+  {
+    "simpli": "ais",
+    "translation": "oighear"
+  },
+  {
+    "simpli": "erban",
+    "translation": "uirbeach"
+  },
+  {
+    "simpli": "herd",
+    "translation": "chuala"
+  },
+  {
+    "simpli": "flag",
+    "translation": "bratach"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "iriseoir"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "saol"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "peileadóir"
+  },
+  {
+    "simpli": "boi",
+    "translation": "buachaill"
+  },
+  {
+    "simpli": "flor",
+    "translation": "urlár"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "damáiste"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "teagmháil"
+  },
+  {
+    "simpli": "hait",
+    "translation": "airde"
+  },
+  {
+    "simpli": "presans",
+    "translation": "láithreacht"
+  },
+  {
+    "simpli": "mon",
+    "translation": "Luan"
+  },
+  {
+    "simpli": "difens",
+    "translation": "cosaint"
+  },
+  {
+    "simpli": "farm",
+    "translation": "feirm"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "difríocht"
+  },
+  {
+    "simpli": "ad",
+    "translation": "AD"
+  },
+  {
+    "simpli": "sat",
+    "translation": "Satharn"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "príosún"
+  },
+  {
+    "simpli": "linier",
+    "translation": "líneach"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "taispeántas"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "faoi seach"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "iompar"
+  },
+  {
+    "simpli": "stei",
+    "translation": "fanacht"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "ionadaí"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "fáil"
+  },
+  {
+    "simpli": "platform",
+    "translation": "ardán"
+  },
+  {
+    "simpli": "li",
+    "translation": "Lee"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "cuimhneachán"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "RC"
+  },
+  {
+    "simpli": "aner",
+    "translation": "onóir"
+  },
+  {
+    "simpli": "greid",
+    "translation": "grád"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "daonlathach"
+  },
+  {
+    "simpli": "transport",
+    "translation": "iompar"
+  },
+  {
+    "simpli": "fort",
+    "translation": "dún"
+  },
+  {
+    "simpli": "tot",
+    "translation": "mhúin"
+  },
+  {
+    "simpli": "breik",
+    "translation": "briseadh"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "rogha"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "ascaill"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "bean uasal"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "Albain"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "clár faisnéise"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "dáileadh"
+  },
+  {
+    "simpli": "privent",
+    "translation": "cosc"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "éagumasach"
+  },
+  {
+    "simpli": "weit",
+    "translation": "meáchan"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "trácht"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "ceolchoirm"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "go coibhneasta"
+  },
+  {
+    "simpli": "stand",
+    "translation": "seasamh"
+  },
+  {
+    "simpli": "midian",
+    "translation": "airmheán"
+  },
+  {
+    "simpli": "praper",
+    "translation": "cuí"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "Áise"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "tionsclaíoch"
+  },
+  {
+    "simpli": "dro",
+    "translation": "tarraingt"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "impireacht"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "treoir"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "nasc"
+  },
+  {
+    "simpli": "persent",
+    "translation": "faoin gcéad"
+  },
+  {
+    "simpli": "merin",
+    "translation": "muirí"
+  },
+  {
+    "simpli": "seint",
+    "translation": "naomh"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "ardú céime"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "aireacht"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "foirmiú"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "Iosrael"
+  },
+  {
+    "simpli": "blad",
+    "translation": "fuil"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "forbairt"
+  },
+  {
+    "simpli": "sport",
+    "translation": "spórt"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "beagáinín"
+  },
+  {
+    "simpli": "apra",
+    "translation": "ceoldráma"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "baile fearainn"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "sainmhíniú"
+  },
+  {
+    "simpli": "alt",
+    "translation": "malartach"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "cuimsiú"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "freasúra"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "ceoltóir"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "aistriúchán"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "níos óige"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "cuid"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "dochtúir"
+  },
+  {
+    "simpli": "ka",
+    "translation": "ca"
+  },
+  {
+    "simpli": "sari",
+    "translation": "brón"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "cuimsiú"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "reiligiún"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "wasn"
+  },
+  {
+    "simpli": "spred",
+    "translation": "leathadh"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "bunús"
+  },
+  {
+    "simpli": "metal",
+    "translation": "miotal"
+  },
+  {
+    "simpli": "del",
+    "translation": "del"
+  },
+  {
+    "simpli": "gas",
+    "translation": "gás"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "go minic"
+  },
+  {
+    "simpli": "visit",
+    "translation": "cuairt"
+  },
+  {
+    "simpli": "dip",
+    "translation": "domhain"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "péintéir"
+  },
+  {
+    "simpli": "trast",
+    "translation": "muinín"
+  },
+  {
+    "simpli": "difit",
+    "translation": "cloí"
+  },
+  {
+    "simpli": "bol",
+    "translation": "liathróid"
+  },
+  {
+    "simpli": "isi",
+    "translation": "éasca"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "míniú"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "neodrach"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "is sine"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "dáimh"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "ailtireacht"
+  },
+  {
+    "simpli": "preser",
+    "translation": "brú"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "impire"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "BBC"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "leathnú"
+  },
+  {
+    "simpli": "valid",
+    "translation": "bailí"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "scála"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "aisiompú"
+  },
+  {
+    "simpli": "plas",
+    "translation": "móide"
+  },
+  {
+    "simpli": "wud",
+    "translation": "adhmad"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "fairsing"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "seans"
+  },
+  {
+    "simpli": "merder",
+    "translation": "dúnmharú"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "cuimhne"
+  },
+  {
+    "simpli": "masin",
+    "translation": "meaisín"
+  },
+  {
+    "simpli": "wed",
+    "translation": "Céadaoin"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "sábháil"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "éileamh"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "inc"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "malartú"
+  },
+  {
+    "simpli": "ros",
+    "translation": "rós"
+  },
+  {
+    "simpli": "neival",
+    "translation": "cabhlaigh"
+  },
+  {
+    "simpli": "fis",
+    "translation": "iasc"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "réasúnaíocht"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "mé féin"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "sásta"
+  },
+  {
+    "simpli": "nider",
+    "translation": "ceachtar"
+  },
+  {
+    "simpli": "ban",
+    "translation": "toirmeasc"
+  },
+  {
+    "simpli": "pap",
+    "translation": "popcheol"
+  },
+  {
+    "simpli": "brand",
+    "translation": "branda"
+  },
+  {
+    "simpli": "gest",
+    "translation": "aoi"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "wouldn"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "réamhrá"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "sloinne"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "sábháilteacht"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "staidiam"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "trá"
+  },
+  {
+    "simpli": "gan",
+    "translation": "gunna"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "coir"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Kitt"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "áis"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "Seoirsia"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Jack"
+  },
+  {
+    "simpli": "okei",
+    "translation": "ceart go leor"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "scuadrún"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "cúltaca"
+  },
+  {
+    "simpli": "risk",
+    "translation": "riosca"
+  },
+  {
+    "simpli": "fel",
+    "translation": "thit"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "albannach"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "poblachtach"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "tosú"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "togra"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "ar aon chaoi"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "cur isteach"
+  },
+  {
+    "simpli": "vais",
+    "translation": "leas"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "filíocht"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "Virginia"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "gníomhaireacht"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "leictreach"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "comhpháirteach"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "navbox"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "liteartha"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Edward"
+  },
+  {
+    "simpli": "logo",
+    "translation": "lógó"
+  },
+  {
+    "simpli": "adians",
+    "translation": "lucht féachana"
+  },
+  {
+    "simpli": "brans",
+    "translation": "cré-umha"
+  },
+  {
+    "simpli": "mail",
+    "translation": "míle"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "as an nua"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "iarratas"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "leigheas"
+  },
+  {
+    "simpli": "florada",
+    "translation": "Florida"
+  },
+  {
+    "simpli": "fols",
+    "translation": "bréagach"
+  },
+  {
+    "simpli": "du",
+    "translation": "du"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "réiteach"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "réad"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "greann"
+  },
+  {
+    "simpli": "brif",
+    "translation": "gairid"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "Ciúin"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "siamsaíocht"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "ailtire"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "murab ionann"
+  },
+  {
+    "simpli": "historian",
+    "translation": "staraí"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "cathlán"
+  },
+  {
+    "simpli": "limat",
+    "translation": "teorainn"
+  },
+  {
+    "simpli": "grant",
+    "translation": "deontas"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "ficsean"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "ranníocaíocht"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "cruthaitheoir"
+  },
+  {
+    "simpli": "ref",
+    "translation": "tagairt"
+  },
+  {
+    "simpli": "finis",
+    "translation": "críochnú"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "ceolfhoireann"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "buan"
+  },
+  {
+    "simpli": "sel",
+    "translation": "cill"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "athainmniú"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "diúltach"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "buí"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Johnson"
+  },
+  {
+    "simpli": "task",
+    "translation": "tasc"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "sa deireadh"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "ionadaíocht"
+  },
+  {
+    "simpli": "rer",
+    "translation": "annamh"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "moladh"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "traidisiún"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "éifeachtach"
+  },
+  {
+    "simpli": "partner",
+    "translation": "comhpháirtí"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "rún"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "billiún"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "rogha"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "thar a bheith"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "leor"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "cur chun cinn"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "caibidil"
+  },
+  {
+    "simpli": "pov",
+    "translation": "dearcadh"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "sualannach"
+  },
+  {
+    "simpli": "von",
+    "translation": "von"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "pearsanra"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "meas"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Tom"
+  },
+  {
+    "simpli": "djas",
+    "translation": "snagcheol"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "gníomhaire"
+  },
+  {
+    "simpli": "fri",
+    "translation": "Aoine"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "mionsonra"
+  },
+  {
+    "simpli": "antu",
+    "translation": "ar"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "glúin"
+  },
+  {
+    "simpli": "perform",
+    "translation": "léiriú"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "Oxford"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "coibhéiseach"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "píolóta"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "ar fud an domhain"
+  },
+  {
+    "simpli": "hors",
+    "translation": "capall"
+  },
+  {
+    "simpli": "senat",
+    "translation": "seanad"
+  },
+  {
+    "simpli": "kor",
+    "translation": "croílár"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "soláthar"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "ionadú"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Socorro"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "loitiméireacht"
+  },
+  {
+    "simpli": "hat",
+    "translation": "te"
+  },
+  {
+    "simpli": "instans",
+    "translation": "sampla"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "Oilimpeach"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "geilleagar"
+  },
+  {
+    "simpli": "servei",
+    "translation": "suirbhé"
+  },
+  {
+    "simpli": "di",
+    "translation": "di"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "is léir"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "imní"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "corparáid"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "dúshlán"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "fealsúnacht"
+  },
+  {
+    "simpli": "advans",
+    "translation": "dul chun cinn"
+  },
+  {
+    "simpli": "taks",
+    "translation": "cáin"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "ceadúnas"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "eachtra"
+  },
+  {
+    "simpli": "bot",
+    "translation": "bot"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "séú"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "saoirse"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "féiniúlacht"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "uasmhéid"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "beagáinín"
+  },
+  {
+    "simpli": "plat",
+    "translation": "plota"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "Bostún"
+  },
+  {
+    "simpli": "step",
+    "translation": "coiscéim"
+  },
+  {
+    "simpli": "disis",
+    "translation": "galar"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "Beirlín"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "comhshaoil"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "imscrúdú"
+  },
+  {
+    "simpli": "flit",
+    "translation": "cabhlach"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "coisithe"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "comhrac"
+  },
+  {
+    "simpli": "rais",
+    "translation": "éirí"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "giniúint"
+  },
+  {
+    "simpli": "taword",
+    "translation": "i dtreo"
+  },
+  {
+    "simpli": "vies",
+    "translation": "in aghaidh"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "riocht"
+  },
+  {
+    "simpli": "mis",
+    "translation": "cailliúint"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "clasaiceach"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "clasaiceach"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "cuimhneamh"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "ainmhí"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "taobh istigh"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Frank"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "móimint"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "céimí"
+  },
+  {
+    "simpli": "watever",
+    "translation": "cibé"
+  },
+  {
+    "simpli": "internal",
+    "translation": "inmheánach"
+  },
+  {
+    "simpli": "seip",
+    "translation": "cruth"
+  },
+  {
+    "simpli": "herself",
+    "translation": "í féin"
+  },
+  {
+    "simpli": "streit",
+    "translation": "díreach"
+  },
+  {
+    "simpli": "seks",
+    "translation": "gnéas"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "go dlúth"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Scott"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "cumarsáid"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "teaghlach"
+  },
+  {
+    "simpli": "edj",
+    "translation": "imeall"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "aistriú"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "léiriú"
+  },
+  {
+    "simpli": "haki",
+    "translation": "haca"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "amhairc"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "cumhachtach"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "bardasach"
+  },
+  {
+    "simpli": "fot",
+    "translation": "throid"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "cathaoir"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "go suntasach"
+  },
+  {
+    "simpli": "minat",
+    "translation": "nóiméad"
+  },
+  {
+    "simpli": "lern",
+    "translation": "foghlaim"
+  },
+  {
+    "simpli": "kard",
+    "translation": "cárta"
+  },
+  {
+    "simpli": "gard",
+    "translation": "garda"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "cosaint"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "iarthuaisceart"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "teip"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "foilsitheoir"
+  },
+  {
+    "simpli": "ai",
+    "translation": "súil"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "faisean"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "neamhspleáchas"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "tiománaí"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "go láidir"
+  },
+  {
+    "simpli": "advais",
+    "translation": "comhairle"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "aitheantas"
+  },
+  {
+    "simpli": "kil",
+    "translation": "marú"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "rugbaí"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "feithicil"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "dlíodóir"
+  },
+  {
+    "simpli": "brok",
+    "translation": "bhris"
+  },
+  {
+    "simpli": "huk",
+    "translation": "crúca"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "oidhreacht"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "oirdheisceart"
+  },
+  {
+    "simpli": "korner",
+    "translation": "cúinne"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "gnéasach"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Elizabeth"
+  },
+  {
+    "simpli": "wis",
+    "translation": "mian"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "óráid"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "cinneadh"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "sárú"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "Pennsylvania"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "bóthar iarainn"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "iarann"
+  },
+  {
+    "simpli": "gav",
+    "translation": "rialtas"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "scor"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Francisco"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "chun tosaigh"
+  },
+  {
+    "simpli": "eid",
+    "translation": "cúnamh"
+  },
+  {
+    "simpli": "daot",
+    "translation": "amhras"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "scuad"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "faire"
+  },
+  {
+    "simpli": "apart",
+    "translation": "as a chéile"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "ailse"
+  },
+  {
+    "simpli": "misis",
+    "translation": "bean uasal"
+  }
+]

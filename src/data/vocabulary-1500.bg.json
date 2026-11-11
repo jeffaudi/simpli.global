@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "на"
+  },
+  {
+    "simpli": "in",
+    "translation": "в"
+  },
+  {
+    "simpli": "and",
+    "translation": "и"
+  },
+  {
+    "simpli": "tu",
+    "translation": "към"
+  },
+  {
+    "simpli": "an",
+    "translation": "на"
+  },
+  {
+    "simpli": "as",
+    "translation": "като"
+  },
+  {
+    "simpli": "for",
+    "translation": "за"
+  },
+  {
+    "simpli": "bai",
+    "translation": "от"
+  },
+  {
+    "simpli": "dat",
+    "translation": "че"
+  },
+  {
+    "simpli": "el",
+    "translation": "той/тя/то"
+  },
+  {
+    "simpli": "wit",
+    "translation": "с"
+  },
+  {
+    "simpli": "at",
+    "translation": "при"
+  },
+  {
+    "simpli": "fram",
+    "translation": "от"
+  },
+  {
+    "simpli": "nat",
+    "translation": "не"
+  },
+  {
+    "simpli": "or",
+    "translation": "или"
+  },
+  {
+    "simpli": "witj",
+    "translation": "който"
+  },
+  {
+    "simpli": "bat",
+    "translation": "но"
+  },
+  {
+    "simpli": "hav",
+    "translation": "имам"
+  },
+  {
+    "simpli": "olso",
+    "translation": "също"
+  },
+  {
+    "simpli": "van",
+    "translation": "един"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "страница"
+  },
+  {
+    "simpli": "yu",
+    "translation": "ти"
+  },
+  {
+    "simpli": "no",
+    "translation": "не"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "първи"
+  },
+  {
+    "simpli": "dey",
+    "translation": "те"
+  },
+  {
+    "simpli": "hu",
+    "translation": "кой"
+  },
+  {
+    "simpli": "der",
+    "translation": "там"
+  },
+  {
+    "simpli": "mei",
+    "translation": "може"
+  },
+  {
+    "simpli": "after",
+    "translation": "след"
+  },
+  {
+    "simpli": "ol",
+    "translation": "всички"
+  },
+  {
+    "simpli": "nu",
+    "translation": "нов"
+  },
+  {
+    "simpli": "ader",
+    "translation": "друг"
+  },
+  {
+    "simpli": "if",
+    "translation": "ако"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "дискусия"
+  },
+  {
+    "simpli": "kan",
+    "translation": "мога"
+  },
+  {
+    "simpli": "mor",
+    "translation": "повече"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "за"
+  },
+  {
+    "simpli": "satj",
+    "translation": "такъв"
+  },
+  {
+    "simpli": "sam",
+    "translation": "някой"
+  },
+  {
+    "simpli": "taim",
+    "translation": "време"
+  },
+  {
+    "simpli": "onli",
+    "translation": "само"
+  },
+  {
+    "simpli": "intu",
+    "translation": "в"
+  },
+  {
+    "simpli": "so",
+    "translation": "така"
+  },
+  {
+    "simpli": "ap",
+    "translation": "нагоре"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "изтривам"
+  },
+  {
+    "simpli": "wer",
+    "translation": "къде"
+  },
+  {
+    "simpli": "aot",
+    "translation": "навън"
+  },
+  {
+    "simpli": "dan",
+    "translation": "отколкото"
+  },
+  {
+    "simpli": "most",
+    "translation": "повечето"
+  },
+  {
+    "simpli": "over",
+    "translation": "над"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "връзка"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "януари"
+  },
+  {
+    "simpli": "martj",
+    "translation": "март"
+  },
+  {
+    "simpli": "born",
+    "translation": "роден"
+  },
+  {
+    "simpli": "september",
+    "translation": "септември"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "октомври"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "юли"
+  },
+  {
+    "simpli": "agast",
+    "translation": "август"
+  },
+  {
+    "simpli": "plis",
+    "translation": "моля"
+  },
+  {
+    "simpli": "disember",
+    "translation": "декември"
+  },
+  {
+    "simpli": "djun",
+    "translation": "юни"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "април"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "-и"
+  },
+  {
+    "simpli": "wil",
+    "translation": "ще"
+  },
+  {
+    "simpli": "eni",
+    "translation": "някой"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "какво"
+  },
+  {
+    "simpli": "november",
+    "translation": "ноември"
+  },
+  {
+    "simpli": "dis",
+    "translation": "тези"
+  },
+  {
+    "simpli": "wi",
+    "translation": "ние"
+  },
+  {
+    "simpli": "meni",
+    "translation": "много"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "февруари"
+  },
+  {
+    "simpli": "laik",
+    "translation": "като"
+  },
+  {
+    "simpli": "dem",
+    "translation": "тях"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "по-нататък"
+  },
+  {
+    "simpli": "wail",
+    "translation": "докато"
+  },
+  {
+    "simpli": "si",
+    "translation": "виждам"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "по-късно"
+  },
+  {
+    "simpli": "neim",
+    "translation": "име"
+  },
+  {
+    "simpli": "skul",
+    "translation": "училище"
+  },
+  {
+    "simpli": "part",
+    "translation": "част"
+  },
+  {
+    "simpli": "ander",
+    "translation": "под"
+  },
+  {
+    "simpli": "djast",
+    "translation": "просто"
+  },
+  {
+    "simpli": "yir",
+    "translation": "година"
+  },
+  {
+    "simpli": "wel",
+    "translation": "добре"
+  },
+  {
+    "simpli": "yus",
+    "translation": "използвам"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "дебат"
+  },
+  {
+    "simpli": "sins",
+    "translation": "от"
+  },
+  {
+    "simpli": "wok",
+    "translation": "работа"
+  },
+  {
+    "simpli": "tri",
+    "translation": "три"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "преди"
+  },
+  {
+    "simpli": "bot",
+    "translation": "и двата"
+  },
+  {
+    "simpli": "steit",
+    "translation": "щат"
+  },
+  {
+    "simpli": "stail",
+    "translation": "стил"
+  },
+  {
+    "simpli": "film",
+    "translation": "филм"
+  },
+  {
+    "simpli": "nao",
+    "translation": "сега"
+  },
+  {
+    "simpli": "tru",
+    "translation": "през"
+  },
+  {
+    "simpli": "becos",
+    "translation": "защото"
+  },
+  {
+    "simpli": "grup",
+    "translation": "група"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "американски"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "потребител"
+  },
+  {
+    "simpli": "alain",
+    "translation": "подравнявам"
+  },
+  {
+    "simpli": "siti",
+    "translation": "град"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "Уикипедия"
+  },
+  {
+    "simpli": "seim",
+    "translation": "същ"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "обаче"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "стана"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "втори"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "подходящ"
+  },
+  {
+    "simpli": "werld",
+    "translation": "свят"
+  },
+  {
+    "simpli": "abav",
+    "translation": "отгоре"
+  },
+  {
+    "simpli": "tim",
+    "translation": "отбор"
+  },
+  {
+    "simpli": "kip",
+    "translation": "запазвам"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "последващ"
+  },
+  {
+    "simpli": "rait",
+    "translation": "десен"
+  },
+  {
+    "simpli": "antil",
+    "translation": "до"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "променям"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "срещу"
+  },
+  {
+    "simpli": "tok",
+    "translation": "говоря"
+  },
+  {
+    "simpli": "namber",
+    "translation": "число"
+  },
+  {
+    "simpli": "senter",
+    "translation": "център"
+  },
+  {
+    "simpli": "list",
+    "translation": "списък"
+  },
+  {
+    "simpli": "albam",
+    "translation": "албум"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "няколко"
+  },
+  {
+    "simpli": "famali",
+    "translation": "семейство"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "пренасочвам"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "сезон"
+  },
+  {
+    "simpli": "veri",
+    "translation": "много"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "компания"
+  },
+  {
+    "simpli": "eria",
+    "translation": "област"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "отдолу"
+  },
+  {
+    "simpli": "hir",
+    "translation": "тук"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "история"
+  },
+  {
+    "simpli": "mi",
+    "translation": "мен"
+  },
+  {
+    "simpli": "hao",
+    "translation": "как"
+  },
+  {
+    "simpli": "per",
+    "translation": "на"
+  },
+  {
+    "simpli": "wan",
+    "translation": "спечели"
+  },
+  {
+    "simpli": "itj",
+    "translation": "всеки"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "национален"
+  },
+  {
+    "simpli": "saot",
+    "translation": "юг"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "място"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "резултат"
+  },
+  {
+    "simpli": "meik",
+    "translation": "правя"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "музика"
+  },
+  {
+    "simpli": "best",
+    "translation": "най-добър"
+  },
+  {
+    "simpli": "dos",
+    "translation": "онези"
+  },
+  {
+    "simpli": "anader",
+    "translation": "още един"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "мисля"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "раздел"
+  },
+  {
+    "simpli": "not",
+    "translation": "бележка"
+  },
+  {
+    "simpli": "saport",
+    "translation": "подкрепа"
+  },
+  {
+    "simpli": "wei",
+    "translation": "начин"
+  },
+  {
+    "simpli": "former",
+    "translation": "бивш"
+  },
+  {
+    "simpli": "geim",
+    "translation": "игра"
+  },
+  {
+    "simpli": "member",
+    "translation": "член"
+  },
+  {
+    "simpli": "erli",
+    "translation": "ранен"
+  },
+  {
+    "simpli": "matj",
+    "translation": "много"
+  },
+  {
+    "simpli": "stil",
+    "translation": "все още"
+  },
+  {
+    "simpli": "nort",
+    "translation": "север"
+  },
+  {
+    "simpli": "hai",
+    "translation": "висок"
+  },
+  {
+    "simpli": "wor",
+    "translation": "война"
+  },
+  {
+    "simpli": "gud",
+    "translation": "добър"
+  },
+  {
+    "simpli": "bak",
+    "translation": "назад"
+  },
+  {
+    "simpli": "on",
+    "translation": "собствен"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "правителство"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "университет"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "около"
+  },
+  {
+    "simpli": "end",
+    "translation": "край"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "забележителен"
+  },
+  {
+    "simpli": "song",
+    "translation": "песен"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "военен"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "общ"
+  },
+  {
+    "simpli": "taital",
+    "translation": "заглавие"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "обществен"
+  },
+  {
+    "simpli": "buk",
+    "translation": "книга"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "изображение"
+  },
+  {
+    "simpli": "dei",
+    "translation": "ден"
+  },
+  {
+    "simpli": "long",
+    "translation": "дълъг"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "изтриване"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "информация"
+  },
+  {
+    "simpli": "du",
+    "translation": "дължим"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "местен"
+  },
+  {
+    "simpli": "haos",
+    "translation": "къща"
+  },
+  {
+    "simpli": "mein",
+    "translation": "главен"
+  },
+  {
+    "simpli": "last",
+    "translation": "последен"
+  },
+  {
+    "simpli": "widin",
+    "translation": "вътре"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "оригинален"
+  },
+  {
+    "simpli": "hom",
+    "translation": "дом"
+  },
+  {
+    "simpli": "kament",
+    "translation": "коментар"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "основен"
+  },
+  {
+    "simpli": "laif",
+    "translation": "живот"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "различен"
+  },
+  {
+    "simpli": "klab",
+    "translation": "клуб"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "английски"
+  },
+  {
+    "simpli": "point",
+    "translation": "точка"
+  },
+  {
+    "simpli": "smol",
+    "translation": "малък"
+  },
+  {
+    "simpli": "lain",
+    "translation": "линия"
+  },
+  {
+    "simpli": "singal",
+    "translation": "единичен"
+  },
+  {
+    "simpli": "band",
+    "translation": "група"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "архив"
+  },
+  {
+    "simpli": "get",
+    "translation": "получавам"
+  },
+  {
+    "simpli": "taon",
+    "translation": "градче"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "население"
+  },
+  {
+    "simpli": "sors",
+    "translation": "източник"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "включвам"
+  },
+  {
+    "simpli": "agen",
+    "translation": "отново"
+  },
+  {
+    "simpli": "keis",
+    "translation": "случай"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "въпреки че"
+  },
+  {
+    "simpli": "along",
+    "translation": "покрай"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "международен"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "без"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "система"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "станция"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "построен"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "възраст"
+  },
+  {
+    "simpli": "tap",
+    "translation": "връх"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "век"
+  },
+  {
+    "simpli": "set",
+    "translation": "набор"
+  },
+  {
+    "simpli": "britis",
+    "translation": "британски"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "църква"
+  },
+  {
+    "simpli": "west",
+    "translation": "запад"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "играч"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "президент"
+  },
+  {
+    "simpli": "do",
+    "translation": "макар"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "село"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "категория"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "голям"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "район"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "малко"
+  },
+  {
+    "simpli": "order",
+    "translation": "ред"
+  },
+  {
+    "simpli": "servas",
+    "translation": "услуга"
+  },
+  {
+    "simpli": "faind",
+    "translation": "намирам"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "припокриване"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "вземам"
+  },
+  {
+    "simpli": "old",
+    "translation": "стар"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "държава"
+  },
+  {
+    "simpli": "det",
+    "translation": "смърт"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "изследване"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "окончателен"
+  },
+  {
+    "simpli": "midia",
+    "translation": "медия"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "общност"
+  },
+  {
+    "simpli": "terd",
+    "translation": "трети"
+  },
+  {
+    "simpli": "vi",
+    "translation": "съм"
+  },
+  {
+    "simpli": "ist",
+    "translation": "изток"
+  },
+  {
+    "simpli": "daon",
+    "translation": "надолу"
+  },
+  {
+    "simpli": "djan",
+    "translation": "Джон"
+  },
+  {
+    "simpli": "versan",
+    "translation": "версия"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "пет"
+  },
+  {
+    "simpli": "edat",
+    "translation": "редактирам"
+  },
+  {
+    "simpli": "everi",
+    "translation": "всеки"
+  },
+  {
+    "simpli": "san",
+    "translation": "син"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "пример"
+  },
+  {
+    "simpli": "parti",
+    "translation": "партия"
+  },
+  {
+    "simpli": "york",
+    "translation": "Йорк"
+  },
+  {
+    "simpli": "form",
+    "translation": "форма"
+  },
+  {
+    "simpli": "nir",
+    "translation": "близо"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "тема"
+  },
+  {
+    "simpli": "go",
+    "translation": "отивам"
+  },
+  {
+    "simpli": "amang",
+    "translation": "сред"
+  },
+  {
+    "simpli": "sait",
+    "translation": "сайт"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "съдържание"
+  },
+  {
+    "simpli": "art",
+    "translation": "изкуство"
+  },
+  {
+    "simpli": "help",
+    "translation": "помощ"
+  },
+  {
+    "simpli": "fader",
+    "translation": "баща"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "проект"
+  },
+  {
+    "simpli": "said",
+    "translation": "страна"
+  },
+  {
+    "simpli": "rood",
+    "translation": "път"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "текст"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "директор"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "кариера"
+  },
+  {
+    "simpli": "notability",
+    "translation": "значимост"
+  },
+  {
+    "simpli": "wai",
+    "translation": "защо"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "запис"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "фон"
+  },
+  {
+    "simpli": "lig",
+    "translation": "лига"
+  },
+  {
+    "simpli": "plei",
+    "translation": "играя"
+  },
+  {
+    "simpli": "greit",
+    "translation": "велик"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "френски"
+  },
+  {
+    "simpli": "aword",
+    "translation": "награда"
+  },
+  {
+    "simpli": "never",
+    "translation": "никога"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "достатъчно"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "окръг"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "милион"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "развитие"
+  },
+  {
+    "simpli": "total",
+    "translation": "общ"
+  },
+  {
+    "simpli": "risan",
+    "translation": "причина"
+  },
+  {
+    "simpli": "lo",
+    "translation": "закон"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "следващ"
+  },
+  {
+    "simpli": "led",
+    "translation": "водеше"
+  },
+  {
+    "simpli": "woter",
+    "translation": "вода"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "колеж"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "немски"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "политически"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "ставам"
+  },
+  {
+    "simpli": "rader",
+    "translation": "по-скоро"
+  },
+  {
+    "simpli": "leit",
+    "translation": "късен"
+  },
+  {
+    "simpli": "hed",
+    "translation": "глава"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "вече"
+  },
+  {
+    "simpli": "ider",
+    "translation": "който и да е"
+  },
+  {
+    "simpli": "lital",
+    "translation": "малък"
+  },
+  {
+    "simpli": "edater",
+    "translation": "редактор"
+  },
+  {
+    "simpli": "important",
+    "translation": "важен"
+  },
+  {
+    "simpli": "rol",
+    "translation": "роля"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "подобен"
+  },
+  {
+    "simpli": "wait",
+    "translation": "бял"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "текущ"
+  },
+  {
+    "simpli": "landan",
+    "translation": "Лондон"
+  },
+  {
+    "simpli": "beter",
+    "translation": "по-добър"
+  },
+  {
+    "simpli": "isu",
+    "translation": "въпрос"
+  },
+  {
+    "simpli": "sei",
+    "translation": "казвам"
+  },
+  {
+    "simpli": "fail",
+    "translation": "файл"
+  },
+  {
+    "simpli": "persan",
+    "translation": "човек"
+  },
+  {
+    "simpli": "fri",
+    "translation": "свободен"
+  },
+  {
+    "simpli": "man",
+    "translation": "мъж"
+  },
+  {
+    "simpli": "stori",
+    "translation": "разказ"
+  },
+  {
+    "simpli": "sort",
+    "translation": "къс"
+  },
+  {
+    "simpli": "liv",
+    "translation": "живея"
+  },
+  {
+    "simpli": "vans",
+    "translation": "веднъж"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "период"
+  },
+  {
+    "simpli": "blak",
+    "translation": "черен"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "власт"
+  },
+  {
+    "simpli": "presant",
+    "translation": "настоящ"
+  },
+  {
+    "simpli": "strit",
+    "translation": "улица"
+  },
+  {
+    "simpli": "river",
+    "translation": "река"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "понастоящем"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "продукция"
+  },
+  {
+    "simpli": "siks",
+    "translation": "шест"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "образование"
+  },
+  {
+    "simpli": "rili",
+    "translation": "наистина"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "футбол"
+  },
+  {
+    "simpli": "land",
+    "translation": "земя"
+  },
+  {
+    "simpli": "term",
+    "translation": "термин"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "офис"
+  },
+  {
+    "simpli": "program",
+    "translation": "програма"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "подразделение"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "телевизия"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "промяна"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "събитие"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "заедно"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "език"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "позиция"
+  },
+  {
+    "simpli": "want",
+    "translation": "искам"
+  },
+  {
+    "simpli": "fild",
+    "translation": "поле"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "обикновен"
+  },
+  {
+    "simpli": "leval",
+    "translation": "ниво"
+  },
+  {
+    "simpli": "armi",
+    "translation": "армия"
+  },
+  {
+    "simpli": "deita",
+    "translation": "данни"
+  },
+  {
+    "simpli": "park",
+    "translation": "парк"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "факт"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "професионален"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "възможен"
+  },
+  {
+    "simpli": "taip",
+    "translation": "тип"
+  },
+  {
+    "simpli": "yang",
+    "translation": "млад"
+  },
+  {
+    "simpli": "kort",
+    "translation": "съд"
+  },
+  {
+    "simpli": "mov",
+    "translation": "местя"
+  },
+  {
+    "simpli": "les",
+    "translation": "по-малко"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "наличен"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "някой"
+  },
+  {
+    "simpli": "ful",
+    "translation": "пълен"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "централен"
+  },
+  {
+    "simpli": "templat",
+    "translation": "шаблон"
+  },
+  {
+    "simpli": "ad",
+    "translation": "добавям"
+  },
+  {
+    "simpli": "win",
+    "translation": "печеля"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "видео"
+  },
+  {
+    "simpli": "lost",
+    "translation": "изгубен"
+  },
+  {
+    "simpli": "put",
+    "translation": "слагам"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "регион"
+  },
+  {
+    "simpli": "er",
+    "translation": "въздух"
+  },
+  {
+    "simpli": "ran",
+    "translation": "бягам"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "значителен"
+  },
+  {
+    "simpli": "insted",
+    "translation": "вместо"
+  },
+  {
+    "simpli": "oter",
+    "translation": "автор"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "преглед"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "вероятно"
+  },
+  {
+    "simpli": "raond",
+    "translation": "кръг"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "специален"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "официален"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "политика"
+  },
+  {
+    "simpli": "far",
+    "translation": "далеч"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "всъщност"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "социален"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "чрез"
+  },
+  {
+    "simpli": "disain",
+    "translation": "дизайн"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "заявка"
+  },
+  {
+    "simpli": "bord",
+    "translation": "съвет"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "въпрос"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "герой"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "първоначално"
+  },
+  {
+    "simpli": "start",
+    "translation": "начало"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "независим"
+  },
+  {
+    "simpli": "klos",
+    "translation": "близък"
+  },
+  {
+    "simpli": "waif",
+    "translation": "съпруга"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "Англия"
+  },
+  {
+    "simpli": "luk",
+    "translation": "гледам"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "издаване"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "добавяне"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "доказателство"
+  },
+  {
+    "simpli": "lav",
+    "translation": "любов"
+  },
+  {
+    "simpli": "deit",
+    "translation": "дата"
+  },
+  {
+    "simpli": "awei",
+    "translation": "далеч"
+  },
+  {
+    "simpli": "weder",
+    "translation": "дали"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "общество"
+  },
+  {
+    "simpli": "itself",
+    "translation": "себе си"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "радио"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "надежден"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "покритие"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "остров"
+  },
+  {
+    "simpli": "himself",
+    "translation": "себе си"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "популярен"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "проблем"
+  },
+  {
+    "simpli": "western",
+    "translation": "западен"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "отдел"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "съвет"
+  },
+  {
+    "simpli": "apan",
+    "translation": "върху"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "контрол"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "способен"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "съотношение"
+  },
+  {
+    "simpli": "madern",
+    "translation": "модерен"
+  },
+  {
+    "simpli": "trak",
+    "translation": "писта"
+  },
+  {
+    "simpli": "kors",
+    "translation": "курс"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "епизод"
+  },
+  {
+    "simpli": "mader",
+    "translation": "майка"
+  },
+  {
+    "simpli": "artast",
+    "translation": "артист"
+  },
+  {
+    "simpli": "saians",
+    "translation": "наука"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "осигурявам"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "обикновено"
+  },
+  {
+    "simpli": "fors",
+    "translation": "сила"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "северен"
+  },
+  {
+    "simpli": "badi",
+    "translation": "тяло"
+  },
+  {
+    "simpli": "sur",
+    "translation": "сигурен"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "Америка"
+  },
+  {
+    "simpli": "speis",
+    "translation": "пространство"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "тв"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "препращам"
+  },
+  {
+    "simpli": "red",
+    "translation": "червен"
+  },
+  {
+    "simpli": "riport",
+    "translation": "доклад"
+  },
+  {
+    "simpli": "doter",
+    "translation": "дъщеря"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "почти"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "търсене"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "асоциация"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "Австралия"
+  },
+  {
+    "simpli": "giv",
+    "translation": "давам"
+  },
+  {
+    "simpli": "akt",
+    "translation": "акт"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "материал"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "въпреки"
+  },
+  {
+    "simpli": "palis",
+    "translation": "полиция"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "министър"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "човешки"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "строителство"
+  },
+  {
+    "simpli": "post",
+    "translation": "пост"
+  },
+  {
+    "simpli": "india",
+    "translation": "Индия"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "днес"
+  },
+  {
+    "simpli": "reis",
+    "translation": "раса"
+  },
+  {
+    "simpli": "das",
+    "translation": "така"
+  },
+  {
+    "simpli": "ril",
+    "translation": "истински"
+  },
+  {
+    "simpli": "nan",
+    "translation": "никой"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "сцена"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "южен"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "треньор"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "личен"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "професор"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "изучавам"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "извън"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "първичен"
+  },
+  {
+    "simpli": "websait",
+    "translation": "уебсайт"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "дебют"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "навсякъде"
+  },
+  {
+    "simpli": "helt",
+    "translation": "здраве"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "особено"
+  },
+  {
+    "simpli": "werd",
+    "translation": "дума"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "бъдеще"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "и така нататък"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "изглед"
+  },
+  {
+    "simpli": "frans",
+    "translation": "Франция"
+  },
+  {
+    "simpli": "sais",
+    "translation": "размер"
+  },
+  {
+    "simpli": "sold",
+    "translation": "продаден"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "организация"
+  },
+  {
+    "simpli": "yet",
+    "translation": "още"
+  },
+  {
+    "simpli": "strong",
+    "translation": "силен"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "първенство"
+  },
+  {
+    "simpli": "klir",
+    "translation": "ясен"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "множествен"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "среден"
+  },
+  {
+    "simpli": "ever",
+    "translation": "някога"
+  },
+  {
+    "simpli": "lait",
+    "translation": "светлина"
+  },
+  {
+    "simpli": "wik",
+    "translation": "седмица"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "потребителско име"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "създавам"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "обхват"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "покривам"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "в крайна сметка"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "връщам"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "действие"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "цвят"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "Канада"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "японски"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "интерес"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "музей"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "списание"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "преди"
+  },
+  {
+    "simpli": "haf",
+    "translation": "половина"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "писател"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "началник"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "тема"
+  },
+  {
+    "simpli": "brader",
+    "translation": "брат"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "общо"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "комитет"
+  },
+  {
+    "simpli": "hol",
+    "translation": "зала"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "индивидуален"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "най-голям"
+  },
+  {
+    "simpli": "past",
+    "translation": "минал"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "избор"
+  },
+  {
+    "simpli": "performans",
+    "translation": "изпълнение"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "особен"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "колекция"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "вярвам"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "частен"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "вероятен"
+  },
+  {
+    "simpli": "big",
+    "translation": "голям"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "политик"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "активен"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "сметка"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "съюз"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "етикет"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "конкретен"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "Уилям"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "австралийски"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "идея"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "допълнителен"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "европейски"
+  },
+  {
+    "simpli": "indian",
+    "translation": "индийски"
+  },
+  {
+    "simpli": "referans",
+    "translation": "препратка"
+  },
+  {
+    "simpli": "rul",
+    "translation": "правило"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "Европа"
+  },
+  {
+    "simpli": "lat",
+    "translation": "много"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "сливам"
+  },
+  {
+    "simpli": "sun",
+    "translation": "скоро"
+  },
+  {
+    "simpli": "faier",
+    "translation": "огън"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "просто"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "състезание"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "стандарт"
+  },
+  {
+    "simpli": "let",
+    "translation": "оставям"
+  },
+  {
+    "simpli": "madal",
+    "translation": "модел"
+  },
+  {
+    "simpli": "lider",
+    "translation": "лидер"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "Германия"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Гугъл"
+  },
+  {
+    "simpli": "mar",
+    "translation": "мар"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "стойност"
+  },
+  {
+    "simpli": "nait",
+    "translation": "нощ"
+  },
+  {
+    "simpli": "rut",
+    "translation": "маршрут"
+  },
+  {
+    "simpli": "apir",
+    "translation": "появявам се"
+  },
+  {
+    "simpli": "akter",
+    "translation": "актьор"
+  },
+  {
+    "simpli": "gold",
+    "translation": "злато"
+  },
+  {
+    "simpli": "sival",
+    "translation": "граждански"
+  },
+  {
+    "simpli": "digri",
+    "translation": "степен"
+  },
+  {
+    "simpli": "atak",
+    "translation": "атака"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "женски"
+  },
+  {
+    "simpli": "roial",
+    "translation": "кралски"
+  },
+  {
+    "simpli": "frant",
+    "translation": "фронт"
+  },
+  {
+    "simpli": "vot",
+    "translation": "глас"
+  },
+  {
+    "simpli": "yes",
+    "translation": "да"
+  },
+  {
+    "simpli": "naval",
+    "translation": "роман"
+  },
+  {
+    "simpli": "samer",
+    "translation": "лято"
+  },
+  {
+    "simpli": "sent",
+    "translation": "изпратен"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "качество"
+  },
+  {
+    "simpli": "studio",
+    "translation": "студио"
+  },
+  {
+    "simpli": "istern",
+    "translation": "източен"
+  },
+  {
+    "simpli": "praier",
+    "translation": "предишен"
+  },
+  {
+    "simpli": "ten",
+    "translation": "десет"
+  },
+  {
+    "simpli": "rak",
+    "translation": "рок"
+  },
+  {
+    "simpli": "dek",
+    "translation": "дек"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "Китай"
+  },
+  {
+    "simpli": "midal",
+    "translation": "среден"
+  },
+  {
+    "simpli": "kar",
+    "translation": "кола"
+  },
+  {
+    "simpli": "okt",
+    "translation": "окт"
+  },
+  {
+    "simpli": "longer",
+    "translation": "по-дълъг"
+  },
+  {
+    "simpli": "trai",
+    "translation": "опитвам"
+  },
+  {
+    "simpli": "singer",
+    "translation": "певец"
+  },
+  {
+    "simpli": "agri",
+    "translation": "съгласявам се"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "доктор"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "офицер"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "доста"
+  },
+  {
+    "simpli": "sim",
+    "translation": "изглеждам"
+  },
+  {
+    "simpli": "tur",
+    "translation": "турне"
+  },
+  {
+    "simpli": "bar",
+    "translation": "бар"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "самолет"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "мрежа"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "жена"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "медицински"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "Дейвид"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "исторически"
+  },
+  {
+    "simpli": "eit",
+    "translation": "осем"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "пълен"
+  },
+  {
+    "simpli": "mit",
+    "translation": "срещам"
+  },
+  {
+    "simpli": "loer",
+    "translation": "по-нисък"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "зад"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "местоположение"
+  },
+  {
+    "simpli": "nov",
+    "translation": "ное"
+  },
+  {
+    "simpli": "leik",
+    "translation": "езеро"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "Япония"
+  },
+  {
+    "simpli": "bit",
+    "translation": "малко"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "библиотека"
+  },
+  {
+    "simpli": "didn",
+    "translation": "не"
+  },
+  {
+    "simpli": "risant",
+    "translation": "скорошен"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "столица"
+  },
+  {
+    "simpli": "apr",
+    "translation": "апр"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "продуцент"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "авторско право"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "старши"
+  },
+  {
+    "simpli": "fort",
+    "translation": "четвърти"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "по-рано"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "някой"
+  },
+  {
+    "simpli": "min",
+    "translation": "знача"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "управление"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "номинация"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "Джордж"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "индустрия"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "сигурен"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "не мога"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "китара"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "особено"
+  },
+  {
+    "simpli": "sep",
+    "translation": "сеп"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "турнир"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "фестивал"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "китайски"
+  },
+  {
+    "simpli": "sip",
+    "translation": "кораб"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "дете"
+  },
+  {
+    "simpli": "beis",
+    "translation": "основа"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "железница"
+  },
+  {
+    "simpli": "kap",
+    "translation": "купа"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "онлайн"
+  },
+  {
+    "simpli": "san",
+    "translation": "сан"
+  },
+  {
+    "simpli": "studant",
+    "translation": "студент"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "успешен"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "кампания"
+  },
+  {
+    "simpli": "haier",
+    "translation": "по-висок"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "култура"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "отделен"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "авг"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "следователно"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "технология"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "движение"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "редовен"
+  },
+  {
+    "simpli": "mani",
+    "translation": "пари"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "руски"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "приблизително"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "предимно"
+  },
+  {
+    "simpli": "rest",
+    "translation": "остатък"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "структура"
+  },
+  {
+    "simpli": "graond",
+    "translation": "земя"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "канадски"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "италиански"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "цял"
+  },
+  {
+    "simpli": "markat",
+    "translation": "пазар"
+  },
+  {
+    "simpli": "mater",
+    "translation": "въпрос"
+  },
+  {
+    "simpli": "saond",
+    "translation": "звук"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "практика"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "твърдение"
+  },
+  {
+    "simpli": "hum",
+    "translation": "когото"
+  },
+  {
+    "simpli": "hand",
+    "translation": "ръка"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "институт"
+  },
+  {
+    "simpli": "batal",
+    "translation": "битка"
+  },
+  {
+    "simpli": "star",
+    "translation": "звезда"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "правен"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "търговски"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "испански"
+  },
+  {
+    "simpli": "notas",
+    "translation": "известие"
+  },
+  {
+    "simpli": "mark",
+    "translation": "белег"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "местен"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "единица"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "решение"
+  },
+  {
+    "simpli": "border",
+    "translation": "граница"
+  },
+  {
+    "simpli": "web",
+    "translation": "уеб"
+  },
+  {
+    "simpli": "lak",
+    "translation": "липса"
+  },
+  {
+    "simpli": "met",
+    "translation": "срещна"
+  },
+  {
+    "simpli": "hit",
+    "translation": "удар"
+  },
+  {
+    "simpli": "net",
+    "translation": "мрежа"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "управител"
+  },
+  {
+    "simpli": "overol",
+    "translation": "общ"
+  },
+  {
+    "simpli": "staf",
+    "translation": "персонал"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "отговор"
+  },
+  {
+    "simpli": "mant",
+    "translation": "месец"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "първоначално"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "естествен"
+  },
+  {
+    "simpli": "fil",
+    "translation": "чувствам"
+  },
+  {
+    "simpli": "son",
+    "translation": "показан"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "особеност"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "болница"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "незначителен"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "опит"
+  },
+  {
+    "simpli": "blu",
+    "translation": "син"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "собственост"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "ясно"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "дължина"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "традиционен"
+  },
+  {
+    "simpli": "medal",
+    "translation": "медал"
+  },
+  {
+    "simpli": "kol",
+    "translation": "наричам"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "опит"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "мост"
+  },
+  {
+    "simpli": "test",
+    "translation": "тест"
+  },
+  {
+    "simpli": "els",
+    "translation": "друг"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "филм"
+  },
+  {
+    "simpli": "spent",
+    "translation": "прекаран"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "списание"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "банка"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "мнение"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "pagename"
+  },
+  {
+    "simpli": "jul",
+    "translation": "юли"
+  },
+  {
+    "simpli": "ro",
+    "translation": "ред"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "Калифорния"
+  },
+  {
+    "simpli": "skop",
+    "translation": "обхват"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "регионален"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "фондация"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "мнозинство"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "годишен"
+  },
+  {
+    "simpli": "ker",
+    "translation": "грижа"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rowspan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "храна"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Робърт"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "енергия"
+  },
+  {
+    "simpli": "bad",
+    "translation": "лош"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "музикален"
+  },
+  {
+    "simpli": "federal",
+    "translation": "федерален"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "бърз"
+  },
+  {
+    "simpli": "mister",
+    "translation": "господин"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "наскоро"
+  },
+  {
+    "simpli": "dil",
+    "translation": "сделка"
+  },
+  {
+    "simpli": "foran",
+    "translation": "чужд"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "накрая"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "изпълнителен"
+  },
+  {
+    "simpli": "gol",
+    "translation": "цел"
+  },
+  {
+    "simpli": "lt",
+    "translation": "lt"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "вид"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "природа"
+  },
+  {
+    "simpli": "sens",
+    "translation": "смисъл"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "уики"
+  },
+  {
+    "simpli": "stap",
+    "translation": "спирам"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "конференция"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "споменавам"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "индекс"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "Африка"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "разбирам"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "пряко"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "външност"
+  },
+  {
+    "simpli": "master",
+    "translation": "майстор"
+  },
+  {
+    "simpli": "entri",
+    "translation": "запис"
+  },
+  {
+    "simpli": "skver",
+    "translation": "квадрат"
+  },
+  {
+    "simpli": "plan",
+    "translation": "план"
+  },
+  {
+    "simpli": "waid",
+    "translation": "широк"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "стая"
+  },
+  {
+    "simpli": "kost",
+    "translation": "бряг"
+  },
+  {
+    "simpli": "tern",
+    "translation": "завой"
+  },
+  {
+    "simpli": "pik",
+    "translation": "връх"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "освен"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "губернатор"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "икономически"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "договор"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "кралство"
+  },
+  {
+    "simpli": "hil",
+    "translation": "хълм"
+  },
+  {
+    "simpli": "grand",
+    "translation": "велик"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "капитан"
+  },
+  {
+    "simpli": "fer",
+    "translation": "справедлив"
+  },
+  {
+    "simpli": "fain",
+    "translation": "хубав"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Майкъл"
+  },
+  {
+    "simpli": "kii",
+    "translation": "ключ"
+  },
+  {
+    "simpli": "los",
+    "translation": "загуба"
+  },
+  {
+    "simpli": "global",
+    "translation": "глобален"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "място"
+  },
+  {
+    "simpli": "winer",
+    "translation": "победител"
+  },
+  {
+    "simpli": "older",
+    "translation": "по-стар"
+  },
+  {
+    "simpli": "rong",
+    "translation": "грешен"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "асистент"
+  },
+  {
+    "simpli": "hard",
+    "translation": "труден"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Пол"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "най-висок"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "теория"
+  },
+  {
+    "simpli": "frend",
+    "translation": "приятел"
+  },
+  {
+    "simpli": "til",
+    "translation": "до"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "културен"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "вестник"
+  },
+  {
+    "simpli": "treid",
+    "translation": "търговия"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "вторичен"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "благодаря"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "кандидат"
+  },
+  {
+    "simpli": "apos",
+    "translation": "противопоставям се"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "академичен"
+  },
+  {
+    "simpli": "braon",
+    "translation": "кафяв"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "сложен"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "впоследствие"
+  },
+  {
+    "simpli": "alao",
+    "translation": "позволявам"
+  },
+  {
+    "simpli": "plant",
+    "translation": "растение"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "по-голям"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "Вашингтон"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "напълно"
+  },
+  {
+    "simpli": "historik",
+    "translation": "исторически"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "ефект"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "канал"
+  },
+  {
+    "simpli": "fol",
+    "translation": "падане"
+  },
+  {
+    "simpli": "kas",
+    "translation": "причина"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "colspan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "минавам"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "полезен"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "театър"
+  },
+  {
+    "simpli": "gad",
+    "translation": "бог"
+  },
+  {
+    "simpli": "admin",
+    "translation": "администратор"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "сигурност"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "председател"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "внимание"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "команда"
+  },
+  {
+    "simpli": "sister",
+    "translation": "сестра"
+  },
+  {
+    "simpli": "ed",
+    "translation": "редактор"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "община"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "продължавам"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "двойка"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "хартия"
+  },
+  {
+    "simpli": "kod",
+    "translation": "код"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "християнски"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "предлагам"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "цел"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "компютър"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "главно"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "създаване"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Мери"
+  },
+  {
+    "simpli": "sat",
+    "translation": "изстрел"
+  },
+  {
+    "simpli": "format",
+    "translation": "формат"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "съществувам"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "провинция"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "връзка"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "съпруг"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "уместен"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "почти"
+  },
+  {
+    "simpli": "al",
+    "translation": "ал"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "планина"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "финансов"
+  },
+  {
+    "simpli": "nam",
+    "translation": "nom"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "разнообразие"
+  },
+  {
+    "simpli": "haili",
+    "translation": "силно"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "знание"
+  },
+  {
+    "simpli": "felo",
+    "translation": "колега"
+  },
+  {
+    "simpli": "salad",
+    "translation": "твърд"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "академия"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Смит"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "може би"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "операция"
+  },
+  {
+    "simpli": "silver",
+    "translation": "сребро"
+  },
+  {
+    "simpli": "et",
+    "translation": "ет"
+  },
+  {
+    "simpli": "misan",
+    "translation": "мисия"
+  },
+  {
+    "simpli": "skor",
+    "translation": "резултат"
+  },
+  {
+    "simpli": "vali",
+    "translation": "долина"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "cd"
+  },
+  {
+    "simpli": "meil",
+    "translation": "мъжки"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Питър"
+  },
+  {
+    "simpli": "later",
+    "translation": "последен"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "необходим"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "преди"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "секретар"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "африкански"
+  },
+  {
+    "simpli": "nain",
+    "translation": "девет"
+  },
+  {
+    "simpli": "yut",
+    "translation": "младеж"
+  },
+  {
+    "simpli": "map",
+    "translation": "карта"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "победа"
+  },
+  {
+    "simpli": "ser",
+    "translation": "сър"
+  },
+  {
+    "simpli": "ded",
+    "translation": "мъртъв"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "софтуер"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "функция"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "двигател"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "шампион"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "таблица"
+  },
+  {
+    "simpli": "ert",
+    "translation": "земя"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "количество"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "смятам"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "иначе"
+  },
+  {
+    "simpli": "djab",
+    "translation": "работа"
+  },
+  {
+    "simpli": "fait",
+    "translation": "битка"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "том"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "Ирландия"
+  },
+  {
+    "simpli": "serv",
+    "translation": "служа"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "правилен"
+  },
+  {
+    "simpli": "siland",
+    "translation": "Зеландия"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "пряк"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "прост"
+  },
+  {
+    "simpli": "feis",
+    "translation": "лице"
+  },
+  {
+    "simpli": "kast",
+    "translation": "състав"
+  },
+  {
+    "simpli": "reit",
+    "translation": "темп"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "фигура"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "вътре"
+  },
+  {
+    "simpli": "trein",
+    "translation": "влак"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "увеличение"
+  },
+  {
+    "simpli": "vois",
+    "translation": "глас"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "ранг"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "веднага"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "изявление"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "труден"
+  },
+  {
+    "simpli": "bil",
+    "translation": "законопроект"
+  },
+  {
+    "simpli": "biand",
+    "translation": "отвъд"
+  },
+  {
+    "simpli": "hop",
+    "translation": "надежда"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "картина"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "комисия"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "древен"
+  },
+  {
+    "simpli": "info",
+    "translation": "информация"
+  },
+  {
+    "simpli": "pur",
+    "translation": "беден"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "съдия"
+  },
+  {
+    "simpli": "ston",
+    "translation": "камък"
+  },
+  {
+    "simpli": "itali",
+    "translation": "Италия"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "премахвам"
+  },
+  {
+    "simpli": "targat",
+    "translation": "цел"
+  },
+  {
+    "simpli": "van",
+    "translation": "ван"
+  },
+  {
+    "simpli": "ago",
+    "translation": "преди"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Хенри"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "възможно"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "цифров"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "предимно"
+  },
+  {
+    "simpli": "maind",
+    "translation": "ум"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "флот"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "продукт"
+  },
+  {
+    "simpli": "hart",
+    "translation": "сърце"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "повърхност"
+  },
+  {
+    "simpli": "los",
+    "translation": "лос"
+  },
+  {
+    "simpli": "baks",
+    "translation": "кутия"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "диаграма"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "католически"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "критерий"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "конкретно"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "понятие"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "положителен"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "потенциален"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "енциклопедия"
+  },
+  {
+    "simpli": "tel",
+    "translation": "казвам"
+  },
+  {
+    "simpli": "alon",
+    "translation": "сам"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "проверка"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "отговорен"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "сигурно"
+  },
+  {
+    "simpli": "priti",
+    "translation": "хубав"
+  },
+  {
+    "simpli": "dans",
+    "translation": "танц"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "клон"
+  },
+  {
+    "simpli": "era",
+    "translation": "епоха"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "технически"
+  },
+  {
+    "simpli": "praim",
+    "translation": "първичен"
+  },
+  {
+    "simpli": "host",
+    "translation": "домакин"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "храм"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "литература"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "администрация"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "ситуация"
+  },
+  {
+    "simpli": "widt",
+    "translation": "ширина"
+  },
+  {
+    "simpli": "prais",
+    "translation": "награда"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "излъчване"
+  },
+  {
+    "simpli": "nor",
+    "translation": "нито"
+  },
+  {
+    "simpli": "roman",
+    "translation": "римски"
+  },
+  {
+    "simpli": "influans",
+    "translation": "влияние"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Ричард"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "изречение"
+  },
+  {
+    "simpli": "leter",
+    "translation": "писмо"
+  },
+  {
+    "simpli": "domein",
+    "translation": "домейн"
+  },
+  {
+    "simpli": "kat",
+    "translation": "режа"
+  },
+  {
+    "simpli": "el",
+    "translation": "ел"
+  },
+  {
+    "simpli": "hold",
+    "translation": "държа"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "административен"
+  },
+  {
+    "simpli": "aper",
+    "translation": "горен"
+  },
+  {
+    "simpli": "ask",
+    "translation": "питам"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "действителен"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "командир"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "Русия"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "способност"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "брак"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "научен"
+  },
+  {
+    "simpli": "oner",
+    "translation": "собственик"
+  },
+  {
+    "simpli": "internet",
+    "translation": "интернет"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "наблизо"
+  },
+  {
+    "simpli": "bei",
+    "translation": "залив"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "виден"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "основен"
+  },
+  {
+    "simpli": "bas",
+    "translation": "бас"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "република"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "правосъдие"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "парламент"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "подход"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "основател"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "бързо"
+  },
+  {
+    "simpli": "grik",
+    "translation": "гръцки"
+  },
+  {
+    "simpli": "erport",
+    "translation": "летище"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "спор"
+  },
+  {
+    "simpli": "anser",
+    "translation": "отговор"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "широко"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "посока"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "доход"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "обикновено"
+  },
+  {
+    "simpli": "maont",
+    "translation": "планина"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "съветски"
+  },
+  {
+    "simpli": "airis",
+    "translation": "ирландски"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "типично"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "начален"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "магистрала"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "баскетбол"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "съвременен"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "еврейски"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "момиче"
+  },
+  {
+    "simpli": "meier",
+    "translation": "кмет"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "селище"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "контекст"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "по-малък"
+  },
+  {
+    "simpli": "sin",
+    "translation": "сцена"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "критичен"
+  },
+  {
+    "simpli": "anon",
+    "translation": "неизвестен"
+  },
+  {
+    "simpli": "tag",
+    "translation": "етикет"
+  },
+  {
+    "simpli": "mas",
+    "translation": "маса"
+  },
+  {
+    "simpli": "foto",
+    "translation": "снимка"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "епископ"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "хотел"
+  },
+  {
+    "simpli": "piano",
+    "translation": "пиано"
+  },
+  {
+    "simpli": "sain",
+    "translation": "знак"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "аргумент"
+  },
+  {
+    "simpli": "fift",
+    "translation": "пети"
+  },
+  {
+    "simpli": "perant",
+    "translation": "родител"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "описание"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "подобрявам"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "избягвам"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "произвеждам"
+  },
+  {
+    "simpli": "dark",
+    "translation": "тъмен"
+  },
+  {
+    "simpli": "flait",
+    "translation": "полет"
+  },
+  {
+    "simpli": "ga",
+    "translation": "ga"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "тежък"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "публикация"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "физически"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "външен"
+  },
+  {
+    "simpli": "deili",
+    "translation": "ежедневен"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "САЩ"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "Мексико"
+  },
+  {
+    "simpli": "oil",
+    "translation": "нефт"
+  },
+  {
+    "simpli": "twais",
+    "translation": "два пъти"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "инженер"
+  },
+  {
+    "simpli": "falo",
+    "translation": "следвам"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "официално"
+  },
+  {
+    "simpli": "lord",
+    "translation": "лорд"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "по-голям"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "учител"
+  },
+  {
+    "simpli": "importans",
+    "translation": "важност"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "изцяло"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "дейност"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "напълно"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "младши"
+  },
+  {
+    "simpli": "vol",
+    "translation": "том"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "достигам"
+  },
+  {
+    "simpli": "feit",
+    "translation": "вяра"
+  },
+  {
+    "simpli": "datj",
+    "translation": "холандски"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "скоро"
+  },
+  {
+    "simpli": "solo",
+    "translation": "соло"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "композитор"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "установявам"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "нация"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "Чикаго"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "оставам"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "замък"
+  },
+  {
+    "simpli": "displei",
+    "translation": "показвам"
+  },
+  {
+    "simpli": "rural",
+    "translation": "селски"
+  },
+  {
+    "simpli": "metad",
+    "translation": "метод"
+  },
+  {
+    "simpli": "isali",
+    "translation": "лесно"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "всеки"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "копие"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "територия"
+  },
+  {
+    "simpli": "britan",
+    "translation": "Британия"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "оборудване"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "галерия"
+  },
+  {
+    "simpli": "normal",
+    "translation": "нормален"
+  },
+  {
+    "simpli": "prins",
+    "translation": "принц"
+  },
+  {
+    "simpli": "pis",
+    "translation": "парче"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "конфликт"
+  },
+  {
+    "simpli": "forast",
+    "translation": "гора"
+  },
+  {
+    "simpli": "efert",
+    "translation": "усилие"
+  },
+  {
+    "simpli": "wert",
+    "translation": "стойност"
+  },
+  {
+    "simpli": "split",
+    "translation": "разделям"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "лагер"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "имение"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "лечение"
+  },
+  {
+    "simpli": "bild",
+    "translation": "строя"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "полк"
+  },
+  {
+    "simpli": "sort",
+    "translation": "вид"
+  },
+  {
+    "simpli": "draft",
+    "translation": "чернова"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "бейзбол"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "редом"
+  },
+  {
+    "simpli": "port",
+    "translation": "пристанище"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "фирма"
+  },
+  {
+    "simpli": "kru",
+    "translation": "екипаж"
+  },
+  {
+    "simpli": "drama",
+    "translation": "драма"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "власт"
+  },
+  {
+    "simpli": "paris",
+    "translation": "енория"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "защита"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "споразумение"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "събрание"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "присъединявам се"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "до голяма степен"
+  },
+  {
+    "simpli": "poland",
+    "translation": "Полша"
+  },
+  {
+    "simpli": "gru",
+    "translation": "растеше"
+  },
+  {
+    "simpli": "spein",
+    "translation": "Испания"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "брой"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "кула"
+  },
+  {
+    "simpli": "poat",
+    "translation": "поет"
+  },
+  {
+    "simpli": "ment",
+    "translation": "значеше"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "номинатор"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "час"
+  },
+  {
+    "simpli": "distans",
+    "translation": "разстояние"
+  },
+  {
+    "simpli": "traval",
+    "translation": "пътувам"
+  },
+  {
+    "simpli": "dai",
+    "translation": "умирам"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "уникален"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "двоен"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "точно"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "капацитет"
+  },
+  {
+    "simpli": "krik",
+    "translation": "поток"
+  },
+  {
+    "simpli": "wol",
+    "translation": "стена"
+  },
+  {
+    "simpli": "winter",
+    "translation": "зима"
+  },
+  {
+    "simpli": "stor",
+    "translation": "магазин"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "алтернатива"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "напред"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "резолюция"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "въздействие"
+  },
+  {
+    "simpli": "bert",
+    "translation": "раждане"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Мартин"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "интервю"
+  },
+  {
+    "simpli": "grot",
+    "translation": "растеж"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "съобщение"
+  },
+  {
+    "simpli": "pei",
+    "translation": "плащам"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "такса"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "заместник"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "приемам"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "среда"
+  },
+  {
+    "simpli": "traial",
+    "translation": "процес"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "предлагам"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "образователен"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "Каролина"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Джоузеф"
+  },
+  {
+    "simpli": "latan",
+    "translation": "латински"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "очевидно"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "резюме"
+  },
+  {
+    "simpli": "des",
+    "translation": "des"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "ръководство"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "главен"
+  },
+  {
+    "simpli": "batam",
+    "translation": "дъно"
+  },
+  {
+    "simpli": "ais",
+    "translation": "лед"
+  },
+  {
+    "simpli": "erban",
+    "translation": "градски"
+  },
+  {
+    "simpli": "herd",
+    "translation": "чут"
+  },
+  {
+    "simpli": "flag",
+    "translation": "знаме"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "журналист"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "съществуване"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "футболист"
+  },
+  {
+    "simpli": "boi",
+    "translation": "момче"
+  },
+  {
+    "simpli": "flor",
+    "translation": "под"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "щета"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "контакт"
+  },
+  {
+    "simpli": "hait",
+    "translation": "височина"
+  },
+  {
+    "simpli": "presans",
+    "translation": "присъствие"
+  },
+  {
+    "simpli": "mon",
+    "translation": "пон"
+  },
+  {
+    "simpli": "difens",
+    "translation": "отбрана"
+  },
+  {
+    "simpli": "farm",
+    "translation": "ферма"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "разлика"
+  },
+  {
+    "simpli": "ad",
+    "translation": "след новата ера"
+  },
+  {
+    "simpli": "sat",
+    "translation": "седна"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "затвор"
+  },
+  {
+    "simpli": "linier",
+    "translation": "линеен"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "изложба"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "съответно"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "поведение"
+  },
+  {
+    "simpli": "stei",
+    "translation": "оставам"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "представител"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "получавам"
+  },
+  {
+    "simpli": "platform",
+    "translation": "платформа"
+  },
+  {
+    "simpli": "li",
+    "translation": "Ли"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "паметник"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "преди новата ера"
+  },
+  {
+    "simpli": "aner",
+    "translation": "чест"
+  },
+  {
+    "simpli": "greid",
+    "translation": "оценка"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "демократичен"
+  },
+  {
+    "simpli": "transport",
+    "translation": "транспорт"
+  },
+  {
+    "simpli": "fort",
+    "translation": "крепост"
+  },
+  {
+    "simpli": "tot",
+    "translation": "преподаван"
+  },
+  {
+    "simpli": "breik",
+    "translation": "прекъсване"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "избор"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "авеню"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "дама"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "Шотландия"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "документален"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "разпределение"
+  },
+  {
+    "simpli": "privent",
+    "translation": "предотвратявам"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "неспособен"
+  },
+  {
+    "simpli": "weit",
+    "translation": "тегло"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "движение"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "концерт"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "сравнително"
+  },
+  {
+    "simpli": "stand",
+    "translation": "стоя"
+  },
+  {
+    "simpli": "midian",
+    "translation": "медиана"
+  },
+  {
+    "simpli": "praper",
+    "translation": "подходящ"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "Азия"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "промишлен"
+  },
+  {
+    "simpli": "dro",
+    "translation": "рисувам"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "империя"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "водач"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "връзка"
+  },
+  {
+    "simpli": "persent",
+    "translation": "процент"
+  },
+  {
+    "simpli": "merin",
+    "translation": "морски"
+  },
+  {
+    "simpli": "seint",
+    "translation": "свети"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "повишение"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "министерство"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "образуване"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "Израел"
+  },
+  {
+    "simpli": "blad",
+    "translation": "кръв"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "развивам"
+  },
+  {
+    "simpli": "sport",
+    "translation": "спорт"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "леко"
+  },
+  {
+    "simpli": "apra",
+    "translation": "опера"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "околия"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "определение"
+  },
+  {
+    "simpli": "alt",
+    "translation": "alt"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "включване"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "опозиция"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "музикант"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "превод"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "по-млад"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "дял"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "лекар"
+  },
+  {
+    "simpli": "ka",
+    "translation": "ca"
+  },
+  {
+    "simpli": "sari",
+    "translation": "съжалявам"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "съдържам"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "религия"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "не беше"
+  },
+  {
+    "simpli": "spred",
+    "translation": "разпространение"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "произход"
+  },
+  {
+    "simpli": "metal",
+    "translation": "метал"
+  },
+  {
+    "simpli": "del",
+    "translation": "дел"
+  },
+  {
+    "simpli": "gas",
+    "translation": "газ"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "често"
+  },
+  {
+    "simpli": "visit",
+    "translation": "посещение"
+  },
+  {
+    "simpli": "dip",
+    "translation": "дълбок"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "художник"
+  },
+  {
+    "simpli": "trast",
+    "translation": "доверие"
+  },
+  {
+    "simpli": "difit",
+    "translation": "поражение"
+  },
+  {
+    "simpli": "bol",
+    "translation": "топка"
+  },
+  {
+    "simpli": "isi",
+    "translation": "лесен"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "обяснявам"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "неутрален"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "най-стар"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "факултет"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "архитектура"
+  },
+  {
+    "simpli": "preser",
+    "translation": "налягане"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "император"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "bbc"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "разширение"
+  },
+  {
+    "simpli": "valid",
+    "translation": "валиден"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "мащаб"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "връщам"
+  },
+  {
+    "simpli": "plas",
+    "translation": "плюс"
+  },
+  {
+    "simpli": "wud",
+    "translation": "дърво"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "обширен"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "шанс"
+  },
+  {
+    "simpli": "merder",
+    "translation": "убийство"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "памет"
+  },
+  {
+    "simpli": "masin",
+    "translation": "машина"
+  },
+  {
+    "simpli": "wed",
+    "translation": "ср"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "спасявам"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "изисквам"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "inc"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "обмен"
+  },
+  {
+    "simpli": "ros",
+    "translation": "роза"
+  },
+  {
+    "simpli": "neival",
+    "translation": "военноморски"
+  },
+  {
+    "simpli": "fis",
+    "translation": "риба"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "обосновка"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "себе си"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "щастлив"
+  },
+  {
+    "simpli": "nider",
+    "translation": "нито"
+  },
+  {
+    "simpli": "ban",
+    "translation": "забрана"
+  },
+  {
+    "simpli": "pap",
+    "translation": "поп"
+  },
+  {
+    "simpli": "brand",
+    "translation": "марка"
+  },
+  {
+    "simpli": "gest",
+    "translation": "гост"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "не би"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "въведение"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "фамилия"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "безопасност"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "стадион"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "плаж"
+  },
+  {
+    "simpli": "gan",
+    "translation": "пистолет"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "престъпление"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Кит"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "съоръжение"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "Джорджия"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Джак"
+  },
+  {
+    "simpli": "okei",
+    "translation": "добре"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "ескадрила"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "резерв"
+  },
+  {
+    "simpli": "risk",
+    "translation": "риск"
+  },
+  {
+    "simpli": "fel",
+    "translation": "падна"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "шотландски"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "републикански"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "започвам"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "предложение"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "все пак"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "прилагам"
+  },
+  {
+    "simpli": "vais",
+    "translation": "вице"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "поезия"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "Вирджиния"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "агенция"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "електрически"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "съвместен"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "навигационна кутия"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "литературен"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Едуард"
+  },
+  {
+    "simpli": "logo",
+    "translation": "лого"
+  },
+  {
+    "simpli": "adians",
+    "translation": "публика"
+  },
+  {
+    "simpli": "brans",
+    "translation": "бронз"
+  },
+  {
+    "simpli": "mail",
+    "translation": "миля"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "ново"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "заявление"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "медицина"
+  },
+  {
+    "simpli": "florada",
+    "translation": "Флорида"
+  },
+  {
+    "simpli": "fols",
+    "translation": "неверен"
+  },
+  {
+    "simpli": "du",
+    "translation": "дю"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "решение"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "обект"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "комедия"
+  },
+  {
+    "simpli": "brif",
+    "translation": "кратък"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "тихоокеански"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "забавление"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "архитект"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "за разлика"
+  },
+  {
+    "simpli": "historian",
+    "translation": "историк"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "батальон"
+  },
+  {
+    "simpli": "limat",
+    "translation": "граница"
+  },
+  {
+    "simpli": "grant",
+    "translation": "субсидия"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "белетристика"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "принос"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "създател"
+  },
+  {
+    "simpli": "ref",
+    "translation": "препратка"
+  },
+  {
+    "simpli": "finis",
+    "translation": "завършвам"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "оркестър"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "постоянен"
+  },
+  {
+    "simpli": "sel",
+    "translation": "клетка"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "преименувам"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "отрицателен"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "жълт"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Джонсън"
+  },
+  {
+    "simpli": "task",
+    "translation": "задача"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "в крайна сметка"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "представлявам"
+  },
+  {
+    "simpli": "rer",
+    "translation": "рядък"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "предлагам"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "традиция"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "ефективен"
+  },
+  {
+    "simpli": "partner",
+    "translation": "партньор"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "таен"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "милиард"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "вариант"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "изключително"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "достатъчен"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "насърчавам"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "глава"
+  },
+  {
+    "simpli": "pov",
+    "translation": "pov"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "шведски"
+  },
+  {
+    "simpli": "von",
+    "translation": "фон"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "персонал"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "уважение"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Том"
+  },
+  {
+    "simpli": "djas",
+    "translation": "джаз"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "агент"
+  },
+  {
+    "simpli": "fri",
+    "translation": "пет"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "подробност"
+  },
+  {
+    "simpli": "antu",
+    "translation": "върху"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "поколение"
+  },
+  {
+    "simpli": "perform",
+    "translation": "изпълнявам"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "Оксфорд"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "еквивалентен"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "пилот"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "световен"
+  },
+  {
+    "simpli": "hors",
+    "translation": "кон"
+  },
+  {
+    "simpli": "senat",
+    "translation": "сенат"
+  },
+  {
+    "simpli": "kor",
+    "translation": "ядро"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "доставка"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "заменям"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Сокоро"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "вандализъм"
+  },
+  {
+    "simpli": "hat",
+    "translation": "горещ"
+  },
+  {
+    "simpli": "instans",
+    "translation": "случай"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "олимпийски"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "икономика"
+  },
+  {
+    "simpli": "servei",
+    "translation": "проучване"
+  },
+  {
+    "simpli": "di",
+    "translation": "ди"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "очевидно"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "загриженост"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "корпорация"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "предизвикателство"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "философия"
+  },
+  {
+    "simpli": "advans",
+    "translation": "напредък"
+  },
+  {
+    "simpli": "taks",
+    "translation": "данък"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "лиценз"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "инцидент"
+  },
+  {
+    "simpli": "bot",
+    "translation": "бот"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "шести"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "свобода"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "самоличност"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "максимален"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "донякъде"
+  },
+  {
+    "simpli": "plat",
+    "translation": "сюжет"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "Бостън"
+  },
+  {
+    "simpli": "step",
+    "translation": "стъпка"
+  },
+  {
+    "simpli": "disis",
+    "translation": "болест"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "Берлин"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "екологичен"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "разследване"
+  },
+  {
+    "simpli": "flit",
+    "translation": "флот"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "пехота"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "бой"
+  },
+  {
+    "simpli": "rais",
+    "translation": "възход"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "генерирам"
+  },
+  {
+    "simpli": "taword",
+    "translation": "към"
+  },
+  {
+    "simpli": "vies",
+    "translation": "срещу"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "състояние"
+  },
+  {
+    "simpli": "mis",
+    "translation": "пропускам"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "класически"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "класика"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "помня"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "животно"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "вътрешен"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Франк"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "момент"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "възпитаник"
+  },
+  {
+    "simpli": "watever",
+    "translation": "каквото и да е"
+  },
+  {
+    "simpli": "internal",
+    "translation": "вътрешен"
+  },
+  {
+    "simpli": "seip",
+    "translation": "форма"
+  },
+  {
+    "simpli": "herself",
+    "translation": "себе си"
+  },
+  {
+    "simpli": "streit",
+    "translation": "прав"
+  },
+  {
+    "simpli": "seks",
+    "translation": "пол"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "отблизо"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Скот"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "комуникация"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "домакинство"
+  },
+  {
+    "simpli": "edj",
+    "translation": "ръб"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "прехвърляне"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "посочвам"
+  },
+  {
+    "simpli": "haki",
+    "translation": "хокей"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "визуален"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "мощен"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "общински"
+  },
+  {
+    "simpli": "fot",
+    "translation": "воюва"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "стол"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "значително"
+  },
+  {
+    "simpli": "minat",
+    "translation": "минута"
+  },
+  {
+    "simpli": "lern",
+    "translation": "уча"
+  },
+  {
+    "simpli": "kard",
+    "translation": "карта"
+  },
+  {
+    "simpli": "gard",
+    "translation": "охрана"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "защитавам"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "северозапад"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "неуспех"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "издател"
+  },
+  {
+    "simpli": "ai",
+    "translation": "око"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "мода"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "независимост"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "шофьор"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "силно"
+  },
+  {
+    "simpli": "advais",
+    "translation": "съвет"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "признание"
+  },
+  {
+    "simpli": "kil",
+    "translation": "убивам"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "ръгби"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "превозно средство"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "адвокат"
+  },
+  {
+    "simpli": "brok",
+    "translation": "счупи"
+  },
+  {
+    "simpli": "huk",
+    "translation": "кука"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "наследство"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "югоизток"
+  },
+  {
+    "simpli": "korner",
+    "translation": "ъгъл"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "сексуален"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Елизабет"
+  },
+  {
+    "simpli": "wis",
+    "translation": "желание"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "реч"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "определям"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "нарушение"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "Пенсилвания"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "железница"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "желязо"
+  },
+  {
+    "simpli": "gav",
+    "translation": "правителство"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "пенсиониране"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Франсиско"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "напред"
+  },
+  {
+    "simpli": "eid",
+    "translation": "помощ"
+  },
+  {
+    "simpli": "daot",
+    "translation": "съмнение"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "отряд"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "часовник"
+  },
+  {
+    "simpli": "apart",
+    "translation": "отделно"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "рак"
+  },
+  {
+    "simpli": "misis",
+    "translation": "госпожа"
+  }
+]

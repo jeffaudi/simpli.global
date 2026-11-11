@@ -61,7 +61,7 @@
   },
   {
     "simpli": "witj",
-    "translation": "which"
+    "translation": "cuál"
   },
   {
     "simpli": "bat",
@@ -144,7 +144,7 @@
     "translation": "más"
   },
   {
-    "simpli": "abaut",
+    "simpli": "abaot",
     "translation": "acerca de"
   },
   {
@@ -181,10 +181,10 @@
   },
   {
     "simpli": "wer",
-    "translation": "where"
+    "translation": "dónde"
   },
   {
-    "simpli": "aut",
+    "simpli": "aot",
     "translation": "afuera"
   },
   {
@@ -253,7 +253,7 @@
   },
   {
     "simpli": "wil",
-    "translation": "will"
+    "translation": "va"
   },
   {
     "simpli": "eni",
@@ -265,7 +265,7 @@
   },
   {
     "simpli": "wat",
-    "translation": "what"
+    "translation": "qué"
   },
   {
     "simpli": "november",
@@ -301,7 +301,7 @@
   },
   {
     "simpli": "wail",
-    "translation": "while"
+    "translation": "mientras"
   },
   {
     "simpli": "si",
@@ -337,7 +337,7 @@
   },
   {
     "simpli": "wel",
-    "translation": "well"
+    "translation": "bien"
   },
   {
     "simpli": "yus",
@@ -353,7 +353,7 @@
   },
   {
     "simpli": "wok",
-    "translation": "work"
+    "translation": "trabajo"
   },
   {
     "simpli": "tri",
@@ -380,7 +380,7 @@
     "translation": "película"
   },
   {
-    "simpli": "nau",
+    "simpli": "nao",
     "translation": "ahora"
   },
   {
@@ -420,7 +420,7 @@
     "translation": "mismo"
   },
   {
-    "simpli": "hauever",
+    "simpli": "haoever",
     "translation": "sin embargo"
   },
   {
@@ -437,7 +437,7 @@
   },
   {
     "simpli": "werld",
-    "translation": "world"
+    "translation": "mundo"
   },
   {
     "simpli": "abav",
@@ -536,7 +536,7 @@
     "translation": "a mí"
   },
   {
-    "simpli": "hau",
+    "simpli": "hao",
     "translation": "cómo"
   },
   {
@@ -545,7 +545,7 @@
   },
   {
     "simpli": "wan",
-    "translation": "won"
+    "translation": "ganó"
   },
   {
     "simpli": "itj",
@@ -556,7 +556,7 @@
     "translation": "nacional"
   },
   {
-    "simpli": "saut",
+    "simpli": "saot",
     "translation": "sur"
   },
   {
@@ -605,7 +605,7 @@
   },
   {
     "simpli": "wei",
-    "translation": "way"
+    "translation": "camino"
   },
   {
     "simpli": "former",
@@ -641,7 +641,7 @@
   },
   {
     "simpli": "wor",
-    "translation": "war"
+    "translation": "guerra"
   },
   {
     "simpli": "gud",
@@ -664,7 +664,7 @@
     "translation": "universidad"
   },
   {
-    "simpli": "eraund",
+    "simpli": "eraond",
     "translation": "alrededor"
   },
   {
@@ -728,7 +728,7 @@
     "translation": "local"
   },
   {
-    "simpli": "haus",
+    "simpli": "haos",
     "translation": "casa"
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "simpli": "widin",
-    "translation": "within"
+    "translation": "dentro"
   },
   {
     "simpli": "eridjanal",
@@ -804,7 +804,7 @@
     "translation": "conseguir"
   },
   {
-    "simpli": "taun",
+    "simpli": "taon",
     "translation": "ciudad"
   },
   {
@@ -840,8 +840,8 @@
     "translation": "internacional"
   },
   {
-    "simpli": "witaut",
-    "translation": "without"
+    "simpli": "witaot",
+    "translation": "sin"
   },
   {
     "simpli": "sistam",
@@ -881,7 +881,7 @@
   },
   {
     "simpli": "west",
-    "translation": "west"
+    "translation": "oeste"
   },
   {
     "simpli": "pleier",
@@ -980,7 +980,7 @@
     "translation": "este"
   },
   {
-    "simpli": "daun",
+    "simpli": "daon",
     "translation": "abajo"
   },
   {
@@ -1089,14 +1089,14 @@
   },
   {
     "simpli": "wai",
-    "translation": "why"
+    "translation": "por qué"
   },
   {
     "simpli": "rakord",
     "translation": "registro"
   },
   {
-    "simpli": "bakgraund",
+    "simpli": "bakgraond",
     "translation": "fondo"
   },
   {
@@ -1117,7 +1117,7 @@
   },
   {
     "simpli": "aword",
-    "translation": "award"
+    "translation": "premio"
   },
   {
     "simpli": "never",
@@ -1128,7 +1128,7 @@
     "translation": "suficiente"
   },
   {
-    "simpli": "kaunti",
+    "simpli": "kaonti",
     "translation": "condado"
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
     "simpli": "woter",
-    "translation": "water"
+    "translation": "agua"
   },
   {
     "simpli": "kalidj",
@@ -1213,7 +1213,7 @@
   },
   {
     "simpli": "rol",
-    "translation": "role"
+    "translation": "rol"
   },
   {
     "simpli": "simaler",
@@ -1221,7 +1221,7 @@
   },
   {
     "simpli": "wait",
-    "translation": "white"
+    "translation": "blanco"
   },
   {
     "simpli": "kerant",
@@ -1284,7 +1284,7 @@
     "translation": "negro"
   },
   {
-    "simpli": "pauer",
+    "simpli": "paoer",
     "translation": "fuerza"
   },
   {
@@ -1369,7 +1369,7 @@
   },
   {
     "simpli": "want",
-    "translation": "want"
+    "translation": "querer"
   },
   {
     "simpli": "fild",
@@ -1453,7 +1453,7 @@
   },
   {
     "simpli": "win",
-    "translation": "win"
+    "translation": "ganar"
   },
   {
     "simpli": "vidio",
@@ -1500,7 +1500,7 @@
     "translation": "probablemente"
   },
   {
-    "simpli": "raund",
+    "simpli": "raond",
     "translation": "redondo"
   },
   {
@@ -1573,7 +1573,7 @@
   },
   {
     "simpli": "waif",
-    "translation": "wife"
+    "translation": "esposa"
   },
   {
     "simpli": "ingland",
@@ -1605,11 +1605,11 @@
   },
   {
     "simpli": "awei",
-    "translation": "away"
+    "translation": "lejos"
   },
   {
     "simpli": "weder",
-    "translation": "whether"
+    "translation": "si"
   },
   {
     "simpli": "sasaiati",
@@ -1649,14 +1649,14 @@
   },
   {
     "simpli": "western",
-    "translation": "western"
+    "translation": "occidental"
   },
   {
     "simpli": "dipartmant",
     "translation": "departamento"
   },
   {
-    "simpli": "kaunsal",
+    "simpli": "kaonsal",
     "translation": "concejo"
   },
   {
@@ -1856,7 +1856,7 @@
     "translation": "estudiar"
   },
   {
-    "simpli": "autsaid",
+    "simpli": "aotsaid",
     "translation": "afuera"
   },
   {
@@ -1865,14 +1865,14 @@
   },
   {
     "simpli": "websait",
-    "translation": "website"
+    "translation": "sitio web"
   },
   {
     "simpli": "deibyu",
     "translation": "debut"
   },
   {
-    "simpli": "truaut",
+    "simpli": "truaot",
     "translation": "a lo largo de"
   },
   {
@@ -1885,7 +1885,7 @@
   },
   {
     "simpli": "werd",
-    "translation": "word"
+    "translation": "palabra"
   },
   {
     "simpli": "fyutjer",
@@ -1953,7 +1953,7 @@
   },
   {
     "simpli": "wik",
-    "translation": "week"
+    "translation": "semana"
   },
   {
     "simpli": "yuserneim",
@@ -2100,7 +2100,7 @@
     "translation": "es"
   },
   {
-    "simpli": "akaunt",
+    "simpli": "akaont",
     "translation": "cuenta"
   },
   {
@@ -2361,11 +2361,11 @@
   },
   {
     "simpli": "netwerk",
-    "translation": "network"
+    "translation": "red"
   },
   {
     "simpli": "wuman",
-    "translation": "woman"
+    "translation": "mujer"
   },
   {
     "simpli": "medakal",
@@ -2529,7 +2529,7 @@
   },
   {
     "simpli": "reilwei",
-    "translation": "railway"
+    "translation": "ferrocarril"
   },
   {
     "simpli": "kap",
@@ -2612,7 +2612,7 @@
     "translation": "estructura"
   },
   {
-    "simpli": "graund",
+    "simpli": "graond",
     "translation": "suelo"
   },
   {
@@ -2636,7 +2636,7 @@
     "translation": "asunto"
   },
   {
-    "simpli": "saund",
+    "simpli": "saond",
     "translation": "sonido"
   },
   {
@@ -2864,7 +2864,7 @@
     "translation": "regional"
   },
   {
-    "simpli": "faundeisan",
+    "simpli": "faondeisan",
     "translation": "base"
   },
   {
@@ -3009,7 +3009,7 @@
   },
   {
     "simpli": "waid",
-    "translation": "wide"
+    "translation": "ancho"
   },
   {
     "simpli": "ruum",
@@ -3093,7 +3093,7 @@
   },
   {
     "simpli": "winer",
-    "translation": "winner"
+    "translation": "ganador"
   },
   {
     "simpli": "older",
@@ -3164,7 +3164,7 @@
     "translation": "académico"
   },
   {
-    "simpli": "braun",
+    "simpli": "braon",
     "translation": "marrón"
   },
   {
@@ -3176,7 +3176,7 @@
     "translation": "después"
   },
   {
-    "simpli": "alau",
+    "simpli": "alao",
     "translation": "permitir"
   },
   {
@@ -3352,7 +3352,7 @@
     "translation": "Alabama"
   },
   {
-    "simpli": "mauntan",
+    "simpli": "maontan",
     "translation": "montaña"
   },
   {
@@ -3500,7 +3500,7 @@
     "translation": "tierra"
   },
   {
-    "simpli": "amaunt",
+    "simpli": "amaont",
     "translation": "cantidad"
   },
   {
@@ -3509,7 +3509,7 @@
   },
   {
     "simpli": "aderwais",
-    "translation": "otherwise"
+    "translation": "de otro modo"
   },
   {
     "simpli": "djab",
@@ -3805,7 +3805,7 @@
   },
   {
     "simpli": "widt",
-    "translation": "width"
+    "translation": "anchura"
   },
   {
     "simpli": "prais",
@@ -3869,7 +3869,7 @@
   },
   {
     "simpli": "aktjaval",
-    "translation": "actual"
+    "translation": "verdadero"
   },
   {
     "simpli": "kamander",
@@ -3936,7 +3936,7 @@
     "translation": "acercarse"
   },
   {
-    "simpli": "faunder",
+    "simpli": "faonder",
     "translation": "fundador"
   },
   {
@@ -3961,7 +3961,7 @@
   },
   {
     "simpli": "waidli",
-    "translation": "widely"
+    "translation": "ampliamente"
   },
   {
     "simpli": "dereksan",
@@ -3976,12 +3976,12 @@
     "translation": "comúnmente"
   },
   {
-    "simpli": "maunt",
+    "simpli": "maont",
     "translation": "montar"
   },
   {
     "simpli": "soviat",
-    "translation": "soviet"
+    "translation": "soviético"
   },
   {
     "simpli": "airis",
@@ -3997,7 +3997,7 @@
   },
   {
     "simpli": "haiwei",
-    "translation": "highway"
+    "translation": "carretera"
   },
   {
     "simpli": "baskatbol",
@@ -4145,7 +4145,7 @@
   },
   {
     "simpli": "twais",
-    "translation": "twice"
+    "translation": "dos veces"
   },
   {
     "simpli": "endjanir",
@@ -4309,7 +4309,7 @@
   },
   {
     "simpli": "wert",
-    "translation": "worth"
+    "translation": "valor"
   },
   {
     "simpli": "split",
@@ -4412,11 +4412,11 @@
     "translation": "España"
   },
   {
-    "simpli": "kaunt",
+    "simpli": "kaont",
     "translation": "contar"
   },
   {
-    "simpli": "tauer",
+    "simpli": "taoer",
     "translation": "torre"
   },
   {
@@ -4432,7 +4432,7 @@
     "translation": "nominador"
   },
   {
-    "simpli": "auer",
+    "simpli": "aoer",
     "translation": "hora"
   },
   {
@@ -4469,11 +4469,11 @@
   },
   {
     "simpli": "wol",
-    "translation": "wall"
+    "translation": "pared"
   },
   {
     "simpli": "winter",
-    "translation": "winter"
+    "translation": "invierno"
   },
   {
     "simpli": "stor",
@@ -4485,7 +4485,7 @@
   },
   {
     "simpli": "forwerd",
-    "translation": "forward"
+    "translation": "adelante"
   },
   {
     "simpli": "resalusan",
@@ -4777,7 +4777,7 @@
   },
   {
     "simpli": "weit",
-    "translation": "weight"
+    "translation": "peso"
   },
   {
     "simpli": "trafik",
@@ -4876,7 +4876,7 @@
     "translation": "ópera"
   },
   {
-    "simpli": "taunsip",
+    "simpli": "taonsip",
     "translation": "municipio"
   },
   {
@@ -5041,7 +5041,7 @@
   },
   {
     "simpli": "wud",
-    "translation": "wood"
+    "translation": "madera"
   },
   {
     "simpli": "ikstensiv",
@@ -5217,7 +5217,7 @@
   },
   {
     "simpli": "eniwei",
-    "translation": "anyway"
+    "translation": "de todos modos"
   },
   {
     "simpli": "aplai",
@@ -5377,7 +5377,7 @@
   },
   {
     "simpli": "sel",
-    "translation": "celúla"
+    "translation": "célula"
   },
   {
     "simpli": "rineim",
@@ -5461,7 +5461,7 @@
   },
   {
     "simpli": "swidis",
-    "translation": "swedish"
+    "translation": "sueco"
   },
   {
     "simpli": "von",
@@ -5521,7 +5521,7 @@
   },
   {
     "simpli": "werldwaid",
-    "translation": "worldwide"
+    "translation": "mundial"
   },
   {
     "simpli": "hors",
@@ -5633,7 +5633,7 @@
   },
   {
     "simpli": "samwat",
-    "translation": "somewhat"
+    "translation": "algo"
   },
   {
     "simpli": "plat",
@@ -5685,7 +5685,7 @@
   },
   {
     "simpli": "taword",
-    "translation": "toward"
+    "translation": "hacia"
   },
   {
     "simpli": "vies",
@@ -5737,7 +5737,7 @@
   },
   {
     "simpli": "watever",
-    "translation": "whatever"
+    "translation": "lo que sea"
   },
   {
     "simpli": "internal",
@@ -5772,7 +5772,7 @@
     "translation": "comunicación"
   },
   {
-    "simpli": "hausold",
+    "simpli": "haosold",
     "translation": "familiar"
   },
   {
@@ -5796,7 +5796,7 @@
     "translation": "visual"
   },
   {
-    "simpli": "pauerfal",
+    "simpli": "paoerfal",
     "translation": "poderoso"
   },
   {
@@ -5837,7 +5837,7 @@
   },
   {
     "simpli": "nortwest",
-    "translation": "northwest"
+    "translation": "noroeste"
   },
   {
     "simpli": "feilyer",
@@ -5908,7 +5908,7 @@
     "translation": "herencia"
   },
   {
-    "simpli": "sautist",
+    "simpli": "saotist",
     "translation": "sudeste"
   },
   {
@@ -5925,7 +5925,7 @@
   },
   {
     "simpli": "wis",
-    "translation": "wish"
+    "translation": "desear"
   },
   {
     "simpli": "spitj",
@@ -5972,7 +5972,7 @@
     "translation": "ayuda"
   },
   {
-    "simpli": "daut",
+    "simpli": "daot",
     "translation": "duda"
   },
   {
@@ -5985,7 +5985,7 @@
   },
   {
     "simpli": "watj",
-    "translation": "watch"
+    "translation": "mirar"
   },
   {
     "simpli": "apart",

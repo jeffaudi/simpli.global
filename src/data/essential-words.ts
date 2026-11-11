@@ -13,10 +13,10 @@ export const essentialWords = {
   ],
   nature: [
     'ert', 'sky', 'sun', 'mun', 'star', 'woter', 'fire', 'air', 'land', 'osan', 'river', 'mountain',
-    'forest', 'animal', 'plant', 'fud', 'fruut', 'rais', 'bred', 'miit', 'fish', 'tree', 'flauer', 'leef', 'ston',
+    'forest', 'animal', 'plant', 'fud', 'fruut', 'rais', 'bred', 'miit', 'fish', 'tree', 'flaoer', 'leef', 'ston',
   ],
   objects: [
-    'haus', 'ruum', 'bed', 'table', 'chair', 'dor', 'windo', 'lait', 'fon', 'kampyuter',
+    'haos', 'ruum', 'bed', 'table', 'chair', 'dor', 'windo', 'lait', 'fon', 'kampyuter',
     'buk', 'pen', 'paper', 'bag', 'box', 'kii', 'kar', 'bus', 'tren', 'bike', 'rood', 'map',
     'mani', 'bank', 'shop', 'market', 'tiket', 'hotel', 'siti', 'kantri',
   ],
@@ -27,6 +27,6 @@ export const essentialWords = {
   ],
   connectors: [
     'and', 'or', 'but', 'if', 'wen', 'becos', 'so', 'den', 'also', 'only', 'even', 'maybe',
-    'yes', 'no', 'ok', 'now', 'later', 'yesterde', 'tumoro', 'wil', 'olredi', 'stil',
+    'yes', 'no', 'ok', 'nao', 'later', 'yesterde', 'tumoro', 'wil', 'olredi', 'stil',
   ],
 } as const;

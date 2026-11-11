@@ -50,7 +50,7 @@ The site uses the **Astro i18n Starter** theme pattern and path-based locales:
 
 1. Add the locale to `astro.config.mjs` (`i18n.locales` + `fallback`) and `src/locales.ts` (`LOCALES_SETTING` with `script` and `region`).
 2. Create `src/translations/[locale].json` as `{}` (or with the keys you have translated). Missing keys fall back to English.
-3. Optional: `npm run vocab:5000:i18n -- --locale [code]` for dictionary glosses.
+3. Add `src/data/vocabulary-1500.{locale}.json` and `vocabulary-5000.{locale}.json`: `{ simpli, translation }`, same order as the English list. Do not run `npm run vocab:5000:i18n` on a file that already has glosses; that script calls Google Translate and overwrites them.
 
 No new `.astro` route files are required. New UI strings are added to `en.json` only.
 
@@ -79,8 +79,8 @@ The [spec/](spec/) folder holds the language specification as reference docs:
 ## Design principles
 
 1. **One sound = one spelling** (no silent letters, no “th”)
-2. **No verb conjugation** — time with words (yesterde, now, tumoro); optional wil / hav for future or past; olredi / stil for aspect
-3. **Possession:** noun + possessor (*haus mi* = my house)
+2. **No verb conjugation** — time with words (yesterde, nao, tumoro); optional wil / hav for future or past; olredi / stil for aspect
+3. **Possession:** noun + possessor (*haos mi* = my house)
 4. **Long vowels** to avoid collisions (e.g. *it* vs *iit* for “eat”)
 
 ## Quick example

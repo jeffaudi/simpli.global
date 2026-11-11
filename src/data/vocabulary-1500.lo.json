@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "ຂອງ"
+  },
+  {
+    "simpli": "in",
+    "translation": "ໃນ"
+  },
+  {
+    "simpli": "and",
+    "translation": "ແລະ"
+  },
+  {
+    "simpli": "tu",
+    "translation": "ເຖິງ"
+  },
+  {
+    "simpli": "an",
+    "translation": "ເທິງ"
+  },
+  {
+    "simpli": "as",
+    "translation": "ເປັນ"
+  },
+  {
+    "simpli": "for",
+    "translation": "ສຳລັບ"
+  },
+  {
+    "simpli": "bai",
+    "translation": "ໂດຍ"
+  },
+  {
+    "simpli": "dat",
+    "translation": "ວ່າ"
+  },
+  {
+    "simpli": "el",
+    "translation": "ລາວ/ນາງ/ມັນ"
+  },
+  {
+    "simpli": "wit",
+    "translation": "ກັບ"
+  },
+  {
+    "simpli": "at",
+    "translation": "ທີ່"
+  },
+  {
+    "simpli": "fram",
+    "translation": "ຈາກ"
+  },
+  {
+    "simpli": "nat",
+    "translation": "ບໍ່"
+  },
+  {
+    "simpli": "or",
+    "translation": "ຫຼື"
+  },
+  {
+    "simpli": "witj",
+    "translation": "ເຊິ່ງ"
+  },
+  {
+    "simpli": "bat",
+    "translation": "ແຕ່"
+  },
+  {
+    "simpli": "hav",
+    "translation": "ມີ"
+  },
+  {
+    "simpli": "olso",
+    "translation": "ນຳ"
+  },
+  {
+    "simpli": "van",
+    "translation": "ໜຶ່ງ"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "ໜ້າ"
+  },
+  {
+    "simpli": "yu",
+    "translation": "ເຈົ້າ"
+  },
+  {
+    "simpli": "no",
+    "translation": "ບໍ່"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "ທຳອິດ"
+  },
+  {
+    "simpli": "dey",
+    "translation": "ພວກເຂົາ"
+  },
+  {
+    "simpli": "hu",
+    "translation": "ໃຜ"
+  },
+  {
+    "simpli": "der",
+    "translation": "ທີ່ນັ້ນ"
+  },
+  {
+    "simpli": "mei",
+    "translation": "ອາດ"
+  },
+  {
+    "simpli": "after",
+    "translation": "ຫຼັງ"
+  },
+  {
+    "simpli": "ol",
+    "translation": "ທັງໝົດ"
+  },
+  {
+    "simpli": "nu",
+    "translation": "ໃໝ່"
+  },
+  {
+    "simpli": "ader",
+    "translation": "ອື່ນ"
+  },
+  {
+    "simpli": "if",
+    "translation": "ຖ້າ"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "ການສົນທະນາ"
+  },
+  {
+    "simpli": "kan",
+    "translation": "ສາມາດ"
+  },
+  {
+    "simpli": "mor",
+    "translation": "ຫຼາຍກວ່າ"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "ກ່ຽວກັບ"
+  },
+  {
+    "simpli": "satj",
+    "translation": "ດັ່ງ"
+  },
+  {
+    "simpli": "sam",
+    "translation": "ບາງ"
+  },
+  {
+    "simpli": "taim",
+    "translation": "ເວລາ"
+  },
+  {
+    "simpli": "onli",
+    "translation": "ເທົ່ານັ້ນ"
+  },
+  {
+    "simpli": "intu",
+    "translation": "ເຂົ້າ"
+  },
+  {
+    "simpli": "so",
+    "translation": "ດັ່ງນັ້ນ"
+  },
+  {
+    "simpli": "ap",
+    "translation": "ຂຶ້ນ"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "ລຶບ"
+  },
+  {
+    "simpli": "wer",
+    "translation": "ທີ່ໃດ"
+  },
+  {
+    "simpli": "aot",
+    "translation": "ອອກ"
+  },
+  {
+    "simpli": "dan",
+    "translation": "ກວ່າ"
+  },
+  {
+    "simpli": "most",
+    "translation": "ທີ່ສຸດ"
+  },
+  {
+    "simpli": "over",
+    "translation": "ເກີນ"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "ເຊື່ອມໂຍງ"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "ມັງກອນ"
+  },
+  {
+    "simpli": "martj",
+    "translation": "ມີນາ"
+  },
+  {
+    "simpli": "born",
+    "translation": "ເກີດ"
+  },
+  {
+    "simpli": "september",
+    "translation": "ກັນຍາ"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "ຕຸລາ"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "ກໍລະກົດ"
+  },
+  {
+    "simpli": "agast",
+    "translation": "ສິງຫາ"
+  },
+  {
+    "simpli": "plis",
+    "translation": "ກະລຸນາ"
+  },
+  {
+    "simpli": "disember",
+    "translation": "ທັນວາ"
+  },
+  {
+    "simpli": "djun",
+    "translation": "ມິຖຸນາ"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "ເມສາ"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "ທີ"
+  },
+  {
+    "simpli": "wil",
+    "translation": "ຈະ"
+  },
+  {
+    "simpli": "eni",
+    "translation": "ໃດ"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "ຫຍັງ"
+  },
+  {
+    "simpli": "november",
+    "translation": "ພະຈິກ"
+  },
+  {
+    "simpli": "dis",
+    "translation": "ເຫຼົ່ານີ້"
+  },
+  {
+    "simpli": "wi",
+    "translation": "ພວກເຮົາ"
+  },
+  {
+    "simpli": "meni",
+    "translation": "ຫຼາຍ"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "ກຸມພາ"
+  },
+  {
+    "simpli": "laik",
+    "translation": "ຄື"
+  },
+  {
+    "simpli": "dem",
+    "translation": "ພວກເຂົາ"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "ຕໍ່ໄປ"
+  },
+  {
+    "simpli": "wail",
+    "translation": "ໃນຂະນະທີ່"
+  },
+  {
+    "simpli": "si",
+    "translation": "ເຫັນ"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "ພາຍຫຼັງ"
+  },
+  {
+    "simpli": "neim",
+    "translation": "ຊື່"
+  },
+  {
+    "simpli": "skul",
+    "translation": "ໂຮງຮຽນ"
+  },
+  {
+    "simpli": "part",
+    "translation": "ສ່ວນ"
+  },
+  {
+    "simpli": "ander",
+    "translation": "ລຸ່ມ"
+  },
+  {
+    "simpli": "djast",
+    "translation": "ພຽງ"
+  },
+  {
+    "simpli": "yir",
+    "translation": "ປີ"
+  },
+  {
+    "simpli": "wel",
+    "translation": "ດີ"
+  },
+  {
+    "simpli": "yus",
+    "translation": "ໃຊ້"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "ໂຕ້ວາທີ"
+  },
+  {
+    "simpli": "sins",
+    "translation": "ຕັ້ງແຕ່"
+  },
+  {
+    "simpli": "wok",
+    "translation": "ວຽກ"
+  },
+  {
+    "simpli": "tri",
+    "translation": "ສາມ"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "ກ່ອນ"
+  },
+  {
+    "simpli": "bot",
+    "translation": "ທັງສອງ"
+  },
+  {
+    "simpli": "steit",
+    "translation": "ລັດ"
+  },
+  {
+    "simpli": "stail",
+    "translation": "ຮູບແບບ"
+  },
+  {
+    "simpli": "film",
+    "translation": "ຮູບເງົາ"
+  },
+  {
+    "simpli": "nao",
+    "translation": "ດຽວນີ້"
+  },
+  {
+    "simpli": "tru",
+    "translation": "ຜ່ານ"
+  },
+  {
+    "simpli": "becos",
+    "translation": "ເພາະ"
+  },
+  {
+    "simpli": "grup",
+    "translation": "ກຸ່ມ"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "ຊາວອາເມຣິກາ"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "ຜູ້ໃຊ້"
+  },
+  {
+    "simpli": "alain",
+    "translation": "ຈັດລຽງ"
+  },
+  {
+    "simpli": "siti",
+    "translation": "ເມືອງ"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "ວິກິພີເດຍ"
+  },
+  {
+    "simpli": "seim",
+    "translation": "ດຽວກັນ"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "ແຕ່ວ່າ"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "ກາຍເປັນ"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "ທີສອງ"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "ເໝາະສົມ"
+  },
+  {
+    "simpli": "werld",
+    "translation": "ໂລກ"
+  },
+  {
+    "simpli": "abav",
+    "translation": "ຂ້າງເທິງ"
+  },
+  {
+    "simpli": "tim",
+    "translation": "ທີມ"
+  },
+  {
+    "simpli": "kip",
+    "translation": "ເກັບ"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "ຕໍ່ມາ"
+  },
+  {
+    "simpli": "rait",
+    "translation": "ຖືກ"
+  },
+  {
+    "simpli": "antil",
+    "translation": "ຈົນກວ່າ"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "ແກ້ໄຂ"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "ຕໍ່ຕ້ານ"
+  },
+  {
+    "simpli": "tok",
+    "translation": "ລົມ"
+  },
+  {
+    "simpli": "namber",
+    "translation": "ຈຳນວນ"
+  },
+  {
+    "simpli": "senter",
+    "translation": "ສູນ"
+  },
+  {
+    "simpli": "list",
+    "translation": "ລາຍການ"
+  },
+  {
+    "simpli": "albam",
+    "translation": "ອາລະບ້ຳ"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "ຫຼາຍອັນ"
+  },
+  {
+    "simpli": "famali",
+    "translation": "ຄອບຄົວ"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "ໂອນ"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "ລະດູ"
+  },
+  {
+    "simpli": "veri",
+    "translation": "ຫຼາຍ"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "ບໍລິສັດ"
+  },
+  {
+    "simpli": "eria",
+    "translation": "ເຂດ"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "ຂ້າງລຸ່ມ"
+  },
+  {
+    "simpli": "hir",
+    "translation": "ທີ່ນີ້"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "ປະຫວັດ"
+  },
+  {
+    "simpli": "mi",
+    "translation": "ຂ້ອຍ"
+  },
+  {
+    "simpli": "hao",
+    "translation": "ແນວໃດ"
+  },
+  {
+    "simpli": "per",
+    "translation": "ຕໍ່"
+  },
+  {
+    "simpli": "wan",
+    "translation": "ຊະນະ"
+  },
+  {
+    "simpli": "itj",
+    "translation": "ແຕ່ລະ"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "ແຫ່ງຊາດ"
+  },
+  {
+    "simpli": "saot",
+    "translation": "ໃຕ້"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "ສະຖານ"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "ຜົນ"
+  },
+  {
+    "simpli": "meik",
+    "translation": "ເຮັດ"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "ດົນຕີ"
+  },
+  {
+    "simpli": "best",
+    "translation": "ດີທີ່ສຸດ"
+  },
+  {
+    "simpli": "dos",
+    "translation": "ເຫຼົ່ານັ້ນ"
+  },
+  {
+    "simpli": "anader",
+    "translation": "ອີກອັນ"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "ຄິດ"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "ພາກ"
+  },
+  {
+    "simpli": "not",
+    "translation": "ໝາຍເຫດ"
+  },
+  {
+    "simpli": "saport",
+    "translation": "ສະໜັບສະໜູນ"
+  },
+  {
+    "simpli": "wei",
+    "translation": "ທາງ"
+  },
+  {
+    "simpli": "former",
+    "translation": "ອະດີດ"
+  },
+  {
+    "simpli": "geim",
+    "translation": "ເກມ"
+  },
+  {
+    "simpli": "member",
+    "translation": "ສະມາຊິກ"
+  },
+  {
+    "simpli": "erli",
+    "translation": "ໄວ"
+  },
+  {
+    "simpli": "matj",
+    "translation": "ຫຼາຍ"
+  },
+  {
+    "simpli": "stil",
+    "translation": "ຍັງ"
+  },
+  {
+    "simpli": "nort",
+    "translation": "ເໜືອ"
+  },
+  {
+    "simpli": "hai",
+    "translation": "ສູງ"
+  },
+  {
+    "simpli": "wor",
+    "translation": "ສົງຄາມ"
+  },
+  {
+    "simpli": "gud",
+    "translation": "ດີ"
+  },
+  {
+    "simpli": "bak",
+    "translation": "ກັບ"
+  },
+  {
+    "simpli": "on",
+    "translation": "ເອງ"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "ລັດຖະບານ"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "ມະຫາວິທະຍາໄລ"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "ອ້ອມ"
+  },
+  {
+    "simpli": "end",
+    "translation": "ຈົບ"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "ໂດດເດັ່ນ"
+  },
+  {
+    "simpli": "song",
+    "translation": "ເພງ"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "ທະຫານ"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "ທົ່ວໄປ"
+  },
+  {
+    "simpli": "taital",
+    "translation": "ຫົວເລື່ອງ"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "ສາທາລະນະ"
+  },
+  {
+    "simpli": "buk",
+    "translation": "ປຶ້ມ"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "ຮູບ"
+  },
+  {
+    "simpli": "dei",
+    "translation": "ມື້"
+  },
+  {
+    "simpli": "long",
+    "translation": "ຍາວ"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "ການລຶບ"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "ຂໍ້ມູນ"
+  },
+  {
+    "simpli": "du",
+    "translation": "ເນື່ອງ"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "ທ້ອງຖິ່ນ"
+  },
+  {
+    "simpli": "haos",
+    "translation": "ເຮືອນ"
+  },
+  {
+    "simpli": "mein",
+    "translation": "ຫຼັກ"
+  },
+  {
+    "simpli": "last",
+    "translation": "ສຸດທ້າຍ"
+  },
+  {
+    "simpli": "widin",
+    "translation": "ພາຍໃນ"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "ເດີມ"
+  },
+  {
+    "simpli": "hom",
+    "translation": "ບ້ານ"
+  },
+  {
+    "simpli": "kament",
+    "translation": "ຄຳເຫັນ"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "ໃຫຍ່"
+  },
+  {
+    "simpli": "laif",
+    "translation": "ຊີວິດ"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "ແຕກຕ່າງ"
+  },
+  {
+    "simpli": "klab",
+    "translation": "ສະໂມສອນ"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "ອັງກິດ"
+  },
+  {
+    "simpli": "point",
+    "translation": "ຈຸດ"
+  },
+  {
+    "simpli": "smol",
+    "translation": "ນ້ອຍ"
+  },
+  {
+    "simpli": "lain",
+    "translation": "ເສັ້ນ"
+  },
+  {
+    "simpli": "singal",
+    "translation": "ດ່ຽວ"
+  },
+  {
+    "simpli": "band",
+    "translation": "ວົງ"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "ຈັດເກັບ"
+  },
+  {
+    "simpli": "get",
+    "translation": "ໄດ້"
+  },
+  {
+    "simpli": "taon",
+    "translation": "ເມືອງນ້ອຍ"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "ປະຊາກອນ"
+  },
+  {
+    "simpli": "sors",
+    "translation": "ແຫຼ່ງ"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "ລວມ"
+  },
+  {
+    "simpli": "agen",
+    "translation": "ອີກ"
+  },
+  {
+    "simpli": "keis",
+    "translation": "ກໍລະນີ"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "ເຖິງແມ່ນ"
+  },
+  {
+    "simpli": "along",
+    "translation": "ຕາມ"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "ສາກົນ"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "ບໍ່ມີ"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "ລະບົບ"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "ສະຖານີ"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "ສ້າງ"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "ອາຍຸ"
+  },
+  {
+    "simpli": "tap",
+    "translation": "ເທິງສຸດ"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "ສະຕະວັດ"
+  },
+  {
+    "simpli": "set",
+    "translation": "ຊຸດ"
+  },
+  {
+    "simpli": "britis",
+    "translation": "ອັງກິດ"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "ໂບດ"
+  },
+  {
+    "simpli": "west",
+    "translation": "ຕາເວັນຕົກ"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "ນັກເລ່ນ"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "ປະທານາທິບໍດີ"
+  },
+  {
+    "simpli": "do",
+    "translation": "ເຖິງແມ່ນ"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "ບ້ານ"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "ໝວດ"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "ໃຫຍ່"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "ເຂດ"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "ໜ້ອຍ"
+  },
+  {
+    "simpli": "order",
+    "translation": "ລຳດັບ"
+  },
+  {
+    "simpli": "servas",
+    "translation": "ບໍລິການ"
+  },
+  {
+    "simpli": "faind",
+    "translation": "ຊອກຫາ"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "ທັບຊ້ອນ"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "ເອົາ"
+  },
+  {
+    "simpli": "old",
+    "translation": "ເກົ່າ"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "ປະເທດ"
+  },
+  {
+    "simpli": "det",
+    "translation": "ຄວາມຕາຍ"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "ການຄົ້ນຄວ້າ"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "ສຸດທ້າຍ"
+  },
+  {
+    "simpli": "midia",
+    "translation": "ສື່"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "ຊຸມຊົນ"
+  },
+  {
+    "simpli": "terd",
+    "translation": "ທີສາມ"
+  },
+  {
+    "simpli": "vi",
+    "translation": "ve"
+  },
+  {
+    "simpli": "ist",
+    "translation": "ຕາເວັນອອກ"
+  },
+  {
+    "simpli": "daon",
+    "translation": "ລົງ"
+  },
+  {
+    "simpli": "djan",
+    "translation": "John"
+  },
+  {
+    "simpli": "versan",
+    "translation": "ລຸ້ນ"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "ຫ້າ"
+  },
+  {
+    "simpli": "edat",
+    "translation": "ແກ້"
+  },
+  {
+    "simpli": "everi",
+    "translation": "ທຸກ"
+  },
+  {
+    "simpli": "san",
+    "translation": "ລູກຊາຍ"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "ຕົວຢ່າງ"
+  },
+  {
+    "simpli": "parti",
+    "translation": "ພັກ"
+  },
+  {
+    "simpli": "york",
+    "translation": "York"
+  },
+  {
+    "simpli": "form",
+    "translation": "ແບບ"
+  },
+  {
+    "simpli": "nir",
+    "translation": "ໃກ້"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "ຫົວຂໍ້"
+  },
+  {
+    "simpli": "go",
+    "translation": "ໄປ"
+  },
+  {
+    "simpli": "amang",
+    "translation": "ໃນບັນດາ"
+  },
+  {
+    "simpli": "sait",
+    "translation": "ສະຖານທີ່"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "ເນື້ອຫາ"
+  },
+  {
+    "simpli": "art",
+    "translation": "ສິລະປະ"
+  },
+  {
+    "simpli": "help",
+    "translation": "ຊ່ວຍ"
+  },
+  {
+    "simpli": "fader",
+    "translation": "ພໍ່"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "ໂຄງການ"
+  },
+  {
+    "simpli": "said",
+    "translation": "ຂ້າງ"
+  },
+  {
+    "simpli": "rood",
+    "translation": "ຫົນທາງ"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "ຂໍ້ຄວາມ"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "ຜູ້ອຳນວຍການ"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "ອາຊີບ"
+  },
+  {
+    "simpli": "notability",
+    "translation": "ຄວາມໂດດເດັ່ນ"
+  },
+  {
+    "simpli": "wai",
+    "translation": "ເປັນຫຍັງ"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "ບັນທຶກ"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "ພື້ນຫຼັງ"
+  },
+  {
+    "simpli": "lig",
+    "translation": "ລີກ"
+  },
+  {
+    "simpli": "plei",
+    "translation": "ຫຼິ້ນ"
+  },
+  {
+    "simpli": "greit",
+    "translation": "ຍິ່ງໃຫຍ່"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "ຝຣັ່ງ"
+  },
+  {
+    "simpli": "aword",
+    "translation": "ລາງວັນ"
+  },
+  {
+    "simpli": "never",
+    "translation": "ບໍ່ເຄີຍ"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "ພຽງພໍ"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "ເຂດປົກຄອງ"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "ລ້ານ"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "ການພັດທະນາ"
+  },
+  {
+    "simpli": "total",
+    "translation": "ລວມ"
+  },
+  {
+    "simpli": "risan",
+    "translation": "ເຫດຜົນ"
+  },
+  {
+    "simpli": "lo",
+    "translation": "ກົດໝາຍ"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "ຖັດໄປ"
+  },
+  {
+    "simpli": "led",
+    "translation": "ນຳ"
+  },
+  {
+    "simpli": "woter",
+    "translation": "ນ້ຳ"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "ວິທະຍາໄລ"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "ເຢຍລະມັນ"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "ການເມືອງ"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "ກາຍເປັນ"
+  },
+  {
+    "simpli": "rader",
+    "translation": "ຂ້ອນຂ້າງ"
+  },
+  {
+    "simpli": "leit",
+    "translation": "ຊ້າ"
+  },
+  {
+    "simpli": "hed",
+    "translation": "ຫົວ"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "ແລ້ວ"
+  },
+  {
+    "simpli": "ider",
+    "translation": "ຢ່າງໃດ"
+  },
+  {
+    "simpli": "lital",
+    "translation": "ນ້ອຍ"
+  },
+  {
+    "simpli": "edater",
+    "translation": "ບັນນາທິການ"
+  },
+  {
+    "simpli": "important",
+    "translation": "ສຳຄັນ"
+  },
+  {
+    "simpli": "rol",
+    "translation": "ບົດບາດ"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "ຄ້າຍຄື"
+  },
+  {
+    "simpli": "wait",
+    "translation": "ຂາວ"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "ປັດຈຸບັນ"
+  },
+  {
+    "simpli": "landan",
+    "translation": "ລອນດອນ"
+  },
+  {
+    "simpli": "beter",
+    "translation": "ດີກວ່າ"
+  },
+  {
+    "simpli": "isu",
+    "translation": "ປະເດັນ"
+  },
+  {
+    "simpli": "sei",
+    "translation": "ເວົ້າ"
+  },
+  {
+    "simpli": "fail",
+    "translation": "ໄຟລ໌"
+  },
+  {
+    "simpli": "persan",
+    "translation": "ຄົນ"
+  },
+  {
+    "simpli": "fri",
+    "translation": "ເສລີ"
+  },
+  {
+    "simpli": "man",
+    "translation": "ຜູ້ຊາຍ"
+  },
+  {
+    "simpli": "stori",
+    "translation": "ເລື່ອງ"
+  },
+  {
+    "simpli": "sort",
+    "translation": "ສັ້ນ"
+  },
+  {
+    "simpli": "liv",
+    "translation": "ດຳລົງ"
+  },
+  {
+    "simpli": "vans",
+    "translation": "ຄັ້ງໜຶ່ງ"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "ໄລຍະ"
+  },
+  {
+    "simpli": "blak",
+    "translation": "ດຳ"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "ອຳນາດ"
+  },
+  {
+    "simpli": "presant",
+    "translation": "ປັດຈຸບັນ"
+  },
+  {
+    "simpli": "strit",
+    "translation": "ຖະໜົນ"
+  },
+  {
+    "simpli": "river",
+    "translation": "ແມ່ນ້ຳ"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "ໃນປັດຈຸບັນ"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "ການຜະລິດ"
+  },
+  {
+    "simpli": "siks",
+    "translation": "ຫົກ"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "ການສຶກສາ"
+  },
+  {
+    "simpli": "rili",
+    "translation": "ແທ້ໆ"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "ບານເຕະ"
+  },
+  {
+    "simpli": "land",
+    "translation": "ດິນ"
+  },
+  {
+    "simpli": "term",
+    "translation": "ຄຳສັບ"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "ຫ້ອງການ"
+  },
+  {
+    "simpli": "program",
+    "translation": "ລາຍການ"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "ພາກສ່ວນ"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "ໂທລະພາບ"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "ປ່ຽນ"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "ເຫດການ"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "ຮ່ວມກັນ"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "ພາສາ"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "ຕຳແໜ່ງ"
+  },
+  {
+    "simpli": "want",
+    "translation": "ຢາກ"
+  },
+  {
+    "simpli": "fild",
+    "translation": "ສາຂາ"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "ທົ່ວໄປ"
+  },
+  {
+    "simpli": "leval",
+    "translation": "ລະດັບ"
+  },
+  {
+    "simpli": "armi",
+    "translation": "ກອງທັບ"
+  },
+  {
+    "simpli": "deita",
+    "translation": "ຂໍ້ມູນ"
+  },
+  {
+    "simpli": "park",
+    "translation": "ສວນ"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "ຂໍ້ເທັດຈິງ"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "ມືອາຊີບ"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "ເປັນໄປໄດ້"
+  },
+  {
+    "simpli": "taip",
+    "translation": "ປະເພດ"
+  },
+  {
+    "simpli": "yang",
+    "translation": "ໜຸ່ມ"
+  },
+  {
+    "simpli": "kort",
+    "translation": "ສານ"
+  },
+  {
+    "simpli": "mov",
+    "translation": "ຍ້າຍ"
+  },
+  {
+    "simpli": "les",
+    "translation": "ນ້ອຍກວ່າ"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "ພ້ອມ"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "ໃຜສັກ"
+  },
+  {
+    "simpli": "ful",
+    "translation": "ເຕັມ"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "ກາງ"
+  },
+  {
+    "simpli": "templat",
+    "translation": "ແມ່ແບບ"
+  },
+  {
+    "simpli": "ad",
+    "translation": "ເພີ່ມ"
+  },
+  {
+    "simpli": "win",
+    "translation": "ຊະນະ"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "ວິດີໂອ"
+  },
+  {
+    "simpli": "lost",
+    "translation": "ເສຍ"
+  },
+  {
+    "simpli": "put",
+    "translation": "ວາງ"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "ພາກພື້ນ"
+  },
+  {
+    "simpli": "er",
+    "translation": "ອາກາດ"
+  },
+  {
+    "simpli": "ran",
+    "translation": "ແລ່ນ"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "ມີຄວາມໝາຍ"
+  },
+  {
+    "simpli": "insted",
+    "translation": "ແທນ"
+  },
+  {
+    "simpli": "oter",
+    "translation": "ຜູ້ຂຽນ"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "ທົບທວນ"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "ອາດຈະ"
+  },
+  {
+    "simpli": "raond",
+    "translation": "ຮອບ"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "ພິເສດ"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "ທາງການ"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "ນະໂຍບາຍ"
+  },
+  {
+    "simpli": "far",
+    "translation": "ໄກ"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "ຈິງໆ"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "ທາງສັງຄົມ"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "ຜ່ານ"
+  },
+  {
+    "simpli": "disain",
+    "translation": "ອອກແບບ"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "ຄຳຮ້ອງ"
+  },
+  {
+    "simpli": "bord",
+    "translation": "ຄະນະ"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "ຄຳຖາມ"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "ຕົວລະຄອນ"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "ເດີມ"
+  },
+  {
+    "simpli": "start",
+    "translation": "ເລີ່ມ"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "ເອກະລາດ"
+  },
+  {
+    "simpli": "klos",
+    "translation": "ໃກ້"
+  },
+  {
+    "simpli": "waif",
+    "translation": "ເມຍ"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "ອັງກິດ"
+  },
+  {
+    "simpli": "luk",
+    "translation": "ເບິ່ງ"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "ປ່ອຍ"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "ການເພີ່ມ"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "ຫຼັກຖານ"
+  },
+  {
+    "simpli": "lav",
+    "translation": "ຮັກ"
+  },
+  {
+    "simpli": "deit",
+    "translation": "ວັນທີ"
+  },
+  {
+    "simpli": "awei",
+    "translation": "ໄປ"
+  },
+  {
+    "simpli": "weder",
+    "translation": "ບໍ່ວ່າ"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "ສັງຄົມ"
+  },
+  {
+    "simpli": "itself",
+    "translation": "ຕົວມັນເອງ"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "ວິທະຍຸ"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "ເຊື່ອຖືໄດ້"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "ການຄອບຄຸມ"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "ເກາະ"
+  },
+  {
+    "simpli": "himself",
+    "translation": "ຕົນເອງ"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "ນິຍົມ"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "ບັນຫາ"
+  },
+  {
+    "simpli": "western",
+    "translation": "ຝ່າຍຕາເວັນຕົກ"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "ພະແນກ"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "ສະພາ"
+  },
+  {
+    "simpli": "apan",
+    "translation": "ເທິງ"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "ຄວບຄຸມ"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "ສາມາດ"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "ອັດຕາສ່ວນ"
+  },
+  {
+    "simpli": "madern",
+    "translation": "ທັນສະໄໝ"
+  },
+  {
+    "simpli": "trak",
+    "translation": "ລາງ"
+  },
+  {
+    "simpli": "kors",
+    "translation": "ຫຼັກສູດ"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "ຕອນ"
+  },
+  {
+    "simpli": "mader",
+    "translation": "ແມ່"
+  },
+  {
+    "simpli": "artast",
+    "translation": "ສິລະປິນ"
+  },
+  {
+    "simpli": "saians",
+    "translation": "ວິທະຍາສາດ"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "ສະໜອງ"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "ປົກກະຕິ"
+  },
+  {
+    "simpli": "fors",
+    "translation": "ກຳລັງ"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "ພາກເໜືອ"
+  },
+  {
+    "simpli": "badi",
+    "translation": "ຮ່າງກາຍ"
+  },
+  {
+    "simpli": "sur",
+    "translation": "ແນ່ໃຈ"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "ອາເມລິກາ"
+  },
+  {
+    "simpli": "speis",
+    "translation": "ຊ່ອງ"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "ໂທລະພາບ"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "ອ້າງອີງ"
+  },
+  {
+    "simpli": "red",
+    "translation": "ແດງ"
+  },
+  {
+    "simpli": "riport",
+    "translation": "ລາຍງານ"
+  },
+  {
+    "simpli": "doter",
+    "translation": "ລູກສາວ"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "ເກືອບ"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "ຄົ້ນຫາ"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "ສະມາຄົມ"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "ອົດສະຕຣາລີ"
+  },
+  {
+    "simpli": "giv",
+    "translation": "ໃຫ້"
+  },
+  {
+    "simpli": "akt",
+    "translation": "ກະທຳ"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "ວັດສະດຸ"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "ເຖິງວ່າ"
+  },
+  {
+    "simpli": "palis",
+    "translation": "ຕຳຫຼວດ"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "ລັດຖະມົນຕີ"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "ມະນຸດ"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "ການກໍ່ສ້າງ"
+  },
+  {
+    "simpli": "post",
+    "translation": "ຕຳແໜ່ງ"
+  },
+  {
+    "simpli": "india",
+    "translation": "ອິນເດຍ"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "ມື້ນີ້"
+  },
+  {
+    "simpli": "reis",
+    "translation": "ເຊື້ອຊາດ"
+  },
+  {
+    "simpli": "das",
+    "translation": "ສະນັ້ນ"
+  },
+  {
+    "simpli": "ril",
+    "translation": "ຈິງ"
+  },
+  {
+    "simpli": "nan",
+    "translation": "ບໍ່ມີ"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "ເວທີ"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "ພາກໃຕ້"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "ຄູຝຶກ"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "ສ່ວນຕົວ"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "ສາດສະດາຈານ"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "ສຶກສາ"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "ຂ້າງນອກ"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "ປະຖົມ"
+  },
+  {
+    "simpli": "websait",
+    "translation": "ເວັບໄຊ"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "ເປີດຕົວ"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "ຕະຫຼອດ"
+  },
+  {
+    "simpli": "helt",
+    "translation": "ສຸຂະພາບ"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "ໂດຍສະເພາະ"
+  },
+  {
+    "simpli": "werd",
+    "translation": "ຄຳ"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "ອະນາຄົດ"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "ແລະອື່ນໆ"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "ທັດສະນະ"
+  },
+  {
+    "simpli": "frans",
+    "translation": "ຝຣັ່ງ"
+  },
+  {
+    "simpli": "sais",
+    "translation": "ຂະໜາດ"
+  },
+  {
+    "simpli": "sold",
+    "translation": "ຂາຍແລ້ວ"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "ອົງການ"
+  },
+  {
+    "simpli": "yet",
+    "translation": "ຍັງ"
+  },
+  {
+    "simpli": "strong",
+    "translation": "ແຂງແຮງ"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "ແຊ້ມ"
+  },
+  {
+    "simpli": "klir",
+    "translation": "ຊັດເຈນ"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "ຫຼາຍຢ່າງ"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "ສະເລ່ຍ"
+  },
+  {
+    "simpli": "ever",
+    "translation": "ເຄີຍ"
+  },
+  {
+    "simpli": "lait",
+    "translation": "ແສງ"
+  },
+  {
+    "simpli": "wik",
+    "translation": "ອາທິດ"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "ຊື່ຜູ້ໃຊ້"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "ສ້າງ"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "ຊ່ວງ"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "ປົກ"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "ໃນທີ່ສຸດ"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "ກັບຄືນ"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "ການກະທຳ"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "ສີ"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "ແຄນາດາ"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "ຍີ່ປຸ່ນ"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "ຄວາມສົນໃຈ"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "ພິພິທະພັນ"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "ນິຕະຍະສານ"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "ກ່ອນໜ້ານີ້"
+  },
+  {
+    "simpli": "haf",
+    "translation": "ເຄິ່ງ"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "ນັກຂຽນ"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "ຫົວໜ້າ"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "ຫົວຂໍ້"
+  },
+  {
+    "simpli": "brader",
+    "translation": "ອ້າຍ"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "ໂດຍທົ່ວໄປ"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "ຄະນະກຳມະການ"
+  },
+  {
+    "simpli": "hol",
+    "translation": "ຫໍ"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "ບຸກຄົນ"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "ໃຫຍ່ທີ່ສຸດ"
+  },
+  {
+    "simpli": "past",
+    "translation": "ອະດີດ"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "ການເລືອກຕັ້ງ"
+  },
+  {
+    "simpli": "performans",
+    "translation": "ການສະແດງ"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "ເຈາະຈົງ"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "ຊຸດສະສົມ"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "ເຊື່ອ"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "ສ່ວນຕົວ"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "ເປັນໄປໄດ້"
+  },
+  {
+    "simpli": "big",
+    "translation": "ໃຫຍ່"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "ນັກການເມືອງ"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "ຫ້າວຫັນ"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "ບັນຊີ"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "ສະຫະພາບ"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "ປ້າຍ"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "ສະເພາະ"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "William"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "ຊາວອົດສະຕຣາລີ"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "ແນວຄິດ"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "ເພີ່ມເຕີມ"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "ຊາວເອີຣົບ"
+  },
+  {
+    "simpli": "indian",
+    "translation": "ຊາວອິນເດຍ"
+  },
+  {
+    "simpli": "referans",
+    "translation": "ເອກະສານອ້າງອີງ"
+  },
+  {
+    "simpli": "rul",
+    "translation": "ກົດເກນ"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "ເອີຣົບ"
+  },
+  {
+    "simpli": "lat",
+    "translation": "ຫຼາຍ"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "ຮວມເຂົ້າ"
+  },
+  {
+    "simpli": "sun",
+    "translation": "ໄວໆນີ້"
+  },
+  {
+    "simpli": "faier",
+    "translation": "ໄຟ"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "ພຽງແຕ່"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "ການແຂ່ງຂັນ"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "ມາດຕະຖານ"
+  },
+  {
+    "simpli": "let",
+    "translation": "ປ່ອຍໃຫ້"
+  },
+  {
+    "simpli": "madal",
+    "translation": "ແບບຈຳລອງ"
+  },
+  {
+    "simpli": "lider",
+    "translation": "ຜູ້ນຳ"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "ເຢຍລະມັນ"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Google"
+  },
+  {
+    "simpli": "mar",
+    "translation": "ມີນາ"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "ຄຸນຄ່າ"
+  },
+  {
+    "simpli": "nait",
+    "translation": "ກາງຄືນ"
+  },
+  {
+    "simpli": "rut",
+    "translation": "ເສັ້ນທາງ"
+  },
+  {
+    "simpli": "apir",
+    "translation": "ປາກົດ"
+  },
+  {
+    "simpli": "akter",
+    "translation": "ນັກສະແດງ"
+  },
+  {
+    "simpli": "gold",
+    "translation": "ຄຳ"
+  },
+  {
+    "simpli": "sival",
+    "translation": "ພົນລະເຮືອນ"
+  },
+  {
+    "simpli": "digri",
+    "translation": "ລະດັບ"
+  },
+  {
+    "simpli": "atak",
+    "translation": "ໂຈມຕີ"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "ຍິງ"
+  },
+  {
+    "simpli": "roial",
+    "translation": "ລາດຊະວົງ"
+  },
+  {
+    "simpli": "frant",
+    "translation": "ດ້ານໜ້າ"
+  },
+  {
+    "simpli": "vot",
+    "translation": "ລົງຄະແນນ"
+  },
+  {
+    "simpli": "yes",
+    "translation": "ແມ່ນ"
+  },
+  {
+    "simpli": "naval",
+    "translation": "ນະວະນິຍາຍ"
+  },
+  {
+    "simpli": "samer",
+    "translation": "ລະດູຮ້ອນ"
+  },
+  {
+    "simpli": "sent",
+    "translation": "ສົ່ງແລ້ວ"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "ຄຸນນະພາບ"
+  },
+  {
+    "simpli": "studio",
+    "translation": "ສະຕູດິໂອ"
+  },
+  {
+    "simpli": "istern",
+    "translation": "ພາກຕາເວັນອອກ"
+  },
+  {
+    "simpli": "praier",
+    "translation": "ກ່ອນ"
+  },
+  {
+    "simpli": "ten",
+    "translation": "ສິບ"
+  },
+  {
+    "simpli": "rak",
+    "translation": "ຫີນ"
+  },
+  {
+    "simpli": "dek",
+    "translation": "ທັນວາ"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "ຈີນ"
+  },
+  {
+    "simpli": "midal",
+    "translation": "ກາງ"
+  },
+  {
+    "simpli": "kar",
+    "translation": "ລົດ"
+  },
+  {
+    "simpli": "okt",
+    "translation": "ຕຸລາ"
+  },
+  {
+    "simpli": "longer",
+    "translation": "ຍາວກວ່າ"
+  },
+  {
+    "simpli": "trai",
+    "translation": "ລອງ"
+  },
+  {
+    "simpli": "singer",
+    "translation": "ນັກຮ້ອງ"
+  },
+  {
+    "simpli": "agri",
+    "translation": "ເຫັນດີ"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "ດຣ"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "ເຈົ້າໜ້າທີ່"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "ຂ້ອນຂ້າງ"
+  },
+  {
+    "simpli": "sim",
+    "translation": "ເບິ່ງຄືວ່າ"
+  },
+  {
+    "simpli": "tur",
+    "translation": "ທ່ອງທ່ຽວ"
+  },
+  {
+    "simpli": "bar",
+    "translation": "ບາ"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "ເຮືອບິນ"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "ເຄືອຂ່າຍ"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "ແມ່ຍິງ"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "ທາງການແພດ"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "David"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "ທາງປະຫວັດສາດ"
+  },
+  {
+    "simpli": "eit",
+    "translation": "ແປດ"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "ສົມບູນ"
+  },
+  {
+    "simpli": "mit",
+    "translation": "ພົບ"
+  },
+  {
+    "simpli": "loer",
+    "translation": "ຕ່ຳກວ່າ"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "ຂ້າງຫຼັງ"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "ສະຖານທີ່"
+  },
+  {
+    "simpli": "nov",
+    "translation": "ພະຈິກ"
+  },
+  {
+    "simpli": "leik",
+    "translation": "ທະເລສາບ"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "ຍີ່ປຸ່ນ"
+  },
+  {
+    "simpli": "bit",
+    "translation": "ນ້ອຍໜຶ່ງ"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "ຫໍສະໝຸດ"
+  },
+  {
+    "simpli": "didn",
+    "translation": "ບໍ່ໄດ້"
+  },
+  {
+    "simpli": "risant",
+    "translation": "ຫຼ້າສຸດ"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "ນະຄອນຫຼວງ"
+  },
+  {
+    "simpli": "apr",
+    "translation": "ເມສາ"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "ຜູ້ຜະລິດ"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "ລິຂະສິດ"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "ອາວຸໂສ"
+  },
+  {
+    "simpli": "fort",
+    "translation": "ທີສີ່"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "ກ່ອນໜ້າ"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "ໃຜກໍ່ຕາມ"
+  },
+  {
+    "simpli": "min",
+    "translation": "ໝາຍ"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "ການຈັດການ"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "ການສະເໜີຊື່"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "George"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "ອຸດສາຫະກຳ"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "ແນ່ນອນ"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "ບໍ່ສາມາດ"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "ກີຕາ"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "ໂດຍສະເພາະ"
+  },
+  {
+    "simpli": "sep",
+    "translation": "ກັນຍາ"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "ລາຍການແຂ່ງ"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "ເທດສະການ"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "ຊາວຈີນ"
+  },
+  {
+    "simpli": "sip",
+    "translation": "ເຮືອ"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "ເດັກ"
+  },
+  {
+    "simpli": "beis",
+    "translation": "ຖານ"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "ທາງລົດໄຟ"
+  },
+  {
+    "simpli": "kap",
+    "translation": "ຖ້ວຍ"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "ອອນລາຍ"
+  },
+  {
+    "simpli": "san",
+    "translation": "San"
+  },
+  {
+    "simpli": "studant",
+    "translation": "ນັກຮຽນ"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "ສຳເລັດ"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "ແຄມເປນ"
+  },
+  {
+    "simpli": "haier",
+    "translation": "ສູງກວ່າ"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "ວັດທະນະທຳ"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "ແຍກ"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "ສິງຫາ"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "ດັ່ງນັ້ນ"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "ເຕັກໂນໂລຊີ"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "ການເຄື່ອນໄຫວ"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "ປົກກະຕິ"
+  },
+  {
+    "simpli": "mani",
+    "translation": "ເງິນ"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "ຊາວຣັດເຊຍ"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "ປະມານ"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "ສ່ວນໃຫຍ່"
+  },
+  {
+    "simpli": "rest",
+    "translation": "ສ່ວນທີ່ເຫຼືອ"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "ໂຄງສ້າງ"
+  },
+  {
+    "simpli": "graond",
+    "translation": "ພື້ນດິນ"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "ຊາວແຄນາດາ"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "ຊາວອິຕາລີ"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "ທັງໝົດ"
+  },
+  {
+    "simpli": "markat",
+    "translation": "ຕະຫຼາດ"
+  },
+  {
+    "simpli": "mater",
+    "translation": "ເລື່ອງ"
+  },
+  {
+    "simpli": "saond",
+    "translation": "ສຽງ"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "ການປະຕິບັດ"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "ການອ້າງ"
+  },
+  {
+    "simpli": "hum",
+    "translation": "ຜູ້ທີ່"
+  },
+  {
+    "simpli": "hand",
+    "translation": "ມື"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "ສະຖາບັນ"
+  },
+  {
+    "simpli": "batal",
+    "translation": "ສູ້ຮົບ"
+  },
+  {
+    "simpli": "star",
+    "translation": "ດາວ"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "ທາງກົດໝາຍ"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "ທາງການຄ້າ"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "ຊາວສະເປນ"
+  },
+  {
+    "simpli": "notas",
+    "translation": "ແຈ້ງການ"
+  },
+  {
+    "simpli": "mark",
+    "translation": "ເຄື່ອງໝາຍ"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "ພື້ນເມືອງ"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "ໜ່ວຍ"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "ການຕັດສິນໃຈ"
+  },
+  {
+    "simpli": "border",
+    "translation": "ຊາຍແດນ"
+  },
+  {
+    "simpli": "web",
+    "translation": "ເວັບ"
+  },
+  {
+    "simpli": "lak",
+    "translation": "ຂາດ"
+  },
+  {
+    "simpli": "met",
+    "translation": "ພົບ"
+  },
+  {
+    "simpli": "hit",
+    "translation": "ຕີ"
+  },
+  {
+    "simpli": "net",
+    "translation": "ຕາຂ່າຍ"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "ຜູ້ຈັດການ"
+  },
+  {
+    "simpli": "overol",
+    "translation": "ໂດຍລວມ"
+  },
+  {
+    "simpli": "staf",
+    "translation": "ພະນັກງານ"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "ການຕອບຮັບ"
+  },
+  {
+    "simpli": "mant",
+    "translation": "ເດືອນ"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "ໃນຕອນຕົ້ນ"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "ທຳມະຊາດ"
+  },
+  {
+    "simpli": "fil",
+    "translation": "ຮູ້ສຶກ"
+  },
+  {
+    "simpli": "son",
+    "translation": "ສະແດງແລ້ວ"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "ລັກສະນະ"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "ໂຮງໝໍ"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "ເລັກນ້ອຍ"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "ຄວາມພະຍາຍາມ"
+  },
+  {
+    "simpli": "blu",
+    "translation": "ສີຟ້າ"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "ຊັບສິນ"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "ຢ່າງຊັດເຈນ"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "ຄວາມຍາວ"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "ແບບດັ້ງເດີມ"
+  },
+  {
+    "simpli": "medal",
+    "translation": "ຫຼຽນ"
+  },
+  {
+    "simpli": "kol",
+    "translation": "ເອີ້ນ"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "ປະສົບການ"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "ຂົວ"
+  },
+  {
+    "simpli": "test",
+    "translation": "ການທົດສອບ"
+  },
+  {
+    "simpli": "els",
+    "translation": "ອື່ນ"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "ຮູບເງົາ"
+  },
+  {
+    "simpli": "spent",
+    "translation": "ໃຊ້ໄປ"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "ວາລະສານ"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "ທະນາຄານ"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "ຄວາມຄິດເຫັນ"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "pagename"
+  },
+  {
+    "simpli": "jul",
+    "translation": "ກໍລະກົດ"
+  },
+  {
+    "simpli": "ro",
+    "translation": "ແຖວ"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "ແຄລິຟໍເນຍ"
+  },
+  {
+    "simpli": "skop",
+    "translation": "ຂອບເຂດ"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "ພາກພື້ນ"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "ມູນນິທິ"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "ສ່ວນໃຫຍ່"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "ປະຈຳປີ"
+  },
+  {
+    "simpli": "ker",
+    "translation": "ເບິ່ງແຍງ"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rowspan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "ອາຫານ"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Robert"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "ພະລັງງານ"
+  },
+  {
+    "simpli": "bad",
+    "translation": "ບໍ່ດີ"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "ດົນຕີ"
+  },
+  {
+    "simpli": "federal",
+    "translation": "ສະຫະພັນ"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "ໄວ"
+  },
+  {
+    "simpli": "mister",
+    "translation": "ທ່ານ"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "ບໍ່ດົນມານີ້"
+  },
+  {
+    "simpli": "dil",
+    "translation": "ຂໍ້ຕົກລົງ"
+  },
+  {
+    "simpli": "foran",
+    "translation": "ຕ່າງປະເທດ"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "ໃນທີ່ສຸດ"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "ບໍລິຫານ"
+  },
+  {
+    "simpli": "gol",
+    "translation": "ເປົ້າໝາຍ"
+  },
+  {
+    "simpli": "lt",
+    "translation": "lt"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "ຊະນິດ"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "ທຳມະຊາດ"
+  },
+  {
+    "simpli": "sens",
+    "translation": "ຄວາມໝາຍ"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "ວິກິ"
+  },
+  {
+    "simpli": "stap",
+    "translation": "ຢຸດ"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "ກອງປະຊຸມ"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "ກ່າວເຖິງ"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "ດັດຊະນີ"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "ອາຟຣິກາ"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "ເຂົ້າໃຈ"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "ໂດຍກົງ"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "ຮູບລັກສະນະ"
+  },
+  {
+    "simpli": "master",
+    "translation": "ນາຍ"
+  },
+  {
+    "simpli": "entri",
+    "translation": "ລາຍການ"
+  },
+  {
+    "simpli": "skver",
+    "translation": "ຈະຕຸລັດ"
+  },
+  {
+    "simpli": "plan",
+    "translation": "ແຜນການ"
+  },
+  {
+    "simpli": "waid",
+    "translation": "ກວ້າງ"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "ຫ້ອງ"
+  },
+  {
+    "simpli": "kost",
+    "translation": "ຊາຍຝັ່ງ"
+  },
+  {
+    "simpli": "tern",
+    "translation": "ຫັນ"
+  },
+  {
+    "simpli": "pik",
+    "translation": "ຍອດ"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "ຍົກເວັ້ນ"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "ເຈົ້າແຂວງ"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "ເສດຖະກິດ"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "ສັນຍາ"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "ອານາຈັກ"
+  },
+  {
+    "simpli": "hil",
+    "translation": "ເນີນພູ"
+  },
+  {
+    "simpli": "grand",
+    "translation": "ໃຫຍ່ໂຕ"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "ກັບຕັນ"
+  },
+  {
+    "simpli": "fer",
+    "translation": "ຍຸຕິທຳ"
+  },
+  {
+    "simpli": "fain",
+    "translation": "ດີ"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Michael"
+  },
+  {
+    "simpli": "kii",
+    "translation": "ກະແຈ"
+  },
+  {
+    "simpli": "los",
+    "translation": "ການສູນເສຍ"
+  },
+  {
+    "simpli": "global",
+    "translation": "ທົ່ວໂລກ"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "ບ່ອນນັ່ງ"
+  },
+  {
+    "simpli": "winer",
+    "translation": "ຜູ້ຊະນະ"
+  },
+  {
+    "simpli": "older",
+    "translation": "ເກົ່າກວ່າ"
+  },
+  {
+    "simpli": "rong",
+    "translation": "ຜິດ"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "ຜູ້ຊ່ວຍ"
+  },
+  {
+    "simpli": "hard",
+    "translation": "ຍາກ"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Paul"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "ສູງທີ່ສຸດ"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "ທິດສະດີ"
+  },
+  {
+    "simpli": "frend",
+    "translation": "ໝູ່"
+  },
+  {
+    "simpli": "til",
+    "translation": "ຈົນ"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "ທາງວັດທະນະທຳ"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "ໜັງສືພິມ"
+  },
+  {
+    "simpli": "treid",
+    "translation": "ການຄ້າ"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "ມັດທະຍົມ"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "ຂອບໃຈ"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "ຜູ້ສະໝັກ"
+  },
+  {
+    "simpli": "apos",
+    "translation": "ຄັດຄ້ານ"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "ວິຊາການ"
+  },
+  {
+    "simpli": "braon",
+    "translation": "ສີນ້ຳຕານ"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "ສັບສົນ"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "ຫຼັງຈາກນັ້ນ"
+  },
+  {
+    "simpli": "alao",
+    "translation": "ອະນຸຍາດ"
+  },
+  {
+    "simpli": "plant",
+    "translation": "ພືດ"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "ໃຫຍ່ກວ່າ"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "ວໍຊິງຕັນ"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "ທັງໝົດ"
+  },
+  {
+    "simpli": "historik",
+    "translation": "ປະຫວັດສາດ"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "ຜົນກະທົບ"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "ຊ່ອງ"
+  },
+  {
+    "simpli": "fol",
+    "translation": "ຕົກ"
+  },
+  {
+    "simpli": "kas",
+    "translation": "ສາເຫດ"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "colspan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "ຜ່ານ"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "ມີປະໂຫຍດ"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "ໂຮງລະຄອນ"
+  },
+  {
+    "simpli": "gad",
+    "translation": "ພະເຈົ້າ"
+  },
+  {
+    "simpli": "admin",
+    "translation": "admin"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "ຄວາມປອດໄພ"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "ປະທານ"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "ຄວາມສົນໃຈ"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "ຄຳສັ່ງ"
+  },
+  {
+    "simpli": "sister",
+    "translation": "ເອື້ອຍ"
+  },
+  {
+    "simpli": "ed",
+    "translation": "Ed"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "ເທດສະບານ"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "ສືບຕໍ່"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "ຄູ່"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "ເຈ້ຍ"
+  },
+  {
+    "simpli": "kod",
+    "translation": "ລະຫັດ"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "ຄຣິສຕຽນ"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "ແນະນຳ"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "ຈຸດປະສົງ"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "ຄອມພິວເຕີ"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "ສ່ວນໃຫຍ່"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "ການສ້າງ"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Mary"
+  },
+  {
+    "simpli": "sat",
+    "translation": "ການຍິງ"
+  },
+  {
+    "simpli": "format",
+    "translation": "ຮູບແບບ"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "ມີຢູ່"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "ແຂວງ"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "ຄວາມສຳພັນ"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "ຜົວ"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "ກ່ຽວຂ້ອງ"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "ເກືອບ"
+  },
+  {
+    "simpli": "al",
+    "translation": "al"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "ພູ"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "ການເງິນ"
+  },
+  {
+    "simpli": "nam",
+    "translation": "nom"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "ຄວາມຫຼາກຫຼາຍ"
+  },
+  {
+    "simpli": "haili",
+    "translation": "ສູງ"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "ຄວາມຮູ້"
+  },
+  {
+    "simpli": "felo",
+    "translation": "ເພື່ອນຮ່ວມ"
+  },
+  {
+    "simpli": "salad",
+    "translation": "ແຂງ"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "ສະຖາບັນ"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Smith"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "ບາງທີ"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "ການດຳເນີນ"
+  },
+  {
+    "simpli": "silver",
+    "translation": "ໂລຫະເງິນ"
+  },
+  {
+    "simpli": "et",
+    "translation": "et"
+  },
+  {
+    "simpli": "misan",
+    "translation": "ພາລະກິດ"
+  },
+  {
+    "simpli": "skor",
+    "translation": "ຄະແນນ"
+  },
+  {
+    "simpli": "vali",
+    "translation": "ຮ່ອມພູ"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "cd"
+  },
+  {
+    "simpli": "meil",
+    "translation": "ຊາຍ"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Peter"
+  },
+  {
+    "simpli": "later",
+    "translation": "ອັນຫຼັງ"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "ຈຳເປັນ"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "ເມື່ອກ່ອນ"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "ເລຂາ"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "ຊາວອາຟຣິກາ"
+  },
+  {
+    "simpli": "nain",
+    "translation": "ເກົ້າ"
+  },
+  {
+    "simpli": "yut",
+    "translation": "ໄວໜຸ່ມ"
+  },
+  {
+    "simpli": "map",
+    "translation": "ແຜນທີ່"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "ໄຊຊະນະ"
+  },
+  {
+    "simpli": "ser",
+    "translation": "ທ່ານ"
+  },
+  {
+    "simpli": "ded",
+    "translation": "ຕາຍ"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "ຊອບແວ"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "ຟັງຊັນ"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "ເຄື່ອງຈັກ"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "ແຊ້ມ"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "ຕາຕະລາງ"
+  },
+  {
+    "simpli": "ert",
+    "translation": "ໂລກ"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "ຈຳນວນ"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "ພິຈາລະນາ"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "ຖ້າບໍ່ດັ່ງນັ້ນ"
+  },
+  {
+    "simpli": "djab",
+    "translation": "ວຽກ"
+  },
+  {
+    "simpli": "fait",
+    "translation": "ສູ້"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "ປະລິມານ"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "ໄອແລນ"
+  },
+  {
+    "simpli": "serv",
+    "translation": "ຮັບໃຊ້"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "ຖືກ"
+  },
+  {
+    "simpli": "siland",
+    "translation": "ຊີແລນ"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "ໂດຍກົງ"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "ງ່າຍ"
+  },
+  {
+    "simpli": "feis",
+    "translation": "ໃບໜ້າ"
+  },
+  {
+    "simpli": "kast",
+    "translation": "ນັກສະແດງ"
+  },
+  {
+    "simpli": "reit",
+    "translation": "ອັດຕາ"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "ຮູບ"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "ພາຍໃນ"
+  },
+  {
+    "simpli": "trein",
+    "translation": "ລົດໄຟ"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "ເພີ່ມຂຶ້ນ"
+  },
+  {
+    "simpli": "vois",
+    "translation": "ສຽງ"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "ຍົດ"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "ທັນທີ"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "ຖະແຫຼງການ"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "ຍາກ"
+  },
+  {
+    "simpli": "bil",
+    "translation": "Bill"
+  },
+  {
+    "simpli": "biand",
+    "translation": "ເກີນກວ່າ"
+  },
+  {
+    "simpli": "hop",
+    "translation": "ຫວັງ"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "ຮູບ"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "ຄະນະກຳມະການ"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "ບູຮານ"
+  },
+  {
+    "simpli": "info",
+    "translation": "ຂໍ້ມູນ"
+  },
+  {
+    "simpli": "pur",
+    "translation": "ທຸກຍາກ"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "ຜູ້ພິພາກສາ"
+  },
+  {
+    "simpli": "ston",
+    "translation": "ຫີນ"
+  },
+  {
+    "simpli": "itali",
+    "translation": "ອິຕາລີ"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "ລຶບອອກ"
+  },
+  {
+    "simpli": "targat",
+    "translation": "ເປົ້າໝາຍ"
+  },
+  {
+    "simpli": "van",
+    "translation": "van"
+  },
+  {
+    "simpli": "ago",
+    "translation": "ກ່ອນ"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Henry"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "ເປັນໄປໄດ້"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "ດິຈິຕອນ"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "ຕົ້ນຕໍ"
+  },
+  {
+    "simpli": "maind",
+    "translation": "ໃຈ"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "ກອງທັບເຮືອ"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "ຜະລິດຕະພັນ"
+  },
+  {
+    "simpli": "hart",
+    "translation": "ຫົວໃຈ"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "ພື້ນຜິວ"
+  },
+  {
+    "simpli": "los",
+    "translation": "Los"
+  },
+  {
+    "simpli": "baks",
+    "translation": "ກ່ອງ"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "ແຜນຜັງ"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "ກາໂຕລິກ"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "ເກນ"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "ໂດຍສະເພາະ"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "ແນວຄິດ"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "ທາງບວກ"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "ທ່າແຮງ"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "ສາລານຸກົມ"
+  },
+  {
+    "simpli": "tel",
+    "translation": "ບອກ"
+  },
+  {
+    "simpli": "alon",
+    "translation": "ຄົນດຽວ"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "ກວດ"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "ຮັບຜິດຊອບ"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "ແນ່ນອນ"
+  },
+  {
+    "simpli": "priti",
+    "translation": "ງາມ"
+  },
+  {
+    "simpli": "dans",
+    "translation": "ເຕັ້ນ"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "ສາຂາ"
+  },
+  {
+    "simpli": "era",
+    "translation": "ຍຸກ"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "ເຕັກນິກ"
+  },
+  {
+    "simpli": "praim",
+    "translation": "ນາຍົກ"
+  },
+  {
+    "simpli": "host",
+    "translation": "ເຈົ້າພາບ"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "ວັດ"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "ວັນນະຄະດີ"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "ການບໍລິຫານ"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "ສະຖານະການ"
+  },
+  {
+    "simpli": "widt",
+    "translation": "ຄວາມກວ້າງ"
+  },
+  {
+    "simpli": "prais",
+    "translation": "ລາງວັນ"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "ອອກອາກາດ"
+  },
+  {
+    "simpli": "nor",
+    "translation": "ກໍບໍ່"
+  },
+  {
+    "simpli": "roman",
+    "translation": "ໂລມັນ"
+  },
+  {
+    "simpli": "influans",
+    "translation": "ອິດທິພົນ"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Richard"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "ປະໂຫຍກ"
+  },
+  {
+    "simpli": "leter",
+    "translation": "ຈົດໝາຍ"
+  },
+  {
+    "simpli": "domein",
+    "translation": "ໂດເມນ"
+  },
+  {
+    "simpli": "kat",
+    "translation": "ຕັດ"
+  },
+  {
+    "simpli": "el",
+    "translation": "el"
+  },
+  {
+    "simpli": "hold",
+    "translation": "ຖື"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "ທາງບໍລິຫານ"
+  },
+  {
+    "simpli": "aper",
+    "translation": "ສ່ວນເທິງ"
+  },
+  {
+    "simpli": "ask",
+    "translation": "ຖາມ"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "ຈິງ"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "ຜູ້ບັນຊາການ"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "ຣັດເຊຍ"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "ຄວາມສາມາດ"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "ການແຕ່ງງານ"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "ທາງວິທະຍາສາດ"
+  },
+  {
+    "simpli": "oner",
+    "translation": "ເຈົ້າຂອງ"
+  },
+  {
+    "simpli": "internet",
+    "translation": "ອິນເຕີເນັດ"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "ໃກ້ຄຽງ"
+  },
+  {
+    "simpli": "bei",
+    "translation": "ອ່າວ"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "ໂດດເດັ່ນ"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "ພື້ນຖານ"
+  },
+  {
+    "simpli": "bas",
+    "translation": "ເບສ"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "ສາທາລະນະລັດ"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "ຍຸຕິທຳ"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "ລັດສະພາ"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "ແນວທາງ"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "ຜູ້ກໍ່ຕັ້ງ"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "ຢ່າງໄວ"
+  },
+  {
+    "simpli": "grik",
+    "translation": "ກເຣັກ"
+  },
+  {
+    "simpli": "erport",
+    "translation": "ສະໜາມບິນ"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "ຂໍ້ພິພາດ"
+  },
+  {
+    "simpli": "anser",
+    "translation": "ຄຳຕອບ"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "ຢ່າງກວ້າງຂວາງ"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "ທິດທາງ"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "ລາຍໄດ້"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "ໂດຍທົ່ວໄປ"
+  },
+  {
+    "simpli": "maont",
+    "translation": "ພູ"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "ໂຊວຽດ"
+  },
+  {
+    "simpli": "airis",
+    "translation": "ຊາວໄອແລນ"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "ໂດຍປົກກະຕິ"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "ເບື້ອງຕົ້ນ"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "ທາງຫຼວງ"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "ບານບ້ວງ"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "ຮ່ວມສະໄໝ"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "ຢິວ"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "ເດັກຍິງ"
+  },
+  {
+    "simpli": "meier",
+    "translation": "ນາຍົກເທດສະບານ"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "ການຕັ້ງຖິ່ນ"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "ບໍລິບົດ"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "ນ້ອຍກວ່າ"
+  },
+  {
+    "simpli": "sin",
+    "translation": "ສາກ"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "ວິຈານ"
+  },
+  {
+    "simpli": "anon",
+    "translation": "ບໍ່ຮູ້"
+  },
+  {
+    "simpli": "tag",
+    "translation": "ປ້າຍ"
+  },
+  {
+    "simpli": "mas",
+    "translation": "ມວນ"
+  },
+  {
+    "simpli": "foto",
+    "translation": "ຮູບຖ່າຍ"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "ອະທິການ"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "ໂຮງແຮມ"
+  },
+  {
+    "simpli": "piano",
+    "translation": "ເປຍໂນ"
+  },
+  {
+    "simpli": "sain",
+    "translation": "ປ້າຍ"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "ການໂຕ້ແຍ່ງ"
+  },
+  {
+    "simpli": "fift",
+    "translation": "ທີຫ້າ"
+  },
+  {
+    "simpli": "perant",
+    "translation": "ພໍ່ແມ່"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "ຄຳອະທິບາຍ"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "ປັບປຸງ"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "ຫຼີກເວັ້ນ"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "ຜະລິດ"
+  },
+  {
+    "simpli": "dark",
+    "translation": "ມືດ"
+  },
+  {
+    "simpli": "flait",
+    "translation": "ຖ້ຽວບິນ"
+  },
+  {
+    "simpli": "ga",
+    "translation": "ga"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "ໜັກ"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "ສິ່ງພິມ"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "ທາງກາຍ"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "ພາຍນອກ"
+  },
+  {
+    "simpli": "deili",
+    "translation": "ປະຈຳວັນ"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "ສະຫະລັດ"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "ເມັກຊິໂກ"
+  },
+  {
+    "simpli": "oil",
+    "translation": "ນ້ຳມັນ"
+  },
+  {
+    "simpli": "twais",
+    "translation": "ສອງຄັ້ງ"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "ວິສະວະກອນ"
+  },
+  {
+    "simpli": "falo",
+    "translation": "ຕາມ"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "ຢ່າງເປັນທາງການ"
+  },
+  {
+    "simpli": "lord",
+    "translation": "ເຈົ້ານາຍ"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "ໃຫຍ່ກວ່າ"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "ຄູ"
+  },
+  {
+    "simpli": "importans",
+    "translation": "ຄວາມສຳຄັນ"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "ທັງໝົດ"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "ກິດຈະກຳ"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "ຢ່າງເຕັມ"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "ລຸ່ນນ້ອຍ"
+  },
+  {
+    "simpli": "vol",
+    "translation": "vol"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "ເຖິງ"
+  },
+  {
+    "simpli": "feit",
+    "translation": "ຄວາມເຊື່ອ"
+  },
+  {
+    "simpli": "datj",
+    "translation": "ໂຮນລັງ"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "ໃນໄວໆ"
+  },
+  {
+    "simpli": "solo",
+    "translation": "ດ່ຽວ"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "ນັກແຕ່ງ"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "ສ້າງຕັ້ງ"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "ຊາດ"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "ຊິຄາໂກ"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "ຍັງຄົງ"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "ປາສາດ"
+  },
+  {
+    "simpli": "displei",
+    "translation": "ສະແດງ"
+  },
+  {
+    "simpli": "rural",
+    "translation": "ຊົນນະບົດ"
+  },
+  {
+    "simpli": "metad",
+    "translation": "ວິທີ"
+  },
+  {
+    "simpli": "isali",
+    "translation": "ໄດ້ງ່າຍ"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "ທຸກຄົນ"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "ສຳເນົາ"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "ດິນແດນ"
+  },
+  {
+    "simpli": "britan",
+    "translation": "ອັງກິດ"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "ອຸປະກອນ"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "ຫໍສະແດງ"
+  },
+  {
+    "simpli": "normal",
+    "translation": "ປົກກະຕິ"
+  },
+  {
+    "simpli": "prins",
+    "translation": "ເຈົ້າຊາຍ"
+  },
+  {
+    "simpli": "pis",
+    "translation": "ຊິ້ນ"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "ຂໍ້ຂັດແຍ່ງ"
+  },
+  {
+    "simpli": "forast",
+    "translation": "ປ່າ"
+  },
+  {
+    "simpli": "efert",
+    "translation": "ຄວາມພະຍາຍາມ"
+  },
+  {
+    "simpli": "wert",
+    "translation": "ຄຸນຄ່າ"
+  },
+  {
+    "simpli": "split",
+    "translation": "ແຍກ"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "ຄ້າຍ"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "ຊັບສິນ"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "ການປິ່ນປົວ"
+  },
+  {
+    "simpli": "bild",
+    "translation": "ສ້າງ"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "ກອງ"
+  },
+  {
+    "simpli": "sort",
+    "translation": "ຈັດປະເພດ"
+  },
+  {
+    "simpli": "draft",
+    "translation": "ຮ່າງ"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "ເບສບອນ"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "ຄຽງຄູ່"
+  },
+  {
+    "simpli": "port",
+    "translation": "ທ່າ"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "ບໍລິສັດ"
+  },
+  {
+    "simpli": "kru",
+    "translation": "ລູກເຮືອ"
+  },
+  {
+    "simpli": "drama",
+    "translation": "ລະຄອນ"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "ອຳນາດ"
+  },
+  {
+    "simpli": "paris",
+    "translation": "ເຂດໂບດ"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "ການປົກປ້ອງ"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "ຂໍ້ຕົກລົງ"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "ສະພາ"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "ເຂົ້າຮ່ວມ"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "ສ່ວນໃຫຍ່"
+  },
+  {
+    "simpli": "poland",
+    "translation": "ໂປແລນ"
+  },
+  {
+    "simpli": "gru",
+    "translation": "ເຕີບໃຫຍ່"
+  },
+  {
+    "simpli": "spein",
+    "translation": "ສະເປນ"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "ນັບ"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "ຫໍຄອຍ"
+  },
+  {
+    "simpli": "poat",
+    "translation": "ນັກກະວີ"
+  },
+  {
+    "simpli": "ment",
+    "translation": "ໝາຍເຖິງ"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "ຜູ້ສະເໜີ"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "ຊົ່ວໂມງ"
+  },
+  {
+    "simpli": "distans",
+    "translation": "ໄລຍະທາງ"
+  },
+  {
+    "simpli": "traval",
+    "translation": "ເດີນທາງ"
+  },
+  {
+    "simpli": "dai",
+    "translation": "ຕາຍ"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "ພິເສດ"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "ສອງເທົ່າ"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "ພໍດີ"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "ຄວາມຈຸ"
+  },
+  {
+    "simpli": "krik",
+    "translation": "ຫ້ວຍ"
+  },
+  {
+    "simpli": "wol",
+    "translation": "ກຳແພງ"
+  },
+  {
+    "simpli": "winter",
+    "translation": "ລະດູໜາວ"
+  },
+  {
+    "simpli": "stor",
+    "translation": "ຮ້ານ"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "ທາງເລືອກ"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "ຂ້າງໜ້າ"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "ມະຕິ"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "ຜົນກະທົບ"
+  },
+  {
+    "simpli": "bert",
+    "translation": "ການເກີດ"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Martin"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "ສຳພາດ"
+  },
+  {
+    "simpli": "grot",
+    "translation": "ການເຕີບໂຕ"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "ຂໍ້ຄວາມ"
+  },
+  {
+    "simpli": "pei",
+    "translation": "ຈ່າຍ"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "ຄ່າ"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "ຮອງ"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "ຍອມຮັບ"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "ສິ່ງແວດລ້ອມ"
+  },
+  {
+    "simpli": "traial",
+    "translation": "ການພິພາກສາ"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "ສະເໜີ"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "ທາງການສຶກສາ"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "ແຄໂຣໄລນາ"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Joseph"
+  },
+  {
+    "simpli": "latan",
+    "translation": "ລາຕິນ"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "ເບິ່ງຄືວ່າ"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "ບົດສະຫຼຸບ"
+  },
+  {
+    "simpli": "des",
+    "translation": "des"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "ການນຳ"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "ອຳນວຍການ"
+  },
+  {
+    "simpli": "batam",
+    "translation": "ລຸ່ມສຸດ"
+  },
+  {
+    "simpli": "ais",
+    "translation": "ນ້ຳແຂງ"
+  },
+  {
+    "simpli": "erban",
+    "translation": "ເມືອງ"
+  },
+  {
+    "simpli": "herd",
+    "translation": "ໄດ້ຍິນ"
+  },
+  {
+    "simpli": "flag",
+    "translation": "ທຸງ"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "ນັກຂ່າວ"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "ການມີຢູ່"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "ນັກບານ"
+  },
+  {
+    "simpli": "boi",
+    "translation": "ເດັກຊາຍ"
+  },
+  {
+    "simpli": "flor",
+    "translation": "ພື້ນ"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "ຄວາມເສຍຫາຍ"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "ຕິດຕໍ່"
+  },
+  {
+    "simpli": "hait",
+    "translation": "ຄວາມສູງ"
+  },
+  {
+    "simpli": "presans",
+    "translation": "ການມີຢູ່"
+  },
+  {
+    "simpli": "mon",
+    "translation": "ຈັນ"
+  },
+  {
+    "simpli": "difens",
+    "translation": "ການປ້ອງກັນ"
+  },
+  {
+    "simpli": "farm",
+    "translation": "ຟາມ"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "ຄວາມແຕກຕ່າງ"
+  },
+  {
+    "simpli": "ad",
+    "translation": "ໂຄສະນາ"
+  },
+  {
+    "simpli": "sat",
+    "translation": "ເສົາ"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "ຄຸກ"
+  },
+  {
+    "simpli": "linier",
+    "translation": "ເສັ້ນ"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "ນິທະການ"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "ຕາມລຳດັບ"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "ພຶດຕິກຳ"
+  },
+  {
+    "simpli": "stei",
+    "translation": "ຢູ່"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "ຜູ້ແທນ"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "ຮັບ"
+  },
+  {
+    "simpli": "platform",
+    "translation": "ເວທີ"
+  },
+  {
+    "simpli": "li",
+    "translation": "Lee"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "ອະນຸສອນ"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "ກ່ອນຄສ"
+  },
+  {
+    "simpli": "aner",
+    "translation": "ກຽດຕິຍົດ"
+  },
+  {
+    "simpli": "greid",
+    "translation": "ຊັ້ນ"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "ປະຊາທິປະໄຕ"
+  },
+  {
+    "simpli": "transport",
+    "translation": "ການຂົນສົ່ງ"
+  },
+  {
+    "simpli": "fort",
+    "translation": "ປ້ອມ"
+  },
+  {
+    "simpli": "tot",
+    "translation": "ສອນ"
+  },
+  {
+    "simpli": "breik",
+    "translation": "ພັກ"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "ທາງເລືອກ"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "ຖະໜົນ"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "ທ່ານນາງ"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "ສະກັອດ"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "ສາລະຄະດີ"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "ການແຈກຢາຍ"
+  },
+  {
+    "simpli": "privent",
+    "translation": "ປ້ອງກັນ"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "ບໍ່ສາມາດ"
+  },
+  {
+    "simpli": "weit",
+    "translation": "ນ້ຳໜັກ"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "ຈະລາຈອນ"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "ຄອນເສີດ"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "ຂ້ອນຂ້າງ"
+  },
+  {
+    "simpli": "stand",
+    "translation": "ຢືນ"
+  },
+  {
+    "simpli": "midian",
+    "translation": "ຄ່າກາງ"
+  },
+  {
+    "simpli": "praper",
+    "translation": "ເໝາະສົມ"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "ອາຊີ"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "ອຸດສາຫະກຳ"
+  },
+  {
+    "simpli": "dro",
+    "translation": "ວາດ"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "ຈັກກະວັດ"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "ຄູ່ມື"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "ການເຊື່ອມ"
+  },
+  {
+    "simpli": "persent",
+    "translation": "ເປີເຊັນ"
+  },
+  {
+    "simpli": "merin",
+    "translation": "ທະເລ"
+  },
+  {
+    "simpli": "seint",
+    "translation": "ນັກບຸນ"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "ການເລື່ອນ"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "ກະຊວງ"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "ການຈັດຕັ້ງ"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "ອິດສະຣາເອນ"
+  },
+  {
+    "simpli": "blad",
+    "translation": "ເລືອດ"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "ພັດທະນາ"
+  },
+  {
+    "simpli": "sport",
+    "translation": "ກິລາ"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "ເລັກນ້ອຍ"
+  },
+  {
+    "simpli": "apra",
+    "translation": "ໂອເປຣາ"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "ເມືອງ"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "ນິຍາມ"
+  },
+  {
+    "simpli": "alt",
+    "translation": "alt"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "ການລວມ"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "ຝ່າຍຄ້ານ"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "ນັກດົນຕີ"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "ການແປ"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "ອ່ອນກວ່າ"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "ສ່ວນ"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "ແພດ"
+  },
+  {
+    "simpli": "ka",
+    "translation": "ca"
+  },
+  {
+    "simpli": "sari",
+    "translation": "ຂໍໂທດ"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "ມີ"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "ສາສະໜາ"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "ບໍ່ແມ່ນ"
+  },
+  {
+    "simpli": "spred",
+    "translation": "ແຜ່"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "ຕົ້ນກຳເນີດ"
+  },
+  {
+    "simpli": "metal",
+    "translation": "ໂລຫະ"
+  },
+  {
+    "simpli": "del",
+    "translation": "del"
+  },
+  {
+    "simpli": "gas",
+    "translation": "ອາຍແກັສ"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "ເລື້ອຍໆ"
+  },
+  {
+    "simpli": "visit",
+    "translation": "ຢ້ຽມຢາມ"
+  },
+  {
+    "simpli": "dip",
+    "translation": "ເລິກ"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "ຈິດຕະກອນ"
+  },
+  {
+    "simpli": "trast",
+    "translation": "ເຊື່ອໝັ້ນ"
+  },
+  {
+    "simpli": "difit",
+    "translation": "ພ່າຍແພ້"
+  },
+  {
+    "simpli": "bol",
+    "translation": "ບານ"
+  },
+  {
+    "simpli": "isi",
+    "translation": "ງ່າຍ"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "ອະທິບາຍ"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "ເປັນກາງ"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "ເກົ່າທີ່ສຸດ"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "ຄະນະ"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "ສະຖາປັດຕະຍະກຳ"
+  },
+  {
+    "simpli": "preser",
+    "translation": "ຄວາມດັນ"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "ຈັກກະພັດ"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "BBC"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "ການຂະຫຍາຍ"
+  },
+  {
+    "simpli": "valid",
+    "translation": "ຖືກຕ້ອງ"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "ມາດສ່ວນ"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "ກັບຄືນ"
+  },
+  {
+    "simpli": "plas",
+    "translation": "ບວກ"
+  },
+  {
+    "simpli": "wud",
+    "translation": "ໄມ້"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "ກວ້າງ"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "ໂອກາດ"
+  },
+  {
+    "simpli": "merder",
+    "translation": "ຄາດຕະກຳ"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "ຄວາມຈຳ"
+  },
+  {
+    "simpli": "masin",
+    "translation": "ເຄື່ອງຈັກ"
+  },
+  {
+    "simpli": "wed",
+    "translation": "ພຸດ"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "ບັນທຶກ"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "ຕ້ອງການ"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "inc"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "ແລກປ່ຽນ"
+  },
+  {
+    "simpli": "ros",
+    "translation": "ດອກກຸຫຼາບ"
+  },
+  {
+    "simpli": "neival",
+    "translation": "ທະຫານເຮືອ"
+  },
+  {
+    "simpli": "fis",
+    "translation": "ປາ"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "ເຫດຜົນ"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "ຂ້ອຍເອງ"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "ມີຄວາມສຸກ"
+  },
+  {
+    "simpli": "nider",
+    "translation": "ກໍບໍ່"
+  },
+  {
+    "simpli": "ban",
+    "translation": "ຫ້າມ"
+  },
+  {
+    "simpli": "pap",
+    "translation": "ປັອບ"
+  },
+  {
+    "simpli": "brand",
+    "translation": "ຍີ່ຫໍ້"
+  },
+  {
+    "simpli": "gest",
+    "translation": "ແຂກ"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "ຈະບໍ່"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "ບົດນຳ"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "ນາມສະກຸນ"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "ຄວາມປອດໄພ"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "ສະໜາມກິລາ"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "ຫາດຊາຍ"
+  },
+  {
+    "simpli": "gan",
+    "translation": "ປືນ"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "ອາດຊະຍາກຳ"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Kitt"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "ສິ່ງອຳນວຍ"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "ຈໍເຈຍ"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Jack"
+  },
+  {
+    "simpli": "okei",
+    "translation": "ຕົກລົງ"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "ຝູງບິນ"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "ສຳຮອງ"
+  },
+  {
+    "simpli": "risk",
+    "translation": "ຄວາມສ່ຽງ"
+  },
+  {
+    "simpli": "fel",
+    "translation": "ຕົກ"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "ສະກັອດ"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "ຣີພັບລິກັນ"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "ເລີ່ມ"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "ຂໍ້ສະເໜີ"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "ແນວໃດກໍ່ຕາມ"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "ນຳໃຊ້"
+  },
+  {
+    "simpli": "vais",
+    "translation": "ຮອງ"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "ບົດກະວີ"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "ເວີຈິເນຍ"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "ອົງການ"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "ໄຟຟ້າ"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "ຮ່ວມ"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "navbox"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "ທາງວັນນະຄະດີ"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Edward"
+  },
+  {
+    "simpli": "logo",
+    "translation": "ໂລໂກ້"
+  },
+  {
+    "simpli": "adians",
+    "translation": "ຜູ້ຊົມ"
+  },
+  {
+    "simpli": "brans",
+    "translation": "ທອງແດງ"
+  },
+  {
+    "simpli": "mail",
+    "translation": "ໄມລ໌"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "ໃໝ່ໆ"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "ໃບສະໝັກ"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "ຢາ"
+  },
+  {
+    "simpli": "florada",
+    "translation": "ຟລໍຣິດາ"
+  },
+  {
+    "simpli": "fols",
+    "translation": "ບໍ່ຈິງ"
+  },
+  {
+    "simpli": "du",
+    "translation": "du"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "ທາງອອກ"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "ວັດຖຸ"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "ຕະຫຼົກ"
+  },
+  {
+    "simpli": "brif",
+    "translation": "ສັ້ນ"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "ປາຊີຟິກ"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "ການບັນເທີງ"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "ສະຖາປະນິກ"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "ບໍ່ຄື"
+  },
+  {
+    "simpli": "historian",
+    "translation": "ນັກປະຫວັດສາດ"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "ກອງພັນ"
+  },
+  {
+    "simpli": "limat",
+    "translation": "ຂີດຈຳກັດ"
+  },
+  {
+    "simpli": "grant",
+    "translation": "ເງິນຊ່ວຍ"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "ນິຍາຍ"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "ການປະກອບສ່ວນ"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "ຜູ້ສ້າງ"
+  },
+  {
+    "simpli": "ref",
+    "translation": "ref"
+  },
+  {
+    "simpli": "finis",
+    "translation": "ສຳເລັດ"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "ວົງດົນຕີ"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "ຖາວອນ"
+  },
+  {
+    "simpli": "sel",
+    "translation": "ຈຸລັງ"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "ປ່ຽນຊື່"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "ທາງລົບ"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "ເຫຼືອງ"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Johnson"
+  },
+  {
+    "simpli": "task",
+    "translation": "ໜ້າວຽກ"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "ໃນທີ່ສຸດ"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "ເປັນຕົວແທນ"
+  },
+  {
+    "simpli": "rer",
+    "translation": "ຫາຍາກ"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "ສະເໜີ"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "ປະເພນີ"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "ມີປະສິດທິພາບ"
+  },
+  {
+    "simpli": "partner",
+    "translation": "ຄູ່ຮ່ວມ"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "ຄວາມລັບ"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "ຕື້"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "ທາງເລືອກ"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "ຢ່າງຍິ່ງ"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "ພຽງພໍ"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "ສົ່ງເສີມ"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "ບົດ"
+  },
+  {
+    "simpli": "pov",
+    "translation": "pov"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "ຊູແອດ"
+  },
+  {
+    "simpli": "von",
+    "translation": "von"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "ພະນັກງານ"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "ເຄົາລົບ"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Tom"
+  },
+  {
+    "simpli": "djas",
+    "translation": "ແຈສ"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "ຕົວແທນ"
+  },
+  {
+    "simpli": "fri",
+    "translation": "ສຸກ"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "ລາຍລະອຽດ"
+  },
+  {
+    "simpli": "antu",
+    "translation": "ເທິງ"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "ລຸ້ນ"
+  },
+  {
+    "simpli": "perform",
+    "translation": "ສະແດງ"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "ອັອກຟອດ"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "ເທົ່າກຽມ"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "ນັກບິນ"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "ທົ່ວໂລກ"
+  },
+  {
+    "simpli": "hors",
+    "translation": "ມ້າ"
+  },
+  {
+    "simpli": "senat",
+    "translation": "ວຸດທິສະພາ"
+  },
+  {
+    "simpli": "kor",
+    "translation": "ແກນ"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "ການສະໜອງ"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "ແທນທີ່"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Socorro"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "ການທຳລາຍ"
+  },
+  {
+    "simpli": "hat",
+    "translation": "ຮ້ອນ"
+  },
+  {
+    "simpli": "instans",
+    "translation": "ກໍລະນີ"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "ໂອລິມປິກ"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "ເສດຖະກິດ"
+  },
+  {
+    "simpli": "servei",
+    "translation": "ການສຳຫຼວດ"
+  },
+  {
+    "simpli": "di",
+    "translation": "di"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "ຢ່າງຊັດເຈນ"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "ຄວາມກັງວົນ"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "ບໍລິສັດ"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "ສິ່ງທ້າທາຍ"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "ປັດຊະຍາ"
+  },
+  {
+    "simpli": "advans",
+    "translation": "ກ້າວໜ້າ"
+  },
+  {
+    "simpli": "taks",
+    "translation": "ພາສີ"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "ໃບອະນຸຍາດ"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "ເຫດ"
+  },
+  {
+    "simpli": "bot",
+    "translation": "bot"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "ທີຫົກ"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "ເສລີພາບ"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "ເອກະລັກ"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "ສູງສຸດ"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "ພໍສົມຄວນ"
+  },
+  {
+    "simpli": "plat",
+    "translation": "ເລື່ອງຫຍໍ້"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "ບອສຕັນ"
+  },
+  {
+    "simpli": "step",
+    "translation": "ຂັ້ນຕອນ"
+  },
+  {
+    "simpli": "disis",
+    "translation": "ພະຍາດ"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "ແບກລິນ"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "ສິ່ງແວດລ້ອມ"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "ການສືບສວນ"
+  },
+  {
+    "simpli": "flit",
+    "translation": "ຂະບວນເຮືອ"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "ທະຫານຮາບ"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "ການຕໍ່ສູ້"
+  },
+  {
+    "simpli": "rais",
+    "translation": "ຂຶ້ນ"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "ສ້າງ"
+  },
+  {
+    "simpli": "taword",
+    "translation": "ໄປສູ່"
+  },
+  {
+    "simpli": "vies",
+    "translation": "ທຽບ"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "ເງື່ອນໄຂ"
+  },
+  {
+    "simpli": "mis",
+    "translation": "ພາດ"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "ຄລາສສິກ"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "ຄລາສສິກ"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "ຈື່"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "ສັດ"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "ພາຍໃນ"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Frank"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "ຊ່ວະ"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "ຜູ້ຈົບ"
+  },
+  {
+    "simpli": "watever",
+    "translation": "ອັນໃດກໍ່"
+  },
+  {
+    "simpli": "internal",
+    "translation": "ພາຍໃນ"
+  },
+  {
+    "simpli": "seip",
+    "translation": "ຮູບຮ່າງ"
+  },
+  {
+    "simpli": "herself",
+    "translation": "ຕົນເອງ"
+  },
+  {
+    "simpli": "streit",
+    "translation": "ຊື່"
+  },
+  {
+    "simpli": "seks",
+    "translation": "ເພດ"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "ຢ່າງໃກ້ຊິດ"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Scott"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "ການສື່ສານ"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "ຄົວເຮືອນ"
+  },
+  {
+    "simpli": "edj",
+    "translation": "ຂອບ"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "ການໂອນ"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "ຊີ້ບອກ"
+  },
+  {
+    "simpli": "haki",
+    "translation": "ຮັອກກີ"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "ທາງສາຍຕາ"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "ມີອຳນາດ"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "ຂອງເທດສະບານ"
+  },
+  {
+    "simpli": "fot",
+    "translation": "ສູ້ຮົບ"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "ຕັ່ງ"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "ຢ່າງສຳຄັນ"
+  },
+  {
+    "simpli": "minat",
+    "translation": "ນາທີ"
+  },
+  {
+    "simpli": "lern",
+    "translation": "ຮຽນຮູ້"
+  },
+  {
+    "simpli": "kard",
+    "translation": "ບັດ"
+  },
+  {
+    "simpli": "gard",
+    "translation": "ຍາມ"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "ປົກປ້ອງ"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "ຕາເວັນຕົກສ່ຽງເໜືອ"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "ຄວາມລົ້ມເຫຼວ"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "ສຳນັກພິມ"
+  },
+  {
+    "simpli": "ai",
+    "translation": "ຕາ"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "ແຟຊັ່ນ"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "ເອກະລາດ"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "ຄົນຂັບ"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "ຢ່າງແຂງແຮງ"
+  },
+  {
+    "simpli": "advais",
+    "translation": "ຄຳແນະນຳ"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "ການຮັບຮູ້"
+  },
+  {
+    "simpli": "kil",
+    "translation": "ຂ້າ"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "ຣັກບີ"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "ພາຫະນະ"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "ທະນາຍຄວາມ"
+  },
+  {
+    "simpli": "brok",
+    "translation": "ຫັກ"
+  },
+  {
+    "simpli": "huk",
+    "translation": "ເບັດ"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "ມໍລະດົກ"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "ຕາເວັນອອກສ່ຽງໃຕ້"
+  },
+  {
+    "simpli": "korner",
+    "translation": "ມຸມ"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "ທາງເພດ"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Elizabeth"
+  },
+  {
+    "simpli": "wis",
+    "translation": "ປາດຖະໜາ"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "ຄຳປາໄສ"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "ກຳນົດ"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "ການລະເມີດ"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "ເພັນເຊິນເວເນຍ"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "ທາງລົດໄຟ"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "ເຫຼັກ"
+  },
+  {
+    "simpli": "gav",
+    "translation": "gov"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "ການກະສຽນ"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Francisco"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "ຂ້າງໜ້າ"
+  },
+  {
+    "simpli": "eid",
+    "translation": "ການຊ່ວຍເຫຼືອ"
+  },
+  {
+    "simpli": "daot",
+    "translation": "ຄວາມສົງໄສ"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "ໝ່ວຍ"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "ເບິ່ງ"
+  },
+  {
+    "simpli": "apart",
+    "translation": "ແຍກອອກ"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "ມະເຮັງ"
+  },
+  {
+    "simpli": "misis",
+    "translation": "ນາງ"
+  }
+]

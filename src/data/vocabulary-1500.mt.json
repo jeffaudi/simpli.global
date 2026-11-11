@@ -1,0 +1,6002 @@
+[
+  {
+    "simpli": "of",
+    "translation": "ta'"
+  },
+  {
+    "simpli": "in",
+    "translation": "fi"
+  },
+  {
+    "simpli": "and",
+    "translation": "u"
+  },
+  {
+    "simpli": "tu",
+    "translation": "lil"
+  },
+  {
+    "simpli": "an",
+    "translation": "fuq"
+  },
+  {
+    "simpli": "as",
+    "translation": "bħala"
+  },
+  {
+    "simpli": "for",
+    "translation": "għal"
+  },
+  {
+    "simpli": "bai",
+    "translation": "minn"
+  },
+  {
+    "simpli": "dat",
+    "translation": "li"
+  },
+  {
+    "simpli": "el",
+    "translation": "hu/hi"
+  },
+  {
+    "simpli": "wit",
+    "translation": "ma'"
+  },
+  {
+    "simpli": "at",
+    "translation": "għand"
+  },
+  {
+    "simpli": "fram",
+    "translation": "minn"
+  },
+  {
+    "simpli": "nat",
+    "translation": "mhux"
+  },
+  {
+    "simpli": "or",
+    "translation": "jew"
+  },
+  {
+    "simpli": "witj",
+    "translation": "liema"
+  },
+  {
+    "simpli": "bat",
+    "translation": "imma"
+  },
+  {
+    "simpli": "hav",
+    "translation": "għandu"
+  },
+  {
+    "simpli": "olso",
+    "translation": "ukoll"
+  },
+  {
+    "simpli": "van",
+    "translation": "wieħed"
+  },
+  {
+    "simpli": "peidj",
+    "translation": "paġna"
+  },
+  {
+    "simpli": "yu",
+    "translation": "int"
+  },
+  {
+    "simpli": "no",
+    "translation": "le"
+  },
+  {
+    "simpli": "ferst",
+    "translation": "ewwel"
+  },
+  {
+    "simpli": "dey",
+    "translation": "huma"
+  },
+  {
+    "simpli": "hu",
+    "translation": "min"
+  },
+  {
+    "simpli": "der",
+    "translation": "hemm"
+  },
+  {
+    "simpli": "mei",
+    "translation": "jista'"
+  },
+  {
+    "simpli": "after",
+    "translation": "wara"
+  },
+  {
+    "simpli": "ol",
+    "translation": "kollu"
+  },
+  {
+    "simpli": "nu",
+    "translation": "ġdid"
+  },
+  {
+    "simpli": "ader",
+    "translation": "ieħor"
+  },
+  {
+    "simpli": "if",
+    "translation": "jekk"
+  },
+  {
+    "simpli": "diskasan",
+    "translation": "diskussjoni"
+  },
+  {
+    "simpli": "kan",
+    "translation": "seta'"
+  },
+  {
+    "simpli": "mor",
+    "translation": "aktar"
+  },
+  {
+    "simpli": "abaot",
+    "translation": "dwar"
+  },
+  {
+    "simpli": "satj",
+    "translation": "tali"
+  },
+  {
+    "simpli": "sam",
+    "translation": "xi"
+  },
+  {
+    "simpli": "taim",
+    "translation": "żmien"
+  },
+  {
+    "simpli": "onli",
+    "translation": "biss"
+  },
+  {
+    "simpli": "intu",
+    "translation": "ġo"
+  },
+  {
+    "simpli": "so",
+    "translation": "hekk"
+  },
+  {
+    "simpli": "ap",
+    "translation": "'il fuq"
+  },
+  {
+    "simpli": "dilit",
+    "translation": "ħassar"
+  },
+  {
+    "simpli": "wer",
+    "translation": "fejn"
+  },
+  {
+    "simpli": "aot",
+    "translation": "barra"
+  },
+  {
+    "simpli": "dan",
+    "translation": "minn"
+  },
+  {
+    "simpli": "most",
+    "translation": "l-aktar"
+  },
+  {
+    "simpli": "over",
+    "translation": "minn fuq"
+  },
+  {
+    "simpli": "lingk",
+    "translation": "ħolqa"
+  },
+  {
+    "simpli": "djanyueri",
+    "translation": "Jannar"
+  },
+  {
+    "simpli": "martj",
+    "translation": "Marzu"
+  },
+  {
+    "simpli": "born",
+    "translation": "imwieled"
+  },
+  {
+    "simpli": "september",
+    "translation": "Settembru"
+  },
+  {
+    "simpli": "aktober",
+    "translation": "Ottubru"
+  },
+  {
+    "simpli": "djulai",
+    "translation": "Lulju"
+  },
+  {
+    "simpli": "agast",
+    "translation": "Awwissu"
+  },
+  {
+    "simpli": "plis",
+    "translation": "jekk jogħġbok"
+  },
+  {
+    "simpli": "disember",
+    "translation": "Diċembru"
+  },
+  {
+    "simpli": "djun",
+    "translation": "Ġunju"
+  },
+  {
+    "simpli": "eipral",
+    "translation": "April"
+  },
+  {
+    "simpli": "tieitj",
+    "translation": "th"
+  },
+  {
+    "simpli": "wil",
+    "translation": "se"
+  },
+  {
+    "simpli": "eni",
+    "translation": "kwalunkwe"
+  },
+  {
+    "simpli": "kam",
+    "translation": "com"
+  },
+  {
+    "simpli": "wat",
+    "translation": "xiex"
+  },
+  {
+    "simpli": "november",
+    "translation": "Novembru"
+  },
+  {
+    "simpli": "dis",
+    "translation": "dawn"
+  },
+  {
+    "simpli": "wi",
+    "translation": "aħna"
+  },
+  {
+    "simpli": "meni",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "febyaveri",
+    "translation": "Frar"
+  },
+  {
+    "simpli": "laik",
+    "translation": "bħal"
+  },
+  {
+    "simpli": "dem",
+    "translation": "lilhom"
+  },
+  {
+    "simpli": "ferder",
+    "translation": "aktar"
+  },
+  {
+    "simpli": "wail",
+    "translation": "waqt"
+  },
+  {
+    "simpli": "si",
+    "translation": "ra"
+  },
+  {
+    "simpli": "leiter",
+    "translation": "aktar tard"
+  },
+  {
+    "simpli": "neim",
+    "translation": "isem"
+  },
+  {
+    "simpli": "skul",
+    "translation": "skola"
+  },
+  {
+    "simpli": "part",
+    "translation": "parti"
+  },
+  {
+    "simpli": "ander",
+    "translation": "taħt"
+  },
+  {
+    "simpli": "djast",
+    "translation": "biss"
+  },
+  {
+    "simpli": "yir",
+    "translation": "sena"
+  },
+  {
+    "simpli": "wel",
+    "translation": "sew"
+  },
+  {
+    "simpli": "yus",
+    "translation": "uża"
+  },
+  {
+    "simpli": "dabeit",
+    "translation": "dibattitu"
+  },
+  {
+    "simpli": "sins",
+    "translation": "sa minn"
+  },
+  {
+    "simpli": "wok",
+    "translation": "xogħol"
+  },
+  {
+    "simpli": "tri",
+    "translation": "tlieta"
+  },
+  {
+    "simpli": "bifor",
+    "translation": "qabel"
+  },
+  {
+    "simpli": "bot",
+    "translation": "it-tnejn"
+  },
+  {
+    "simpli": "steit",
+    "translation": "stat"
+  },
+  {
+    "simpli": "stail",
+    "translation": "stil"
+  },
+  {
+    "simpli": "film",
+    "translation": "film"
+  },
+  {
+    "simpli": "nao",
+    "translation": "issa"
+  },
+  {
+    "simpli": "tru",
+    "translation": "minn ġo"
+  },
+  {
+    "simpli": "becos",
+    "translation": "għax"
+  },
+  {
+    "simpli": "grup",
+    "translation": "grupp"
+  },
+  {
+    "simpli": "amerakan",
+    "translation": "Amerikan"
+  },
+  {
+    "simpli": "yuser",
+    "translation": "utent"
+  },
+  {
+    "simpli": "alain",
+    "translation": "allinja"
+  },
+  {
+    "simpli": "siti",
+    "translation": "belt"
+  },
+  {
+    "simpli": "wikipidia",
+    "translation": "Wikipedija"
+  },
+  {
+    "simpli": "seim",
+    "translation": "istess"
+  },
+  {
+    "simpli": "haoever",
+    "translation": "madankollu"
+  },
+  {
+    "simpli": "bikeim",
+    "translation": "sar"
+  },
+  {
+    "simpli": "sekand",
+    "translation": "tieni"
+  },
+  {
+    "simpli": "apropriat",
+    "translation": "xieraq"
+  },
+  {
+    "simpli": "werld",
+    "translation": "dinja"
+  },
+  {
+    "simpli": "abav",
+    "translation": "fuq"
+  },
+  {
+    "simpli": "tim",
+    "translation": "tim"
+  },
+  {
+    "simpli": "kip",
+    "translation": "żamm"
+  },
+  {
+    "simpli": "sabsakvant",
+    "translation": "sussegwenti"
+  },
+  {
+    "simpli": "rait",
+    "translation": "dritt"
+  },
+  {
+    "simpli": "antil",
+    "translation": "sa"
+  },
+  {
+    "simpli": "madafai",
+    "translation": "immodifika"
+  },
+  {
+    "simpli": "agenst",
+    "translation": "kontra"
+  },
+  {
+    "simpli": "tok",
+    "translation": "tkellem"
+  },
+  {
+    "simpli": "namber",
+    "translation": "numru"
+  },
+  {
+    "simpli": "senter",
+    "translation": "ċentru"
+  },
+  {
+    "simpli": "list",
+    "translation": "lista"
+  },
+  {
+    "simpli": "albam",
+    "translation": "album"
+  },
+  {
+    "simpli": "sevral",
+    "translation": "diversi"
+  },
+  {
+    "simpli": "famali",
+    "translation": "familja"
+  },
+  {
+    "simpli": "riderekt",
+    "translation": "rindirizza"
+  },
+  {
+    "simpli": "sisan",
+    "translation": "staġun"
+  },
+  {
+    "simpli": "veri",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "kampani",
+    "translation": "kumpanija"
+  },
+  {
+    "simpli": "eria",
+    "translation": "żona"
+  },
+  {
+    "simpli": "bilo",
+    "translation": "taħt"
+  },
+  {
+    "simpli": "hir",
+    "translation": "hawn"
+  },
+  {
+    "simpli": "histeri",
+    "translation": "storja"
+  },
+  {
+    "simpli": "mi",
+    "translation": "lili"
+  },
+  {
+    "simpli": "hao",
+    "translation": "kif"
+  },
+  {
+    "simpli": "per",
+    "translation": "għal kull"
+  },
+  {
+    "simpli": "wan",
+    "translation": "rebaħ"
+  },
+  {
+    "simpli": "itj",
+    "translation": "kull"
+  },
+  {
+    "simpli": "nasanal",
+    "translation": "nazzjonali"
+  },
+  {
+    "simpli": "saot",
+    "translation": "nofsinhar"
+  },
+  {
+    "simpli": "pleis",
+    "translation": "post"
+  },
+  {
+    "simpli": "risalt",
+    "translation": "riżultat"
+  },
+  {
+    "simpli": "meik",
+    "translation": "għamel"
+  },
+  {
+    "simpli": "myusik",
+    "translation": "mużika"
+  },
+  {
+    "simpli": "best",
+    "translation": "l-aħjar"
+  },
+  {
+    "simpli": "dos",
+    "translation": "dawk"
+  },
+  {
+    "simpli": "anader",
+    "translation": "ieħor"
+  },
+  {
+    "simpli": "tingk",
+    "translation": "ħaseb"
+  },
+  {
+    "simpli": "seksan",
+    "translation": "taqsima"
+  },
+  {
+    "simpli": "not",
+    "translation": "nota"
+  },
+  {
+    "simpli": "saport",
+    "translation": "appoġġ"
+  },
+  {
+    "simpli": "wei",
+    "translation": "mod"
+  },
+  {
+    "simpli": "former",
+    "translation": "preċedenti"
+  },
+  {
+    "simpli": "geim",
+    "translation": "logħba"
+  },
+  {
+    "simpli": "member",
+    "translation": "membru"
+  },
+  {
+    "simpli": "erli",
+    "translation": "kmieni"
+  },
+  {
+    "simpli": "matj",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "stil",
+    "translation": "xorta"
+  },
+  {
+    "simpli": "nort",
+    "translation": "tramuntana"
+  },
+  {
+    "simpli": "hai",
+    "translation": "għoli"
+  },
+  {
+    "simpli": "wor",
+    "translation": "gwerra"
+  },
+  {
+    "simpli": "gud",
+    "translation": "tajjeb"
+  },
+  {
+    "simpli": "bak",
+    "translation": "lura"
+  },
+  {
+    "simpli": "on",
+    "translation": "proprju"
+  },
+  {
+    "simpli": "gavermant",
+    "translation": "gvern"
+  },
+  {
+    "simpli": "yunaversati",
+    "translation": "università"
+  },
+  {
+    "simpli": "eraond",
+    "translation": "madwar"
+  },
+  {
+    "simpli": "end",
+    "translation": "tmiem"
+  },
+  {
+    "simpli": "notabal",
+    "translation": "notevoli"
+  },
+  {
+    "simpli": "song",
+    "translation": "għanja"
+  },
+  {
+    "simpli": "milateri",
+    "translation": "militari"
+  },
+  {
+    "simpli": "djeneral",
+    "translation": "ġenerali"
+  },
+  {
+    "simpli": "taital",
+    "translation": "titlu"
+  },
+  {
+    "simpli": "pablik",
+    "translation": "pubbliku"
+  },
+  {
+    "simpli": "buk",
+    "translation": "ktieb"
+  },
+  {
+    "simpli": "imadj",
+    "translation": "immaġni"
+  },
+  {
+    "simpli": "dei",
+    "translation": "jum"
+  },
+  {
+    "simpli": "long",
+    "translation": "twil"
+  },
+  {
+    "simpli": "dilisan",
+    "translation": "tħassir"
+  },
+  {
+    "simpli": "infermeisan",
+    "translation": "informazzjoni"
+  },
+  {
+    "simpli": "du",
+    "translation": "dovut"
+  },
+  {
+    "simpli": "lokal",
+    "translation": "lokali"
+  },
+  {
+    "simpli": "haos",
+    "translation": "dar"
+  },
+  {
+    "simpli": "mein",
+    "translation": "prinċipali"
+  },
+  {
+    "simpli": "last",
+    "translation": "aħħar"
+  },
+  {
+    "simpli": "widin",
+    "translation": "fi ħdan"
+  },
+  {
+    "simpli": "eridjanal",
+    "translation": "oriġinali"
+  },
+  {
+    "simpli": "hom",
+    "translation": "dar"
+  },
+  {
+    "simpli": "kament",
+    "translation": "kumment"
+  },
+  {
+    "simpli": "meidjer",
+    "translation": "maġġuri"
+  },
+  {
+    "simpli": "laif",
+    "translation": "ħajja"
+  },
+  {
+    "simpli": "diferant",
+    "translation": "differenti"
+  },
+  {
+    "simpli": "klab",
+    "translation": "klabb"
+  },
+  {
+    "simpli": "inglis",
+    "translation": "Ingliż"
+  },
+  {
+    "simpli": "point",
+    "translation": "punt"
+  },
+  {
+    "simpli": "smol",
+    "translation": "żgħir"
+  },
+  {
+    "simpli": "lain",
+    "translation": "linja"
+  },
+  {
+    "simpli": "singal",
+    "translation": "singolu"
+  },
+  {
+    "simpli": "band",
+    "translation": "banda"
+  },
+  {
+    "simpli": "arkaiv",
+    "translation": "arkivju"
+  },
+  {
+    "simpli": "get",
+    "translation": "kiseb"
+  },
+  {
+    "simpli": "taon",
+    "translation": "raħal"
+  },
+  {
+    "simpli": "papyaleisan",
+    "translation": "popolazzjoni"
+  },
+  {
+    "simpli": "sors",
+    "translation": "sors"
+  },
+  {
+    "simpli": "inklud",
+    "translation": "inkluda"
+  },
+  {
+    "simpli": "agen",
+    "translation": "mill-ġdid"
+  },
+  {
+    "simpli": "keis",
+    "translation": "każ"
+  },
+  {
+    "simpli": "oldo",
+    "translation": "għalkemm"
+  },
+  {
+    "simpli": "along",
+    "translation": "tul"
+  },
+  {
+    "simpli": "internasanal",
+    "translation": "internazzjonali"
+  },
+  {
+    "simpli": "witaot",
+    "translation": "mingħajr"
+  },
+  {
+    "simpli": "sistam",
+    "translation": "sistema"
+  },
+  {
+    "simpli": "steisan",
+    "translation": "stazzjon"
+  },
+  {
+    "simpli": "bilt",
+    "translation": "mibni"
+  },
+  {
+    "simpli": "eidj",
+    "translation": "età"
+  },
+  {
+    "simpli": "tap",
+    "translation": "quċċata"
+  },
+  {
+    "simpli": "sentjeri",
+    "translation": "seklu"
+  },
+  {
+    "simpli": "set",
+    "translation": "sett"
+  },
+  {
+    "simpli": "britis",
+    "translation": "Brittaniku"
+  },
+  {
+    "simpli": "tjertj",
+    "translation": "knisja"
+  },
+  {
+    "simpli": "west",
+    "translation": "punent"
+  },
+  {
+    "simpli": "pleier",
+    "translation": "plejer"
+  },
+  {
+    "simpli": "presadent",
+    "translation": "president"
+  },
+  {
+    "simpli": "do",
+    "translation": "għalkemm"
+  },
+  {
+    "simpli": "viladj",
+    "translation": "villaġġ"
+  },
+  {
+    "simpli": "katagori",
+    "translation": "kategorija"
+  },
+  {
+    "simpli": "lardj",
+    "translation": "kbir"
+  },
+  {
+    "simpli": "distrikt",
+    "translation": "distrett"
+  },
+  {
+    "simpli": "fyu",
+    "translation": "ftit"
+  },
+  {
+    "simpli": "order",
+    "translation": "ordni"
+  },
+  {
+    "simpli": "servas",
+    "translation": "servizz"
+  },
+  {
+    "simpli": "faind",
+    "translation": "sab"
+  },
+  {
+    "simpli": "overlap",
+    "translation": "sovrappożizzjoni"
+  },
+  {
+    "simpli": "bgkolor",
+    "translation": "bgcolor"
+  },
+  {
+    "simpli": "teik",
+    "translation": "ħa"
+  },
+  {
+    "simpli": "old",
+    "translation": "qadim"
+  },
+  {
+    "simpli": "kantri",
+    "translation": "pajjiż"
+  },
+  {
+    "simpli": "det",
+    "translation": "mewt"
+  },
+  {
+    "simpli": "risertj",
+    "translation": "riċerka"
+  },
+  {
+    "simpli": "fainal",
+    "translation": "finali"
+  },
+  {
+    "simpli": "midia",
+    "translation": "midja"
+  },
+  {
+    "simpli": "kamyunati",
+    "translation": "komunità"
+  },
+  {
+    "simpli": "terd",
+    "translation": "tielet"
+  },
+  {
+    "simpli": "vi",
+    "translation": "ve"
+  },
+  {
+    "simpli": "ist",
+    "translation": "lvant"
+  },
+  {
+    "simpli": "daon",
+    "translation": "'l isfel"
+  },
+  {
+    "simpli": "djan",
+    "translation": "John"
+  },
+  {
+    "simpli": "versan",
+    "translation": "verżjoni"
+  },
+  {
+    "simpli": "faiv",
+    "translation": "ħamsa"
+  },
+  {
+    "simpli": "edat",
+    "translation": "editja"
+  },
+  {
+    "simpli": "everi",
+    "translation": "kull"
+  },
+  {
+    "simpli": "san",
+    "translation": "iben"
+  },
+  {
+    "simpli": "igsampal",
+    "translation": "eżempju"
+  },
+  {
+    "simpli": "parti",
+    "translation": "partit"
+  },
+  {
+    "simpli": "york",
+    "translation": "York"
+  },
+  {
+    "simpli": "form",
+    "translation": "forma"
+  },
+  {
+    "simpli": "nir",
+    "translation": "qrib"
+  },
+  {
+    "simpli": "sabdjekt",
+    "translation": "suġġett"
+  },
+  {
+    "simpli": "go",
+    "translation": "mar"
+  },
+  {
+    "simpli": "amang",
+    "translation": "fost"
+  },
+  {
+    "simpli": "sait",
+    "translation": "sit"
+  },
+  {
+    "simpli": "kantent",
+    "translation": "kontenut"
+  },
+  {
+    "simpli": "art",
+    "translation": "arti"
+  },
+  {
+    "simpli": "help",
+    "translation": "għajnuna"
+  },
+  {
+    "simpli": "fader",
+    "translation": "missier"
+  },
+  {
+    "simpli": "pradjekt",
+    "translation": "proġett"
+  },
+  {
+    "simpli": "said",
+    "translation": "naħa"
+  },
+  {
+    "simpli": "rood",
+    "translation": "triq"
+  },
+  {
+    "simpli": "tekst",
+    "translation": "test"
+  },
+  {
+    "simpli": "derekter",
+    "translation": "direttur"
+  },
+  {
+    "simpli": "kerir",
+    "translation": "karriera"
+  },
+  {
+    "simpli": "notability",
+    "translation": "notabbiltà"
+  },
+  {
+    "simpli": "wai",
+    "translation": "għaliex"
+  },
+  {
+    "simpli": "rakord",
+    "translation": "rekord"
+  },
+  {
+    "simpli": "bakgraond",
+    "translation": "sfond"
+  },
+  {
+    "simpli": "lig",
+    "translation": "lega"
+  },
+  {
+    "simpli": "plei",
+    "translation": "lagħab"
+  },
+  {
+    "simpli": "greit",
+    "translation": "kbir"
+  },
+  {
+    "simpli": "frentj",
+    "translation": "Franċiż"
+  },
+  {
+    "simpli": "aword",
+    "translation": "premju"
+  },
+  {
+    "simpli": "never",
+    "translation": "qatt"
+  },
+  {
+    "simpli": "inaf",
+    "translation": "biżżejjed"
+  },
+  {
+    "simpli": "kaonti",
+    "translation": "kontea"
+  },
+  {
+    "simpli": "milyan",
+    "translation": "miljun"
+  },
+  {
+    "simpli": "divelapmant",
+    "translation": "żvilupp"
+  },
+  {
+    "simpli": "total",
+    "translation": "total"
+  },
+  {
+    "simpli": "risan",
+    "translation": "raġuni"
+  },
+  {
+    "simpli": "lo",
+    "translation": "liġi"
+  },
+  {
+    "simpli": "nekst",
+    "translation": "li jmiss"
+  },
+  {
+    "simpli": "led",
+    "translation": "mexxa"
+  },
+  {
+    "simpli": "woter",
+    "translation": "ilma"
+  },
+  {
+    "simpli": "kalidj",
+    "translation": "kulleġġ"
+  },
+  {
+    "simpli": "djerman",
+    "translation": "Ġermaniż"
+  },
+  {
+    "simpli": "palitakal",
+    "translation": "politiku"
+  },
+  {
+    "simpli": "bikam",
+    "translation": "sar"
+  },
+  {
+    "simpli": "rader",
+    "translation": "pjuttost"
+  },
+  {
+    "simpli": "leit",
+    "translation": "tard"
+  },
+  {
+    "simpli": "hed",
+    "translation": "ras"
+  },
+  {
+    "simpli": "olredi",
+    "translation": "diġà"
+  },
+  {
+    "simpli": "ider",
+    "translation": "wieħed jew ieħor"
+  },
+  {
+    "simpli": "lital",
+    "translation": "żgħir"
+  },
+  {
+    "simpli": "edater",
+    "translation": "editur"
+  },
+  {
+    "simpli": "important",
+    "translation": "importanti"
+  },
+  {
+    "simpli": "rol",
+    "translation": "rwol"
+  },
+  {
+    "simpli": "simaler",
+    "translation": "simili"
+  },
+  {
+    "simpli": "wait",
+    "translation": "abjad"
+  },
+  {
+    "simpli": "kerant",
+    "translation": "attwali"
+  },
+  {
+    "simpli": "landan",
+    "translation": "Londra"
+  },
+  {
+    "simpli": "beter",
+    "translation": "aħjar"
+  },
+  {
+    "simpli": "isu",
+    "translation": "kwistjoni"
+  },
+  {
+    "simpli": "sei",
+    "translation": "qal"
+  },
+  {
+    "simpli": "fail",
+    "translation": "fajl"
+  },
+  {
+    "simpli": "persan",
+    "translation": "persuna"
+  },
+  {
+    "simpli": "fri",
+    "translation": "ħieles"
+  },
+  {
+    "simpli": "man",
+    "translation": "raġel"
+  },
+  {
+    "simpli": "stori",
+    "translation": "rakkont"
+  },
+  {
+    "simpli": "sort",
+    "translation": "qasir"
+  },
+  {
+    "simpli": "liv",
+    "translation": "għex"
+  },
+  {
+    "simpli": "vans",
+    "translation": "darba"
+  },
+  {
+    "simpli": "piriad",
+    "translation": "perjodu"
+  },
+  {
+    "simpli": "blak",
+    "translation": "iswed"
+  },
+  {
+    "simpli": "paoer",
+    "translation": "poter"
+  },
+  {
+    "simpli": "presant",
+    "translation": "preżenti"
+  },
+  {
+    "simpli": "strit",
+    "translation": "triq"
+  },
+  {
+    "simpli": "river",
+    "translation": "xmara"
+  },
+  {
+    "simpli": "kerantli",
+    "translation": "bħalissa"
+  },
+  {
+    "simpli": "pradaksan",
+    "translation": "produzzjoni"
+  },
+  {
+    "simpli": "siks",
+    "translation": "sitta"
+  },
+  {
+    "simpli": "edjakeisan",
+    "translation": "edukazzjoni"
+  },
+  {
+    "simpli": "rili",
+    "translation": "tassew"
+  },
+  {
+    "simpli": "futbol",
+    "translation": "futbol"
+  },
+  {
+    "simpli": "land",
+    "translation": "art"
+  },
+  {
+    "simpli": "term",
+    "translation": "terminu"
+  },
+  {
+    "simpli": "ofis",
+    "translation": "uffiċċju"
+  },
+  {
+    "simpli": "program",
+    "translation": "programm"
+  },
+  {
+    "simpli": "divisan",
+    "translation": "diviżjoni"
+  },
+  {
+    "simpli": "telavisan",
+    "translation": "televiżjoni"
+  },
+  {
+    "simpli": "tjeindj",
+    "translation": "bidla"
+  },
+  {
+    "simpli": "ivent",
+    "translation": "avveniment"
+  },
+  {
+    "simpli": "tageder",
+    "translation": "flimkien"
+  },
+  {
+    "simpli": "langwidj",
+    "translation": "lingwa"
+  },
+  {
+    "simpli": "pasisan",
+    "translation": "pożizzjoni"
+  },
+  {
+    "simpli": "want",
+    "translation": "ried"
+  },
+  {
+    "simpli": "fild",
+    "translation": "qasam"
+  },
+  {
+    "simpli": "kaman",
+    "translation": "komuni"
+  },
+  {
+    "simpli": "leval",
+    "translation": "livell"
+  },
+  {
+    "simpli": "armi",
+    "translation": "armata"
+  },
+  {
+    "simpli": "deita",
+    "translation": "dejta"
+  },
+  {
+    "simpli": "park",
+    "translation": "park"
+  },
+  {
+    "simpli": "fakt",
+    "translation": "fatt"
+  },
+  {
+    "simpli": "prafesanal",
+    "translation": "professjonali"
+  },
+  {
+    "simpli": "pasabal",
+    "translation": "possibbli"
+  },
+  {
+    "simpli": "taip",
+    "translation": "tip"
+  },
+  {
+    "simpli": "yang",
+    "translation": "żagħżugħ"
+  },
+  {
+    "simpli": "kort",
+    "translation": "qorti"
+  },
+  {
+    "simpli": "mov",
+    "translation": "mexa"
+  },
+  {
+    "simpli": "les",
+    "translation": "inqas"
+  },
+  {
+    "simpli": "aveilabal",
+    "translation": "disponibbli"
+  },
+  {
+    "simpli": "samvan",
+    "translation": "xi ħadd"
+  },
+  {
+    "simpli": "ful",
+    "translation": "sħiħ"
+  },
+  {
+    "simpli": "sentral",
+    "translation": "ċentrali"
+  },
+  {
+    "simpli": "templat",
+    "translation": "mudell"
+  },
+  {
+    "simpli": "ad",
+    "translation": "żied"
+  },
+  {
+    "simpli": "win",
+    "translation": "rebaħ"
+  },
+  {
+    "simpli": "vidio",
+    "translation": "vidjo"
+  },
+  {
+    "simpli": "lost",
+    "translation": "mitluf"
+  },
+  {
+    "simpli": "put",
+    "translation": "qiegħed"
+  },
+  {
+    "simpli": "ridjan",
+    "translation": "reġjun"
+  },
+  {
+    "simpli": "er",
+    "translation": "arja"
+  },
+  {
+    "simpli": "ran",
+    "translation": "ġera"
+  },
+  {
+    "simpli": "sagnifikant",
+    "translation": "sinifikanti"
+  },
+  {
+    "simpli": "insted",
+    "translation": "minflok"
+  },
+  {
+    "simpli": "oter",
+    "translation": "awtur"
+  },
+  {
+    "simpli": "rivyu",
+    "translation": "reviżjoni"
+  },
+  {
+    "simpli": "prababli",
+    "translation": "probabbilment"
+  },
+  {
+    "simpli": "raond",
+    "translation": "rawnd"
+  },
+  {
+    "simpli": "spesal",
+    "translation": "speċjali"
+  },
+  {
+    "simpli": "afisal",
+    "translation": "uffiċjali"
+  },
+  {
+    "simpli": "palasi",
+    "translation": "politika"
+  },
+  {
+    "simpli": "far",
+    "translation": "'il bogħod"
+  },
+  {
+    "simpli": "aktjuali",
+    "translation": "fil-fatt"
+  },
+  {
+    "simpli": "sosal",
+    "translation": "soċjali"
+  },
+  {
+    "simpli": "vaia",
+    "translation": "via"
+  },
+  {
+    "simpli": "disain",
+    "translation": "disinn"
+  },
+  {
+    "simpli": "rikvest",
+    "translation": "talba"
+  },
+  {
+    "simpli": "bord",
+    "translation": "bord"
+  },
+  {
+    "simpli": "eitjtiemel",
+    "translation": "html"
+  },
+  {
+    "simpli": "kvestson",
+    "translation": "mistoqsija"
+  },
+  {
+    "simpli": "kerikter",
+    "translation": "karattru"
+  },
+  {
+    "simpli": "eridjanali",
+    "translation": "oriġinarjament"
+  },
+  {
+    "simpli": "start",
+    "translation": "beda"
+  },
+  {
+    "simpli": "indipendant",
+    "translation": "indipendenti"
+  },
+  {
+    "simpli": "klos",
+    "translation": "qrib"
+  },
+  {
+    "simpli": "waif",
+    "translation": "mara"
+  },
+  {
+    "simpli": "ingland",
+    "translation": "Ingilterra"
+  },
+  {
+    "simpli": "luk",
+    "translation": "ħares"
+  },
+  {
+    "simpli": "rilis",
+    "translation": "ħruġ"
+  },
+  {
+    "simpli": "adisan",
+    "translation": "żieda"
+  },
+  {
+    "simpli": "evadans",
+    "translation": "evidenza"
+  },
+  {
+    "simpli": "lav",
+    "translation": "mħabba"
+  },
+  {
+    "simpli": "deit",
+    "translation": "data"
+  },
+  {
+    "simpli": "awei",
+    "translation": "bogħod"
+  },
+  {
+    "simpli": "weder",
+    "translation": "jekk"
+  },
+  {
+    "simpli": "sasaiati",
+    "translation": "soċjetà"
+  },
+  {
+    "simpli": "itself",
+    "translation": "innifsu"
+  },
+  {
+    "simpli": "reidio",
+    "translation": "radju"
+  },
+  {
+    "simpli": "rilaiabal",
+    "translation": "affidabbli"
+  },
+  {
+    "simpli": "kaveradj",
+    "translation": "kopertura"
+  },
+  {
+    "simpli": "ailand",
+    "translation": "gżira"
+  },
+  {
+    "simpli": "himself",
+    "translation": "hu stess"
+  },
+  {
+    "simpli": "papyaler",
+    "translation": "popolari"
+  },
+  {
+    "simpli": "prablam",
+    "translation": "problema"
+  },
+  {
+    "simpli": "western",
+    "translation": "punenti"
+  },
+  {
+    "simpli": "dipartmant",
+    "translation": "dipartiment"
+  },
+  {
+    "simpli": "kaonsal",
+    "translation": "kunsill"
+  },
+  {
+    "simpli": "apan",
+    "translation": "fuq"
+  },
+  {
+    "simpli": "kantrol",
+    "translation": "kontroll"
+  },
+  {
+    "simpli": "eibal",
+    "translation": "kapaċi"
+  },
+  {
+    "simpli": "reisio",
+    "translation": "proporzjon"
+  },
+  {
+    "simpli": "madern",
+    "translation": "modern"
+  },
+  {
+    "simpli": "trak",
+    "translation": "trekk"
+  },
+  {
+    "simpli": "kors",
+    "translation": "kors"
+  },
+  {
+    "simpli": "epasod",
+    "translation": "episodju"
+  },
+  {
+    "simpli": "mader",
+    "translation": "omm"
+  },
+  {
+    "simpli": "artast",
+    "translation": "artist"
+  },
+  {
+    "simpli": "saians",
+    "translation": "xjenza"
+  },
+  {
+    "simpli": "pravaid",
+    "translation": "ipprovda"
+  },
+  {
+    "simpli": "yusavali",
+    "translation": "soltu"
+  },
+  {
+    "simpli": "fors",
+    "translation": "forza"
+  },
+  {
+    "simpli": "nordern",
+    "translation": "tramuntani"
+  },
+  {
+    "simpli": "badi",
+    "translation": "ġisem"
+  },
+  {
+    "simpli": "sur",
+    "translation": "ċert"
+  },
+  {
+    "simpli": "ameraka",
+    "translation": "Amerika"
+  },
+  {
+    "simpli": "speis",
+    "translation": "spazju"
+  },
+  {
+    "simpli": "tivi",
+    "translation": "televiżjoni"
+  },
+  {
+    "simpli": "rafer",
+    "translation": "irrefera"
+  },
+  {
+    "simpli": "red",
+    "translation": "aħmar"
+  },
+  {
+    "simpli": "riport",
+    "translation": "rapport"
+  },
+  {
+    "simpli": "doter",
+    "translation": "bint"
+  },
+  {
+    "simpli": "olmost",
+    "translation": "kważi"
+  },
+  {
+    "simpli": "sertj",
+    "translation": "tfittxija"
+  },
+  {
+    "simpli": "asosieisan",
+    "translation": "assoċjazzjoni"
+  },
+  {
+    "simpli": "ostreilya",
+    "translation": "Awstralja"
+  },
+  {
+    "simpli": "giv",
+    "translation": "ta"
+  },
+  {
+    "simpli": "akt",
+    "translation": "att"
+  },
+  {
+    "simpli": "matirial",
+    "translation": "materjal"
+  },
+  {
+    "simpli": "dispait",
+    "translation": "minkejja"
+  },
+  {
+    "simpli": "palis",
+    "translation": "pulizija"
+  },
+  {
+    "simpli": "minaster",
+    "translation": "ministru"
+  },
+  {
+    "simpli": "hyuman",
+    "translation": "uman"
+  },
+  {
+    "simpli": "kanstraksan",
+    "translation": "kostruzzjoni"
+  },
+  {
+    "simpli": "post",
+    "translation": "kariga"
+  },
+  {
+    "simpli": "india",
+    "translation": "Indja"
+  },
+  {
+    "simpli": "tadei",
+    "translation": "illum"
+  },
+  {
+    "simpli": "reis",
+    "translation": "razza"
+  },
+  {
+    "simpli": "das",
+    "translation": "għalhekk"
+  },
+  {
+    "simpli": "ril",
+    "translation": "veru"
+  },
+  {
+    "simpli": "nan",
+    "translation": "xejn"
+  },
+  {
+    "simpli": "steidj",
+    "translation": "stadju"
+  },
+  {
+    "simpli": "sadern",
+    "translation": "nofsinhari"
+  },
+  {
+    "simpli": "kotj",
+    "translation": "kowċ"
+  },
+  {
+    "simpli": "persinal",
+    "translation": "personali"
+  },
+  {
+    "simpli": "prafeser",
+    "translation": "professur"
+  },
+  {
+    "simpli": "stadi",
+    "translation": "studju"
+  },
+  {
+    "simpli": "aotsaid",
+    "translation": "barra"
+  },
+  {
+    "simpli": "praimeri",
+    "translation": "primarju"
+  },
+  {
+    "simpli": "websait",
+    "translation": "websajt"
+  },
+  {
+    "simpli": "deibyu",
+    "translation": "debutt"
+  },
+  {
+    "simpli": "truaot",
+    "translation": "matul"
+  },
+  {
+    "simpli": "helt",
+    "translation": "saħħa"
+  },
+  {
+    "simpli": "aspesli",
+    "translation": "speċjalment"
+  },
+  {
+    "simpli": "werd",
+    "translation": "kelma"
+  },
+  {
+    "simpli": "fyutjer",
+    "translation": "futur"
+  },
+  {
+    "simpli": "etsetera",
+    "translation": "eċċ"
+  },
+  {
+    "simpli": "vyu",
+    "translation": "fehma"
+  },
+  {
+    "simpli": "frans",
+    "translation": "Franza"
+  },
+  {
+    "simpli": "sais",
+    "translation": "daqs"
+  },
+  {
+    "simpli": "sold",
+    "translation": "mibjugħ"
+  },
+  {
+    "simpli": "organaseisan",
+    "translation": "organizzazzjoni"
+  },
+  {
+    "simpli": "yet",
+    "translation": "għad"
+  },
+  {
+    "simpli": "strong",
+    "translation": "b'saħħtu"
+  },
+  {
+    "simpli": "mdas",
+    "translation": "mdash"
+  },
+  {
+    "simpli": "tjampiansip",
+    "translation": "kampjonat"
+  },
+  {
+    "simpli": "klir",
+    "translation": "ċar"
+  },
+  {
+    "simpli": "maltapal",
+    "translation": "multiplu"
+  },
+  {
+    "simpli": "averidj",
+    "translation": "medja"
+  },
+  {
+    "simpli": "ever",
+    "translation": "qatt"
+  },
+  {
+    "simpli": "lait",
+    "translation": "dawl"
+  },
+  {
+    "simpli": "wik",
+    "translation": "ġimgħa"
+  },
+  {
+    "simpli": "yuserneim",
+    "translation": "isem tal-utent"
+  },
+  {
+    "simpli": "krieit",
+    "translation": "ħoloq"
+  },
+  {
+    "simpli": "reindj",
+    "translation": "firxa"
+  },
+  {
+    "simpli": "kaver",
+    "translation": "kopertura"
+  },
+  {
+    "simpli": "iventjavali",
+    "translation": "eventwalment"
+  },
+  {
+    "simpli": "ritern",
+    "translation": "ritorn"
+  },
+  {
+    "simpli": "aksan",
+    "translation": "azzjoni"
+  },
+  {
+    "simpli": "kaler",
+    "translation": "kulur"
+  },
+  {
+    "simpli": "kanada",
+    "translation": "Kanada"
+  },
+  {
+    "simpli": "djapanis",
+    "translation": "Ġappuniż"
+  },
+  {
+    "simpli": "intrast",
+    "translation": "interess"
+  },
+  {
+    "simpli": "myusiam",
+    "translation": "mużew"
+  },
+  {
+    "simpli": "magasin",
+    "translation": "rivista"
+  },
+  {
+    "simpli": "priviasli",
+    "translation": "qabel"
+  },
+  {
+    "simpli": "haf",
+    "translation": "nofs"
+  },
+  {
+    "simpli": "raiter",
+    "translation": "kittieb"
+  },
+  {
+    "simpli": "tjif",
+    "translation": "kap"
+  },
+  {
+    "simpli": "tapik",
+    "translation": "suġġett"
+  },
+  {
+    "simpli": "brader",
+    "translation": "ħu"
+  },
+  {
+    "simpli": "djenerali",
+    "translation": "ġeneralment"
+  },
+  {
+    "simpli": "kamiti",
+    "translation": "kumitat"
+  },
+  {
+    "simpli": "hol",
+    "translation": "sala"
+  },
+  {
+    "simpli": "indavidjaval",
+    "translation": "individwu"
+  },
+  {
+    "simpli": "lardjast",
+    "translation": "l-akbar"
+  },
+  {
+    "simpli": "past",
+    "translation": "passat"
+  },
+  {
+    "simpli": "ileksan",
+    "translation": "elezzjoni"
+  },
+  {
+    "simpli": "performans",
+    "translation": "prestazzjoni"
+  },
+  {
+    "simpli": "pertikyaler",
+    "translation": "partikolari"
+  },
+  {
+    "simpli": "kaleksan",
+    "translation": "ġabra"
+  },
+  {
+    "simpli": "biliv",
+    "translation": "emmen"
+  },
+  {
+    "simpli": "praivat",
+    "translation": "privat"
+  },
+  {
+    "simpli": "laikli",
+    "translation": "probabbli"
+  },
+  {
+    "simpli": "big",
+    "translation": "kbir"
+  },
+  {
+    "simpli": "palatisan",
+    "translation": "politiku"
+  },
+  {
+    "simpli": "aktiv",
+    "translation": "attiv"
+  },
+  {
+    "simpli": "en",
+    "translation": "en"
+  },
+  {
+    "simpli": "akaont",
+    "translation": "kont"
+  },
+  {
+    "simpli": "yunyan",
+    "translation": "unjin"
+  },
+  {
+    "simpli": "leibal",
+    "translation": "tikketta"
+  },
+  {
+    "simpli": "spasifik",
+    "translation": "speċifiku"
+  },
+  {
+    "simpli": "wilyam",
+    "translation": "William"
+  },
+  {
+    "simpli": "ostreilyan",
+    "translation": "Awstraljan"
+  },
+  {
+    "simpli": "aidia",
+    "translation": "idea"
+  },
+  {
+    "simpli": "adisanal",
+    "translation": "addizzjonali"
+  },
+  {
+    "simpli": "yurapian",
+    "translation": "Ewropew"
+  },
+  {
+    "simpli": "indian",
+    "translation": "Indjan"
+  },
+  {
+    "simpli": "referans",
+    "translation": "referenza"
+  },
+  {
+    "simpli": "rul",
+    "translation": "regola"
+  },
+  {
+    "simpli": "yurap",
+    "translation": "Ewropa"
+  },
+  {
+    "simpli": "lat",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "merdj",
+    "translation": "għaqqad"
+  },
+  {
+    "simpli": "sun",
+    "translation": "dalwaqt"
+  },
+  {
+    "simpli": "faier",
+    "translation": "nar"
+  },
+  {
+    "simpli": "simpli",
+    "translation": "sempliċement"
+  },
+  {
+    "simpli": "kampatisan",
+    "translation": "kompetizzjoni"
+  },
+  {
+    "simpli": "standerd",
+    "translation": "standard"
+  },
+  {
+    "simpli": "let",
+    "translation": "ħalla"
+  },
+  {
+    "simpli": "madal",
+    "translation": "mudell"
+  },
+  {
+    "simpli": "lider",
+    "translation": "mexxej"
+  },
+  {
+    "simpli": "djermani",
+    "translation": "Ġermanja"
+  },
+  {
+    "simpli": "gugal",
+    "translation": "Google"
+  },
+  {
+    "simpli": "mar",
+    "translation": "Mar"
+  },
+  {
+    "simpli": "valyu",
+    "translation": "valur"
+  },
+  {
+    "simpli": "nait",
+    "translation": "lejl"
+  },
+  {
+    "simpli": "rut",
+    "translation": "rotta"
+  },
+  {
+    "simpli": "apir",
+    "translation": "deher"
+  },
+  {
+    "simpli": "akter",
+    "translation": "attur"
+  },
+  {
+    "simpli": "gold",
+    "translation": "deheb"
+  },
+  {
+    "simpli": "sival",
+    "translation": "ċivili"
+  },
+  {
+    "simpli": "digri",
+    "translation": "grad"
+  },
+  {
+    "simpli": "atak",
+    "translation": "attakka"
+  },
+  {
+    "simpli": "fimeil",
+    "translation": "femminil"
+  },
+  {
+    "simpli": "roial",
+    "translation": "rjali"
+  },
+  {
+    "simpli": "frant",
+    "translation": "quddiem"
+  },
+  {
+    "simpli": "vot",
+    "translation": "vot"
+  },
+  {
+    "simpli": "yes",
+    "translation": "iva"
+  },
+  {
+    "simpli": "naval",
+    "translation": "rumanz"
+  },
+  {
+    "simpli": "samer",
+    "translation": "sajf"
+  },
+  {
+    "simpli": "sent",
+    "translation": "mibgħut"
+  },
+  {
+    "simpli": "kvalati",
+    "translation": "kwalità"
+  },
+  {
+    "simpli": "studio",
+    "translation": "studjo"
+  },
+  {
+    "simpli": "istern",
+    "translation": "lvanti"
+  },
+  {
+    "simpli": "praier",
+    "translation": "preċedenti"
+  },
+  {
+    "simpli": "ten",
+    "translation": "għaxra"
+  },
+  {
+    "simpli": "rak",
+    "translation": "blata"
+  },
+  {
+    "simpli": "dek",
+    "translation": "Diċ"
+  },
+  {
+    "simpli": "tjaina",
+    "translation": "Ċina"
+  },
+  {
+    "simpli": "midal",
+    "translation": "nofs"
+  },
+  {
+    "simpli": "kar",
+    "translation": "karozza"
+  },
+  {
+    "simpli": "okt",
+    "translation": "Ott"
+  },
+  {
+    "simpli": "longer",
+    "translation": "itwal"
+  },
+  {
+    "simpli": "trai",
+    "translation": "pprova"
+  },
+  {
+    "simpli": "singer",
+    "translation": "kantant"
+  },
+  {
+    "simpli": "agri",
+    "translation": "qabel"
+  },
+  {
+    "simpli": "draiv",
+    "translation": "dott"
+  },
+  {
+    "simpli": "ofaser",
+    "translation": "uffiċjal"
+  },
+  {
+    "simpli": "kvait",
+    "translation": "pjuttost"
+  },
+  {
+    "simpli": "sim",
+    "translation": "deher"
+  },
+  {
+    "simpli": "tur",
+    "translation": "dawra"
+  },
+  {
+    "simpli": "bar",
+    "translation": "bar"
+  },
+  {
+    "simpli": "erkraft",
+    "translation": "ajruplan"
+  },
+  {
+    "simpli": "netwerk",
+    "translation": "netwerk"
+  },
+  {
+    "simpli": "wuman",
+    "translation": "mara"
+  },
+  {
+    "simpli": "medakal",
+    "translation": "mediku"
+  },
+  {
+    "simpli": "deivid",
+    "translation": "David"
+  },
+  {
+    "simpli": "historikal",
+    "translation": "storiku"
+  },
+  {
+    "simpli": "eit",
+    "translation": "tmienja"
+  },
+  {
+    "simpli": "kamplit",
+    "translation": "komplut"
+  },
+  {
+    "simpli": "mit",
+    "translation": "iltaqa'"
+  },
+  {
+    "simpli": "loer",
+    "translation": "iktar baxx"
+  },
+  {
+    "simpli": "bihaind",
+    "translation": "wara"
+  },
+  {
+    "simpli": "lokeisan",
+    "translation": "lokazzjoni"
+  },
+  {
+    "simpli": "nov",
+    "translation": "Nov"
+  },
+  {
+    "simpli": "leik",
+    "translation": "għadira"
+  },
+  {
+    "simpli": "djapan",
+    "translation": "Ġappun"
+  },
+  {
+    "simpli": "bit",
+    "translation": "ftit"
+  },
+  {
+    "simpli": "laibreri",
+    "translation": "librerija"
+  },
+  {
+    "simpli": "didn",
+    "translation": "didn"
+  },
+  {
+    "simpli": "risant",
+    "translation": "reċenti"
+  },
+  {
+    "simpli": "kapatal",
+    "translation": "kapital"
+  },
+  {
+    "simpli": "apr",
+    "translation": "Apr"
+  },
+  {
+    "simpli": "praduser",
+    "translation": "produttur"
+  },
+  {
+    "simpli": "kapirait",
+    "translation": "dritt tal-awtur"
+  },
+  {
+    "simpli": "sinyer",
+    "translation": "anzjan"
+  },
+  {
+    "simpli": "fort",
+    "translation": "raba'"
+  },
+  {
+    "simpli": "erlier",
+    "translation": "aktar kmieni"
+  },
+  {
+    "simpli": "enivan",
+    "translation": "xi ħadd"
+  },
+  {
+    "simpli": "min",
+    "translation": "fisser"
+  },
+  {
+    "simpli": "manadjmant",
+    "translation": "ġestjoni"
+  },
+  {
+    "simpli": "namaneisan",
+    "translation": "nomina"
+  },
+  {
+    "simpli": "djordj",
+    "translation": "George"
+  },
+  {
+    "simpli": "indastri",
+    "translation": "industrija"
+  },
+  {
+    "simpli": "sertan",
+    "translation": "ċert"
+  },
+  {
+    "simpli": "kanat",
+    "translation": "ma jistax"
+  },
+  {
+    "simpli": "gitar",
+    "translation": "kitarra"
+  },
+  {
+    "simpli": "partikyalerli",
+    "translation": "partikolarment"
+  },
+  {
+    "simpli": "sep",
+    "translation": "Set"
+  },
+  {
+    "simpli": "turnamant",
+    "translation": "turnew"
+  },
+  {
+    "simpli": "festaval",
+    "translation": "festival"
+  },
+  {
+    "simpli": "tjainis",
+    "translation": "Ċiniż"
+  },
+  {
+    "simpli": "sip",
+    "translation": "vapur"
+  },
+  {
+    "simpli": "tjaild",
+    "translation": "wild"
+  },
+  {
+    "simpli": "beis",
+    "translation": "bażi"
+  },
+  {
+    "simpli": "reilwei",
+    "translation": "ferrovija"
+  },
+  {
+    "simpli": "kap",
+    "translation": "tazza"
+  },
+  {
+    "simpli": "onlain",
+    "translation": "online"
+  },
+  {
+    "simpli": "san",
+    "translation": "San"
+  },
+  {
+    "simpli": "studant",
+    "translation": "student"
+  },
+  {
+    "simpli": "saksesfal",
+    "translation": "suċċess"
+  },
+  {
+    "simpli": "kampein",
+    "translation": "kampanja"
+  },
+  {
+    "simpli": "haier",
+    "translation": "ogħla"
+  },
+  {
+    "simpli": "kaltjer",
+    "translation": "kultura"
+  },
+  {
+    "simpli": "sepereit",
+    "translation": "separat"
+  },
+  {
+    "simpli": "ogast",
+    "translation": "Aww"
+  },
+  {
+    "simpli": "derfor",
+    "translation": "għalhekk"
+  },
+  {
+    "simpli": "teknaladji",
+    "translation": "teknoloġija"
+  },
+  {
+    "simpli": "muvmant",
+    "translation": "moviment"
+  },
+  {
+    "simpli": "regyaler",
+    "translation": "regolari"
+  },
+  {
+    "simpli": "mani",
+    "translation": "flus"
+  },
+  {
+    "simpli": "rasan",
+    "translation": "Russu"
+  },
+  {
+    "simpli": "apraksamatli",
+    "translation": "madwar"
+  },
+  {
+    "simpli": "mostli",
+    "translation": "l-aktar"
+  },
+  {
+    "simpli": "rest",
+    "translation": "bqija"
+  },
+  {
+    "simpli": "straktjer",
+    "translation": "struttura"
+  },
+  {
+    "simpli": "graond",
+    "translation": "art"
+  },
+  {
+    "simpli": "kaneidian",
+    "translation": "Kanadiż"
+  },
+  {
+    "simpli": "italyan",
+    "translation": "Taljan"
+  },
+  {
+    "simpli": "intaier",
+    "translation": "sħiħ"
+  },
+  {
+    "simpli": "markat",
+    "translation": "suq"
+  },
+  {
+    "simpli": "mater",
+    "translation": "materja"
+  },
+  {
+    "simpli": "saond",
+    "translation": "ħoss"
+  },
+  {
+    "simpli": "praktas",
+    "translation": "prattika"
+  },
+  {
+    "simpli": "kleim",
+    "translation": "pretensjoni"
+  },
+  {
+    "simpli": "hum",
+    "translation": "lil min"
+  },
+  {
+    "simpli": "hand",
+    "translation": "id"
+  },
+  {
+    "simpli": "instatut",
+    "translation": "istitut"
+  },
+  {
+    "simpli": "batal",
+    "translation": "battalja"
+  },
+  {
+    "simpli": "star",
+    "translation": "stilla"
+  },
+  {
+    "simpli": "ligal",
+    "translation": "legali"
+  },
+  {
+    "simpli": "kamersal",
+    "translation": "kummerċjali"
+  },
+  {
+    "simpli": "spanis",
+    "translation": "Spanjol"
+  },
+  {
+    "simpli": "notas",
+    "translation": "avviż"
+  },
+  {
+    "simpli": "mark",
+    "translation": "marka"
+  },
+  {
+    "simpli": "neitiv",
+    "translation": "nattiv"
+  },
+  {
+    "simpli": "yunat",
+    "translation": "unità"
+  },
+  {
+    "simpli": "disisan",
+    "translation": "deċiżjoni"
+  },
+  {
+    "simpli": "border",
+    "translation": "fruntiera"
+  },
+  {
+    "simpli": "web",
+    "translation": "web"
+  },
+  {
+    "simpli": "lak",
+    "translation": "nuqqas"
+  },
+  {
+    "simpli": "met",
+    "translation": "iltaqa'"
+  },
+  {
+    "simpli": "hit",
+    "translation": "laqat"
+  },
+  {
+    "simpli": "net",
+    "translation": "xibka"
+  },
+  {
+    "simpli": "manadjer",
+    "translation": "maniġer"
+  },
+  {
+    "simpli": "overol",
+    "translation": "b'kollox"
+  },
+  {
+    "simpli": "staf",
+    "translation": "persunal"
+  },
+  {
+    "simpli": "rispans",
+    "translation": "rispons"
+  },
+  {
+    "simpli": "mant",
+    "translation": "xahar"
+  },
+  {
+    "simpli": "inisali",
+    "translation": "inizjalment"
+  },
+  {
+    "simpli": "natjeral",
+    "translation": "naturali"
+  },
+  {
+    "simpli": "fil",
+    "translation": "ħass"
+  },
+  {
+    "simpli": "son",
+    "translation": "muri"
+  },
+  {
+    "simpli": "fitjer",
+    "translation": "karatteristika"
+  },
+  {
+    "simpli": "haspital",
+    "translation": "sptar"
+  },
+  {
+    "simpli": "mainer",
+    "translation": "minuri"
+  },
+  {
+    "simpli": "atempt",
+    "translation": "tentattiv"
+  },
+  {
+    "simpli": "blu",
+    "translation": "blu"
+  },
+  {
+    "simpli": "praperti",
+    "translation": "proprjetà"
+  },
+  {
+    "simpli": "klirli",
+    "translation": "ċarament"
+  },
+  {
+    "simpli": "lengkt",
+    "translation": "tul"
+  },
+  {
+    "simpli": "tradisanal",
+    "translation": "tradizzjonali"
+  },
+  {
+    "simpli": "medal",
+    "translation": "midalja"
+  },
+  {
+    "simpli": "kol",
+    "translation": "sejjaħ"
+  },
+  {
+    "simpli": "ikspirians",
+    "translation": "esperjenza"
+  },
+  {
+    "simpli": "bridj",
+    "translation": "pont"
+  },
+  {
+    "simpli": "test",
+    "translation": "test"
+  },
+  {
+    "simpli": "els",
+    "translation": "ieħor"
+  },
+  {
+    "simpli": "muvi",
+    "translation": "film"
+  },
+  {
+    "simpli": "spent",
+    "translation": "minfuq"
+  },
+  {
+    "simpli": "djernal",
+    "translation": "ġurnal"
+  },
+  {
+    "simpli": "bangk",
+    "translation": "bank"
+  },
+  {
+    "simpli": "apinyan",
+    "translation": "opinjoni"
+  },
+  {
+    "simpli": "pagename",
+    "translation": "pagename"
+  },
+  {
+    "simpli": "jul",
+    "translation": "Lul"
+  },
+  {
+    "simpli": "ro",
+    "translation": "ringiela"
+  },
+  {
+    "simpli": "kalafornya",
+    "translation": "Kalifornja"
+  },
+  {
+    "simpli": "skop",
+    "translation": "ambitu"
+  },
+  {
+    "simpli": "ridjanal",
+    "translation": "reġjonali"
+  },
+  {
+    "simpli": "faondeisan",
+    "translation": "fondazzjoni"
+  },
+  {
+    "simpli": "madjorati",
+    "translation": "maġġoranza"
+  },
+  {
+    "simpli": "anyual",
+    "translation": "annwali"
+  },
+  {
+    "simpli": "ker",
+    "translation": "kura"
+  },
+  {
+    "simpli": "rovspan",
+    "translation": "rowspan"
+  },
+  {
+    "simpli": "fud",
+    "translation": "ikel"
+  },
+  {
+    "simpli": "rabert",
+    "translation": "Robert"
+  },
+  {
+    "simpli": "enerdji",
+    "translation": "enerġija"
+  },
+  {
+    "simpli": "bad",
+    "translation": "ħażin"
+  },
+  {
+    "simpli": "myusikal",
+    "translation": "mużikali"
+  },
+  {
+    "simpli": "federal",
+    "translation": "federali"
+  },
+  {
+    "simpli": "spidi",
+    "translation": "mgħaġġel"
+  },
+  {
+    "simpli": "mister",
+    "translation": "sur"
+  },
+  {
+    "simpli": "risantli",
+    "translation": "dan l-aħħar"
+  },
+  {
+    "simpli": "dil",
+    "translation": "ftehim"
+  },
+  {
+    "simpli": "foran",
+    "translation": "barrani"
+  },
+  {
+    "simpli": "fainali",
+    "translation": "fl-aħħar"
+  },
+  {
+    "simpli": "igsekyativ",
+    "translation": "eżekuttiv"
+  },
+  {
+    "simpli": "gol",
+    "translation": "gowl"
+  },
+  {
+    "simpli": "lt",
+    "translation": "logutenent"
+  },
+  {
+    "simpli": "kaind",
+    "translation": "tip"
+  },
+  {
+    "simpli": "neitjer",
+    "translation": "natura"
+  },
+  {
+    "simpli": "sens",
+    "translation": "sens"
+  },
+  {
+    "simpli": "wiki",
+    "translation": "wiki"
+  },
+  {
+    "simpli": "stap",
+    "translation": "waqqaf"
+  },
+  {
+    "simpli": "kanferans",
+    "translation": "konferenza"
+  },
+  {
+    "simpli": "mensan",
+    "translation": "semma"
+  },
+  {
+    "simpli": "indeks",
+    "translation": "indiċi"
+  },
+  {
+    "simpli": "afraka",
+    "translation": "Afrika"
+  },
+  {
+    "simpli": "anderstand",
+    "translation": "fehem"
+  },
+  {
+    "simpli": "derektli",
+    "translation": "direttament"
+  },
+  {
+    "simpli": "apirans",
+    "translation": "dehra"
+  },
+  {
+    "simpli": "master",
+    "translation": "surmast"
+  },
+  {
+    "simpli": "entri",
+    "translation": "daħla"
+  },
+  {
+    "simpli": "skver",
+    "translation": "pjazza"
+  },
+  {
+    "simpli": "plan",
+    "translation": "pjan"
+  },
+  {
+    "simpli": "waid",
+    "translation": "wiesa'"
+  },
+  {
+    "simpli": "ruum",
+    "translation": "kamra"
+  },
+  {
+    "simpli": "kost",
+    "translation": "kosta"
+  },
+  {
+    "simpli": "tern",
+    "translation": "dar"
+  },
+  {
+    "simpli": "pik",
+    "translation": "quċċata"
+  },
+  {
+    "simpli": "iksept",
+    "translation": "ħlief"
+  },
+  {
+    "simpli": "gaverner",
+    "translation": "gvernatur"
+  },
+  {
+    "simpli": "ekanamik",
+    "translation": "ekonomiku"
+  },
+  {
+    "simpli": "kantrakt",
+    "translation": "kuntratt"
+  },
+  {
+    "simpli": "kingdam",
+    "translation": "saltna"
+  },
+  {
+    "simpli": "hil",
+    "translation": "għolja"
+  },
+  {
+    "simpli": "grand",
+    "translation": "grandjuż"
+  },
+  {
+    "simpli": "kaptan",
+    "translation": "kaptan"
+  },
+  {
+    "simpli": "fer",
+    "translation": "ġust"
+  },
+  {
+    "simpli": "fain",
+    "translation": "tajjeb"
+  },
+  {
+    "simpli": "maikal",
+    "translation": "Michael"
+  },
+  {
+    "simpli": "kii",
+    "translation": "muftieħ"
+  },
+  {
+    "simpli": "los",
+    "translation": "telf"
+  },
+  {
+    "simpli": "global",
+    "translation": "globali"
+  },
+  {
+    "simpli": "pieitjpi",
+    "translation": "php"
+  },
+  {
+    "simpli": "sit",
+    "translation": "siġġu"
+  },
+  {
+    "simpli": "winer",
+    "translation": "rebbieħ"
+  },
+  {
+    "simpli": "older",
+    "translation": "aktar anzjan"
+  },
+  {
+    "simpli": "rong",
+    "translation": "ħażin"
+  },
+  {
+    "simpli": "asistant",
+    "translation": "assistent"
+  },
+  {
+    "simpli": "hard",
+    "translation": "iebes"
+  },
+  {
+    "simpli": "pol",
+    "translation": "Paul"
+  },
+  {
+    "simpli": "haiast",
+    "translation": "l-ogħla"
+  },
+  {
+    "simpli": "tiri",
+    "translation": "teorija"
+  },
+  {
+    "simpli": "frend",
+    "translation": "ħabib"
+  },
+  {
+    "simpli": "til",
+    "translation": "sa"
+  },
+  {
+    "simpli": "kaltjeral",
+    "translation": "kulturali"
+  },
+  {
+    "simpli": "nuspeiper",
+    "translation": "gazzetta"
+  },
+  {
+    "simpli": "treid",
+    "translation": "kummerċ"
+  },
+  {
+    "simpli": "sekanderi",
+    "translation": "sekondarju"
+  },
+  {
+    "simpli": "tangk",
+    "translation": "irringrazzja"
+  },
+  {
+    "simpli": "kandadeit",
+    "translation": "kandidat"
+  },
+  {
+    "simpli": "apos",
+    "translation": "oppona"
+  },
+  {
+    "simpli": "akademik",
+    "translation": "akkademiku"
+  },
+  {
+    "simpli": "braon",
+    "translation": "kannella"
+  },
+  {
+    "simpli": "kampleks",
+    "translation": "kumpless"
+  },
+  {
+    "simpli": "sabsakvantli",
+    "translation": "sussegwentement"
+  },
+  {
+    "simpli": "alao",
+    "translation": "ħalla"
+  },
+  {
+    "simpli": "plant",
+    "translation": "pjanta"
+  },
+  {
+    "simpli": "lardjer",
+    "translation": "akbar"
+  },
+  {
+    "simpli": "wasingtan",
+    "translation": "Washington"
+  },
+  {
+    "simpli": "kamplitli",
+    "translation": "kompletament"
+  },
+  {
+    "simpli": "historik",
+    "translation": "storiku"
+  },
+  {
+    "simpli": "ifekt",
+    "translation": "effett"
+  },
+  {
+    "simpli": "tjanal",
+    "translation": "kanal"
+  },
+  {
+    "simpli": "fol",
+    "translation": "waqa'"
+  },
+  {
+    "simpli": "kas",
+    "translation": "kawża"
+  },
+  {
+    "simpli": "kolspan",
+    "translation": "colspan"
+  },
+  {
+    "simpli": "pas",
+    "translation": "għadda"
+  },
+  {
+    "simpli": "aipi",
+    "translation": "ip"
+  },
+  {
+    "simpli": "yusfal",
+    "translation": "utli"
+  },
+  {
+    "simpli": "tiater",
+    "translation": "teatru"
+  },
+  {
+    "simpli": "gad",
+    "translation": "Alla"
+  },
+  {
+    "simpli": "admin",
+    "translation": "amministratur"
+  },
+  {
+    "simpli": "sikyurati",
+    "translation": "sigurtà"
+  },
+  {
+    "simpli": "tjerman",
+    "translation": "chairman"
+  },
+  {
+    "simpli": "atensan",
+    "translation": "attenzjoni"
+  },
+  {
+    "simpli": "kamand",
+    "translation": "kmand"
+  },
+  {
+    "simpli": "sister",
+    "translation": "oħt"
+  },
+  {
+    "simpli": "ed",
+    "translation": "edizzjoni"
+  },
+  {
+    "simpli": "myunisapalati",
+    "translation": "muniċipalità"
+  },
+  {
+    "simpli": "kantinyu",
+    "translation": "kompla"
+  },
+  {
+    "simpli": "kapal",
+    "translation": "koppja"
+  },
+  {
+    "simpli": "peiper",
+    "translation": "karta"
+  },
+  {
+    "simpli": "kod",
+    "translation": "kodiċi"
+  },
+  {
+    "simpli": "kristjan",
+    "translation": "Nisrani"
+  },
+  {
+    "simpli": "sadjest",
+    "translation": "issuġġerixxa"
+  },
+  {
+    "simpli": "perpas",
+    "translation": "skop"
+  },
+  {
+    "simpli": "kampyuter",
+    "translation": "kompjuter"
+  },
+  {
+    "simpli": "meinli",
+    "translation": "prinċipalment"
+  },
+  {
+    "simpli": "krieisan",
+    "translation": "ħolqien"
+  },
+  {
+    "simpli": "meri",
+    "translation": "Mary"
+  },
+  {
+    "simpli": "sat",
+    "translation": "tir"
+  },
+  {
+    "simpli": "format",
+    "translation": "format"
+  },
+  {
+    "simpli": "igsist",
+    "translation": "eżista"
+  },
+  {
+    "simpli": "pravans",
+    "translation": "provinċja"
+  },
+  {
+    "simpli": "rileisansip",
+    "translation": "relazzjoni"
+  },
+  {
+    "simpli": "hasband",
+    "translation": "żewġ"
+  },
+  {
+    "simpli": "relavant",
+    "translation": "rilevanti"
+  },
+  {
+    "simpli": "nirli",
+    "translation": "kważi"
+  },
+  {
+    "simpli": "al",
+    "translation": "al"
+  },
+  {
+    "simpli": "maontan",
+    "translation": "muntanja"
+  },
+  {
+    "simpli": "fanansal",
+    "translation": "finanzjarju"
+  },
+  {
+    "simpli": "nam",
+    "translation": "nominativ"
+  },
+  {
+    "simpli": "veraiati",
+    "translation": "varjetà"
+  },
+  {
+    "simpli": "haili",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "naladj",
+    "translation": "għarfien"
+  },
+  {
+    "simpli": "felo",
+    "translation": "sieħeb"
+  },
+  {
+    "simpli": "salad",
+    "translation": "solidu"
+  },
+  {
+    "simpli": "akadami",
+    "translation": "akkademja"
+  },
+  {
+    "simpli": "smit",
+    "translation": "Smith"
+  },
+  {
+    "simpli": "meibi",
+    "translation": "forsi"
+  },
+  {
+    "simpli": "apereisan",
+    "translation": "operazzjoni"
+  },
+  {
+    "simpli": "silver",
+    "translation": "fidda"
+  },
+  {
+    "simpli": "et",
+    "translation": "et"
+  },
+  {
+    "simpli": "misan",
+    "translation": "missjoni"
+  },
+  {
+    "simpli": "skor",
+    "translation": "skor"
+  },
+  {
+    "simpli": "vali",
+    "translation": "wied"
+  },
+  {
+    "simpli": "sidi",
+    "translation": "cd"
+  },
+  {
+    "simpli": "meil",
+    "translation": "maskil"
+  },
+  {
+    "simpli": "piter",
+    "translation": "Peter"
+  },
+  {
+    "simpli": "later",
+    "translation": "tal-aħħar"
+  },
+  {
+    "simpli": "nesaseri",
+    "translation": "meħtieġ"
+  },
+  {
+    "simpli": "formerli",
+    "translation": "qabel"
+  },
+  {
+    "simpli": "sekrateri",
+    "translation": "segretarju"
+  },
+  {
+    "simpli": "afrakan",
+    "translation": "Afrikan"
+  },
+  {
+    "simpli": "nain",
+    "translation": "disgħa"
+  },
+  {
+    "simpli": "yut",
+    "translation": "żgħożija"
+  },
+  {
+    "simpli": "map",
+    "translation": "mappa"
+  },
+  {
+    "simpli": "vikteri",
+    "translation": "rebħa"
+  },
+  {
+    "simpli": "ser",
+    "translation": "sir"
+  },
+  {
+    "simpli": "ded",
+    "translation": "mejjet"
+  },
+  {
+    "simpli": "softwer",
+    "translation": "softwer"
+  },
+  {
+    "simpli": "fangksan",
+    "translation": "funzjoni"
+  },
+  {
+    "simpli": "endjan",
+    "translation": "magna"
+  },
+  {
+    "simpli": "tjampian",
+    "translation": "kampjun"
+  },
+  {
+    "simpli": "teibal",
+    "translation": "mejda"
+  },
+  {
+    "simpli": "ert",
+    "translation": "dinja"
+  },
+  {
+    "simpli": "amaont",
+    "translation": "ammont"
+  },
+  {
+    "simpli": "kansider",
+    "translation": "ikkunsidra"
+  },
+  {
+    "simpli": "aderwais",
+    "translation": "inkella"
+  },
+  {
+    "simpli": "djab",
+    "translation": "impjieg"
+  },
+  {
+    "simpli": "fait",
+    "translation": "ġlied"
+  },
+  {
+    "simpli": "valyum",
+    "translation": "volum"
+  },
+  {
+    "simpli": "aierland",
+    "translation": "Irlanda"
+  },
+  {
+    "simpli": "serv",
+    "translation": "serva"
+  },
+  {
+    "simpli": "kerekt",
+    "translation": "korrett"
+  },
+  {
+    "simpli": "siland",
+    "translation": "Żelanda"
+  },
+  {
+    "simpli": "derekt",
+    "translation": "dirett"
+  },
+  {
+    "simpli": "la",
+    "translation": "le"
+  },
+  {
+    "simpli": "simpal",
+    "translation": "sempliċi"
+  },
+  {
+    "simpli": "feis",
+    "translation": "wiċċ"
+  },
+  {
+    "simpli": "kast",
+    "translation": "kast"
+  },
+  {
+    "simpli": "reit",
+    "translation": "rata"
+  },
+  {
+    "simpli": "figyer",
+    "translation": "figura"
+  },
+  {
+    "simpli": "insaid",
+    "translation": "ġewwa"
+  },
+  {
+    "simpli": "trein",
+    "translation": "tren"
+  },
+  {
+    "simpli": "inkris",
+    "translation": "żieda"
+  },
+  {
+    "simpli": "vois",
+    "translation": "leħen"
+  },
+  {
+    "simpli": "rangk",
+    "translation": "grad"
+  },
+  {
+    "simpli": "imidiatli",
+    "translation": "minnufih"
+  },
+  {
+    "simpli": "htm",
+    "translation": "htm"
+  },
+  {
+    "simpli": "steitmant",
+    "translation": "dikjarazzjoni"
+  },
+  {
+    "simpli": "difakalt",
+    "translation": "diffiċli"
+  },
+  {
+    "simpli": "bil",
+    "translation": "kont"
+  },
+  {
+    "simpli": "biand",
+    "translation": "lil hinn"
+  },
+  {
+    "simpli": "hop",
+    "translation": "tama"
+  },
+  {
+    "simpli": "piktjer",
+    "translation": "stampa"
+  },
+  {
+    "simpli": "kamisan",
+    "translation": "kummissjoni"
+  },
+  {
+    "simpli": "eintjant",
+    "translation": "antik"
+  },
+  {
+    "simpli": "info",
+    "translation": "informazzjoni"
+  },
+  {
+    "simpli": "pur",
+    "translation": "fqir"
+  },
+  {
+    "simpli": "djadj",
+    "translation": "imħallef"
+  },
+  {
+    "simpli": "ston",
+    "translation": "ġebla"
+  },
+  {
+    "simpli": "itali",
+    "translation": "Italja"
+  },
+  {
+    "simpli": "rimuv",
+    "translation": "neħħa"
+  },
+  {
+    "simpli": "targat",
+    "translation": "mira"
+  },
+  {
+    "simpli": "van",
+    "translation": "vann"
+  },
+  {
+    "simpli": "ago",
+    "translation": "ilu"
+  },
+  {
+    "simpli": "henri",
+    "translation": "Henry"
+  },
+  {
+    "simpli": "pasabli",
+    "translation": "possibbilment"
+  },
+  {
+    "simpli": "didjatal",
+    "translation": "diġitali"
+  },
+  {
+    "simpli": "praimerali",
+    "translation": "primarjament"
+  },
+  {
+    "simpli": "maind",
+    "translation": "moħħ"
+  },
+  {
+    "simpli": "neivi",
+    "translation": "marina"
+  },
+  {
+    "simpli": "pradakt",
+    "translation": "prodott"
+  },
+  {
+    "simpli": "hart",
+    "translation": "qalb"
+  },
+  {
+    "simpli": "serfas",
+    "translation": "superfiċje"
+  },
+  {
+    "simpli": "los",
+    "translation": "los"
+  },
+  {
+    "simpli": "baks",
+    "translation": "kaxxa"
+  },
+  {
+    "simpli": "tjart",
+    "translation": "ċart"
+  },
+  {
+    "simpli": "katlik",
+    "translation": "Kattoliku"
+  },
+  {
+    "simpli": "kraitiria",
+    "translation": "kriterji"
+  },
+  {
+    "simpli": "spasifikli",
+    "translation": "speċifikament"
+  },
+  {
+    "simpli": "kansept",
+    "translation": "kunċett"
+  },
+  {
+    "simpli": "pasativ",
+    "translation": "pożittiv"
+  },
+  {
+    "simpli": "patensal",
+    "translation": "potenzjal"
+  },
+  {
+    "simpli": "insaiklapidia",
+    "translation": "enċiklopedija"
+  },
+  {
+    "simpli": "tel",
+    "translation": "qal"
+  },
+  {
+    "simpli": "alon",
+    "translation": "waħdu"
+  },
+  {
+    "simpli": "tjek",
+    "translation": "iċċekkja"
+  },
+  {
+    "simpli": "rispansabal",
+    "translation": "responsabbli"
+  },
+  {
+    "simpli": "sertanli",
+    "translation": "ċertament"
+  },
+  {
+    "simpli": "priti",
+    "translation": "sabiħ"
+  },
+  {
+    "simpli": "dans",
+    "translation": "żfin"
+  },
+  {
+    "simpli": "brantj",
+    "translation": "fergħa"
+  },
+  {
+    "simpli": "era",
+    "translation": "era"
+  },
+  {
+    "simpli": "teknikal",
+    "translation": "tekniku"
+  },
+  {
+    "simpli": "praim",
+    "translation": "prim"
+  },
+  {
+    "simpli": "host",
+    "translation": "ospitant"
+  },
+  {
+    "simpli": "tempal",
+    "translation": "tempju"
+  },
+  {
+    "simpli": "literatjer",
+    "translation": "letteratura"
+  },
+  {
+    "simpli": "administreisan",
+    "translation": "amministrazzjoni"
+  },
+  {
+    "simpli": "sitjueisan",
+    "translation": "sitwazzjoni"
+  },
+  {
+    "simpli": "widt",
+    "translation": "wisa'"
+  },
+  {
+    "simpli": "prais",
+    "translation": "premju"
+  },
+  {
+    "simpli": "brodkast",
+    "translation": "xandira"
+  },
+  {
+    "simpli": "nor",
+    "translation": "lanqas"
+  },
+  {
+    "simpli": "roman",
+    "translation": "Ruman"
+  },
+  {
+    "simpli": "influans",
+    "translation": "influwenza"
+  },
+  {
+    "simpli": "ritjerd",
+    "translation": "Richard"
+  },
+  {
+    "simpli": "sentans",
+    "translation": "sentenza"
+  },
+  {
+    "simpli": "leter",
+    "translation": "ittra"
+  },
+  {
+    "simpli": "domein",
+    "translation": "dominju"
+  },
+  {
+    "simpli": "kat",
+    "translation": "qata'"
+  },
+  {
+    "simpli": "el",
+    "translation": "el"
+  },
+  {
+    "simpli": "hold",
+    "translation": "żamm"
+  },
+  {
+    "simpli": "adminastreitiv",
+    "translation": "amministrattiv"
+  },
+  {
+    "simpli": "aper",
+    "translation": "ta' fuq"
+  },
+  {
+    "simpli": "ask",
+    "translation": "staqsa"
+  },
+  {
+    "simpli": "aktjaval",
+    "translation": "attwali"
+  },
+  {
+    "simpli": "kamander",
+    "translation": "kmandant"
+  },
+  {
+    "simpli": "rasa",
+    "translation": "Russja"
+  },
+  {
+    "simpli": "abilati",
+    "translation": "ħila"
+  },
+  {
+    "simpli": "meridj",
+    "translation": "żwieġ"
+  },
+  {
+    "simpli": "saiantifik",
+    "translation": "xjentifiku"
+  },
+  {
+    "simpli": "oner",
+    "translation": "sid"
+  },
+  {
+    "simpli": "internet",
+    "translation": "internet"
+  },
+  {
+    "simpli": "nirbai",
+    "translation": "fil-qrib"
+  },
+  {
+    "simpli": "bei",
+    "translation": "bajja"
+  },
+  {
+    "simpli": "pramanant",
+    "translation": "prominenti"
+  },
+  {
+    "simpli": "beisik",
+    "translation": "bażiku"
+  },
+  {
+    "simpli": "bas",
+    "translation": "bass"
+  },
+  {
+    "simpli": "ripablak",
+    "translation": "repubblika"
+  },
+  {
+    "simpli": "djastas",
+    "translation": "ġustizzja"
+  },
+  {
+    "simpli": "parlamant",
+    "translation": "parlament"
+  },
+  {
+    "simpli": "aprotj",
+    "translation": "approċċ"
+  },
+  {
+    "simpli": "faonder",
+    "translation": "fundatur"
+  },
+  {
+    "simpli": "kvikli",
+    "translation": "malajr"
+  },
+  {
+    "simpli": "grik",
+    "translation": "Grieg"
+  },
+  {
+    "simpli": "erport",
+    "translation": "ajruport"
+  },
+  {
+    "simpli": "dispyut",
+    "translation": "tilwima"
+  },
+  {
+    "simpli": "anser",
+    "translation": "tweġiba"
+  },
+  {
+    "simpli": "waidli",
+    "translation": "b'mod wiesa'"
+  },
+  {
+    "simpli": "dereksan",
+    "translation": "direzzjoni"
+  },
+  {
+    "simpli": "inkam",
+    "translation": "dħul"
+  },
+  {
+    "simpli": "kamanli",
+    "translation": "komunement"
+  },
+  {
+    "simpli": "maont",
+    "translation": "muntanja"
+  },
+  {
+    "simpli": "soviat",
+    "translation": "Sovjetiku"
+  },
+  {
+    "simpli": "airis",
+    "translation": "Irlandiż"
+  },
+  {
+    "simpli": "tipikli",
+    "translation": "tipikament"
+  },
+  {
+    "simpli": "inisal",
+    "translation": "inizjali"
+  },
+  {
+    "simpli": "haiwei",
+    "translation": "awtostrada"
+  },
+  {
+    "simpli": "baskatbol",
+    "translation": "basketbol"
+  },
+  {
+    "simpli": "kantempereri",
+    "translation": "kontemporanju"
+  },
+  {
+    "simpli": "djuis",
+    "translation": "Lhudi"
+  },
+  {
+    "simpli": "gerl",
+    "translation": "tifla"
+  },
+  {
+    "simpli": "meier",
+    "translation": "sindku"
+  },
+  {
+    "simpli": "setalmant",
+    "translation": "insedjament"
+  },
+  {
+    "simpli": "kantekst",
+    "translation": "kuntest"
+  },
+  {
+    "simpli": "smoler",
+    "translation": "iżgħar"
+  },
+  {
+    "simpli": "sin",
+    "translation": "xena"
+  },
+  {
+    "simpli": "kritikal",
+    "translation": "kritiku"
+  },
+  {
+    "simpli": "anon",
+    "translation": "mhux magħruf"
+  },
+  {
+    "simpli": "tag",
+    "translation": "tikketta"
+  },
+  {
+    "simpli": "mas",
+    "translation": "massa"
+  },
+  {
+    "simpli": "foto",
+    "translation": "ritratt"
+  },
+  {
+    "simpli": "bisap",
+    "translation": "isqof"
+  },
+  {
+    "simpli": "hotel",
+    "translation": "lukanda"
+  },
+  {
+    "simpli": "piano",
+    "translation": "pjanu"
+  },
+  {
+    "simpli": "sain",
+    "translation": "sinjal"
+  },
+  {
+    "simpli": "argyamant",
+    "translation": "argument"
+  },
+  {
+    "simpli": "fift",
+    "translation": "ħames"
+  },
+  {
+    "simpli": "perant",
+    "translation": "ġenitur"
+  },
+  {
+    "simpli": "diskripsan",
+    "translation": "deskrizzjoni"
+  },
+  {
+    "simpli": "impruv",
+    "translation": "tejjeb"
+  },
+  {
+    "simpli": "avoid",
+    "translation": "evita"
+  },
+  {
+    "simpli": "pradus",
+    "translation": "ipproduċa"
+  },
+  {
+    "simpli": "dark",
+    "translation": "skur"
+  },
+  {
+    "simpli": "flait",
+    "translation": "titjira"
+  },
+  {
+    "simpli": "ga",
+    "translation": "ga"
+  },
+  {
+    "simpli": "hevi",
+    "translation": "tqil"
+  },
+  {
+    "simpli": "pablikeisan",
+    "translation": "pubblikazzjoni"
+  },
+  {
+    "simpli": "fisikal",
+    "translation": "fiżiku"
+  },
+  {
+    "simpli": "iksternal",
+    "translation": "estern"
+  },
+  {
+    "simpli": "deili",
+    "translation": "kuljum"
+  },
+  {
+    "simpli": "yuesei",
+    "translation": "Stati Uniti"
+  },
+  {
+    "simpli": "meksako",
+    "translation": "Messiku"
+  },
+  {
+    "simpli": "oil",
+    "translation": "żejt"
+  },
+  {
+    "simpli": "twais",
+    "translation": "darbtejn"
+  },
+  {
+    "simpli": "endjanir",
+    "translation": "inġinier"
+  },
+  {
+    "simpli": "falo",
+    "translation": "segwa"
+  },
+  {
+    "simpli": "afisali",
+    "translation": "uffiċjalment"
+  },
+  {
+    "simpli": "lord",
+    "translation": "sinjur"
+  },
+  {
+    "simpli": "greiter",
+    "translation": "akbar"
+  },
+  {
+    "simpli": "tiitjer",
+    "translation": "għalliem"
+  },
+  {
+    "simpli": "importans",
+    "translation": "importanza"
+  },
+  {
+    "simpli": "intaierli",
+    "translation": "għalkollox"
+  },
+  {
+    "simpli": "aktivati",
+    "translation": "attività"
+  },
+  {
+    "simpli": "fuli",
+    "translation": "għalkollox"
+  },
+  {
+    "simpli": "djunyer",
+    "translation": "junior"
+  },
+  {
+    "simpli": "vol",
+    "translation": "volum"
+  },
+  {
+    "simpli": "ritj",
+    "translation": "laħaq"
+  },
+  {
+    "simpli": "feit",
+    "translation": "fidi"
+  },
+  {
+    "simpli": "datj",
+    "translation": "Olandiż"
+  },
+  {
+    "simpli": "sortli",
+    "translation": "dalwaqt"
+  },
+  {
+    "simpli": "solo",
+    "translation": "solo"
+  },
+  {
+    "simpli": "kamposer",
+    "translation": "kompożitur"
+  },
+  {
+    "simpli": "istablis",
+    "translation": "waqqaf"
+  },
+  {
+    "simpli": "neisan",
+    "translation": "nazzjon"
+  },
+  {
+    "simpli": "sakago",
+    "translation": "Chicago"
+  },
+  {
+    "simpli": "rimein",
+    "translation": "baqa'"
+  },
+  {
+    "simpli": "kasal",
+    "translation": "kastell"
+  },
+  {
+    "simpli": "displei",
+    "translation": "wiri"
+  },
+  {
+    "simpli": "rural",
+    "translation": "rurali"
+  },
+  {
+    "simpli": "metad",
+    "translation": "metodu"
+  },
+  {
+    "simpli": "isali",
+    "translation": "faċilment"
+  },
+  {
+    "simpli": "evrivan",
+    "translation": "kulħadd"
+  },
+  {
+    "simpli": "kapi",
+    "translation": "kopja"
+  },
+  {
+    "simpli": "fefefe",
+    "translation": "fefefe"
+  },
+  {
+    "simpli": "teritori",
+    "translation": "territorju"
+  },
+  {
+    "simpli": "britan",
+    "translation": "Brittanja"
+  },
+  {
+    "simpli": "ikvipmant",
+    "translation": "tagħmir"
+  },
+  {
+    "simpli": "galeri",
+    "translation": "gallerija"
+  },
+  {
+    "simpli": "normal",
+    "translation": "normali"
+  },
+  {
+    "simpli": "prins",
+    "translation": "prinċep"
+  },
+  {
+    "simpli": "pis",
+    "translation": "biċċa"
+  },
+  {
+    "simpli": "kanflikt",
+    "translation": "kunflitt"
+  },
+  {
+    "simpli": "forast",
+    "translation": "foresta"
+  },
+  {
+    "simpli": "efert",
+    "translation": "sforz"
+  },
+  {
+    "simpli": "wert",
+    "translation": "jiswa"
+  },
+  {
+    "simpli": "split",
+    "translation": "qasam"
+  },
+  {
+    "simpli": "kamp",
+    "translation": "kamp"
+  },
+  {
+    "simpli": "isteit",
+    "translation": "proprjetà"
+  },
+  {
+    "simpli": "tritmant",
+    "translation": "trattament"
+  },
+  {
+    "simpli": "bild",
+    "translation": "bena"
+  },
+  {
+    "simpli": "redjamant",
+    "translation": "reġiment"
+  },
+  {
+    "simpli": "sort",
+    "translation": "tip"
+  },
+  {
+    "simpli": "draft",
+    "translation": "abbozz"
+  },
+  {
+    "simpli": "beisbol",
+    "translation": "baseball"
+  },
+  {
+    "simpli": "alongsaid",
+    "translation": "maġenb"
+  },
+  {
+    "simpli": "port",
+    "translation": "port"
+  },
+  {
+    "simpli": "der",
+    "translation": "der"
+  },
+  {
+    "simpli": "ferm",
+    "translation": "ditta"
+  },
+  {
+    "simpli": "kru",
+    "translation": "ekwipaġġ"
+  },
+  {
+    "simpli": "drama",
+    "translation": "drama"
+  },
+  {
+    "simpli": "atorati",
+    "translation": "awtorità"
+  },
+  {
+    "simpli": "paris",
+    "translation": "parroċċa"
+  },
+  {
+    "simpli": "prateksan",
+    "translation": "protezzjoni"
+  },
+  {
+    "simpli": "agrimant",
+    "translation": "ftehim"
+  },
+  {
+    "simpli": "asembli",
+    "translation": "assemblea"
+  },
+  {
+    "simpli": "djoin",
+    "translation": "ingħaqad"
+  },
+  {
+    "simpli": "lardjli",
+    "translation": "fil-biċċa l-kbira"
+  },
+  {
+    "simpli": "poland",
+    "translation": "Polonja"
+  },
+  {
+    "simpli": "gru",
+    "translation": "kiber"
+  },
+  {
+    "simpli": "spein",
+    "translation": "Spanja"
+  },
+  {
+    "simpli": "kaont",
+    "translation": "għadd"
+  },
+  {
+    "simpli": "taoer",
+    "translation": "torri"
+  },
+  {
+    "simpli": "poat",
+    "translation": "poeta"
+  },
+  {
+    "simpli": "ment",
+    "translation": "fisser"
+  },
+  {
+    "simpli": "nominator",
+    "translation": "nominatur"
+  },
+  {
+    "simpli": "aoer",
+    "translation": "siegħa"
+  },
+  {
+    "simpli": "distans",
+    "translation": "distanza"
+  },
+  {
+    "simpli": "traval",
+    "translation": "vjaġġa"
+  },
+  {
+    "simpli": "dai",
+    "translation": "miet"
+  },
+  {
+    "simpli": "yunik",
+    "translation": "uniku"
+  },
+  {
+    "simpli": "dabal",
+    "translation": "doppju"
+  },
+  {
+    "simpli": "igsaktli",
+    "translation": "eżatt"
+  },
+  {
+    "simpli": "kapasati",
+    "translation": "kapaċità"
+  },
+  {
+    "simpli": "krik",
+    "translation": "wied"
+  },
+  {
+    "simpli": "wol",
+    "translation": "ħajt"
+  },
+  {
+    "simpli": "winter",
+    "translation": "xitwa"
+  },
+  {
+    "simpli": "stor",
+    "translation": "ħanut"
+  },
+  {
+    "simpli": "olternativ",
+    "translation": "alternattiva"
+  },
+  {
+    "simpli": "forwerd",
+    "translation": "'il quddiem"
+  },
+  {
+    "simpli": "resalusan",
+    "translation": "riżoluzzjoni"
+  },
+  {
+    "simpli": "impakt",
+    "translation": "impatt"
+  },
+  {
+    "simpli": "bert",
+    "translation": "twelid"
+  },
+  {
+    "simpli": "martan",
+    "translation": "Martin"
+  },
+  {
+    "simpli": "intervyu",
+    "translation": "intervista"
+  },
+  {
+    "simpli": "grot",
+    "translation": "tkabbir"
+  },
+  {
+    "simpli": "mesadj",
+    "translation": "messaġġ"
+  },
+  {
+    "simpli": "pei",
+    "translation": "ħallas"
+  },
+  {
+    "simpli": "tjardj",
+    "translation": "akkuża"
+  },
+  {
+    "simpli": "depyati",
+    "translation": "deputat"
+  },
+  {
+    "simpli": "es",
+    "translation": "es"
+  },
+  {
+    "simpli": "aksept",
+    "translation": "aċċetta"
+  },
+  {
+    "simpli": "invairanmant",
+    "translation": "ambjent"
+  },
+  {
+    "simpli": "traial",
+    "translation": "prova"
+  },
+  {
+    "simpli": "ofer",
+    "translation": "offra"
+  },
+  {
+    "simpli": "edjakeisanal",
+    "translation": "edukattiv"
+  },
+  {
+    "simpli": "keralaina",
+    "translation": "Karolina"
+  },
+  {
+    "simpli": "djosaf",
+    "translation": "Ġużeppi"
+  },
+  {
+    "simpli": "latan",
+    "translation": "Latin"
+  },
+  {
+    "simpli": "aperantli",
+    "translation": "milli jidher"
+  },
+  {
+    "simpli": "sameri",
+    "translation": "sommarju"
+  },
+  {
+    "simpli": "des",
+    "translation": "des"
+  },
+  {
+    "simpli": "lidersip",
+    "translation": "tmexxija"
+  },
+  {
+    "simpli": "prinsapal",
+    "translation": "prinċipal"
+  },
+  {
+    "simpli": "batam",
+    "translation": "qiegħ"
+  },
+  {
+    "simpli": "ais",
+    "translation": "silġ"
+  },
+  {
+    "simpli": "erban",
+    "translation": "urban"
+  },
+  {
+    "simpli": "herd",
+    "translation": "sema'"
+  },
+  {
+    "simpli": "flag",
+    "translation": "bandiera"
+  },
+  {
+    "simpli": "djernalast",
+    "translation": "ġurnalist"
+  },
+  {
+    "simpli": "egsistans",
+    "translation": "eżistenza"
+  },
+  {
+    "simpli": "futbaler",
+    "translation": "futboler"
+  },
+  {
+    "simpli": "boi",
+    "translation": "tifel"
+  },
+  {
+    "simpli": "flor",
+    "translation": "art"
+  },
+  {
+    "simpli": "damadj",
+    "translation": "ħsara"
+  },
+  {
+    "simpli": "kantakt",
+    "translation": "kuntatt"
+  },
+  {
+    "simpli": "hait",
+    "translation": "għoli"
+  },
+  {
+    "simpli": "presans",
+    "translation": "preżenza"
+  },
+  {
+    "simpli": "mon",
+    "translation": "Tne"
+  },
+  {
+    "simpli": "difens",
+    "translation": "difiża"
+  },
+  {
+    "simpli": "farm",
+    "translation": "razzett"
+  },
+  {
+    "simpli": "diferans",
+    "translation": "differenza"
+  },
+  {
+    "simpli": "ad",
+    "translation": "wk"
+  },
+  {
+    "simpli": "sat",
+    "translation": "Sib"
+  },
+  {
+    "simpli": "prisan",
+    "translation": "ħabs"
+  },
+  {
+    "simpli": "linier",
+    "translation": "lineari"
+  },
+  {
+    "simpli": "eksabisan",
+    "translation": "wirja"
+  },
+  {
+    "simpli": "rispektivli",
+    "translation": "rispettivament"
+  },
+  {
+    "simpli": "iii",
+    "translation": "iii"
+  },
+  {
+    "simpli": "biheivyer",
+    "translation": "imġiba"
+  },
+  {
+    "simpli": "stei",
+    "translation": "baqa'"
+  },
+  {
+    "simpli": "reprasentativ",
+    "translation": "rappreżentant"
+  },
+  {
+    "simpli": "rasiv",
+    "translation": "irċieva"
+  },
+  {
+    "simpli": "platform",
+    "translation": "pjattaforma"
+  },
+  {
+    "simpli": "li",
+    "translation": "Lee"
+  },
+  {
+    "simpli": "mamorial",
+    "translation": "monument"
+  },
+  {
+    "simpli": "bisi",
+    "translation": "qk"
+  },
+  {
+    "simpli": "aner",
+    "translation": "unur"
+  },
+  {
+    "simpli": "greid",
+    "translation": "grad"
+  },
+  {
+    "simpli": "demakratik",
+    "translation": "demokratiku"
+  },
+  {
+    "simpli": "transport",
+    "translation": "trasport"
+  },
+  {
+    "simpli": "fort",
+    "translation": "fortizza"
+  },
+  {
+    "simpli": "tot",
+    "translation": "għallem"
+  },
+  {
+    "simpli": "breik",
+    "translation": "waqfa"
+  },
+  {
+    "simpli": "tjois",
+    "translation": "għażla"
+  },
+  {
+    "simpli": "avanu",
+    "translation": "vjal"
+  },
+  {
+    "simpli": "leidi",
+    "translation": "sinjura"
+  },
+  {
+    "simpli": "skatland",
+    "translation": "Skozja"
+  },
+  {
+    "simpli": "dakyamenteri",
+    "translation": "dokumentarju"
+  },
+  {
+    "simpli": "distrabyusan",
+    "translation": "distribuzzjoni"
+  },
+  {
+    "simpli": "privent",
+    "translation": "ipprevjeni"
+  },
+  {
+    "simpli": "aneibal",
+    "translation": "ma jistax"
+  },
+  {
+    "simpli": "weit",
+    "translation": "piż"
+  },
+  {
+    "simpli": "trafik",
+    "translation": "traffiku"
+  },
+  {
+    "simpli": "kansert",
+    "translation": "kunċert"
+  },
+  {
+    "simpli": "relativli",
+    "translation": "relattivament"
+  },
+  {
+    "simpli": "stand",
+    "translation": "waqaf"
+  },
+  {
+    "simpli": "midian",
+    "translation": "medjan"
+  },
+  {
+    "simpli": "praper",
+    "translation": "xieraq"
+  },
+  {
+    "simpli": "eisa",
+    "translation": "Asja"
+  },
+  {
+    "simpli": "indastrial",
+    "translation": "industrijali"
+  },
+  {
+    "simpli": "dro",
+    "translation": "pinġa"
+  },
+  {
+    "simpli": "empaier",
+    "translation": "imperu"
+  },
+  {
+    "simpli": "gaid",
+    "translation": "gwida"
+  },
+  {
+    "simpli": "kaneksan",
+    "translation": "konnessjoni"
+  },
+  {
+    "simpli": "persent",
+    "translation": "fil-mija"
+  },
+  {
+    "simpli": "merin",
+    "translation": "marittimu"
+  },
+  {
+    "simpli": "seint",
+    "translation": "qaddis"
+  },
+  {
+    "simpli": "pramosan",
+    "translation": "promozzjoni"
+  },
+  {
+    "simpli": "minastri",
+    "translation": "ministeru"
+  },
+  {
+    "simpli": "formeisan",
+    "translation": "formazzjoni"
+  },
+  {
+    "simpli": "isrial",
+    "translation": "Iżrael"
+  },
+  {
+    "simpli": "blad",
+    "translation": "demm"
+  },
+  {
+    "simpli": "divelap",
+    "translation": "żviluppa"
+  },
+  {
+    "simpli": "sport",
+    "translation": "sport"
+  },
+  {
+    "simpli": "slaitli",
+    "translation": "ftit"
+  },
+  {
+    "simpli": "apra",
+    "translation": "opera"
+  },
+  {
+    "simpli": "taonsip",
+    "translation": "komun"
+  },
+  {
+    "simpli": "defanisan",
+    "translation": "definizzjoni"
+  },
+  {
+    "simpli": "alt",
+    "translation": "alt"
+  },
+  {
+    "simpli": "inklusan",
+    "translation": "inklużjoni"
+  },
+  {
+    "simpli": "apasisan",
+    "translation": "oppożizzjoni"
+  },
+  {
+    "simpli": "myusisan",
+    "translation": "mużiċist"
+  },
+  {
+    "simpli": "transleisan",
+    "translation": "traduzzjoni"
+  },
+  {
+    "simpli": "yanger",
+    "translation": "iżgħar"
+  },
+  {
+    "simpli": "porsan",
+    "translation": "porzjon"
+  },
+  {
+    "simpli": "dakter",
+    "translation": "tabib"
+  },
+  {
+    "simpli": "ka",
+    "translation": "ca"
+  },
+  {
+    "simpli": "sari",
+    "translation": "skużani"
+  },
+  {
+    "simpli": "kantein",
+    "translation": "fih"
+  },
+  {
+    "simpli": "rilidjan",
+    "translation": "reliġjon"
+  },
+  {
+    "simpli": "vasn",
+    "translation": "wasn"
+  },
+  {
+    "simpli": "spred",
+    "translation": "xerred"
+  },
+  {
+    "simpli": "oradjan",
+    "translation": "oriġini"
+  },
+  {
+    "simpli": "metal",
+    "translation": "metall"
+  },
+  {
+    "simpli": "del",
+    "translation": "ħassar"
+  },
+  {
+    "simpli": "gas",
+    "translation": "gass"
+  },
+  {
+    "simpli": "frikvantli",
+    "translation": "ta' spiss"
+  },
+  {
+    "simpli": "visit",
+    "translation": "żar"
+  },
+  {
+    "simpli": "dip",
+    "translation": "fond"
+  },
+  {
+    "simpli": "peinter",
+    "translation": "pittur"
+  },
+  {
+    "simpli": "trast",
+    "translation": "fiduċja"
+  },
+  {
+    "simpli": "difit",
+    "translation": "telfa"
+  },
+  {
+    "simpli": "bol",
+    "translation": "ballun"
+  },
+  {
+    "simpli": "isi",
+    "translation": "faċli"
+  },
+  {
+    "simpli": "iksplein",
+    "translation": "spjega"
+  },
+  {
+    "simpli": "nutral",
+    "translation": "newtrali"
+  },
+  {
+    "simpli": "oldast",
+    "translation": "l-eqdem"
+  },
+  {
+    "simpli": "fakalti",
+    "translation": "fakultà"
+  },
+  {
+    "simpli": "arkatektjer",
+    "translation": "arkitettura"
+  },
+  {
+    "simpli": "preser",
+    "translation": "pressjoni"
+  },
+  {
+    "simpli": "emperer",
+    "translation": "imperatur"
+  },
+  {
+    "simpli": "bibisi",
+    "translation": "bbc"
+  },
+  {
+    "simpli": "ikspansan",
+    "translation": "espansjoni"
+  },
+  {
+    "simpli": "valid",
+    "translation": "validu"
+  },
+  {
+    "simpli": "skeil",
+    "translation": "skala"
+  },
+  {
+    "simpli": "rivert",
+    "translation": "reġġa'"
+  },
+  {
+    "simpli": "plas",
+    "translation": "plus"
+  },
+  {
+    "simpli": "wud",
+    "translation": "injam"
+  },
+  {
+    "simpli": "ikstensiv",
+    "translation": "estensiv"
+  },
+  {
+    "simpli": "tjans",
+    "translation": "ċans"
+  },
+  {
+    "simpli": "merder",
+    "translation": "qtil"
+  },
+  {
+    "simpli": "memeri",
+    "translation": "memorja"
+  },
+  {
+    "simpli": "masin",
+    "translation": "magna"
+  },
+  {
+    "simpli": "wed",
+    "translation": "Erb"
+  },
+  {
+    "simpli": "seiv",
+    "translation": "salva"
+  },
+  {
+    "simpli": "rikvaier",
+    "translation": "irrikjeda"
+  },
+  {
+    "simpli": "ingk",
+    "translation": "ink"
+  },
+  {
+    "simpli": "ikstjeindj",
+    "translation": "skambju"
+  },
+  {
+    "simpli": "ros",
+    "translation": "warda"
+  },
+  {
+    "simpli": "neival",
+    "translation": "navali"
+  },
+  {
+    "simpli": "fis",
+    "translation": "ħuta"
+  },
+  {
+    "simpli": "rasanal",
+    "translation": "raġuni"
+  },
+  {
+    "simpli": "maiself",
+    "translation": "jien stess"
+  },
+  {
+    "simpli": "hapi",
+    "translation": "ferħan"
+  },
+  {
+    "simpli": "nider",
+    "translation": "lanqas"
+  },
+  {
+    "simpli": "ban",
+    "translation": "projbizzjoni"
+  },
+  {
+    "simpli": "pap",
+    "translation": "pop"
+  },
+  {
+    "simpli": "brand",
+    "translation": "marka"
+  },
+  {
+    "simpli": "gest",
+    "translation": "mistieden"
+  },
+  {
+    "simpli": "vouldn",
+    "translation": "wouldn"
+  },
+  {
+    "simpli": "intradaksan",
+    "translation": "introduzzjoni"
+  },
+  {
+    "simpli": "serneim",
+    "translation": "kunjom"
+  },
+  {
+    "simpli": "seifti",
+    "translation": "sigurtà"
+  },
+  {
+    "simpli": "steidiam",
+    "translation": "stadju"
+  },
+  {
+    "simpli": "bitj",
+    "translation": "bajja"
+  },
+  {
+    "simpli": "gan",
+    "translation": "xkubetta"
+  },
+  {
+    "simpli": "kraim",
+    "translation": "reat"
+  },
+  {
+    "simpli": "kit",
+    "translation": "Kitt"
+  },
+  {
+    "simpli": "fasiliti",
+    "translation": "faċilità"
+  },
+  {
+    "simpli": "djordja",
+    "translation": "Ġeorġja"
+  },
+  {
+    "simpli": "fa",
+    "translation": "fa"
+  },
+  {
+    "simpli": "djak",
+    "translation": "Jack"
+  },
+  {
+    "simpli": "okei",
+    "translation": "ok"
+  },
+  {
+    "simpli": "skvadran",
+    "translation": "skwadra"
+  },
+  {
+    "simpli": "riserv",
+    "translation": "riżerva"
+  },
+  {
+    "simpli": "risk",
+    "translation": "riskju"
+  },
+  {
+    "simpli": "fel",
+    "translation": "waqa'"
+  },
+  {
+    "simpli": "skatis",
+    "translation": "Skoċċiż"
+  },
+  {
+    "simpli": "ripablikan",
+    "translation": "repubblikan"
+  },
+  {
+    "simpli": "bigin",
+    "translation": "beda"
+  },
+  {
+    "simpli": "praposal",
+    "translation": "proposta"
+  },
+  {
+    "simpli": "eniwei",
+    "translation": "xorta"
+  },
+  {
+    "simpli": "aplai",
+    "translation": "applika"
+  },
+  {
+    "simpli": "vais",
+    "translation": "viċi"
+  },
+  {
+    "simpli": "poatri",
+    "translation": "poeżija"
+  },
+  {
+    "simpli": "verdjinya",
+    "translation": "Virginia"
+  },
+  {
+    "simpli": "eidjansi",
+    "translation": "aġenzija"
+  },
+  {
+    "simpli": "ilektrik",
+    "translation": "elettriku"
+  },
+  {
+    "simpli": "djoint",
+    "translation": "konġunt"
+  },
+  {
+    "simpli": "navboks",
+    "translation": "navbox"
+  },
+  {
+    "simpli": "litereri",
+    "translation": "letterarju"
+  },
+  {
+    "simpli": "edwerd",
+    "translation": "Edward"
+  },
+  {
+    "simpli": "logo",
+    "translation": "logo"
+  },
+  {
+    "simpli": "adians",
+    "translation": "udjenza"
+  },
+  {
+    "simpli": "brans",
+    "translation": "bronż"
+  },
+  {
+    "simpli": "mail",
+    "translation": "mil"
+  },
+  {
+    "simpli": "nuli",
+    "translation": "ġdid"
+  },
+  {
+    "simpli": "aplakeisan",
+    "translation": "applikazzjoni"
+  },
+  {
+    "simpli": "medasan",
+    "translation": "mediċina"
+  },
+  {
+    "simpli": "florada",
+    "translation": "Florida"
+  },
+  {
+    "simpli": "fols",
+    "translation": "falz"
+  },
+  {
+    "simpli": "du",
+    "translation": "du"
+  },
+  {
+    "simpli": "salusan",
+    "translation": "soluzzjoni"
+  },
+  {
+    "simpli": "abdjekt",
+    "translation": "oġġett"
+  },
+  {
+    "simpli": "kamadi",
+    "translation": "komedja"
+  },
+  {
+    "simpli": "brif",
+    "translation": "qasir"
+  },
+  {
+    "simpli": "pasifik",
+    "translation": "Paċifiku"
+  },
+  {
+    "simpli": "enterteinmant",
+    "translation": "divertiment"
+  },
+  {
+    "simpli": "arkatekt",
+    "translation": "perit"
+  },
+  {
+    "simpli": "anlaik",
+    "translation": "mhux bħal"
+  },
+  {
+    "simpli": "historian",
+    "translation": "storiku"
+  },
+  {
+    "simpli": "batalyan",
+    "translation": "battaljun"
+  },
+  {
+    "simpli": "limat",
+    "translation": "limitu"
+  },
+  {
+    "simpli": "grant",
+    "translation": "għotja"
+  },
+  {
+    "simpli": "fiksan",
+    "translation": "finzjoni"
+  },
+  {
+    "simpli": "kantrabyusan",
+    "translation": "kontribuzzjoni"
+  },
+  {
+    "simpli": "krieiter",
+    "translation": "kreatur"
+  },
+  {
+    "simpli": "ref",
+    "translation": "referenza"
+  },
+  {
+    "simpli": "finis",
+    "translation": "temm"
+  },
+  {
+    "simpli": "orkastra",
+    "translation": "orkestra"
+  },
+  {
+    "simpli": "permanant",
+    "translation": "permanenti"
+  },
+  {
+    "simpli": "sel",
+    "translation": "ċellula"
+  },
+  {
+    "simpli": "rineim",
+    "translation": "semma mill-ġdid"
+  },
+  {
+    "simpli": "negativ",
+    "translation": "negattiv"
+  },
+  {
+    "simpli": "yelo",
+    "translation": "isfar"
+  },
+  {
+    "simpli": "djansan",
+    "translation": "Johnson"
+  },
+  {
+    "simpli": "task",
+    "translation": "kompitu"
+  },
+  {
+    "simpli": "altamatli",
+    "translation": "fl-aħħar"
+  },
+  {
+    "simpli": "reprisent",
+    "translation": "irrappreżenta"
+  },
+  {
+    "simpli": "rer",
+    "translation": "rari"
+  },
+  {
+    "simpli": "prapos",
+    "translation": "ippropona"
+  },
+  {
+    "simpli": "tradisan",
+    "translation": "tradizzjoni"
+  },
+  {
+    "simpli": "ifektiv",
+    "translation": "effettiv"
+  },
+  {
+    "simpli": "partner",
+    "translation": "sieħeb"
+  },
+  {
+    "simpli": "sikrat",
+    "translation": "sigriet"
+  },
+  {
+    "simpli": "bilyan",
+    "translation": "biljun"
+  },
+  {
+    "simpli": "apsan",
+    "translation": "għażla"
+  },
+  {
+    "simpli": "ekstrimli",
+    "translation": "ħafna"
+  },
+  {
+    "simpli": "safisant",
+    "translation": "biżżejjed"
+  },
+  {
+    "simpli": "pramot",
+    "translation": "ippromwova"
+  },
+  {
+    "simpli": "tjapter",
+    "translation": "kapitlu"
+  },
+  {
+    "simpli": "pov",
+    "translation": "perspettiva"
+  },
+  {
+    "simpli": "swidis",
+    "translation": "Svediż"
+  },
+  {
+    "simpli": "von",
+    "translation": "von"
+  },
+  {
+    "simpli": "persanel",
+    "translation": "persunal"
+  },
+  {
+    "simpli": "rispekt",
+    "translation": "rispett"
+  },
+  {
+    "simpli": "tam",
+    "translation": "Tom"
+  },
+  {
+    "simpli": "djas",
+    "translation": "jazz"
+  },
+  {
+    "simpli": "eidjant",
+    "translation": "aġent"
+  },
+  {
+    "simpli": "fri",
+    "translation": "Ġim"
+  },
+  {
+    "simpli": "diteil",
+    "translation": "dettall"
+  },
+  {
+    "simpli": "antu",
+    "translation": "fuq"
+  },
+  {
+    "simpli": "djenereisan",
+    "translation": "ġenerazzjoni"
+  },
+  {
+    "simpli": "perform",
+    "translation": "wettaq"
+  },
+  {
+    "simpli": "aksferd",
+    "translation": "Oxford"
+  },
+  {
+    "simpli": "ikvivalant",
+    "translation": "ekwivalenti"
+  },
+  {
+    "simpli": "pailat",
+    "translation": "pilota"
+  },
+  {
+    "simpli": "werldwaid",
+    "translation": "mad-dinja kollha"
+  },
+  {
+    "simpli": "hors",
+    "translation": "żiemel"
+  },
+  {
+    "simpli": "senat",
+    "translation": "senat"
+  },
+  {
+    "simpli": "kor",
+    "translation": "qalba"
+  },
+  {
+    "simpli": "saplai",
+    "translation": "provvista"
+  },
+  {
+    "simpli": "ripleis",
+    "translation": "biddel"
+  },
+  {
+    "simpli": "sokoro",
+    "translation": "Socorro"
+  },
+  {
+    "simpli": "vandalisam",
+    "translation": "vandaliżmu"
+  },
+  {
+    "simpli": "hat",
+    "translation": "sħun"
+  },
+  {
+    "simpli": "instans",
+    "translation": "każ"
+  },
+  {
+    "simpli": "olimpik",
+    "translation": "Olimpiku"
+  },
+  {
+    "simpli": "ikanami",
+    "translation": "ekonomija"
+  },
+  {
+    "simpli": "servei",
+    "translation": "stħarriġ"
+  },
+  {
+    "simpli": "di",
+    "translation": "di"
+  },
+  {
+    "simpli": "abviasli",
+    "translation": "ovvjament"
+  },
+  {
+    "simpli": "kansern",
+    "translation": "tħassib"
+  },
+  {
+    "simpli": "korpereisan",
+    "translation": "korporazzjoni"
+  },
+  {
+    "simpli": "tjalandj",
+    "translation": "sfida"
+  },
+  {
+    "simpli": "falasafi",
+    "translation": "filosofija"
+  },
+  {
+    "simpli": "advans",
+    "translation": "avvanz"
+  },
+  {
+    "simpli": "taks",
+    "translation": "taxxa"
+  },
+  {
+    "simpli": "laisans",
+    "translation": "liċenzja"
+  },
+  {
+    "simpli": "insadant",
+    "translation": "inċident"
+  },
+  {
+    "simpli": "bot",
+    "translation": "bot"
+  },
+  {
+    "simpli": "sikst",
+    "translation": "sitt"
+  },
+  {
+    "simpli": "fridam",
+    "translation": "libertà"
+  },
+  {
+    "simpli": "aidentiti",
+    "translation": "identità"
+  },
+  {
+    "simpli": "maksamam",
+    "translation": "massimu"
+  },
+  {
+    "simpli": "samwat",
+    "translation": "kemmxejn"
+  },
+  {
+    "simpli": "plat",
+    "translation": "plott"
+  },
+  {
+    "simpli": "bastan",
+    "translation": "Boston"
+  },
+  {
+    "simpli": "step",
+    "translation": "pass"
+  },
+  {
+    "simpli": "disis",
+    "translation": "marda"
+  },
+  {
+    "simpli": "berlin",
+    "translation": "Berlin"
+  },
+  {
+    "simpli": "invairanmental",
+    "translation": "ambjentali"
+  },
+  {
+    "simpli": "investageisan",
+    "translation": "investigazzjoni"
+  },
+  {
+    "simpli": "flit",
+    "translation": "flotta"
+  },
+  {
+    "simpli": "infantri",
+    "translation": "fanterija"
+  },
+  {
+    "simpli": "kambat",
+    "translation": "ġlied"
+  },
+  {
+    "simpli": "rais",
+    "translation": "tela'"
+  },
+  {
+    "simpli": "djenereit",
+    "translation": "iġġenera"
+  },
+  {
+    "simpli": "taword",
+    "translation": "lejn"
+  },
+  {
+    "simpli": "vies",
+    "translation": "kontra"
+  },
+  {
+    "simpli": "kandisan",
+    "translation": "kundizzjoni"
+  },
+  {
+    "simpli": "mis",
+    "translation": "tilef"
+  },
+  {
+    "simpli": "klasikal",
+    "translation": "klassiku"
+  },
+  {
+    "simpli": "klasik",
+    "translation": "klassiku"
+  },
+  {
+    "simpli": "rimember",
+    "translation": "ftakar"
+  },
+  {
+    "simpli": "anamal",
+    "translation": "annimal"
+  },
+  {
+    "simpli": "intirier",
+    "translation": "intern"
+  },
+  {
+    "simpli": "frangk",
+    "translation": "Frank"
+  },
+  {
+    "simpli": "fr",
+    "translation": "fr"
+  },
+  {
+    "simpli": "momant",
+    "translation": "mument"
+  },
+  {
+    "simpli": "gradjavat",
+    "translation": "gradwat"
+  },
+  {
+    "simpli": "watever",
+    "translation": "ikun xi jkun"
+  },
+  {
+    "simpli": "internal",
+    "translation": "intern"
+  },
+  {
+    "simpli": "seip",
+    "translation": "forma"
+  },
+  {
+    "simpli": "herself",
+    "translation": "hi stess"
+  },
+  {
+    "simpli": "streit",
+    "translation": "dritt"
+  },
+  {
+    "simpli": "seks",
+    "translation": "sess"
+  },
+  {
+    "simpli": "klosli",
+    "translation": "mill-qrib"
+  },
+  {
+    "simpli": "skat",
+    "translation": "Scott"
+  },
+  {
+    "simpli": "kamyunakeisan",
+    "translation": "komunikazzjoni"
+  },
+  {
+    "simpli": "haosold",
+    "translation": "dar"
+  },
+  {
+    "simpli": "edj",
+    "translation": "tarf"
+  },
+  {
+    "simpli": "transfer",
+    "translation": "trasferiment"
+  },
+  {
+    "simpli": "indakeit",
+    "translation": "indika"
+  },
+  {
+    "simpli": "haki",
+    "translation": "hockey"
+  },
+  {
+    "simpli": "visaval",
+    "translation": "viżiv"
+  },
+  {
+    "simpli": "paoerfal",
+    "translation": "b'saħħtu"
+  },
+  {
+    "simpli": "myunisapal",
+    "translation": "muniċipali"
+  },
+  {
+    "simpli": "fot",
+    "translation": "ġġieled"
+  },
+  {
+    "simpli": "tjer",
+    "translation": "siġġu"
+  },
+  {
+    "simpli": "signifikantli",
+    "translation": "b'mod sinifikanti"
+  },
+  {
+    "simpli": "minat",
+    "translation": "minuta"
+  },
+  {
+    "simpli": "lern",
+    "translation": "tgħallem"
+  },
+  {
+    "simpli": "kard",
+    "translation": "karta"
+  },
+  {
+    "simpli": "gard",
+    "translation": "gwardja"
+  },
+  {
+    "simpli": "pratekt",
+    "translation": "ipproteġa"
+  },
+  {
+    "simpli": "nortwest",
+    "translation": "majjistral"
+  },
+  {
+    "simpli": "feilyer",
+    "translation": "falliment"
+  },
+  {
+    "simpli": "pabliser",
+    "translation": "pubblikatur"
+  },
+  {
+    "simpli": "ai",
+    "translation": "għajn"
+  },
+  {
+    "simpli": "fasan",
+    "translation": "moda"
+  },
+  {
+    "simpli": "indipendans",
+    "translation": "indipendenza"
+  },
+  {
+    "simpli": "pidief",
+    "translation": "pdf"
+  },
+  {
+    "simpli": "draiver",
+    "translation": "sewwieq"
+  },
+  {
+    "simpli": "strongli",
+    "translation": "bil-qawwa"
+  },
+  {
+    "simpli": "advais",
+    "translation": "parir"
+  },
+  {
+    "simpli": "rekagnisan",
+    "translation": "rikonoxximent"
+  },
+  {
+    "simpli": "kil",
+    "translation": "qatel"
+  },
+  {
+    "simpli": "ragbi",
+    "translation": "rugby"
+  },
+  {
+    "simpli": "vihikal",
+    "translation": "vettura"
+  },
+  {
+    "simpli": "loyer",
+    "translation": "avukat"
+  },
+  {
+    "simpli": "brok",
+    "translation": "kiser"
+  },
+  {
+    "simpli": "huk",
+    "translation": "ganċ"
+  },
+  {
+    "simpli": "heratadj",
+    "translation": "wirt"
+  },
+  {
+    "simpli": "saotist",
+    "translation": "xlokk"
+  },
+  {
+    "simpli": "korner",
+    "translation": "rokna"
+  },
+  {
+    "simpli": "seksual",
+    "translation": "sesswali"
+  },
+  {
+    "simpli": "ilisabat",
+    "translation": "Eliżabetta"
+  },
+  {
+    "simpli": "wis",
+    "translation": "xtieq"
+  },
+  {
+    "simpli": "spitj",
+    "translation": "diskors"
+  },
+  {
+    "simpli": "daterman",
+    "translation": "iddetermina"
+  },
+  {
+    "simpli": "vaialeisan",
+    "translation": "ksur"
+  },
+  {
+    "simpli": "pensalveinya",
+    "translation": "Pennsylvania"
+  },
+  {
+    "simpli": "reilrod",
+    "translation": "ferrovija"
+  },
+  {
+    "simpli": "aiern",
+    "translation": "ħadid"
+  },
+  {
+    "simpli": "gav",
+    "translation": "gvern"
+  },
+  {
+    "simpli": "ritaiermant",
+    "translation": "irtirar"
+  },
+  {
+    "simpli": "fransisko",
+    "translation": "Francisco"
+  },
+  {
+    "simpli": "ahed",
+    "translation": "quddiem"
+  },
+  {
+    "simpli": "eid",
+    "translation": "għajnuna"
+  },
+  {
+    "simpli": "daot",
+    "translation": "dubju"
+  },
+  {
+    "simpli": "skvad",
+    "translation": "skwadra"
+  },
+  {
+    "simpli": "ru",
+    "translation": "ru"
+  },
+  {
+    "simpli": "watj",
+    "translation": "ħares"
+  },
+  {
+    "simpli": "apart",
+    "translation": "apparti"
+  },
+  {
+    "simpli": "kanser",
+    "translation": "kanċer"
+  },
+  {
+    "simpli": "misis",
+    "translation": "sinjura"
+  }
+]
