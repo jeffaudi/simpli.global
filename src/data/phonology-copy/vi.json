@@ -33,6 +33,7 @@
   "glide": "Một âm tiết. Lưỡi trượt. Đây không phải hai nguyên âm đứng cạnh nhau.",
   "englishRef": "Tham chiếu tiếng Anh thêm: {word}.",
   "lengthGap": "Có thể viết đôi nguyên âm (aa, ee, ii, oo, uu) cho rõ hơn. Nói chung thì không: một chữ là đủ.",
+  "vowelO": "Nguyên âm của father và hat là a. Khi tiếng Anh viết nguyên âm đó bằng o, Simpli giữ o: hot, not và on.",
   "vowelSeq": "ai, ei, ao và oi mỗi cái một âm tiết. ao là âm trong hao và nao; đừng viết au. Mọi cặp nguyên âm khác là hai âm tiết, như vidio.",
   "clusterGap": "Âm tiết thường là phụ âm, nguyên âm và một phụ âm cuối không bắt buộc. Danh sách cũng giữ cụm như str và nk. Thêm một nguyên âm ngắn khi học thì nghe hiểu được; chuẩn không thêm. Nhấn âm tiết áp chót, và đừng làm yếu các nguyên âm khác.",
   "vwSpell": "Viết w ở chỗ tiếng Anh dùng w (woter, wi). Viết v ở chỗ tiếng Anh dùng v (hav, seven). Ưu tiên âm chuẩn của từng chữ.",

@@ -33,6 +33,7 @@
   "glide": "Jedna sylaba. Język się przesuwa. To nie są dwie samogłoski obok siebie.",
   "englishRef": "Dodatkowy punkt z angielskiego: {word}.",
   "lengthGap": "Można podwoić samogłoskę (aa, ee, ii, oo, uu), żeby było jaśniej. Na ogół się tego nie robi: wystarczy jedna litera.",
+  "vowelO": "Samogłoska w father i hat to a. Gdy angielski zapisuje ją przez o, Simpli zostawia o: hot, not i on.",
   "vowelSeq": "ai, ei, ao i oi to po jednej sylabie. ao to dźwięk w hao i nao; nie pisz au. Każda inna para samogłosek to dwie sylaby, jak w vidio.",
   "clusterGap": "Sylaba to często spółgłoska, samogłoska i opcjonalna spółgłoska. Lista zachowuje też grupy jak str i nk. Krótka wstawiona samogłoska jest zrozumiała przy nauce; wzorzec jej nie dodaje. Akcentuj przedostatnią sylabę i nie osłabiaj pozostałych samogłosek.",
   "vwSpell": "Pisz w tam, gdzie angielski ma w (woter, wi). Pisz v tam, gdzie angielski ma v (hav, seven). Wybieraj wzorcowy dźwięk każdej litery.",

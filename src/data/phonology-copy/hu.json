@@ -33,6 +33,7 @@
   "glide": "Egy szótag. A nyelv siklik. Ez nem két egymás melletti magánhangzó.",
   "englishRef": "További angol támpont: {word}.",
   "lengthGap": "A magánhangzó megkettőzhető (aa, ee, ii, oo, uu) a nagyobb egyértelműségért. Általában nem tesszük: egy betű elég.",
+  "vowelO": "A father és a hat magánhangzója a. Ha az angol ezt o-val írja, a Simpli megtartja az o-t: hot, not és on.",
   "vowelSeq": "Az ai, ei, ao és oi egy-egy szótag. Az ao a hao és a nao hangja; ne írj au-t. Minden más magánhangzó-pár két szótag, mint a vidio-ban.",
   "clusterGap": "A szótag gyakran mássalhangzó, magánhangzó és egy nem kötelező mássalhangzó. A lista megtart olyan csoportokat is, mint az str és az nk. Tanulás közben egy rövid betoldott magánhangzó érthető; a referencia nem tesz hozzá. A hangsúly az utolsó előtti szótagon van, a többi magánhangzót ne gyengítsd.",
   "vwSpell": "Írj w-t ott, ahol az angol w-t használ (woter, wi). Írj v-t ott, ahol az angol v-t használ (hav, seven). Válaszd minden betű referenciahangját.",

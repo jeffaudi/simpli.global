@@ -33,6 +33,7 @@
   "glide": "Viena zilbe. Mēle slīd. Tie nav divi patskaņi blakus.",
   "englishRef": "Papildu angļu atbalsts: {word}.",
   "lengthGap": "Patskani var dubultot (aa, ee, ii, oo, uu), lai būtu skaidrāk. Parasti to nedara: pietiek ar vienu burtu.",
+  "vowelO": "Patskanis vārdos father un hat ir a. Ja angļu valoda to raksta ar o, Simpli patur o: hot, not un on.",
   "vowelSeq": "ai, ei, ao un oi ir katrs viena zilbe. ao ir skaņa vārdos hao un nao; neraksti au. Jebkurš cits patskaņu pāris ir divas zilbes, kā vidio.",
   "clusterGap": "Zilbe bieži ir līdzskanis, patskanis un neobligāts līdzskanis. Saraksts patur arī grupas kā str un nk. Īss iesprausts patskanis mācībā ir saprotams; atsauce to nepievieno. Uzsvērums ir priekšpēdējā zilbē, un citus patskaņus nevājini.",
   "vwSpell": "Raksti w tur, kur angliski ir w (woter, wi). Raksti v tur, kur ir v (hav, seven). Izvēlies katra burta atsauces skaņu.",

@@ -16,7 +16,7 @@
     "translation": "luokse"
   },
   {
-    "simpli": "an",
+    "simpli": "on",
     "translation": "päällä"
   },
   {
@@ -52,7 +52,7 @@
     "translation": "jostakin"
   },
   {
-    "simpli": "nat",
+    "simpli": "not",
     "translation": "ei"
   },
   {
@@ -220,7 +220,7 @@
     "translation": "syyskuu"
   },
   {
-    "simpli": "aktober",
+    "simpli": "oktober",
     "translation": "lokakuu"
   },
   {
@@ -260,7 +260,7 @@
     "translation": "mikään"
   },
   {
-    "simpli": "kam",
+    "simpli": "kom",
     "translation": "com"
   },
   {
@@ -464,7 +464,7 @@
     "translation": "kunnes"
   },
   {
-    "simpli": "madafai",
+    "simpli": "modafai",
     "translation": "muuttaa"
   },
   {
@@ -752,7 +752,7 @@
     "translation": "koti"
   },
   {
-    "simpli": "kament",
+    "simpli": "koment",
     "translation": "kommentti"
   },
   {
@@ -808,7 +808,7 @@
     "translation": "pikkukaupunki"
   },
   {
-    "simpli": "papyaleisan",
+    "simpli": "popyaleisan",
     "translation": "väestö"
   },
   {
@@ -860,7 +860,7 @@
     "translation": "ikä"
   },
   {
-    "simpli": "tap",
+    "simpli": "top",
     "translation": "yläosa"
   },
   {
@@ -984,7 +984,7 @@
     "translation": "alas"
   },
   {
-    "simpli": "djan",
+    "simpli": "djon",
     "translation": "John"
   },
   {
@@ -1044,7 +1044,7 @@
     "translation": "sivusto"
   },
   {
-    "simpli": "kantent",
+    "simpli": "kontent",
     "translation": "sisältö"
   },
   {
@@ -1060,7 +1060,7 @@
     "translation": "isä"
   },
   {
-    "simpli": "pradjekt",
+    "simpli": "prodjekt",
     "translation": "hanke"
   },
   {
@@ -1164,7 +1164,7 @@
     "translation": "vesi"
   },
   {
-    "simpli": "kalidj",
+    "simpli": "kolidj",
     "translation": "korkeakoulu"
   },
   {
@@ -1376,7 +1376,7 @@
     "translation": "kenttä"
   },
   {
-    "simpli": "kaman",
+    "simpli": "koman",
     "translation": "yleinen"
   },
   {
@@ -1404,7 +1404,7 @@
     "translation": "ammatillinen"
   },
   {
-    "simpli": "pasabal",
+    "simpli": "posabal",
     "translation": "mahdollinen"
   },
   {
@@ -1496,7 +1496,7 @@
     "translation": "arvostelu"
   },
   {
-    "simpli": "prababli",
+    "simpli": "probabli",
     "translation": "luultavasti"
   },
   {
@@ -1512,7 +1512,7 @@
     "translation": "virallinen"
   },
   {
-    "simpli": "palasi",
+    "simpli": "polasi",
     "translation": "linjaus"
   },
   {
@@ -1640,11 +1640,11 @@
     "translation": "itsensä"
   },
   {
-    "simpli": "papyaler",
+    "simpli": "popyaler",
     "translation": "suosittu"
   },
   {
-    "simpli": "prablam",
+    "simpli": "problam",
     "translation": "ongelma"
   },
   {
@@ -1660,7 +1660,7 @@
     "translation": "valtuusto"
   },
   {
-    "simpli": "apan",
+    "simpli": "apon",
     "translation": "päälle"
   },
   {
@@ -1676,7 +1676,7 @@
     "translation": "suhde"
   },
   {
-    "simpli": "madern",
+    "simpli": "modern",
     "translation": "nykyaikainen"
   },
   {
@@ -1720,7 +1720,7 @@
     "translation": "pohjoinen"
   },
   {
-    "simpli": "badi",
+    "simpli": "bodi",
     "translation": "keho"
   },
   {
@@ -2024,7 +2024,7 @@
     "translation": "päällikkö"
   },
   {
-    "simpli": "tapik",
+    "simpli": "topik",
     "translation": "aihe"
   },
   {
@@ -2088,7 +2088,7 @@
     "translation": "iso"
   },
   {
-    "simpli": "palatisan",
+    "simpli": "polatisan",
     "translation": "poliitikko"
   },
   {
@@ -2152,7 +2152,7 @@
     "translation": "Eurooppa"
   },
   {
-    "simpli": "lat",
+    "simpli": "lot",
     "translation": "paljon"
   },
   {
@@ -2172,7 +2172,7 @@
     "translation": "yksinkertaisesti"
   },
   {
-    "simpli": "kampatisan",
+    "simpli": "kompatisan",
     "translation": "kilpailu"
   },
   {
@@ -2184,7 +2184,7 @@
     "translation": "antaa"
   },
   {
-    "simpli": "madal",
+    "simpli": "modal",
     "translation": "malli"
   },
   {
@@ -2260,7 +2260,7 @@
     "translation": "kyllä"
   },
   {
-    "simpli": "naval",
+    "simpli": "noval",
     "translation": "romaani"
   },
   {
@@ -2292,7 +2292,7 @@
     "translation": "kymmenen"
   },
   {
-    "simpli": "rak",
+    "simpli": "rok",
     "translation": "kivi"
   },
   {
@@ -2444,7 +2444,7 @@
     "translation": "tuottaja"
   },
   {
-    "simpli": "kapirait",
+    "simpli": "kopirait",
     "translation": "tekijänoikeus"
   },
   {
@@ -2472,7 +2472,7 @@
     "translation": "johto"
   },
   {
-    "simpli": "namaneisan",
+    "simpli": "nomaneisan",
     "translation": "ehdokkuus"
   },
   {
@@ -2488,7 +2488,7 @@
     "translation": "tietty"
   },
   {
-    "simpli": "kanat",
+    "simpli": "kanot",
     "translation": "ei voi"
   },
   {
@@ -2576,7 +2576,7 @@
     "translation": "siksi"
   },
   {
-    "simpli": "teknaladji",
+    "simpli": "teknoladji",
     "translation": "teknologia"
   },
   {
@@ -2596,7 +2596,7 @@
     "translation": "venäjä"
   },
   {
-    "simpli": "apraksamatli",
+    "simpli": "aproksamatli",
     "translation": "noin"
   },
   {
@@ -2736,7 +2736,7 @@
     "translation": "henkilöstö"
   },
   {
-    "simpli": "rispans",
+    "simpli": "rispons",
     "translation": "vastaus"
   },
   {
@@ -2764,7 +2764,7 @@
     "translation": "ominaisuus"
   },
   {
-    "simpli": "haspital",
+    "simpli": "hospital",
     "translation": "sairaala"
   },
   {
@@ -2780,7 +2780,7 @@
     "translation": "sininen"
   },
   {
-    "simpli": "praperti",
+    "simpli": "properti",
     "translation": "omaisuus"
   },
   {
@@ -2888,7 +2888,7 @@
     "translation": "ruoka"
   },
   {
-    "simpli": "rabert",
+    "simpli": "robert",
     "translation": "Robert"
   },
   {
@@ -2960,11 +2960,11 @@
     "translation": "wiki"
   },
   {
-    "simpli": "stap",
+    "simpli": "stop",
     "translation": "pysäyttää"
   },
   {
-    "simpli": "kanferans",
+    "simpli": "konferans",
     "translation": "konferenssi"
   },
   {
@@ -3036,11 +3036,11 @@
     "translation": "kuvernööri"
   },
   {
-    "simpli": "ekanamik",
+    "simpli": "ekanomik",
     "translation": "taloudellinen"
   },
   {
-    "simpli": "kantrakt",
+    "simpli": "kontrakt",
     "translation": "sopimus"
   },
   {
@@ -3168,7 +3168,7 @@
     "translation": "ruskea"
   },
   {
-    "simpli": "kampleks",
+    "simpli": "kompleks",
     "translation": "monimutkainen"
   },
   {
@@ -3236,7 +3236,7 @@
     "translation": "teatteri"
   },
   {
-    "simpli": "gad",
+    "simpli": "god",
     "translation": "jumala"
   },
   {
@@ -3316,7 +3316,7 @@
     "translation": "Mary"
   },
   {
-    "simpli": "sat",
+    "simpli": "sot",
     "translation": "laukaus"
   },
   {
@@ -3328,7 +3328,7 @@
     "translation": "olla olemassa"
   },
   {
-    "simpli": "pravans",
+    "simpli": "provans",
     "translation": "maakunta"
   },
   {
@@ -3360,7 +3360,7 @@
     "translation": "taloudellinen"
   },
   {
-    "simpli": "nam",
+    "simpli": "nom",
     "translation": "nom"
   },
   {
@@ -3372,7 +3372,7 @@
     "translation": "erittäin"
   },
   {
-    "simpli": "naladj",
+    "simpli": "noladj",
     "translation": "tieto"
   },
   {
@@ -3380,7 +3380,7 @@
     "translation": "jäsen"
   },
   {
-    "simpli": "salad",
+    "simpli": "solad",
     "translation": "kiinteä"
   },
   {
@@ -3396,7 +3396,7 @@
     "translation": "ehkä"
   },
   {
-    "simpli": "apereisan",
+    "simpli": "opereisan",
     "translation": "operaatio"
   },
   {
@@ -3512,7 +3512,7 @@
     "translation": "muuten"
   },
   {
-    "simpli": "djab",
+    "simpli": "djob",
     "translation": "työpaikka"
   },
   {
@@ -3520,7 +3520,7 @@
     "translation": "taistella"
   },
   {
-    "simpli": "valyum",
+    "simpli": "volyum",
     "translation": "tilavuus"
   },
   {
@@ -3608,7 +3608,7 @@
     "translation": "Bill"
   },
   {
-    "simpli": "biand",
+    "simpli": "biond",
     "translation": "tuolla puolen"
   },
   {
@@ -3668,7 +3668,7 @@
     "translation": "Henry"
   },
   {
-    "simpli": "pasabli",
+    "simpli": "posabli",
     "translation": "mahdollisesti"
   },
   {
@@ -3688,7 +3688,7 @@
     "translation": "laivasto"
   },
   {
-    "simpli": "pradakt",
+    "simpli": "prodakt",
     "translation": "tuote"
   },
   {
@@ -3704,7 +3704,7 @@
     "translation": "los"
   },
   {
-    "simpli": "baks",
+    "simpli": "boks",
     "translation": "laatikko"
   },
   {
@@ -3724,11 +3724,11 @@
     "translation": "erityisesti"
   },
   {
-    "simpli": "kansept",
+    "simpli": "konsept",
     "translation": "käsite"
   },
   {
-    "simpli": "pasativ",
+    "simpli": "posativ",
     "translation": "myönteinen"
   },
   {
@@ -3752,7 +3752,7 @@
     "translation": "tarkistaa"
   },
   {
-    "simpli": "rispansabal",
+    "simpli": "risponsabal",
     "translation": "vastuullinen"
   },
   {
@@ -3908,7 +3908,7 @@
     "translation": "lahti"
   },
   {
-    "simpli": "pramanant",
+    "simpli": "promanant",
     "translation": "merkittävä"
   },
   {
@@ -3972,7 +3972,7 @@
     "translation": "tulo"
   },
   {
-    "simpli": "kamanli",
+    "simpli": "komanli",
     "translation": "yleisesti"
   },
   {
@@ -4024,7 +4024,7 @@
     "translation": "asutus"
   },
   {
-    "simpli": "kantekst",
+    "simpli": "kontekst",
     "translation": "konteksti"
   },
   {
@@ -4152,7 +4152,7 @@
     "translation": "insinööri"
   },
   {
-    "simpli": "falo",
+    "simpli": "folo",
     "translation": "seurata"
   },
   {
@@ -4260,7 +4260,7 @@
     "translation": "jokainen"
   },
   {
-    "simpli": "kapi",
+    "simpli": "kopi",
     "translation": "kopio"
   },
   {
@@ -4296,7 +4296,7 @@
     "translation": "pala"
   },
   {
-    "simpli": "kanflikt",
+    "simpli": "konflikt",
     "translation": "konflikti"
   },
   {
@@ -4584,7 +4584,7 @@
     "translation": "rehtori"
   },
   {
-    "simpli": "batam",
+    "simpli": "botam",
     "translation": "pohja"
   },
   {
@@ -4628,7 +4628,7 @@
     "translation": "vahinko"
   },
   {
-    "simpli": "kantakt",
+    "simpli": "kontakt",
     "translation": "yhteys"
   },
   {
@@ -4716,7 +4716,7 @@
     "translation": "eaa"
   },
   {
-    "simpli": "aner",
+    "simpli": "oner",
     "translation": "kunnia"
   },
   {
@@ -4756,11 +4756,11 @@
     "translation": "rouva"
   },
   {
-    "simpli": "skatland",
+    "simpli": "skotland",
     "translation": "Skotlanti"
   },
   {
-    "simpli": "dakyamenteri",
+    "simpli": "dokyamenteri",
     "translation": "dokumentti"
   },
   {
@@ -4784,7 +4784,7 @@
     "translation": "liikenne"
   },
   {
-    "simpli": "kansert",
+    "simpli": "konsert",
     "translation": "konsertti"
   },
   {
@@ -4800,7 +4800,7 @@
     "translation": "mediaani"
   },
   {
-    "simpli": "praper",
+    "simpli": "proper",
     "translation": "asianmukainen"
   },
   {
@@ -4872,7 +4872,7 @@
     "translation": "hieman"
   },
   {
-    "simpli": "apra",
+    "simpli": "opra",
     "translation": "ooppera"
   },
   {
@@ -4892,7 +4892,7 @@
     "translation": "sisällyttäminen"
   },
   {
-    "simpli": "apasisan",
+    "simpli": "opasisan",
     "translation": "oppositio"
   },
   {
@@ -4912,7 +4912,7 @@
     "translation": "osa"
   },
   {
-    "simpli": "dakter",
+    "simpli": "dokter",
     "translation": "lääkäri"
   },
   {
@@ -4920,7 +4920,7 @@
     "translation": "noin"
   },
   {
-    "simpli": "sari",
+    "simpli": "sori",
     "translation": "anteeksi"
   },
   {
@@ -5116,7 +5116,7 @@
     "translation": "kielto"
   },
   {
-    "simpli": "pap",
+    "simpli": "pop",
     "translation": "pop"
   },
   {
@@ -5200,7 +5200,7 @@
     "translation": "putosi"
   },
   {
-    "simpli": "skatis",
+    "simpli": "skotis",
     "translation": "skotlantilainen"
   },
   {
@@ -5268,7 +5268,7 @@
     "translation": "yleisö"
   },
   {
-    "simpli": "brans",
+    "simpli": "brons",
     "translation": "pronssi"
   },
   {
@@ -5304,11 +5304,11 @@
     "translation": "ratkaisu"
   },
   {
-    "simpli": "abdjekt",
+    "simpli": "obdjekt",
     "translation": "kohde"
   },
   {
-    "simpli": "kamadi",
+    "simpli": "komadi",
     "translation": "komedia"
   },
   {
@@ -5352,7 +5352,7 @@
     "translation": "fiktio"
   },
   {
-    "simpli": "kantrabyusan",
+    "simpli": "kontrabyusan",
     "translation": "panos"
   },
   {
@@ -5392,7 +5392,7 @@
     "translation": "keltainen"
   },
   {
-    "simpli": "djansan",
+    "simpli": "djonsan",
     "translation": "Johnson"
   },
   {
@@ -5436,7 +5436,7 @@
     "translation": "miljardi"
   },
   {
-    "simpli": "apsan",
+    "simpli": "opsan",
     "translation": "vaihtoehto"
   },
   {
@@ -5476,7 +5476,7 @@
     "translation": "kunnioitus"
   },
   {
-    "simpli": "tam",
+    "simpli": "tom",
     "translation": "Tom"
   },
   {
@@ -5496,7 +5496,7 @@
     "translation": "yksityiskohta"
   },
   {
-    "simpli": "antu",
+    "simpli": "ontu",
     "translation": "päälle"
   },
   {
@@ -5508,7 +5508,7 @@
     "translation": "esittää"
   },
   {
-    "simpli": "aksferd",
+    "simpli": "oksferd",
     "translation": "Oxford"
   },
   {
@@ -5552,7 +5552,7 @@
     "translation": "vandalisismi"
   },
   {
-    "simpli": "hat",
+    "simpli": "hot",
     "translation": "kuuma"
   },
   {
@@ -5564,7 +5564,7 @@
     "translation": "olympialainen"
   },
   {
-    "simpli": "ikanami",
+    "simpli": "ikonami",
     "translation": "talous"
   },
   {
@@ -5576,7 +5576,7 @@
     "translation": "di"
   },
   {
-    "simpli": "abviasli",
+    "simpli": "obviasli",
     "translation": "ilmeisesti"
   },
   {
@@ -5592,7 +5592,7 @@
     "translation": "haaste"
   },
   {
-    "simpli": "falasafi",
+    "simpli": "falosafi",
     "translation": "filosofia"
   },
   {
@@ -5636,11 +5636,11 @@
     "translation": "jokseenkin"
   },
   {
-    "simpli": "plat",
+    "simpli": "plot",
     "translation": "juoni"
   },
   {
-    "simpli": "bastan",
+    "simpli": "bostan",
     "translation": "Boston"
   },
   {
@@ -5672,7 +5672,7 @@
     "translation": "jalkaväki"
   },
   {
-    "simpli": "kambat",
+    "simpli": "kombat",
     "translation": "taistelu"
   },
   {
@@ -5764,7 +5764,7 @@
     "translation": "tiiviisti"
   },
   {
-    "simpli": "skat",
+    "simpli": "skot",
     "translation": "Scott"
   },
   {
@@ -5788,7 +5788,7 @@
     "translation": "osoittaa"
   },
   {
-    "simpli": "haki",
+    "simpli": "hoki",
     "translation": "jääkiekko"
   },
   {
@@ -6072,7 +6072,7 @@
     "translation": "Rooma"
   },
   {
-    "simpli": "spat",
+    "simpli": "spot",
     "translation": "paikka"
   },
   {
@@ -6160,7 +6160,7 @@
     "translation": "tervetuloa"
   },
   {
-    "simpli": "baiagrafi",
+    "simpli": "baiografi",
     "translation": "elämäkerta"
   },
   {
@@ -6260,7 +6260,7 @@
     "translation": "sekoitus"
   },
   {
-    "simpli": "apertunati",
+    "simpli": "opertunati",
     "translation": "tilaisuus"
   },
   {
@@ -6288,7 +6288,7 @@
     "translation": "järjestö"
   },
   {
-    "simpli": "kantraversal",
+    "simpli": "kontraversal",
     "translation": "kiistanalainen"
   },
   {
@@ -6308,7 +6308,7 @@
     "translation": "matkustaja"
   },
   {
-    "simpli": "kamik",
+    "simpli": "komik",
     "translation": "sarjakuva"
   },
   {
@@ -6340,7 +6340,7 @@
     "translation": "rahasto"
   },
   {
-    "simpli": "apasat",
+    "simpli": "opasat",
     "translation": "vastakkainen"
   },
   {
@@ -6352,7 +6352,7 @@
     "translation": "Cambridge"
   },
   {
-    "simpli": "kampasisan",
+    "simpli": "kompasisan",
     "translation": "koostumus"
   },
   {
@@ -6380,7 +6380,7 @@
     "translation": "ylläpitää"
   },
   {
-    "simpli": "skaler",
+    "simpli": "skoler",
     "translation": "tutkija"
   },
   {
@@ -6424,7 +6424,7 @@
     "translation": "foorumi"
   },
   {
-    "simpli": "kantest",
+    "simpli": "kontest",
     "translation": "kilpailu"
   },
   {
@@ -6436,7 +6436,7 @@
     "translation": "herttua"
   },
   {
-    "simpli": "stak",
+    "simpli": "stok",
     "translation": "osake"
   },
   {
@@ -6572,7 +6572,7 @@
     "translation": "luova"
   },
   {
-    "simpli": "trapikal",
+    "simpli": "tropikal",
     "translation": "trooppinen"
   },
   {
@@ -6624,7 +6624,7 @@
     "translation": "Maria"
   },
   {
-    "simpli": "kambaneisan",
+    "simpli": "kombaneisan",
     "translation": "yhdistelmä"
   },
   {
@@ -6736,7 +6736,7 @@
     "translation": "mylly"
   },
   {
-    "simpli": "dakyament",
+    "simpli": "dokyament",
     "translation": "asiakirja"
   },
   {
@@ -6840,7 +6840,7 @@
     "translation": "middot"
   },
   {
-    "simpli": "kanstatusan",
+    "simpli": "konstatusan",
     "translation": "perustuslaki"
   },
   {
@@ -6848,7 +6848,7 @@
     "translation": "ehdottomasti"
   },
   {
-    "simpli": "praperli",
+    "simpli": "properli",
     "translation": "kunnolla"
   },
   {
@@ -6876,7 +6876,7 @@
     "translation": "pelkästään"
   },
   {
-    "simpli": "sap",
+    "simpli": "sop",
     "translation": "kauppa"
   },
   {
@@ -6892,7 +6892,7 @@
     "translation": "keskiaikainen"
   },
   {
-    "simpli": "ilektranik",
+    "simpli": "ilektronik",
     "translation": "elektroninen"
   },
   {
@@ -6980,7 +6980,7 @@
     "translation": "artikkeli"
   },
   {
-    "simpli": "kandakt",
+    "simpli": "kondakt",
     "translation": "käyttäytyminen"
   },
   {
@@ -7040,7 +7040,7 @@
     "translation": "senaattori"
   },
   {
-    "simpli": "kalam",
+    "simpli": "kolam",
     "translation": "sarake"
   },
   {
@@ -7056,7 +7056,7 @@
     "translation": "Santa"
   },
   {
-    "simpli": "apereit",
+    "simpli": "opereit",
     "translation": "käyttää"
   },
   {
@@ -7120,7 +7120,7 @@
     "translation": "ylläpito"
   },
   {
-    "simpli": "anereri",
+    "simpli": "onereri",
     "translation": "kunnia"
   },
   {
@@ -7136,7 +7136,7 @@
     "translation": "Jim"
   },
   {
-    "simpli": "teranto",
+    "simpli": "teronto",
     "translation": "Toronto"
   },
   {
@@ -7152,7 +7152,7 @@
     "translation": "levy"
   },
   {
-    "simpli": "kantraversi",
+    "simpli": "kontraversi",
     "translation": "kiista"
   },
   {
@@ -7220,7 +7220,7 @@
     "translation": "konfederaatti"
   },
   {
-    "simpli": "kantrast",
+    "simpli": "kontrast",
     "translation": "kontrasti"
   },
   {
@@ -7240,7 +7240,7 @@
     "translation": "laulu"
   },
   {
-    "simpli": "saker",
+    "simpli": "soker",
     "translation": "jalkapallo"
   },
   {
@@ -7248,7 +7248,7 @@
     "translation": "syvyys"
   },
   {
-    "simpli": "rispansabilati",
+    "simpli": "risponsabilati",
     "translation": "vastuu"
   },
   {
@@ -7420,7 +7420,7 @@
     "translation": "lainaus"
   },
   {
-    "simpli": "fatagrafi",
+    "simpli": "fatografi",
     "translation": "valokuvaus"
   },
   {
@@ -7428,7 +7428,7 @@
     "translation": "ehdotus"
   },
   {
-    "simpli": "bab",
+    "simpli": "bob",
     "translation": "Bob"
   },
   {
@@ -7448,7 +7448,7 @@
     "translation": "etu"
   },
   {
-    "simpli": "faks",
+    "simpli": "foks",
     "translation": "kettu"
   },
   {
@@ -7620,7 +7620,7 @@
     "translation": "lajityyppi"
   },
   {
-    "simpli": "papyalerati",
+    "simpli": "popyalerati",
     "translation": "suosio"
   },
   {
@@ -7716,7 +7716,7 @@
     "translation": "maine"
   },
   {
-    "simpli": "kanstant",
+    "simpli": "konstant",
     "translation": "jatkuva"
   },
   {
@@ -7784,7 +7784,7 @@
     "translation": "vaikutusvaltainen"
   },
   {
-    "simpli": "impasabal",
+    "simpli": "imposabal",
     "translation": "mahdoton"
   },
   {
@@ -7792,7 +7792,7 @@
     "translation": "hyväksyttävä"
   },
   {
-    "simpli": "invalvmant",
+    "simpli": "involvmant",
     "translation": "osallistuminen"
   },
   {
@@ -7924,7 +7924,7 @@
     "translation": "karhu"
   },
   {
-    "simpli": "kamyanast",
+    "simpli": "komyanast",
     "translation": "kommunisti"
   },
   {
@@ -7940,7 +7940,7 @@
     "translation": "fm"
   },
   {
-    "simpli": "drap",
+    "simpli": "drop",
     "translation": "pudottaa"
   },
   {
@@ -7996,7 +7996,7 @@
     "translation": "geeni"
   },
   {
-    "simpli": "pasabilati",
+    "simpli": "posabilati",
     "translation": "mahdollisuus"
   },
   {
@@ -8008,7 +8008,7 @@
     "translation": "Ian"
   },
   {
-    "simpli": "manyumant",
+    "simpli": "monyumant",
     "translation": "muistomerkki"
   },
   {
@@ -8040,7 +8040,7 @@
     "translation": "olla eri mieltä"
   },
   {
-    "simpli": "kampaleisan",
+    "simpli": "kompaleisan",
     "translation": "kooste"
   },
   {
@@ -8084,7 +8084,7 @@
     "translation": "ohje"
   },
   {
-    "simpli": "sak",
+    "simpli": "sok",
     "translation": "sukka"
   },
   {
@@ -8096,7 +8096,7 @@
     "translation": "hallitus"
   },
   {
-    "simpli": "kanserveisan",
+    "simpli": "konserveisan",
     "translation": "suojelu"
   },
   {
@@ -8160,7 +8160,7 @@
     "translation": "lainsäädäntö"
   },
   {
-    "simpli": "masko",
+    "simpli": "mosko",
     "translation": "Moskova"
   },
   {
@@ -8188,7 +8188,7 @@
     "translation": "huomattava"
   },
   {
-    "simpli": "kamanteri",
+    "simpli": "komanteri",
     "translation": "selostus"
   },
   {
@@ -8292,7 +8292,7 @@
     "translation": "vakuutus"
   },
   {
-    "simpli": "kamprihensiv",
+    "simpli": "komprihensiv",
     "translation": "kattava"
   },
   {
@@ -8372,7 +8372,7 @@
     "translation": "sukupuuttoon kuollut"
   },
   {
-    "simpli": "metrapalatan",
+    "simpli": "metrapolatan",
     "translation": "metropolialue"
   },
   {
@@ -8428,7 +8428,7 @@
     "translation": "Melbourne"
   },
   {
-    "simpli": "skalersip",
+    "simpli": "skolersip",
     "translation": "stipendi"
   },
   {
@@ -8532,7 +8532,7 @@
     "translation": "välitön"
   },
   {
-    "simpli": "fatagrafer",
+    "simpli": "fatografer",
     "translation": "valokuvaaja"
   },
   {
@@ -8540,7 +8540,7 @@
     "translation": "instrumentaalinen"
   },
   {
-    "simpli": "galf",
+    "simpli": "golf",
     "translation": "golf"
   },
   {
@@ -8672,7 +8672,7 @@
     "translation": "evoluutio"
   },
   {
-    "simpli": "akyapeisan",
+    "simpli": "okyapeisan",
     "translation": "ammatti"
   },
   {
@@ -8696,7 +8696,7 @@
     "translation": "yhä"
   },
   {
-    "simpli": "kalani",
+    "simpli": "kolani",
     "translation": "siirtokunta"
   },
   {
@@ -8728,7 +8728,7 @@
     "translation": "korkeus"
   },
   {
-    "simpli": "anterio",
+    "simpli": "onterio",
     "translation": "Ontario"
   },
   {
@@ -8768,7 +8768,7 @@
     "translation": "Moore"
   },
   {
-    "simpli": "nobadi",
+    "simpli": "nobodi",
     "translation": "ei kukaan"
   },
   {
@@ -8924,7 +8924,7 @@
     "translation": "paristo"
   },
   {
-    "simpli": "saft",
+    "simpli": "soft",
     "translation": "pehmeä"
   },
   {
@@ -9000,7 +9000,7 @@
     "translation": "Margaret"
   },
   {
-    "simpli": "valantir",
+    "simpli": "volantir",
     "translation": "vapaaehtoinen"
   },
   {
@@ -9104,7 +9104,7 @@
     "translation": "elossa"
   },
   {
-    "simpli": "haliwud",
+    "simpli": "holiwud",
     "translation": "Hollywood"
   },
   {
@@ -9116,7 +9116,7 @@
     "translation": "hankkia"
   },
   {
-    "simpli": "apereiter",
+    "simpli": "opereiter",
     "translation": "operaattori"
   },
   {
@@ -9216,7 +9216,7 @@
     "translation": "käsitellä"
   },
   {
-    "simpli": "apereisanal",
+    "simpli": "opereisanal",
     "translation": "toiminnallinen"
   },
   {
@@ -9288,7 +9288,7 @@
     "translation": "nopeasti"
   },
   {
-    "simpli": "risalv",
+    "simpli": "risolv",
     "translation": "ratkaista"
   },
   {
@@ -9464,7 +9464,7 @@
     "translation": "asettaa"
   },
   {
-    "simpli": "saikaladji",
+    "simpli": "saikoladji",
     "translation": "psykologia"
   },
   {
@@ -9596,7 +9596,7 @@
     "translation": "kilpailullinen"
   },
   {
-    "simpli": "manasteri",
+    "simpli": "monasteri",
     "translation": "luostari"
   },
   {
@@ -9624,11 +9624,11 @@
     "translation": "vähittäiskauppa"
   },
   {
-    "simpli": "bam",
+    "simpli": "bom",
     "translation": "pommi"
   },
   {
-    "simpli": "kalerado",
+    "simpli": "kolerado",
     "translation": "Colorado"
   },
   {
@@ -9644,7 +9644,7 @@
     "translation": "Ukraina"
   },
   {
-    "simpli": "bibliagrafi",
+    "simpli": "bibliografi",
     "translation": "lähdeluettelo"
   },
   {
@@ -9668,7 +9668,7 @@
     "translation": "arvostaa"
   },
   {
-    "simpli": "koapereisan",
+    "simpli": "koopereisan",
     "translation": "yhteistyö"
   },
   {
@@ -9700,7 +9700,7 @@
     "translation": "tohtori"
   },
   {
-    "simpli": "rispand",
+    "simpli": "rispond",
     "translation": "vastata"
   },
   {
@@ -9780,7 +9780,7 @@
     "translation": "kelpoinen"
   },
   {
-    "simpli": "prad",
+    "simpli": "prod",
     "translation": "prod"
   },
   {
@@ -9800,7 +9800,7 @@
     "translation": "sa"
   },
   {
-    "simpli": "tampsan",
+    "simpli": "tompsan",
     "translation": "Thompson"
   },
   {
@@ -10000,7 +10000,7 @@
     "translation": "tunnistaminen"
   },
   {
-    "simpli": "baialadjikal",
+    "simpli": "baialodjikal",
     "translation": "biologinen"
   },
   {
@@ -10024,7 +10024,7 @@
     "translation": "Indonesia"
   },
   {
-    "simpli": "ras",
+    "simpli": "ros",
     "translation": "Ross"
   },
   {
@@ -10032,7 +10032,7 @@
     "translation": "tavallinen"
   },
   {
-    "simpli": "kanstatusanal",
+    "simpli": "konstatusanal",
     "translation": "perustuslaillinen"
   },
   {
@@ -10044,7 +10044,7 @@
     "translation": "kertomus"
   },
   {
-    "simpli": "kamers",
+    "simpli": "komers",
     "translation": "kauppa"
   },
   {
@@ -10220,7 +10220,7 @@
     "translation": "te"
   },
   {
-    "simpli": "haladei",
+    "simpli": "holadei",
     "translation": "loma"
   },
   {
@@ -10444,7 +10444,7 @@
     "translation": "linkwatcher"
   },
   {
-    "simpli": "ladjik",
+    "simpli": "lodjik",
     "translation": "logiikka"
   },
   {
@@ -10476,7 +10476,7 @@
     "translation": "ncaa"
   },
   {
-    "simpli": "navalast",
+    "simpli": "novalast",
     "translation": "romaanikirjailija"
   },
   {
@@ -10508,7 +10508,7 @@
     "translation": "Campbell"
   },
   {
-    "simpli": "rabansan",
+    "simpli": "robansan",
     "translation": "Robinson"
   },
   {
@@ -10524,7 +10524,7 @@
     "translation": "Edinburgh"
   },
   {
-    "simpli": "radjer",
+    "simpli": "rodjer",
     "translation": "Roger"
   },
   {
@@ -10532,11 +10532,11 @@
     "translation": "yksinomainen"
   },
   {
-    "simpli": "ortadaks",
+    "simpli": "ortadoks",
     "translation": "ortodoksinen"
   },
   {
-    "simpli": "nansens",
+    "simpli": "nonsens",
     "translation": "hölynpöly"
   },
   {
@@ -10568,7 +10568,7 @@
     "translation": "nimittäin"
   },
   {
-    "simpli": "kanverseisan",
+    "simpli": "konverseisan",
     "translation": "keskustelu"
   },
   {
@@ -10588,7 +10588,7 @@
     "translation": "etäinen"
   },
   {
-    "simpli": "wiskansan",
+    "simpli": "wiskonsan",
     "translation": "Wisconsin"
   },
   {
@@ -10608,7 +10608,7 @@
     "translation": "tarpeeton"
   },
   {
-    "simpli": "baialadji",
+    "simpli": "baioladji",
     "translation": "biologia"
   },
   {
@@ -10740,7 +10740,7 @@
     "translation": "vähennys"
   },
   {
-    "simpli": "kamyun",
+    "simpli": "komyun",
     "translation": "kunta"
   },
   {
@@ -10752,7 +10752,7 @@
     "translation": "samanaikaisesti"
   },
   {
-    "simpli": "klak",
+    "simpli": "klok",
     "translation": "kello"
   },
   {
@@ -10828,7 +10828,7 @@
     "translation": "osallistuminen"
   },
   {
-    "simpli": "arkialadjikal",
+    "simpli": "arkialodjikal",
     "translation": "arkeologinen"
   },
   {
@@ -10872,11 +10872,11 @@
     "translation": "hoitaa"
   },
   {
-    "simpli": "ataman",
+    "simpli": "otaman",
     "translation": "osmanien"
   },
   {
-    "simpli": "kamanwelt",
+    "simpli": "komanwelt",
     "translation": "kansainyhteisö"
   },
   {
@@ -10944,7 +10944,7 @@
     "translation": "alumnit"
   },
   {
-    "simpli": "danald",
+    "simpli": "donald",
     "translation": "Donald"
   },
   {
@@ -11036,7 +11036,7 @@
     "translation": "kokonaisuus"
   },
   {
-    "simpli": "kantreri",
+    "simpli": "kontreri",
     "translation": "päinvastainen"
   },
   {
@@ -11288,7 +11288,7 @@
     "translation": "työläinen"
   },
   {
-    "simpli": "dimakrasi",
+    "simpli": "dimokrasi",
     "translation": "demokratia"
   },
   {
@@ -11368,7 +11368,7 @@
     "translation": "Jimmy"
   },
   {
-    "simpli": "damanant",
+    "simpli": "domanant",
     "translation": "hallitseva"
   },
   {
@@ -11424,7 +11424,7 @@
     "translation": "Miami"
   },
   {
-    "simpli": "kansantreisan",
+    "simpli": "konsantreisan",
     "translation": "keskittyminen"
   },
   {
@@ -11444,7 +11444,7 @@
     "translation": "harvempi"
   },
   {
-    "simpli": "kafi",
+    "simpli": "kofi",
     "translation": "kahvi"
   },
   {
@@ -11556,7 +11556,7 @@
     "translation": "ohje"
   },
   {
-    "simpli": "fanamanan",
+    "simpli": "fanomanon",
     "translation": "ilmiö"
   },
   {
@@ -11664,7 +11664,7 @@
     "translation": "tunteellinen"
   },
   {
-    "simpli": "werksap",
+    "simpli": "werksop",
     "translation": "työpaja"
   },
   {
@@ -11676,7 +11676,7 @@
     "translation": "leski"
   },
   {
-    "simpli": "manater",
+    "simpli": "monater",
     "translation": "näyttö"
   },
   {
@@ -11708,7 +11708,7 @@
     "translation": "koostua"
   },
   {
-    "simpli": "skalerli",
+    "simpli": "skolerli",
     "translation": "tieteellinen"
   },
   {
@@ -11732,7 +11732,7 @@
     "translation": "koe"
   },
   {
-    "simpli": "salv",
+    "simpli": "solv",
     "translation": "ratkaista"
   },
   {
@@ -11772,7 +11772,7 @@
     "translation": "meikki"
   },
   {
-    "simpli": "kanvert",
+    "simpli": "konvert",
     "translation": "muuntaa"
   },
   {
@@ -11808,7 +11808,7 @@
     "translation": "rytmi"
   },
   {
-    "simpli": "paverti",
+    "simpli": "poverti",
     "translation": "köyhyys"
   },
   {
@@ -11840,7 +11840,7 @@
     "translation": "veljenpoika"
   },
   {
-    "simpli": "alkahal",
+    "simpli": "alkahol",
     "translation": "alkoholi"
   },
   {
@@ -11860,7 +11860,7 @@
     "translation": "Barbara"
   },
   {
-    "simpli": "djiagrafi",
+    "simpli": "djiografi",
     "translation": "maantiede"
   },
   {
@@ -11904,7 +11904,7 @@
     "translation": "Ra"
   },
   {
-    "simpli": "raster",
+    "simpli": "roster",
     "translation": "kokoonpano"
   },
   {
@@ -11920,7 +11920,7 @@
     "translation": "luostarikirkko"
   },
   {
-    "simpli": "djani",
+    "simpli": "djoni",
     "translation": "Johnny"
   },
   {
@@ -11928,7 +11928,7 @@
     "translation": "melu"
   },
   {
-    "simpli": "abserveisan",
+    "simpli": "observeisan",
     "translation": "havainto"
   },
   {
@@ -11940,7 +11940,7 @@
     "translation": "Baltimore"
   },
   {
-    "simpli": "kamperabal",
+    "simpli": "komperabal",
     "translation": "verrattavissa"
   },
   {
@@ -11952,7 +11952,7 @@
     "translation": "varjo"
   },
   {
-    "simpli": "invalv",
+    "simpli": "involv",
     "translation": "koskea"
   },
   {
@@ -11972,7 +11972,7 @@
     "translation": "teknisesti"
   },
   {
-    "simpli": "amasan",
+    "simpli": "amason",
     "translation": "Amazon"
   },
   {
@@ -12004,7 +12004,7 @@
     "translation": "Rico"
   },
   {
-    "simpli": "robat",
+    "simpli": "robot",
     "translation": "robotti"
   },
   {
@@ -12032,7 +12032,7 @@
     "translation": "mw"
   },
   {
-    "simpli": "kanstantli",
+    "simpli": "konstantli",
     "translation": "jatkuvasti"
   },
   {
@@ -12072,7 +12072,7 @@
     "translation": "hakemisto"
   },
   {
-    "simpli": "kanggrageisan",
+    "simpli": "konggrageisan",
     "translation": "seurakunta"
   },
   {
@@ -12084,7 +12084,7 @@
     "translation": "lentoyhtiö"
   },
   {
-    "simpli": "djanatan",
+    "simpli": "djonatan",
     "translation": "Jonathan"
   },
   {
@@ -12112,7 +12112,7 @@
     "translation": "karkea"
   },
   {
-    "simpli": "dakyamenteisan",
+    "simpli": "dokyamenteisan",
     "translation": "dokumentaatio"
   },
   {
@@ -12120,11 +12120,11 @@
     "translation": "koomikko"
   },
   {
-    "simpli": "prablamatik",
+    "simpli": "problamatik",
     "translation": "ongelmallinen"
   },
   {
-    "simpli": "kantanental",
+    "simpli": "kontanental",
     "translation": "mannermainen"
   },
   {
@@ -12140,7 +12140,7 @@
     "translation": "sulttaani"
   },
   {
-    "simpli": "kaper",
+    "simpli": "koper",
     "translation": "kupari"
   },
   {
@@ -12212,7 +12212,7 @@
     "translation": "dynaaminen"
   },
   {
-    "simpli": "raban",
+    "simpli": "roban",
     "translation": "Robin"
   },
   {
@@ -12260,7 +12260,7 @@
     "translation": "sileä"
   },
   {
-    "simpli": "falasafer",
+    "simpli": "falosafer",
     "translation": "filosofi"
   },
   {
@@ -12324,7 +12324,7 @@
     "translation": "terapia"
   },
   {
-    "simpli": "rakat",
+    "simpli": "rokat",
     "translation": "raketti"
   },
   {
@@ -12376,7 +12376,7 @@
     "translation": "maksu"
   },
   {
-    "simpli": "ladj",
+    "simpli": "lodj",
     "translation": "maja"
   },
   {
@@ -12464,7 +12464,7 @@
     "translation": "lukutaito"
   },
   {
-    "simpli": "kampaond",
+    "simpli": "kompaond",
     "translation": "yhdiste"
   },
   {
@@ -12476,7 +12476,7 @@
     "translation": "lämmin"
   },
   {
-    "simpli": "pridamanantli",
+    "simpli": "pridomanantli",
     "translation": "pääasiassa"
   },
   {
@@ -12564,7 +12564,7 @@
     "translation": "Charlotte"
   },
   {
-    "simpli": "namani",
+    "simpli": "nomani",
     "translation": "ehdokas"
   },
   {
@@ -12708,7 +12708,7 @@
     "translation": "cdp"
   },
   {
-    "simpli": "tialadji",
+    "simpli": "tioladji",
     "translation": "teologia"
   },
   {
@@ -12728,11 +12728,11 @@
     "translation": "asiakas"
   },
   {
-    "simpli": "sandbaks",
+    "simpli": "sandboks",
     "translation": "hiekkalaatikko"
   },
   {
-    "simpli": "katan",
+    "simpli": "kotan",
     "translation": "puuvilla"
   },
   {
@@ -12796,11 +12796,11 @@
     "translation": "peloissaan"
   },
   {
-    "simpli": "raki",
+    "simpli": "roki",
     "translation": "kivinen"
   },
   {
-    "simpli": "kansakvantli",
+    "simpli": "konsakvantli",
     "translation": "sen vuoksi"
   },
   {
@@ -12876,11 +12876,11 @@
     "translation": "tehokkuus"
   },
   {
-    "simpli": "pramas",
+    "simpli": "promas",
     "translation": "lupaus"
   },
   {
-    "simpli": "mask",
+    "simpli": "mosk",
     "translation": "moskeija"
   },
   {
@@ -12900,7 +12900,7 @@
     "translation": "selviytyminen"
   },
   {
-    "simpli": "dakterat",
+    "simpli": "dokterat",
     "translation": "tohtorintutkinto"
   },
   {
@@ -12908,7 +12908,7 @@
     "translation": "kartano"
   },
   {
-    "simpli": "namanat",
+    "simpli": "nomanat",
     "translation": "nimetä"
   },
   {
@@ -12924,7 +12924,7 @@
     "translation": "kosto"
   },
   {
-    "simpli": "maderat",
+    "simpli": "moderat",
     "translation": "kohtalainen"
   },
   {
@@ -12964,7 +12964,7 @@
     "translation": "Nasa"
   },
   {
-    "simpli": "saikaladjikal",
+    "simpli": "saikalodjikal",
     "translation": "psykologinen"
   },
   {
@@ -13032,7 +13032,7 @@
     "translation": "ab"
   },
   {
-    "simpli": "kampramais",
+    "simpli": "kompramais",
     "translation": "kompromissi"
   },
   {
@@ -13092,7 +13092,7 @@
     "translation": "suullinen"
   },
   {
-    "simpli": "resavwar",
+    "simpli": "resavwor",
     "translation": "tekojärvi"
   },
   {
@@ -13148,7 +13148,7 @@
     "translation": "est"
   },
   {
-    "simpli": "apsanal",
+    "simpli": "opsanal",
     "translation": "valinnainen"
   },
   {
@@ -13172,7 +13172,7 @@
     "translation": "maamerkki"
   },
   {
-    "simpli": "prafat",
+    "simpli": "profat",
     "translation": "voitto"
   },
   {
@@ -13200,7 +13200,7 @@
     "translation": "suodatin"
   },
   {
-    "simpli": "madjul",
+    "simpli": "modjul",
     "translation": "moduuli"
   },
   {
@@ -13304,7 +13304,7 @@
     "translation": "kokonaisuus"
   },
   {
-    "simpli": "manster",
+    "simpli": "monster",
     "translation": "hirviö"
   },
   {
@@ -13320,7 +13320,7 @@
     "translation": "kansalais"
   },
   {
-    "simpli": "kanfadans",
+    "simpli": "konfadans",
     "translation": "luottamus"
   },
   {
@@ -13356,7 +13356,7 @@
     "translation": "mlb"
   },
   {
-    "simpli": "akamadeit",
+    "simpli": "akomadeit",
     "translation": "sovittaa"
   },
   {
@@ -13476,7 +13476,7 @@
     "translation": "ap"
   },
   {
-    "simpli": "helikapter",
+    "simpli": "helikopter",
     "translation": "helikopteri"
   },
   {
@@ -13484,7 +13484,7 @@
     "translation": "rakentaa"
   },
   {
-    "simpli": "alaver",
+    "simpli": "olaver",
     "translation": "Oliver"
   },
   {
@@ -13564,7 +13564,7 @@
     "translation": "välimerellinen"
   },
   {
-    "simpli": "prapaganda",
+    "simpli": "propaganda",
     "translation": "propaganda"
   },
   {
@@ -13600,7 +13600,7 @@
     "translation": "näppäimistö"
   },
   {
-    "simpli": "aikan",
+    "simpli": "aikon",
     "translation": "kuvake"
   },
   {
@@ -13744,7 +13744,7 @@
     "translation": "ruudukko"
   },
   {
-    "simpli": "rab",
+    "simpli": "rob",
     "translation": "Rob"
   },
   {
@@ -13760,7 +13760,7 @@
     "translation": "liiallinen"
   },
   {
-    "simpli": "antaladji",
+    "simpli": "antoladji",
     "translation": "antologia"
   },
   {
@@ -13800,7 +13800,7 @@
     "translation": "vähäisempi"
   },
   {
-    "simpli": "anast",
+    "simpli": "onast",
     "translation": "rehellinen"
   },
   {
@@ -13948,7 +13948,7 @@
     "translation": "pikkukylä"
   },
   {
-    "simpli": "valibol",
+    "simpli": "volibol",
     "translation": "lentopallo"
   },
   {
@@ -13968,7 +13968,7 @@
     "translation": "tyttöystävä"
   },
   {
-    "simpli": "horasantal",
+    "simpli": "horasontal",
     "translation": "vaakasuora"
   },
   {
@@ -14004,7 +14004,7 @@
     "translation": "vakaus"
   },
   {
-    "simpli": "filasafikal",
+    "simpli": "filasofikal",
     "translation": "filosofinen"
   },
   {
@@ -14028,7 +14028,7 @@
     "translation": "terroristi"
   },
   {
-    "simpli": "daktran",
+    "simpli": "doktran",
     "translation": "oppi"
   },
   {
@@ -14048,7 +14048,7 @@
     "translation": "riittävä"
   },
   {
-    "simpli": "prababilati",
+    "simpli": "probabilati",
     "translation": "todennäköisyys"
   },
   {
@@ -14144,7 +14144,7 @@
     "translation": "filippiiniläinen"
   },
   {
-    "simpli": "kanstatut",
+    "simpli": "konstatut",
     "translation": "muodostaa"
   },
   {
@@ -14192,7 +14192,7 @@
     "translation": "Harold"
   },
   {
-    "simpli": "gaspal",
+    "simpli": "gospal",
     "translation": "evankeliumi"
   },
   {
@@ -14304,7 +14304,7 @@
     "translation": "painija"
   },
   {
-    "simpli": "protakal",
+    "simpli": "protakol",
     "translation": "protokolla"
   },
   {
@@ -14312,7 +14312,7 @@
     "translation": "säiliö"
   },
   {
-    "simpli": "kansakvans",
+    "simpli": "konsakvans",
     "translation": "seuraus"
   },
   {
@@ -14396,7 +14396,7 @@
     "translation": "yhtenäisyys"
   },
   {
-    "simpli": "ladjikal",
+    "simpli": "lodjikal",
     "translation": "looginen"
   },
   {
@@ -14520,7 +14520,7 @@
     "translation": "mänty"
   },
   {
-    "simpli": "praksimati",
+    "simpli": "proksimati",
     "translation": "läheisyys"
   },
   {
@@ -14532,7 +14532,7 @@
     "translation": "algoritmi"
   },
   {
-    "simpli": "krap",
+    "simpli": "krop",
     "translation": "sato"
   },
   {
@@ -14592,7 +14592,7 @@
     "translation": "pd"
   },
   {
-    "simpli": "pratastant",
+    "simpli": "protastant",
     "translation": "protestanttinen"
   },
   {
@@ -14824,7 +14824,7 @@
     "translation": "punk"
   },
   {
-    "simpli": "pand",
+    "simpli": "pond",
     "translation": "lampi"
   },
   {
@@ -14936,11 +14936,11 @@
     "translation": "petos"
   },
   {
-    "simpli": "kampanseisan",
+    "simpli": "kompanseisan",
     "translation": "korvaus"
   },
   {
-    "simpli": "haland",
+    "simpli": "holand",
     "translation": "Hollanti"
   },
   {
@@ -14996,7 +14996,7 @@
     "translation": "sisäänpääsy"
   },
   {
-    "simpli": "hap",
+    "simpli": "hop",
     "translation": "hyppy"
   },
   {
@@ -15056,7 +15056,7 @@
     "translation": "Stanford"
   },
   {
-    "simpli": "adapsan",
+    "simpli": "adopsan",
     "translation": "adoptio"
   },
   {
@@ -15132,7 +15132,7 @@
     "translation": "eri tavalla"
   },
   {
-    "simpli": "babi",
+    "simpli": "bobi",
     "translation": "Bobby"
   },
   {
@@ -15288,7 +15288,7 @@
     "translation": "muna"
   },
   {
-    "simpli": "kampakt",
+    "simpli": "kompakt",
     "translation": "tiivis"
   },
   {
@@ -15388,7 +15388,7 @@
     "translation": "efcfff"
   },
   {
-    "simpli": "manark",
+    "simpli": "monark",
     "translation": "monarkki"
   },
   {
@@ -15516,7 +15516,7 @@
     "translation": "järjestää"
   },
   {
-    "simpli": "ikanamist",
+    "simpli": "ikonamist",
     "translation": "taloustieteilijä"
   },
   {
@@ -15564,11 +15564,11 @@
     "translation": "staattinen"
   },
   {
-    "simpli": "kantanant",
+    "simpli": "kontanant",
     "translation": "maanosa"
   },
   {
-    "simpli": "djiamatri",
+    "simpli": "djiomatri",
     "translation": "geometria"
   },
   {
@@ -15576,7 +15576,7 @@
     "translation": "pii"
   },
   {
-    "simpli": "fasal",
+    "simpli": "fosal",
     "translation": "fossiili"
   },
   {
@@ -15604,7 +15604,7 @@
     "translation": "Emily"
   },
   {
-    "simpli": "aptikal",
+    "simpli": "optikal",
     "translation": "optinen"
   },
   {
@@ -15664,7 +15664,7 @@
     "translation": "keksintö"
   },
   {
-    "simpli": "dak",
+    "simpli": "dok",
     "translation": "asiakirja"
   },
   {
@@ -15676,7 +15676,7 @@
     "translation": "vankeus"
   },
   {
-    "simpli": "valanteri",
+    "simpli": "volanteri",
     "translation": "vapaaehtoinen"
   },
   {
@@ -15736,7 +15736,7 @@
     "translation": "ing"
   },
   {
-    "simpli": "hastal",
+    "simpli": "hostal",
     "translation": "vihamielinen"
   },
   {
@@ -15780,7 +15780,7 @@
     "translation": "jatkuvasti"
   },
   {
-    "simpli": "rikanasans",
+    "simpli": "rikonasans",
     "translation": "tiedustelu"
   },
   {
@@ -15912,7 +15912,7 @@
     "translation": "Hart"
   },
   {
-    "simpli": "koraspandans",
+    "simpli": "koraspondans",
     "translation": "kirjeenvaihto"
   },
   {
@@ -15972,7 +15972,7 @@
     "translation": "sijoitus"
   },
   {
-    "simpli": "kranikal",
+    "simpli": "kronikal",
     "translation": "kronikka"
   },
   {
@@ -15980,7 +15980,7 @@
     "translation": "rehellisyys"
   },
   {
-    "simpli": "atawa",
+    "simpli": "otawa",
     "translation": "Ottawa"
   },
   {
@@ -16132,7 +16132,7 @@
     "translation": "pesä"
   },
   {
-    "simpli": "kambain",
+    "simpli": "kombain",
     "translation": "yhdistää"
   },
   {
@@ -16152,7 +16152,7 @@
     "translation": "auto"
   },
   {
-    "simpli": "spanser",
+    "simpli": "sponser",
     "translation": "sponsori"
   },
   {
@@ -16160,7 +16160,7 @@
     "translation": "salamurha"
   },
   {
-    "simpli": "kastum",
+    "simpli": "kostum",
     "translation": "puku"
   },
   {
@@ -16180,7 +16180,7 @@
     "translation": "kellari"
   },
   {
-    "simpli": "tialadjikal",
+    "simpli": "tialodjikal",
     "translation": "teologinen"
   },
   {
@@ -16220,7 +16220,7 @@
     "translation": "melodia"
   },
   {
-    "simpli": "pramanans",
+    "simpli": "promanans",
     "translation": "huomattavuus"
   },
   {
@@ -16256,7 +16256,7 @@
     "translation": "puolustaja"
   },
   {
-    "simpli": "tami",
+    "simpli": "tomi",
     "translation": "Tommy"
   },
   {
@@ -16272,7 +16272,7 @@
     "translation": "edustaja"
   },
   {
-    "simpli": "bakser",
+    "simpli": "bokser",
     "translation": "nyrkkeilijä"
   },
   {
@@ -16324,7 +16324,7 @@
     "translation": "suositus"
   },
   {
-    "simpli": "valasati",
+    "simpli": "valosati",
     "translation": "nopeus"
   },
   {
@@ -16372,7 +16372,7 @@
     "translation": "Shanghai"
   },
   {
-    "simpli": "tad",
+    "simpli": "tod",
     "translation": "Todd"
   },
   {
@@ -16420,11 +16420,11 @@
     "translation": "userspace"
   },
   {
-    "simpli": "mantana",
+    "simpli": "montana",
     "translation": "Montana"
   },
   {
-    "simpli": "bamer",
+    "simpli": "bomer",
     "translation": "pommittaja"
   },
   {
@@ -16476,7 +16476,7 @@
     "translation": "elohopea"
   },
   {
-    "simpli": "daler",
+    "simpli": "doler",
     "translation": "dollari"
   },
   {
@@ -16488,7 +16488,7 @@
     "translation": "vuorolaiva"
   },
   {
-    "simpli": "adapt",
+    "simpli": "adopt",
     "translation": "omaksua"
   },
   {
@@ -16564,7 +16564,7 @@
     "translation": "monikko"
   },
   {
-    "simpli": "kanvoi",
+    "simpli": "konvoi",
     "translation": "saattue"
   },
   {
@@ -16588,7 +16588,7 @@
     "translation": "tenori"
   },
   {
-    "simpli": "koraspandant",
+    "simpli": "koraspondant",
     "translation": "kirjeenvaihtaja"
   },
   {
@@ -16600,7 +16600,7 @@
     "translation": "ilmoittaa"
   },
   {
-    "simpli": "kangkvest",
+    "simpli": "kongkvest",
     "translation": "valloitus"
   },
   {
@@ -16796,7 +16796,7 @@
     "translation": "vahvin"
   },
   {
-    "simpli": "dakteral",
+    "simpli": "dokteral",
     "translation": "tohtorin"
   },
   {
@@ -16820,7 +16820,7 @@
     "translation": "poistaminen"
   },
   {
-    "simpli": "ato",
+    "simpli": "oto",
     "translation": "Otto"
   },
   {
@@ -16848,7 +16848,7 @@
     "translation": "leipä"
   },
   {
-    "simpli": "fant",
+    "simpli": "font",
     "translation": "fontti"
   },
   {
@@ -16884,7 +16884,7 @@
     "translation": "sylinteri"
   },
   {
-    "simpli": "memvar",
+    "simpli": "memvor",
     "translation": "muistelmateos"
   },
   {
@@ -16912,7 +16912,7 @@
     "translation": "vakaumus"
   },
   {
-    "simpli": "mataladji",
+    "simpli": "matoladji",
     "translation": "mytologia"
   },
   {
@@ -17036,7 +17036,7 @@
     "translation": "Porter"
   },
   {
-    "simpli": "gatik",
+    "simpli": "gotik",
     "translation": "goottilainen"
   },
   {
@@ -17088,7 +17088,7 @@
     "translation": "koordinointi"
   },
   {
-    "simpli": "mato",
+    "simpli": "moto",
     "translation": "motto"
   },
   {
@@ -17136,7 +17136,7 @@
     "translation": "tuloksetta"
   },
   {
-    "simpli": "teknaladjikal",
+    "simpli": "teknalodjikal",
     "translation": "teknologinen"
   },
   {
@@ -17160,7 +17160,7 @@
     "translation": "Palmer"
   },
   {
-    "simpli": "djialadjikal",
+    "simpli": "djialodjikal",
     "translation": "geologinen"
   },
   {
@@ -17284,7 +17284,7 @@
     "translation": "kielellinen"
   },
   {
-    "simpli": "kaks",
+    "simpli": "koks",
     "translation": "Cox"
   },
   {
@@ -17324,7 +17324,7 @@
     "translation": "gb"
   },
   {
-    "simpli": "meratan",
+    "simpli": "meraton",
     "translation": "maraton"
   },
   {
@@ -17380,11 +17380,11 @@
     "translation": "nsw"
   },
   {
-    "simpli": "stakholm",
+    "simpli": "stokholm",
     "translation": "Tukholma"
   },
   {
-    "simpli": "kamanteiter",
+    "simpli": "komanteiter",
     "translation": "selostaja"
   },
   {
@@ -17520,7 +17520,7 @@
     "translation": "tarkastus"
   },
   {
-    "simpli": "katadj",
+    "simpli": "kotadj",
     "translation": "mökki"
   },
   {
@@ -17560,7 +17560,7 @@
     "translation": "Jamaika"
   },
   {
-    "simpli": "halakost",
+    "simpli": "holakost",
     "translation": "holokausti"
   },
   {
@@ -17600,7 +17600,7 @@
     "translation": "arvioida"
   },
   {
-    "simpli": "akamadeisan",
+    "simpli": "akomadeisan",
     "translation": "majoitus"
   },
   {
@@ -17628,7 +17628,7 @@
     "translation": "postin"
   },
   {
-    "simpli": "aidialadji",
+    "simpli": "aidioladji",
     "translation": "ideologia"
   },
   {
@@ -17636,7 +17636,7 @@
     "translation": "noticeboard"
   },
   {
-    "simpli": "pastjumasli",
+    "simpli": "postjumasli",
     "translation": "postuumisti"
   },
   {
@@ -17644,7 +17644,7 @@
     "translation": "kansanäänestys"
   },
   {
-    "simpli": "kaner",
+    "simpli": "koner",
     "translation": "Connor"
   },
   {
@@ -17664,11 +17664,11 @@
     "translation": "järjestelmällinen"
   },
   {
-    "simpli": "atamik",
+    "simpli": "atomik",
     "translation": "atominen"
   },
   {
-    "simpli": "sosialadji",
+    "simpli": "sosioladji",
     "translation": "sosiologia"
   },
   {
@@ -17696,7 +17696,7 @@
     "translation": "mtv"
   },
   {
-    "simpli": "mantgamri",
+    "simpli": "montgamri",
     "translation": "Montgomery"
   },
   {
@@ -17708,7 +17708,7 @@
     "translation": "solmu"
   },
   {
-    "simpli": "pali",
+    "simpli": "poli",
     "translation": "poly"
   },
   {
@@ -17752,7 +17752,7 @@
     "translation": "Nathan"
   },
   {
-    "simpli": "kalig",
+    "simpli": "kolig",
     "translation": "kollega"
   },
   {
@@ -17772,7 +17772,7 @@
     "translation": "kauhu"
   },
   {
-    "simpli": "armstrang",
+    "simpli": "armstrong",
     "translation": "Armstrong"
   },
   {
@@ -17796,7 +17796,7 @@
     "translation": "skenaario"
   },
   {
-    "simpli": "anastli",
+    "simpli": "onastli",
     "translation": "rehellisesti"
   },
   {
@@ -17864,7 +17864,7 @@
     "translation": "erimielisyys"
   },
   {
-    "simpli": "koapereitiv",
+    "simpli": "koopereitiv",
     "translation": "osuuskunta"
   },
   {
@@ -17872,7 +17872,7 @@
     "translation": "cluebot"
   },
   {
-    "simpli": "spansersip",
+    "simpli": "sponsersip",
     "translation": "sponsorointi"
   },
   {
@@ -17884,7 +17884,7 @@
     "translation": "Henderson"
   },
   {
-    "simpli": "savran",
+    "simpli": "sovran",
     "translation": "hallitsija"
   },
   {
@@ -17896,11 +17896,11 @@
     "translation": "Martha"
   },
   {
-    "simpli": "slat",
+    "simpli": "slot",
     "translation": "paikka"
   },
   {
-    "simpli": "kanfermeisan",
+    "simpli": "konfermeisan",
     "translation": "vahvistus"
   },
   {
@@ -17920,11 +17920,11 @@
     "translation": "ns"
   },
   {
-    "simpli": "ankaman",
+    "simpli": "ankoman",
     "translation": "harvinainen"
   },
   {
-    "simpli": "madast",
+    "simpli": "modast",
     "translation": "vaatimaton"
   },
   {
@@ -17940,7 +17940,7 @@
     "translation": "vierailija"
   },
   {
-    "simpli": "kagnitiv",
+    "simpli": "kognitiv",
     "translation": "kognitiivinen"
   },
   {
@@ -17988,7 +17988,7 @@
     "translation": "trilogia"
   },
   {
-    "simpli": "vermant",
+    "simpli": "vermont",
     "translation": "Vermont"
   },
   {
@@ -18008,7 +18008,7 @@
     "translation": "dos"
   },
   {
-    "simpli": "pakat",
+    "simpli": "pokat",
     "translation": "tasku"
   },
   {
@@ -18064,7 +18064,7 @@
     "translation": "kilta"
   },
   {
-    "simpli": "praspekt",
+    "simpli": "prospekt",
     "translation": "näkymä"
   },
   {
@@ -18092,7 +18092,7 @@
     "translation": "Richardson"
   },
   {
-    "simpli": "rabertsan",
+    "simpli": "robertsan",
     "translation": "Robertson"
   },
   {
@@ -18112,7 +18112,7 @@
     "translation": "polkupyörä"
   },
   {
-    "simpli": "terminaladji",
+    "simpli": "terminoladji",
     "translation": "terminologia"
   },
   {
@@ -18136,7 +18136,7 @@
     "translation": "vauva"
   },
   {
-    "simpli": "prasakyusan",
+    "simpli": "prosakyusan",
     "translation": "syyte"
   },
   {
@@ -18252,7 +18252,7 @@
     "translation": "behavioraalinen"
   },
   {
-    "simpli": "kalamnast",
+    "simpli": "kolamnast",
     "translation": "kolumnisti"
   },
   {
@@ -18280,7 +18280,7 @@
     "translation": "idoli"
   },
   {
-    "simpli": "astranamer",
+    "simpli": "astronamer",
     "translation": "tähtitieteilijä"
   },
   {
@@ -18288,7 +18288,7 @@
     "translation": "esteettinen"
   },
   {
-    "simpli": "ilektran",
+    "simpli": "ilektron",
     "translation": "elektroni"
   },
   {
@@ -18304,7 +18304,7 @@
     "translation": "aateli"
   },
   {
-    "simpli": "ranald",
+    "simpli": "ronald",
     "translation": "Ronald"
   },
   {
@@ -18324,7 +18324,7 @@
     "translation": "sopraano"
   },
   {
-    "simpli": "kansol",
+    "simpli": "konsol",
     "translation": "konsoli"
   },
   {
@@ -18404,7 +18404,7 @@
     "translation": "likainen"
   },
   {
-    "simpli": "pater",
+    "simpli": "poter",
     "translation": "Potter"
   },
   {
@@ -18528,7 +18528,7 @@
     "translation": "silkki"
   },
   {
-    "simpli": "salaman",
+    "simpli": "solaman",
     "translation": "Solomon"
   },
   {
@@ -18580,7 +18580,7 @@
     "translation": "viha"
   },
   {
-    "simpli": "akyapai",
+    "simpli": "okyapai",
     "translation": "vallata"
   },
   {
@@ -18592,7 +18592,7 @@
     "translation": "ller"
   },
   {
-    "simpli": "kanvant",
+    "simpli": "konvant",
     "translation": "luostari"
   },
   {
@@ -18640,11 +18640,11 @@
     "translation": "nuori"
   },
   {
-    "simpli": "pateri",
+    "simpli": "poteri",
     "translation": "keramiikka"
   },
   {
-    "simpli": "madana",
+    "simpli": "madona",
     "translation": "Madonna"
   },
   {
@@ -18676,7 +18676,7 @@
     "translation": "asianmukaisesti"
   },
   {
-    "simpli": "absalit",
+    "simpli": "obsalit",
     "translation": "vanhentunut"
   },
   {
@@ -18736,7 +18736,7 @@
     "translation": "kausittainen"
   },
   {
-    "simpli": "nakaot",
+    "simpli": "nokaot",
     "translation": "tyrmäys"
   },
   {
@@ -18808,7 +18808,7 @@
     "translation": "rpm"
   },
   {
-    "simpli": "prababal",
+    "simpli": "probabal",
     "translation": "todennäköinen"
   },
   {
@@ -18820,7 +18820,7 @@
     "translation": "epätarkka"
   },
   {
-    "simpli": "lian",
+    "simpli": "lion",
     "translation": "Leon"
   },
   {
@@ -18844,7 +18844,7 @@
     "translation": "Burke"
   },
   {
-    "simpli": "fanamana",
+    "simpli": "fanomana",
     "translation": "ilmiöt"
   },
   {
@@ -18856,7 +18856,7 @@
     "translation": "pastori"
   },
   {
-    "simpli": "aikanik",
+    "simpli": "aikonik",
     "translation": "ikoninen"
   },
   {
@@ -18900,7 +18900,7 @@
     "translation": "Somerset"
   },
   {
-    "simpli": "bader",
+    "simpli": "boder",
     "translation": "vaivata"
   },
   {
@@ -18952,15 +18952,15 @@
     "translation": "harja"
   },
   {
-    "simpli": "aknalidj",
+    "simpli": "aknolidj",
     "translation": "tunnustaa"
   },
   {
-    "simpli": "kanggo",
+    "simpli": "konggo",
     "translation": "Kongo"
   },
   {
-    "simpli": "fergat",
+    "simpli": "fergot",
     "translation": "unohti"
   },
   {
@@ -18996,7 +18996,7 @@
     "translation": "vedota"
   },
   {
-    "simpli": "kanggrasman",
+    "simpli": "konggrasman",
     "translation": "kongressiedustaja"
   },
   {
@@ -19048,7 +19048,7 @@
     "translation": "Jeremy"
   },
   {
-    "simpli": "kranik",
+    "simpli": "kronik",
     "translation": "krooninen"
   },
   {
@@ -19068,7 +19068,7 @@
     "translation": "presbyteerinen"
   },
   {
-    "simpli": "taksik",
+    "simpli": "toksik",
     "translation": "myrkyllinen"
   },
   {
@@ -19120,7 +19120,7 @@
     "translation": "Perth"
   },
   {
-    "simpli": "rad",
+    "simpli": "rod",
     "translation": "sauva"
   },
   {
@@ -19184,7 +19184,7 @@
     "translation": "uskottava"
   },
   {
-    "simpli": "merako",
+    "simpli": "meroko",
     "translation": "Marokko"
   },
   {
@@ -19264,7 +19264,7 @@
     "translation": "jatko"
   },
   {
-    "simpli": "djialadji",
+    "simpli": "djioladji",
     "translation": "geologia"
   },
   {
@@ -19332,7 +19332,7 @@
     "translation": "asentaa"
   },
   {
-    "simpli": "astranami",
+    "simpli": "astronami",
     "translation": "tähtitiede"
   },
   {
@@ -19352,15 +19352,15 @@
     "translation": "Sussex"
   },
   {
-    "simpli": "valkanik",
+    "simpli": "volkanik",
     "translation": "vulkaaninen"
   },
   {
-    "simpli": "apaladjais",
+    "simpli": "apoladjais",
     "translation": "pyytää anteeksi"
   },
   {
-    "simpli": "tamsan",
+    "simpli": "tomsan",
     "translation": "Thomson"
   },
   {
@@ -19372,7 +19372,7 @@
     "translation": "itn"
   },
   {
-    "simpli": "apraksamat",
+    "simpli": "aproksamat",
     "translation": "likimääräinen"
   },
   {
@@ -19388,7 +19388,7 @@
     "translation": "Chuck"
   },
   {
-    "simpli": "djasua",
+    "simpli": "djosua",
     "translation": "Joshua"
   },
   {
@@ -19544,7 +19544,7 @@
     "translation": "läpimurto"
   },
   {
-    "simpli": "ikaladjikal",
+    "simpli": "ikalodjikal",
     "translation": "ekologinen"
   },
   {
@@ -19652,11 +19652,11 @@
     "translation": "eettinen"
   },
   {
-    "simpli": "prasikyuter",
+    "simpli": "prosikyuter",
     "translation": "syyttäjä"
   },
   {
-    "simpli": "pramanantli",
+    "simpli": "promanantli",
     "translation": "näkyvästi"
   },
   {
@@ -19664,11 +19664,11 @@
     "translation": "makea vesi"
   },
   {
-    "simpli": "madafakeisan",
+    "simpli": "modafakeisan",
     "translation": "muutos"
   },
   {
-    "simpli": "djanstan",
+    "simpli": "djonstan",
     "translation": "Johnston"
   },
   {
@@ -19768,7 +19768,7 @@
     "translation": "Claire"
   },
   {
-    "simpli": "simbalik",
+    "simpli": "simbolik",
     "translation": "symbolinen"
   },
   {
@@ -19792,11 +19792,11 @@
     "translation": "Chester"
   },
   {
-    "simpli": "antrapaladji",
+    "simpli": "antrapoladji",
     "translation": "antropologia"
   },
   {
-    "simpli": "kanfadant",
+    "simpli": "konfadant",
     "translation": "varma"
   },
   {

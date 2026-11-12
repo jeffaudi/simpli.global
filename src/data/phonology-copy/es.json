@@ -33,6 +33,7 @@
   "glide": "Una sola sílaba. La lengua se desliza. No son dos vocales seguidas.",
   "englishRef": "Referencia adicional en inglés: {word}.",
   "lengthGap": "Se puede duplicar una vocal (aa, ee, ii, oo, uu) para más claridad. En general, no se hace: basta una letra.",
+  "vowelO": "La vocal de father y de hat es a. Cuando el inglés escribe esa vocal con o, Simpli mantiene o: hot, not y on.",
   "vowelSeq": "ai, ei, ao y oi son una sílaba cada uno. ao es el sonido de hao y nao; no escriba au. Cualquier otro par de vocales son dos sílabas, como en vidio.",
   "clusterGap": "Una sílaba suele ser consonante, vocal y consonante opcional. La lista también conserva grupos como str y nk. Una vocal corta añadida se entiende mientras se aprende; la referencia no la añade. Acentúe la penúltima sílaba y no debilite las otras vocales.",
   "vwSpell": "Escriba w donde el inglés usa w (woter, wi). Escriba v donde el inglés usa v (hav, seven). Prefiera el sonido de referencia de cada letra.",

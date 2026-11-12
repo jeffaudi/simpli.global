@@ -37,6 +37,7 @@ export type PhonologyCopy = {
   glide: string;
   englishRef: string;
   lengthGap: string;
+  vowelO: string;
   vowelSeq: string;
   clusterGap: string;
   vwSpell: string;
@@ -199,10 +200,15 @@ export function renderPhonologyGuide(lang: Lang): string {
     <h2>${esc(copy.tableTitle)}</h2>
     ${tables}
     <p>${esc(copy.lengthGap)}</p>
+    <p>${esc(copy.vowelO)}</p>
     <p>${esc(copy.vowelSeq)}</p>
     <p>${esc(copy.clusterGap)}</p>
     <p>${esc(copy.vwSpell)}</p>
   </section>`;
+}
+
+export function renderVowelRule(lang: Lang): string {
+  return `<p>${esc(copyFor(lang).vowelO)}</p>`;
 }
 
 export function renderRationalePointer(lang: Lang, href: string): string {

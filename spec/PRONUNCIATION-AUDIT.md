@@ -47,7 +47,7 @@ Not implemented. Each one changes spelling or a lexical contrast.
 1. **Apply vowel length in the word list**, or officially stop using it. Applying it splits sit/seat, team/tim, and similar pairs, and makes the list match the spelling page. It also rewrites a large part of the vocabulary and moves some words away from a one-letter English look. Stopping length would delete a rule the site already teaches.
 2. **Keep /v/ and /w/ distinct in teaching** (done as the reference) and, if wanted later, respell one side of the merged pairs only if a community prefers one sound for both letters.
 3. **Repair generator errors without a blanket respelling:** *becos* → *bikos* (removes **c**, but *becos* is already the grammar word); stop collapsing **g** after **ng** so *finger* can keep its **g**; drop or respell *vouldn*, *souldn*, *kouldn*, *teahouse*.
-4. **Decide the hot/hat merger.** Both are *hat* because AA and AE become **a**. Splitting them needs a new vowel, which this review does not recommend. Keeping the merger is the current list.
+4. **Decide the hot/hat merger.** Both were *hat* because AA and AE become **a**. Splitting them with a new vowel is not recommended. Decision 6 keeps the English letter **o**, so *hot* is *hot* and *hat* stays *hat*.
 
 ## What the site change does
 
@@ -55,8 +55,9 @@ The spelling page in every interface language now reads one inventory. IPA value
 
 ## Decisions applied
 
-1. Long vowels are optional and generally unused. The pronunciation page has no long-vowel table. One sentence says a doubled vowel may be used for clarity. The word list does not apply length: *key* is *ki*, *road* is *rod*, *room* is *rum*, *teacher* is *titjer*. *hot* and *hat* stay *hat*.
+1. Long vowels are optional and generally unused. The pronunciation page has no long-vowel table. One sentence says a doubled vowel may be used for clarity. The word list does not apply length: *key* is *ki*, *road* is *rod*, *room* is *rum*, *teacher* is *titjer*.
 2. **v** and **w** stay separate. The list was reviewed. A fallback that turned English **w** into **v** was fixed (*wikiprojekt* and similar). A /w/ next to /v/ stays **w** (*resavwar*). *one* stays *van* and *won* stays *wan*.
 3. Generator repairs, without a new pass over the whole vocabulary: *because* is *bikos* (including the grammar word); **g** after **ng** is kept (*fingger*, *ingglis*, *singgal*, *longger*); *wouldn*, *shouldn*, *couldn*, *councillor*, and *teahouse* are *wudn*, *sudn*, *kudn*, *kaonsiler*, and *tihaos*.
 4. The stress example is *kampyuter*, which is already the list spelling.
 5. The spelling line is “one sound = one or two letters”, because diphthongs and **tj** / **dj** use two letters. There are still no silent letters.
+6. AA spelled with the English letter **o** stays **o**, even when another word already has that spelling. *hot* is *hot* and *hat* stays *hat*. *not* and *note* are both *not*. *on* and *own* are both *on*. *rod* and *road* are both *rod*. No sixth vowel.

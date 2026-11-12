@@ -16,7 +16,7 @@
     "translation": "ເຖິງ"
   },
   {
-    "simpli": "an",
+    "simpli": "on",
     "translation": "ເທິງ"
   },
   {
@@ -52,7 +52,7 @@
     "translation": "ຈາກ"
   },
   {
-    "simpli": "nat",
+    "simpli": "not",
     "translation": "ບໍ່"
   },
   {
@@ -220,7 +220,7 @@
     "translation": "ກັນຍາ"
   },
   {
-    "simpli": "aktober",
+    "simpli": "oktober",
     "translation": "ຕຸລາ"
   },
   {
@@ -260,7 +260,7 @@
     "translation": "ໃດ"
   },
   {
-    "simpli": "kam",
+    "simpli": "kom",
     "translation": "com"
   },
   {
@@ -464,7 +464,7 @@
     "translation": "ຈົນກວ່າ"
   },
   {
-    "simpli": "madafai",
+    "simpli": "modafai",
     "translation": "ແກ້ໄຂ"
   },
   {
@@ -752,7 +752,7 @@
     "translation": "ບ້ານ"
   },
   {
-    "simpli": "kament",
+    "simpli": "koment",
     "translation": "ຄຳເຫັນ"
   },
   {
@@ -808,7 +808,7 @@
     "translation": "ເມືອງນ້ອຍ"
   },
   {
-    "simpli": "papyaleisan",
+    "simpli": "popyaleisan",
     "translation": "ປະຊາກອນ"
   },
   {
@@ -860,7 +860,7 @@
     "translation": "ອາຍຸ"
   },
   {
-    "simpli": "tap",
+    "simpli": "top",
     "translation": "ເທິງສຸດ"
   },
   {
@@ -984,7 +984,7 @@
     "translation": "ລົງ"
   },
   {
-    "simpli": "djan",
+    "simpli": "djon",
     "translation": "John"
   },
   {
@@ -1044,7 +1044,7 @@
     "translation": "ສະຖານທີ່"
   },
   {
-    "simpli": "kantent",
+    "simpli": "kontent",
     "translation": "ເນື້ອຫາ"
   },
   {
@@ -1060,7 +1060,7 @@
     "translation": "ພໍ່"
   },
   {
-    "simpli": "pradjekt",
+    "simpli": "prodjekt",
     "translation": "ໂຄງການ"
   },
   {
@@ -1164,7 +1164,7 @@
     "translation": "ນ້ຳ"
   },
   {
-    "simpli": "kalidj",
+    "simpli": "kolidj",
     "translation": "ວິທະຍາໄລ"
   },
   {
@@ -1376,7 +1376,7 @@
     "translation": "ສາຂາ"
   },
   {
-    "simpli": "kaman",
+    "simpli": "koman",
     "translation": "ທົ່ວໄປ"
   },
   {
@@ -1404,7 +1404,7 @@
     "translation": "ມືອາຊີບ"
   },
   {
-    "simpli": "pasabal",
+    "simpli": "posabal",
     "translation": "ເປັນໄປໄດ້"
   },
   {
@@ -1496,7 +1496,7 @@
     "translation": "ທົບທວນ"
   },
   {
-    "simpli": "prababli",
+    "simpli": "probabli",
     "translation": "ອາດຈະ"
   },
   {
@@ -1512,7 +1512,7 @@
     "translation": "ທາງການ"
   },
   {
-    "simpli": "palasi",
+    "simpli": "polasi",
     "translation": "ນະໂຍບາຍ"
   },
   {
@@ -1640,11 +1640,11 @@
     "translation": "ຕົນເອງ"
   },
   {
-    "simpli": "papyaler",
+    "simpli": "popyaler",
     "translation": "ນິຍົມ"
   },
   {
-    "simpli": "prablam",
+    "simpli": "problam",
     "translation": "ບັນຫາ"
   },
   {
@@ -1660,7 +1660,7 @@
     "translation": "ສະພາ"
   },
   {
-    "simpli": "apan",
+    "simpli": "apon",
     "translation": "ເທິງ"
   },
   {
@@ -1676,7 +1676,7 @@
     "translation": "ອັດຕາສ່ວນ"
   },
   {
-    "simpli": "madern",
+    "simpli": "modern",
     "translation": "ທັນສະໄໝ"
   },
   {
@@ -1720,7 +1720,7 @@
     "translation": "ພາກເໜືອ"
   },
   {
-    "simpli": "badi",
+    "simpli": "bodi",
     "translation": "ຮ່າງກາຍ"
   },
   {
@@ -2024,7 +2024,7 @@
     "translation": "ຫົວໜ້າ"
   },
   {
-    "simpli": "tapik",
+    "simpli": "topik",
     "translation": "ຫົວຂໍ້"
   },
   {
@@ -2088,7 +2088,7 @@
     "translation": "ໃຫຍ່"
   },
   {
-    "simpli": "palatisan",
+    "simpli": "polatisan",
     "translation": "ນັກການເມືອງ"
   },
   {
@@ -2152,7 +2152,7 @@
     "translation": "ເອີຣົບ"
   },
   {
-    "simpli": "lat",
+    "simpli": "lot",
     "translation": "ຫຼາຍ"
   },
   {
@@ -2172,7 +2172,7 @@
     "translation": "ພຽງແຕ່"
   },
   {
-    "simpli": "kampatisan",
+    "simpli": "kompatisan",
     "translation": "ການແຂ່ງຂັນ"
   },
   {
@@ -2184,7 +2184,7 @@
     "translation": "ປ່ອຍໃຫ້"
   },
   {
-    "simpli": "madal",
+    "simpli": "modal",
     "translation": "ແບບຈຳລອງ"
   },
   {
@@ -2260,7 +2260,7 @@
     "translation": "ແມ່ນ"
   },
   {
-    "simpli": "naval",
+    "simpli": "noval",
     "translation": "ນະວະນິຍາຍ"
   },
   {
@@ -2292,7 +2292,7 @@
     "translation": "ສິບ"
   },
   {
-    "simpli": "rak",
+    "simpli": "rok",
     "translation": "ຫີນ"
   },
   {
@@ -2444,7 +2444,7 @@
     "translation": "ຜູ້ຜະລິດ"
   },
   {
-    "simpli": "kapirait",
+    "simpli": "kopirait",
     "translation": "ລິຂະສິດ"
   },
   {
@@ -2472,7 +2472,7 @@
     "translation": "ການຈັດການ"
   },
   {
-    "simpli": "namaneisan",
+    "simpli": "nomaneisan",
     "translation": "ການສະເໜີຊື່"
   },
   {
@@ -2488,7 +2488,7 @@
     "translation": "ແນ່ນອນ"
   },
   {
-    "simpli": "kanat",
+    "simpli": "kanot",
     "translation": "ບໍ່ສາມາດ"
   },
   {
@@ -2576,7 +2576,7 @@
     "translation": "ດັ່ງນັ້ນ"
   },
   {
-    "simpli": "teknaladji",
+    "simpli": "teknoladji",
     "translation": "ເຕັກໂນໂລຊີ"
   },
   {
@@ -2596,7 +2596,7 @@
     "translation": "ຊາວຣັດເຊຍ"
   },
   {
-    "simpli": "apraksamatli",
+    "simpli": "aproksamatli",
     "translation": "ປະມານ"
   },
   {
@@ -2736,7 +2736,7 @@
     "translation": "ພະນັກງານ"
   },
   {
-    "simpli": "rispans",
+    "simpli": "rispons",
     "translation": "ການຕອບຮັບ"
   },
   {
@@ -2764,7 +2764,7 @@
     "translation": "ລັກສະນະ"
   },
   {
-    "simpli": "haspital",
+    "simpli": "hospital",
     "translation": "ໂຮງໝໍ"
   },
   {
@@ -2780,7 +2780,7 @@
     "translation": "ສີຟ້າ"
   },
   {
-    "simpli": "praperti",
+    "simpli": "properti",
     "translation": "ຊັບສິນ"
   },
   {
@@ -2888,7 +2888,7 @@
     "translation": "ອາຫານ"
   },
   {
-    "simpli": "rabert",
+    "simpli": "robert",
     "translation": "Robert"
   },
   {
@@ -2960,11 +2960,11 @@
     "translation": "ວິກິ"
   },
   {
-    "simpli": "stap",
+    "simpli": "stop",
     "translation": "ຢຸດ"
   },
   {
-    "simpli": "kanferans",
+    "simpli": "konferans",
     "translation": "ກອງປະຊຸມ"
   },
   {
@@ -3036,11 +3036,11 @@
     "translation": "ເຈົ້າແຂວງ"
   },
   {
-    "simpli": "ekanamik",
+    "simpli": "ekanomik",
     "translation": "ເສດຖະກິດ"
   },
   {
-    "simpli": "kantrakt",
+    "simpli": "kontrakt",
     "translation": "ສັນຍາ"
   },
   {
@@ -3168,7 +3168,7 @@
     "translation": "ສີນ້ຳຕານ"
   },
   {
-    "simpli": "kampleks",
+    "simpli": "kompleks",
     "translation": "ສັບສົນ"
   },
   {
@@ -3236,7 +3236,7 @@
     "translation": "ໂຮງລະຄອນ"
   },
   {
-    "simpli": "gad",
+    "simpli": "god",
     "translation": "ພະເຈົ້າ"
   },
   {
@@ -3316,7 +3316,7 @@
     "translation": "Mary"
   },
   {
-    "simpli": "sat",
+    "simpli": "sot",
     "translation": "ການຍິງ"
   },
   {
@@ -3328,7 +3328,7 @@
     "translation": "ມີຢູ່"
   },
   {
-    "simpli": "pravans",
+    "simpli": "provans",
     "translation": "ແຂວງ"
   },
   {
@@ -3360,7 +3360,7 @@
     "translation": "ການເງິນ"
   },
   {
-    "simpli": "nam",
+    "simpli": "nom",
     "translation": "nom"
   },
   {
@@ -3372,7 +3372,7 @@
     "translation": "ສູງ"
   },
   {
-    "simpli": "naladj",
+    "simpli": "noladj",
     "translation": "ຄວາມຮູ້"
   },
   {
@@ -3380,7 +3380,7 @@
     "translation": "ເພື່ອນຮ່ວມ"
   },
   {
-    "simpli": "salad",
+    "simpli": "solad",
     "translation": "ແຂງ"
   },
   {
@@ -3396,7 +3396,7 @@
     "translation": "ບາງທີ"
   },
   {
-    "simpli": "apereisan",
+    "simpli": "opereisan",
     "translation": "ການດຳເນີນ"
   },
   {
@@ -3512,7 +3512,7 @@
     "translation": "ຖ້າບໍ່ດັ່ງນັ້ນ"
   },
   {
-    "simpli": "djab",
+    "simpli": "djob",
     "translation": "ວຽກ"
   },
   {
@@ -3520,7 +3520,7 @@
     "translation": "ສູ້"
   },
   {
-    "simpli": "valyum",
+    "simpli": "volyum",
     "translation": "ປະລິມານ"
   },
   {
@@ -3608,7 +3608,7 @@
     "translation": "Bill"
   },
   {
-    "simpli": "biand",
+    "simpli": "biond",
     "translation": "ເກີນກວ່າ"
   },
   {
@@ -3668,7 +3668,7 @@
     "translation": "Henry"
   },
   {
-    "simpli": "pasabli",
+    "simpli": "posabli",
     "translation": "ເປັນໄປໄດ້"
   },
   {
@@ -3688,7 +3688,7 @@
     "translation": "ກອງທັບເຮືອ"
   },
   {
-    "simpli": "pradakt",
+    "simpli": "prodakt",
     "translation": "ຜະລິດຕະພັນ"
   },
   {
@@ -3704,7 +3704,7 @@
     "translation": "Los"
   },
   {
-    "simpli": "baks",
+    "simpli": "boks",
     "translation": "ກ່ອງ"
   },
   {
@@ -3724,11 +3724,11 @@
     "translation": "ໂດຍສະເພາະ"
   },
   {
-    "simpli": "kansept",
+    "simpli": "konsept",
     "translation": "ແນວຄິດ"
   },
   {
-    "simpli": "pasativ",
+    "simpli": "posativ",
     "translation": "ທາງບວກ"
   },
   {
@@ -3752,7 +3752,7 @@
     "translation": "ກວດ"
   },
   {
-    "simpli": "rispansabal",
+    "simpli": "risponsabal",
     "translation": "ຮັບຜິດຊອບ"
   },
   {
@@ -3908,7 +3908,7 @@
     "translation": "ອ່າວ"
   },
   {
-    "simpli": "pramanant",
+    "simpli": "promanant",
     "translation": "ໂດດເດັ່ນ"
   },
   {
@@ -3972,7 +3972,7 @@
     "translation": "ລາຍໄດ້"
   },
   {
-    "simpli": "kamanli",
+    "simpli": "komanli",
     "translation": "ໂດຍທົ່ວໄປ"
   },
   {
@@ -4024,7 +4024,7 @@
     "translation": "ການຕັ້ງຖິ່ນ"
   },
   {
-    "simpli": "kantekst",
+    "simpli": "kontekst",
     "translation": "ບໍລິບົດ"
   },
   {
@@ -4152,7 +4152,7 @@
     "translation": "ວິສະວະກອນ"
   },
   {
-    "simpli": "falo",
+    "simpli": "folo",
     "translation": "ຕາມ"
   },
   {
@@ -4260,7 +4260,7 @@
     "translation": "ທຸກຄົນ"
   },
   {
-    "simpli": "kapi",
+    "simpli": "kopi",
     "translation": "ສຳເນົາ"
   },
   {
@@ -4296,7 +4296,7 @@
     "translation": "ຊິ້ນ"
   },
   {
-    "simpli": "kanflikt",
+    "simpli": "konflikt",
     "translation": "ຂໍ້ຂັດແຍ່ງ"
   },
   {
@@ -4584,7 +4584,7 @@
     "translation": "ອຳນວຍການ"
   },
   {
-    "simpli": "batam",
+    "simpli": "botam",
     "translation": "ລຸ່ມສຸດ"
   },
   {
@@ -4628,7 +4628,7 @@
     "translation": "ຄວາມເສຍຫາຍ"
   },
   {
-    "simpli": "kantakt",
+    "simpli": "kontakt",
     "translation": "ຕິດຕໍ່"
   },
   {
@@ -4716,7 +4716,7 @@
     "translation": "ກ່ອນຄສ"
   },
   {
-    "simpli": "aner",
+    "simpli": "oner",
     "translation": "ກຽດຕິຍົດ"
   },
   {
@@ -4756,11 +4756,11 @@
     "translation": "ທ່ານນາງ"
   },
   {
-    "simpli": "skatland",
+    "simpli": "skotland",
     "translation": "ສະກັອດ"
   },
   {
-    "simpli": "dakyamenteri",
+    "simpli": "dokyamenteri",
     "translation": "ສາລະຄະດີ"
   },
   {
@@ -4784,7 +4784,7 @@
     "translation": "ຈະລາຈອນ"
   },
   {
-    "simpli": "kansert",
+    "simpli": "konsert",
     "translation": "ຄອນເສີດ"
   },
   {
@@ -4800,7 +4800,7 @@
     "translation": "ຄ່າກາງ"
   },
   {
-    "simpli": "praper",
+    "simpli": "proper",
     "translation": "ເໝາະສົມ"
   },
   {
@@ -4872,7 +4872,7 @@
     "translation": "ເລັກນ້ອຍ"
   },
   {
-    "simpli": "apra",
+    "simpli": "opra",
     "translation": "ໂອເປຣາ"
   },
   {
@@ -4892,7 +4892,7 @@
     "translation": "ການລວມ"
   },
   {
-    "simpli": "apasisan",
+    "simpli": "opasisan",
     "translation": "ຝ່າຍຄ້ານ"
   },
   {
@@ -4912,7 +4912,7 @@
     "translation": "ສ່ວນ"
   },
   {
-    "simpli": "dakter",
+    "simpli": "dokter",
     "translation": "ແພດ"
   },
   {
@@ -4920,7 +4920,7 @@
     "translation": "ca"
   },
   {
-    "simpli": "sari",
+    "simpli": "sori",
     "translation": "ຂໍໂທດ"
   },
   {
@@ -5116,7 +5116,7 @@
     "translation": "ຫ້າມ"
   },
   {
-    "simpli": "pap",
+    "simpli": "pop",
     "translation": "ປັອບ"
   },
   {
@@ -5200,7 +5200,7 @@
     "translation": "ຕົກ"
   },
   {
-    "simpli": "skatis",
+    "simpli": "skotis",
     "translation": "ສະກັອດ"
   },
   {
@@ -5268,7 +5268,7 @@
     "translation": "ຜູ້ຊົມ"
   },
   {
-    "simpli": "brans",
+    "simpli": "brons",
     "translation": "ທອງແດງ"
   },
   {
@@ -5304,11 +5304,11 @@
     "translation": "ທາງອອກ"
   },
   {
-    "simpli": "abdjekt",
+    "simpli": "obdjekt",
     "translation": "ວັດຖຸ"
   },
   {
-    "simpli": "kamadi",
+    "simpli": "komadi",
     "translation": "ຕະຫຼົກ"
   },
   {
@@ -5352,7 +5352,7 @@
     "translation": "ນິຍາຍ"
   },
   {
-    "simpli": "kantrabyusan",
+    "simpli": "kontrabyusan",
     "translation": "ການປະກອບສ່ວນ"
   },
   {
@@ -5392,7 +5392,7 @@
     "translation": "ເຫຼືອງ"
   },
   {
-    "simpli": "djansan",
+    "simpli": "djonsan",
     "translation": "Johnson"
   },
   {
@@ -5436,7 +5436,7 @@
     "translation": "ຕື້"
   },
   {
-    "simpli": "apsan",
+    "simpli": "opsan",
     "translation": "ທາງເລືອກ"
   },
   {
@@ -5476,7 +5476,7 @@
     "translation": "ເຄົາລົບ"
   },
   {
-    "simpli": "tam",
+    "simpli": "tom",
     "translation": "Tom"
   },
   {
@@ -5496,7 +5496,7 @@
     "translation": "ລາຍລະອຽດ"
   },
   {
-    "simpli": "antu",
+    "simpli": "ontu",
     "translation": "ເທິງ"
   },
   {
@@ -5508,7 +5508,7 @@
     "translation": "ສະແດງ"
   },
   {
-    "simpli": "aksferd",
+    "simpli": "oksferd",
     "translation": "ອັອກຟອດ"
   },
   {
@@ -5552,7 +5552,7 @@
     "translation": "ການທຳລາຍ"
   },
   {
-    "simpli": "hat",
+    "simpli": "hot",
     "translation": "ຮ້ອນ"
   },
   {
@@ -5564,7 +5564,7 @@
     "translation": "ໂອລິມປິກ"
   },
   {
-    "simpli": "ikanami",
+    "simpli": "ikonami",
     "translation": "ເສດຖະກິດ"
   },
   {
@@ -5576,7 +5576,7 @@
     "translation": "di"
   },
   {
-    "simpli": "abviasli",
+    "simpli": "obviasli",
     "translation": "ຢ່າງຊັດເຈນ"
   },
   {
@@ -5592,7 +5592,7 @@
     "translation": "ສິ່ງທ້າທາຍ"
   },
   {
-    "simpli": "falasafi",
+    "simpli": "falosafi",
     "translation": "ປັດຊະຍາ"
   },
   {
@@ -5636,11 +5636,11 @@
     "translation": "ພໍສົມຄວນ"
   },
   {
-    "simpli": "plat",
+    "simpli": "plot",
     "translation": "ເລື່ອງຫຍໍ້"
   },
   {
-    "simpli": "bastan",
+    "simpli": "bostan",
     "translation": "ບອສຕັນ"
   },
   {
@@ -5672,7 +5672,7 @@
     "translation": "ທະຫານຮາບ"
   },
   {
-    "simpli": "kambat",
+    "simpli": "kombat",
     "translation": "ການຕໍ່ສູ້"
   },
   {
@@ -5764,7 +5764,7 @@
     "translation": "ຢ່າງໃກ້ຊິດ"
   },
   {
-    "simpli": "skat",
+    "simpli": "skot",
     "translation": "Scott"
   },
   {
@@ -5788,7 +5788,7 @@
     "translation": "ຊີ້ບອກ"
   },
   {
-    "simpli": "haki",
+    "simpli": "hoki",
     "translation": "ຮັອກກີ"
   },
   {

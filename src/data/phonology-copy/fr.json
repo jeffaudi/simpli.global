@@ -33,6 +33,7 @@
   "glide": "Une seule syllabe. La langue glisse. Ce ne sont pas deux voyelles côte à côte.",
   "englishRef": "Repère anglais supplémentaire : {word}.",
   "lengthGap": "On peut doubler une voyelle (aa, ee, ii, oo, uu) pour plus de clarté. En général, on ne le fait pas : une seule lettre suffit.",
+  "vowelO": "La voyelle de father et de hat est a. Quand l’anglais écrit cette voyelle avec o, Simpli garde o : hot, not et on.",
   "vowelSeq": "ai, ei, ao et oi font chacun une syllabe. ao est le son de hao et nao ; n’écrivez pas au. Toute autre suite de voyelles fait deux syllabes, comme dans vidio.",
   "clusterGap": "Une syllabe est souvent une consonne, une voyelle, et une consonne facultative. La liste de mots garde aussi des groupes comme str et nk. Une voyelle courte ajoutée se comprend pendant l’apprentissage ; la référence n’en ajoute pas. Accentuez l’avant-dernière syllabe, et ne réduisez pas les autres voyelles à un euh faible.",
   "vwSpell": "Écrivez w là où l’anglais écrit w (woter, wi). Écrivez v là où l’anglais écrit v (hav, seven). Préférez le son de référence de chaque lettre.",

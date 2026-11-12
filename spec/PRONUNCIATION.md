@@ -70,7 +70,7 @@ A doubled vowel (`aa`, `ee`, `ii`, `oo`, `uu`) is optional. It is the same quali
 
 ## Vowels
 
-The reference is a five-vowel set, /a e i o u/. Length is optional and generally unused, so *hot* and *hat* are both *hat*. English “father” and “cat”, or “sit” and “see”, are not two Simpli phonemes. [æ] for **a**, [ɛ] for **e**, [ɪ] for short **i**, [ɔ] for **o**, and [ʊ] for short **u** are allowed when they stay clear of the neighboring vowel. [y], the French *u* of *tu*, is not **u**.
+The reference is a five-vowel set, /a e i o u/. Length is optional and generally unused. *father* and *hat* are **a**. When English writes that vowel with **o**, the spelling keeps **o** (*hot*, *not*, *on*). That can make two words share a spelling. English “father” and “cat”, or “sit” and “see”, are not two Simpli phonemes. [æ] for **a**, [ɛ] for **e**, [ɪ] for short **i**, [ɔ] for **o**, and [ʊ] for short **u** are allowed when they stay clear of the neighboring vowel. [y], the French *u* of *tu*, is not **u**.
 
 This is not a full English vowel inventory. Adding /æ/ and /ɑ/ as separate phonemes would be harder for many learners, and the word list already merges them.
 

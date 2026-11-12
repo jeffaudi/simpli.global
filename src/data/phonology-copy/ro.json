@@ -33,6 +33,7 @@
   "glide": "O singură silabă. Limba alunecă. Nu sunt două vocale alăturate.",
   "englishRef": "Reper englez suplimentar: {word}.",
   "lengthGap": "Se poate dubla o vocală (aa, ee, ii, oo, uu) pentru mai multă claritate. În general, nu se face: o literă ajunge.",
+  "vowelO": "Vocala din father și hat este a. Când engleza scrie acea vocală cu o, Simpli păstrează o: hot, not și on.",
   "vowelSeq": "ai, ei, ao și oi sunt fiecare o silabă. ao este sunetul din hao și nao; nu scrie au. Orice altă pereche de vocale înseamnă două silabe, ca în vidio.",
   "clusterGap": "O silabă este adesea consoană, vocală și o consoană opțională. Lista păstrează și grupuri ca str și nk. O vocală scurtă adăugată se înțelege la învățare; referința nu o adaugă. Accentuează penultima silabă și nu slăbi celelalte vocale.",
   "vwSpell": "Scrie w unde engleza folosește w (woter, wi). Scrie v unde engleza folosește v (hav, seven). Preferă sunetul de referință al fiecărei litere.",

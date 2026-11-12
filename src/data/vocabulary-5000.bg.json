@@ -16,7 +16,7 @@
     "translation": "към"
   },
   {
-    "simpli": "an",
+    "simpli": "on",
     "translation": "на"
   },
   {
@@ -52,7 +52,7 @@
     "translation": "от"
   },
   {
-    "simpli": "nat",
+    "simpli": "not",
     "translation": "не"
   },
   {
@@ -220,7 +220,7 @@
     "translation": "септември"
   },
   {
-    "simpli": "aktober",
+    "simpli": "oktober",
     "translation": "октомври"
   },
   {
@@ -260,7 +260,7 @@
     "translation": "някой"
   },
   {
-    "simpli": "kam",
+    "simpli": "kom",
     "translation": "com"
   },
   {
@@ -464,7 +464,7 @@
     "translation": "до"
   },
   {
-    "simpli": "madafai",
+    "simpli": "modafai",
     "translation": "променям"
   },
   {
@@ -752,7 +752,7 @@
     "translation": "дом"
   },
   {
-    "simpli": "kament",
+    "simpli": "koment",
     "translation": "коментар"
   },
   {
@@ -808,7 +808,7 @@
     "translation": "градче"
   },
   {
-    "simpli": "papyaleisan",
+    "simpli": "popyaleisan",
     "translation": "население"
   },
   {
@@ -860,7 +860,7 @@
     "translation": "възраст"
   },
   {
-    "simpli": "tap",
+    "simpli": "top",
     "translation": "връх"
   },
   {
@@ -984,7 +984,7 @@
     "translation": "надолу"
   },
   {
-    "simpli": "djan",
+    "simpli": "djon",
     "translation": "Джон"
   },
   {
@@ -1044,7 +1044,7 @@
     "translation": "сайт"
   },
   {
-    "simpli": "kantent",
+    "simpli": "kontent",
     "translation": "съдържание"
   },
   {
@@ -1060,7 +1060,7 @@
     "translation": "баща"
   },
   {
-    "simpli": "pradjekt",
+    "simpli": "prodjekt",
     "translation": "проект"
   },
   {
@@ -1164,7 +1164,7 @@
     "translation": "вода"
   },
   {
-    "simpli": "kalidj",
+    "simpli": "kolidj",
     "translation": "колеж"
   },
   {
@@ -1376,7 +1376,7 @@
     "translation": "поле"
   },
   {
-    "simpli": "kaman",
+    "simpli": "koman",
     "translation": "обикновен"
   },
   {
@@ -1404,7 +1404,7 @@
     "translation": "професионален"
   },
   {
-    "simpli": "pasabal",
+    "simpli": "posabal",
     "translation": "възможен"
   },
   {
@@ -1496,7 +1496,7 @@
     "translation": "преглед"
   },
   {
-    "simpli": "prababli",
+    "simpli": "probabli",
     "translation": "вероятно"
   },
   {
@@ -1512,7 +1512,7 @@
     "translation": "официален"
   },
   {
-    "simpli": "palasi",
+    "simpli": "polasi",
     "translation": "политика"
   },
   {
@@ -1640,11 +1640,11 @@
     "translation": "себе си"
   },
   {
-    "simpli": "papyaler",
+    "simpli": "popyaler",
     "translation": "популярен"
   },
   {
-    "simpli": "prablam",
+    "simpli": "problam",
     "translation": "проблем"
   },
   {
@@ -1660,7 +1660,7 @@
     "translation": "съвет"
   },
   {
-    "simpli": "apan",
+    "simpli": "apon",
     "translation": "върху"
   },
   {
@@ -1676,7 +1676,7 @@
     "translation": "съотношение"
   },
   {
-    "simpli": "madern",
+    "simpli": "modern",
     "translation": "модерен"
   },
   {
@@ -1720,7 +1720,7 @@
     "translation": "северен"
   },
   {
-    "simpli": "badi",
+    "simpli": "bodi",
     "translation": "тяло"
   },
   {
@@ -2024,7 +2024,7 @@
     "translation": "началник"
   },
   {
-    "simpli": "tapik",
+    "simpli": "topik",
     "translation": "тема"
   },
   {
@@ -2088,7 +2088,7 @@
     "translation": "голям"
   },
   {
-    "simpli": "palatisan",
+    "simpli": "polatisan",
     "translation": "политик"
   },
   {
@@ -2152,7 +2152,7 @@
     "translation": "Европа"
   },
   {
-    "simpli": "lat",
+    "simpli": "lot",
     "translation": "много"
   },
   {
@@ -2172,7 +2172,7 @@
     "translation": "просто"
   },
   {
-    "simpli": "kampatisan",
+    "simpli": "kompatisan",
     "translation": "състезание"
   },
   {
@@ -2184,7 +2184,7 @@
     "translation": "оставям"
   },
   {
-    "simpli": "madal",
+    "simpli": "modal",
     "translation": "модел"
   },
   {
@@ -2260,7 +2260,7 @@
     "translation": "да"
   },
   {
-    "simpli": "naval",
+    "simpli": "noval",
     "translation": "роман"
   },
   {
@@ -2292,7 +2292,7 @@
     "translation": "десет"
   },
   {
-    "simpli": "rak",
+    "simpli": "rok",
     "translation": "рок"
   },
   {
@@ -2444,7 +2444,7 @@
     "translation": "продуцент"
   },
   {
-    "simpli": "kapirait",
+    "simpli": "kopirait",
     "translation": "авторско право"
   },
   {
@@ -2472,7 +2472,7 @@
     "translation": "управление"
   },
   {
-    "simpli": "namaneisan",
+    "simpli": "nomaneisan",
     "translation": "номинация"
   },
   {
@@ -2488,7 +2488,7 @@
     "translation": "сигурен"
   },
   {
-    "simpli": "kanat",
+    "simpli": "kanot",
     "translation": "не мога"
   },
   {
@@ -2576,7 +2576,7 @@
     "translation": "следователно"
   },
   {
-    "simpli": "teknaladji",
+    "simpli": "teknoladji",
     "translation": "технология"
   },
   {
@@ -2596,7 +2596,7 @@
     "translation": "руски"
   },
   {
-    "simpli": "apraksamatli",
+    "simpli": "aproksamatli",
     "translation": "приблизително"
   },
   {
@@ -2736,7 +2736,7 @@
     "translation": "персонал"
   },
   {
-    "simpli": "rispans",
+    "simpli": "rispons",
     "translation": "отговор"
   },
   {
@@ -2764,7 +2764,7 @@
     "translation": "особеност"
   },
   {
-    "simpli": "haspital",
+    "simpli": "hospital",
     "translation": "болница"
   },
   {
@@ -2780,7 +2780,7 @@
     "translation": "син"
   },
   {
-    "simpli": "praperti",
+    "simpli": "properti",
     "translation": "собственост"
   },
   {
@@ -2888,7 +2888,7 @@
     "translation": "храна"
   },
   {
-    "simpli": "rabert",
+    "simpli": "robert",
     "translation": "Робърт"
   },
   {
@@ -2960,11 +2960,11 @@
     "translation": "уики"
   },
   {
-    "simpli": "stap",
+    "simpli": "stop",
     "translation": "спирам"
   },
   {
-    "simpli": "kanferans",
+    "simpli": "konferans",
     "translation": "конференция"
   },
   {
@@ -3036,11 +3036,11 @@
     "translation": "губернатор"
   },
   {
-    "simpli": "ekanamik",
+    "simpli": "ekanomik",
     "translation": "икономически"
   },
   {
-    "simpli": "kantrakt",
+    "simpli": "kontrakt",
     "translation": "договор"
   },
   {
@@ -3168,7 +3168,7 @@
     "translation": "кафяв"
   },
   {
-    "simpli": "kampleks",
+    "simpli": "kompleks",
     "translation": "сложен"
   },
   {
@@ -3236,7 +3236,7 @@
     "translation": "театър"
   },
   {
-    "simpli": "gad",
+    "simpli": "god",
     "translation": "бог"
   },
   {
@@ -3316,7 +3316,7 @@
     "translation": "Мери"
   },
   {
-    "simpli": "sat",
+    "simpli": "sot",
     "translation": "изстрел"
   },
   {
@@ -3328,7 +3328,7 @@
     "translation": "съществувам"
   },
   {
-    "simpli": "pravans",
+    "simpli": "provans",
     "translation": "провинция"
   },
   {
@@ -3360,7 +3360,7 @@
     "translation": "финансов"
   },
   {
-    "simpli": "nam",
+    "simpli": "nom",
     "translation": "nom"
   },
   {
@@ -3372,7 +3372,7 @@
     "translation": "силно"
   },
   {
-    "simpli": "naladj",
+    "simpli": "noladj",
     "translation": "знание"
   },
   {
@@ -3380,7 +3380,7 @@
     "translation": "колега"
   },
   {
-    "simpli": "salad",
+    "simpli": "solad",
     "translation": "твърд"
   },
   {
@@ -3396,7 +3396,7 @@
     "translation": "може би"
   },
   {
-    "simpli": "apereisan",
+    "simpli": "opereisan",
     "translation": "операция"
   },
   {
@@ -3512,7 +3512,7 @@
     "translation": "иначе"
   },
   {
-    "simpli": "djab",
+    "simpli": "djob",
     "translation": "работа"
   },
   {
@@ -3520,7 +3520,7 @@
     "translation": "битка"
   },
   {
-    "simpli": "valyum",
+    "simpli": "volyum",
     "translation": "том"
   },
   {
@@ -3608,7 +3608,7 @@
     "translation": "законопроект"
   },
   {
-    "simpli": "biand",
+    "simpli": "biond",
     "translation": "отвъд"
   },
   {
@@ -3668,7 +3668,7 @@
     "translation": "Хенри"
   },
   {
-    "simpli": "pasabli",
+    "simpli": "posabli",
     "translation": "възможно"
   },
   {
@@ -3688,7 +3688,7 @@
     "translation": "флот"
   },
   {
-    "simpli": "pradakt",
+    "simpli": "prodakt",
     "translation": "продукт"
   },
   {
@@ -3704,7 +3704,7 @@
     "translation": "лос"
   },
   {
-    "simpli": "baks",
+    "simpli": "boks",
     "translation": "кутия"
   },
   {
@@ -3724,11 +3724,11 @@
     "translation": "конкретно"
   },
   {
-    "simpli": "kansept",
+    "simpli": "konsept",
     "translation": "понятие"
   },
   {
-    "simpli": "pasativ",
+    "simpli": "posativ",
     "translation": "положителен"
   },
   {
@@ -3752,7 +3752,7 @@
     "translation": "проверка"
   },
   {
-    "simpli": "rispansabal",
+    "simpli": "risponsabal",
     "translation": "отговорен"
   },
   {
@@ -3908,7 +3908,7 @@
     "translation": "залив"
   },
   {
-    "simpli": "pramanant",
+    "simpli": "promanant",
     "translation": "виден"
   },
   {
@@ -3972,7 +3972,7 @@
     "translation": "доход"
   },
   {
-    "simpli": "kamanli",
+    "simpli": "komanli",
     "translation": "обикновено"
   },
   {
@@ -4024,7 +4024,7 @@
     "translation": "селище"
   },
   {
-    "simpli": "kantekst",
+    "simpli": "kontekst",
     "translation": "контекст"
   },
   {
@@ -4152,7 +4152,7 @@
     "translation": "инженер"
   },
   {
-    "simpli": "falo",
+    "simpli": "folo",
     "translation": "следвам"
   },
   {
@@ -4260,7 +4260,7 @@
     "translation": "всеки"
   },
   {
-    "simpli": "kapi",
+    "simpli": "kopi",
     "translation": "копие"
   },
   {
@@ -4296,7 +4296,7 @@
     "translation": "парче"
   },
   {
-    "simpli": "kanflikt",
+    "simpli": "konflikt",
     "translation": "конфликт"
   },
   {
@@ -4584,7 +4584,7 @@
     "translation": "главен"
   },
   {
-    "simpli": "batam",
+    "simpli": "botam",
     "translation": "дъно"
   },
   {
@@ -4628,7 +4628,7 @@
     "translation": "щета"
   },
   {
-    "simpli": "kantakt",
+    "simpli": "kontakt",
     "translation": "контакт"
   },
   {
@@ -4716,7 +4716,7 @@
     "translation": "преди новата ера"
   },
   {
-    "simpli": "aner",
+    "simpli": "oner",
     "translation": "чест"
   },
   {
@@ -4756,11 +4756,11 @@
     "translation": "дама"
   },
   {
-    "simpli": "skatland",
+    "simpli": "skotland",
     "translation": "Шотландия"
   },
   {
-    "simpli": "dakyamenteri",
+    "simpli": "dokyamenteri",
     "translation": "документален"
   },
   {
@@ -4784,7 +4784,7 @@
     "translation": "движение"
   },
   {
-    "simpli": "kansert",
+    "simpli": "konsert",
     "translation": "концерт"
   },
   {
@@ -4800,7 +4800,7 @@
     "translation": "медиана"
   },
   {
-    "simpli": "praper",
+    "simpli": "proper",
     "translation": "подходящ"
   },
   {
@@ -4872,7 +4872,7 @@
     "translation": "леко"
   },
   {
-    "simpli": "apra",
+    "simpli": "opra",
     "translation": "опера"
   },
   {
@@ -4892,7 +4892,7 @@
     "translation": "включване"
   },
   {
-    "simpli": "apasisan",
+    "simpli": "opasisan",
     "translation": "опозиция"
   },
   {
@@ -4912,7 +4912,7 @@
     "translation": "дял"
   },
   {
-    "simpli": "dakter",
+    "simpli": "dokter",
     "translation": "лекар"
   },
   {
@@ -4920,7 +4920,7 @@
     "translation": "ca"
   },
   {
-    "simpli": "sari",
+    "simpli": "sori",
     "translation": "съжалявам"
   },
   {
@@ -5116,7 +5116,7 @@
     "translation": "забрана"
   },
   {
-    "simpli": "pap",
+    "simpli": "pop",
     "translation": "поп"
   },
   {
@@ -5200,7 +5200,7 @@
     "translation": "падна"
   },
   {
-    "simpli": "skatis",
+    "simpli": "skotis",
     "translation": "шотландски"
   },
   {
@@ -5268,7 +5268,7 @@
     "translation": "публика"
   },
   {
-    "simpli": "brans",
+    "simpli": "brons",
     "translation": "бронз"
   },
   {
@@ -5304,11 +5304,11 @@
     "translation": "решение"
   },
   {
-    "simpli": "abdjekt",
+    "simpli": "obdjekt",
     "translation": "обект"
   },
   {
-    "simpli": "kamadi",
+    "simpli": "komadi",
     "translation": "комедия"
   },
   {
@@ -5352,7 +5352,7 @@
     "translation": "белетристика"
   },
   {
-    "simpli": "kantrabyusan",
+    "simpli": "kontrabyusan",
     "translation": "принос"
   },
   {
@@ -5392,7 +5392,7 @@
     "translation": "жълт"
   },
   {
-    "simpli": "djansan",
+    "simpli": "djonsan",
     "translation": "Джонсън"
   },
   {
@@ -5436,7 +5436,7 @@
     "translation": "милиард"
   },
   {
-    "simpli": "apsan",
+    "simpli": "opsan",
     "translation": "вариант"
   },
   {
@@ -5476,7 +5476,7 @@
     "translation": "уважение"
   },
   {
-    "simpli": "tam",
+    "simpli": "tom",
     "translation": "Том"
   },
   {
@@ -5496,7 +5496,7 @@
     "translation": "подробност"
   },
   {
-    "simpli": "antu",
+    "simpli": "ontu",
     "translation": "върху"
   },
   {
@@ -5508,7 +5508,7 @@
     "translation": "изпълнявам"
   },
   {
-    "simpli": "aksferd",
+    "simpli": "oksferd",
     "translation": "Оксфорд"
   },
   {
@@ -5552,7 +5552,7 @@
     "translation": "вандализъм"
   },
   {
-    "simpli": "hat",
+    "simpli": "hot",
     "translation": "горещ"
   },
   {
@@ -5564,7 +5564,7 @@
     "translation": "олимпийски"
   },
   {
-    "simpli": "ikanami",
+    "simpli": "ikonami",
     "translation": "икономика"
   },
   {
@@ -5576,7 +5576,7 @@
     "translation": "ди"
   },
   {
-    "simpli": "abviasli",
+    "simpli": "obviasli",
     "translation": "очевидно"
   },
   {
@@ -5592,7 +5592,7 @@
     "translation": "предизвикателство"
   },
   {
-    "simpli": "falasafi",
+    "simpli": "falosafi",
     "translation": "философия"
   },
   {
@@ -5636,11 +5636,11 @@
     "translation": "донякъде"
   },
   {
-    "simpli": "plat",
+    "simpli": "plot",
     "translation": "сюжет"
   },
   {
-    "simpli": "bastan",
+    "simpli": "bostan",
     "translation": "Бостън"
   },
   {
@@ -5672,7 +5672,7 @@
     "translation": "пехота"
   },
   {
-    "simpli": "kambat",
+    "simpli": "kombat",
     "translation": "бой"
   },
   {
@@ -5764,7 +5764,7 @@
     "translation": "отблизо"
   },
   {
-    "simpli": "skat",
+    "simpli": "skot",
     "translation": "Скот"
   },
   {
@@ -5788,7 +5788,7 @@
     "translation": "посочвам"
   },
   {
-    "simpli": "haki",
+    "simpli": "hoki",
     "translation": "хокей"
   },
   {
@@ -6072,7 +6072,7 @@
     "translation": "Рим"
   },
   {
-    "simpli": "spat",
+    "simpli": "spot",
     "translation": "място"
   },
   {
@@ -6160,7 +6160,7 @@
     "translation": "добре дошъл"
   },
   {
-    "simpli": "baiagrafi",
+    "simpli": "baiografi",
     "translation": "биография"
   },
   {
@@ -6260,7 +6260,7 @@
     "translation": "смес"
   },
   {
-    "simpli": "apertunati",
+    "simpli": "opertunati",
     "translation": "възможност"
   },
   {
@@ -6288,7 +6288,7 @@
     "translation": "организация"
   },
   {
-    "simpli": "kantraversal",
+    "simpli": "kontraversal",
     "translation": "спорен"
   },
   {
@@ -6308,7 +6308,7 @@
     "translation": "пътник"
   },
   {
-    "simpli": "kamik",
+    "simpli": "komik",
     "translation": "комикс"
   },
   {
@@ -6340,7 +6340,7 @@
     "translation": "фонд"
   },
   {
-    "simpli": "apasat",
+    "simpli": "opasat",
     "translation": "противоположен"
   },
   {
@@ -6352,7 +6352,7 @@
     "translation": "Кеймбридж"
   },
   {
-    "simpli": "kampasisan",
+    "simpli": "kompasisan",
     "translation": "композиция"
   },
   {
@@ -6380,7 +6380,7 @@
     "translation": "поддържам"
   },
   {
-    "simpli": "skaler",
+    "simpli": "skoler",
     "translation": "учен"
   },
   {
@@ -6424,7 +6424,7 @@
     "translation": "форум"
   },
   {
-    "simpli": "kantest",
+    "simpli": "kontest",
     "translation": "състезание"
   },
   {
@@ -6436,7 +6436,7 @@
     "translation": "херцог"
   },
   {
-    "simpli": "stak",
+    "simpli": "stok",
     "translation": "акция"
   },
   {
@@ -6572,7 +6572,7 @@
     "translation": "творчески"
   },
   {
-    "simpli": "trapikal",
+    "simpli": "tropikal",
     "translation": "тропически"
   },
   {
@@ -6624,7 +6624,7 @@
     "translation": "Мария"
   },
   {
-    "simpli": "kambaneisan",
+    "simpli": "kombaneisan",
     "translation": "комбинация"
   },
   {
@@ -6736,7 +6736,7 @@
     "translation": "мелница"
   },
   {
-    "simpli": "dakyament",
+    "simpli": "dokyament",
     "translation": "документ"
   },
   {
@@ -6840,7 +6840,7 @@
     "translation": "middot"
   },
   {
-    "simpli": "kanstatusan",
+    "simpli": "konstatusan",
     "translation": "конституция"
   },
   {
@@ -6848,7 +6848,7 @@
     "translation": "определено"
   },
   {
-    "simpli": "praperli",
+    "simpli": "properli",
     "translation": "правилно"
   },
   {
@@ -6876,7 +6876,7 @@
     "translation": "просто"
   },
   {
-    "simpli": "sap",
+    "simpli": "sop",
     "translation": "магазин"
   },
   {
@@ -6892,7 +6892,7 @@
     "translation": "средновековен"
   },
   {
-    "simpli": "ilektranik",
+    "simpli": "ilektronik",
     "translation": "електронен"
   },
   {
@@ -6980,7 +6980,7 @@
     "translation": "статия"
   },
   {
-    "simpli": "kandakt",
+    "simpli": "kondakt",
     "translation": "поведение"
   },
   {
@@ -7040,7 +7040,7 @@
     "translation": "сенатор"
   },
   {
-    "simpli": "kalam",
+    "simpli": "kolam",
     "translation": "колона"
   },
   {
@@ -7056,7 +7056,7 @@
     "translation": "Санта"
   },
   {
-    "simpli": "apereit",
+    "simpli": "opereit",
     "translation": "управлявам"
   },
   {
@@ -7120,7 +7120,7 @@
     "translation": "поддръжка"
   },
   {
-    "simpli": "anereri",
+    "simpli": "onereri",
     "translation": "почетен"
   },
   {
@@ -7136,7 +7136,7 @@
     "translation": "Джим"
   },
   {
-    "simpli": "teranto",
+    "simpli": "teronto",
     "translation": "Торонто"
   },
   {
@@ -7152,7 +7152,7 @@
     "translation": "диск"
   },
   {
-    "simpli": "kantraversi",
+    "simpli": "kontraversi",
     "translation": "спор"
   },
   {
@@ -7220,7 +7220,7 @@
     "translation": "конфедерален"
   },
   {
-    "simpli": "kantrast",
+    "simpli": "kontrast",
     "translation": "контраст"
   },
   {
@@ -7240,7 +7240,7 @@
     "translation": "гласов"
   },
   {
-    "simpli": "saker",
+    "simpli": "soker",
     "translation": "футбол"
   },
   {
@@ -7248,7 +7248,7 @@
     "translation": "дълбочина"
   },
   {
-    "simpli": "rispansabilati",
+    "simpli": "risponsabilati",
     "translation": "отговорност"
   },
   {
@@ -7420,7 +7420,7 @@
     "translation": "цитат"
   },
   {
-    "simpli": "fatagrafi",
+    "simpli": "fatografi",
     "translation": "фотография"
   },
   {
@@ -7428,7 +7428,7 @@
     "translation": "предложение"
   },
   {
-    "simpli": "bab",
+    "simpli": "bob",
     "translation": "Боб"
   },
   {
@@ -7448,7 +7448,7 @@
     "translation": "предимство"
   },
   {
-    "simpli": "faks",
+    "simpli": "foks",
     "translation": "лисица"
   },
   {
@@ -7620,7 +7620,7 @@
     "translation": "жанр"
   },
   {
-    "simpli": "papyalerati",
+    "simpli": "popyalerati",
     "translation": "популярност"
   },
   {
@@ -7716,7 +7716,7 @@
     "translation": "репутация"
   },
   {
-    "simpli": "kanstant",
+    "simpli": "konstant",
     "translation": "постоянен"
   },
   {
@@ -7784,7 +7784,7 @@
     "translation": "влиятелен"
   },
   {
-    "simpli": "impasabal",
+    "simpli": "imposabal",
     "translation": "невъзможен"
   },
   {
@@ -7792,7 +7792,7 @@
     "translation": "приемлив"
   },
   {
-    "simpli": "invalvmant",
+    "simpli": "involvmant",
     "translation": "участие"
   },
   {
@@ -7924,7 +7924,7 @@
     "translation": "мечка"
   },
   {
-    "simpli": "kamyanast",
+    "simpli": "komyanast",
     "translation": "комунистически"
   },
   {
@@ -7940,7 +7940,7 @@
     "translation": "fm"
   },
   {
-    "simpli": "drap",
+    "simpli": "drop",
     "translation": "пускам"
   },
   {
@@ -7996,7 +7996,7 @@
     "translation": "ген"
   },
   {
-    "simpli": "pasabilati",
+    "simpli": "posabilati",
     "translation": "възможност"
   },
   {
@@ -8008,7 +8008,7 @@
     "translation": "Иън"
   },
   {
-    "simpli": "manyumant",
+    "simpli": "monyumant",
     "translation": "паметник"
   },
   {
@@ -8040,7 +8040,7 @@
     "translation": "възразявам"
   },
   {
-    "simpli": "kampaleisan",
+    "simpli": "kompaleisan",
     "translation": "сборник"
   },
   {
@@ -8084,7 +8084,7 @@
     "translation": "насока"
   },
   {
-    "simpli": "sak",
+    "simpli": "sok",
     "translation": "чорап"
   },
   {
@@ -8096,7 +8096,7 @@
     "translation": "кабинет"
   },
   {
-    "simpli": "kanserveisan",
+    "simpli": "konserveisan",
     "translation": "опазване"
   },
   {
@@ -8160,7 +8160,7 @@
     "translation": "законодателство"
   },
   {
-    "simpli": "masko",
+    "simpli": "mosko",
     "translation": "Москва"
   },
   {
@@ -8188,7 +8188,7 @@
     "translation": "значителен"
   },
   {
-    "simpli": "kamanteri",
+    "simpli": "komanteri",
     "translation": "коментар"
   },
   {
@@ -8292,7 +8292,7 @@
     "translation": "застраховка"
   },
   {
-    "simpli": "kamprihensiv",
+    "simpli": "komprihensiv",
     "translation": "цялостен"
   },
   {
@@ -8372,7 +8372,7 @@
     "translation": "изчезнал"
   },
   {
-    "simpli": "metrapalatan",
+    "simpli": "metrapolatan",
     "translation": "столичен"
   },
   {
@@ -8428,7 +8428,7 @@
     "translation": "Мелбърн"
   },
   {
-    "simpli": "skalersip",
+    "simpli": "skolersip",
     "translation": "стипендия"
   },
   {
@@ -8532,7 +8532,7 @@
     "translation": "незабавен"
   },
   {
-    "simpli": "fatagrafer",
+    "simpli": "fatografer",
     "translation": "фотограф"
   },
   {
@@ -8540,7 +8540,7 @@
     "translation": "инструментален"
   },
   {
-    "simpli": "galf",
+    "simpli": "golf",
     "translation": "голф"
   },
   {
@@ -8672,7 +8672,7 @@
     "translation": "еволюция"
   },
   {
-    "simpli": "akyapeisan",
+    "simpli": "okyapeisan",
     "translation": "занятие"
   },
   {
@@ -8696,7 +8696,7 @@
     "translation": "все повече"
   },
   {
-    "simpli": "kalani",
+    "simpli": "kolani",
     "translation": "колония"
   },
   {
@@ -8728,7 +8728,7 @@
     "translation": "надморска височина"
   },
   {
-    "simpli": "anterio",
+    "simpli": "onterio",
     "translation": "Онтарио"
   },
   {
@@ -8768,7 +8768,7 @@
     "translation": "Мур"
   },
   {
-    "simpli": "nobadi",
+    "simpli": "nobodi",
     "translation": "никой"
   },
   {
@@ -8924,7 +8924,7 @@
     "translation": "батерия"
   },
   {
-    "simpli": "saft",
+    "simpli": "soft",
     "translation": "мек"
   },
   {
@@ -9000,7 +9000,7 @@
     "translation": "Маргарет"
   },
   {
-    "simpli": "valantir",
+    "simpli": "volantir",
     "translation": "доброволец"
   },
   {
@@ -9104,7 +9104,7 @@
     "translation": "жив"
   },
   {
-    "simpli": "haliwud",
+    "simpli": "holiwud",
     "translation": "Холивуд"
   },
   {
@@ -9116,7 +9116,7 @@
     "translation": "получавам"
   },
   {
-    "simpli": "apereiter",
+    "simpli": "opereiter",
     "translation": "оператор"
   },
   {
@@ -9216,7 +9216,7 @@
     "translation": "дръжка"
   },
   {
-    "simpli": "apereisanal",
+    "simpli": "opereisanal",
     "translation": "оперативен"
   },
   {
@@ -9288,7 +9288,7 @@
     "translation": "бързо"
   },
   {
-    "simpli": "risalv",
+    "simpli": "risolv",
     "translation": "разрешавам"
   },
   {
@@ -9464,7 +9464,7 @@
     "translation": "полагам"
   },
   {
-    "simpli": "saikaladji",
+    "simpli": "saikoladji",
     "translation": "психология"
   },
   {
@@ -9596,7 +9596,7 @@
     "translation": "състезателен"
   },
   {
-    "simpli": "manasteri",
+    "simpli": "monasteri",
     "translation": "манастир"
   },
   {
@@ -9624,11 +9624,11 @@
     "translation": "търговия на дребно"
   },
   {
-    "simpli": "bam",
+    "simpli": "bom",
     "translation": "бомба"
   },
   {
-    "simpli": "kalerado",
+    "simpli": "kolerado",
     "translation": "Колорадо"
   },
   {
@@ -9644,7 +9644,7 @@
     "translation": "Украйна"
   },
   {
-    "simpli": "bibliagrafi",
+    "simpli": "bibliografi",
     "translation": "библиография"
   },
   {
@@ -9668,7 +9668,7 @@
     "translation": "ценя"
   },
   {
-    "simpli": "koapereisan",
+    "simpli": "koopereisan",
     "translation": "сътрудничество"
   },
   {
@@ -9700,7 +9700,7 @@
     "translation": "доктор"
   },
   {
-    "simpli": "rispand",
+    "simpli": "rispond",
     "translation": "отговарям"
   },
   {
@@ -9780,7 +9780,7 @@
     "translation": "допустим"
   },
   {
-    "simpli": "prad",
+    "simpli": "prod",
     "translation": "prod"
   },
   {
@@ -9800,7 +9800,7 @@
     "translation": "sa"
   },
   {
-    "simpli": "tampsan",
+    "simpli": "tompsan",
     "translation": "Томпсън"
   },
   {
@@ -10000,7 +10000,7 @@
     "translation": "идентификация"
   },
   {
-    "simpli": "baialadjikal",
+    "simpli": "baialodjikal",
     "translation": "биологичен"
   },
   {
@@ -10024,7 +10024,7 @@
     "translation": "Индонезия"
   },
   {
-    "simpli": "ras",
+    "simpli": "ros",
     "translation": "Рос"
   },
   {
@@ -10032,7 +10032,7 @@
     "translation": "обикновен"
   },
   {
-    "simpli": "kanstatusanal",
+    "simpli": "konstatusanal",
     "translation": "конституционен"
   },
   {
@@ -10044,7 +10044,7 @@
     "translation": "разказ"
   },
   {
-    "simpli": "kamers",
+    "simpli": "komers",
     "translation": "търговия"
   },
   {
@@ -10220,7 +10220,7 @@
     "translation": "te"
   },
   {
-    "simpli": "haladei",
+    "simpli": "holadei",
     "translation": "празник"
   },
   {
@@ -10444,7 +10444,7 @@
     "translation": "linkwatcher"
   },
   {
-    "simpli": "ladjik",
+    "simpli": "lodjik",
     "translation": "логика"
   },
   {
@@ -10476,7 +10476,7 @@
     "translation": "ncaa"
   },
   {
-    "simpli": "navalast",
+    "simpli": "novalast",
     "translation": "романист"
   },
   {
@@ -10508,7 +10508,7 @@
     "translation": "Кембъл"
   },
   {
-    "simpli": "rabansan",
+    "simpli": "robansan",
     "translation": "Робинсън"
   },
   {
@@ -10524,7 +10524,7 @@
     "translation": "Единбург"
   },
   {
-    "simpli": "radjer",
+    "simpli": "rodjer",
     "translation": "Роджър"
   },
   {
@@ -10532,11 +10532,11 @@
     "translation": "изключителен"
   },
   {
-    "simpli": "ortadaks",
+    "simpli": "ortadoks",
     "translation": "православен"
   },
   {
-    "simpli": "nansens",
+    "simpli": "nonsens",
     "translation": "безсмислица"
   },
   {
@@ -10568,7 +10568,7 @@
     "translation": "а именно"
   },
   {
-    "simpli": "kanverseisan",
+    "simpli": "konverseisan",
     "translation": "разговор"
   },
   {
@@ -10588,7 +10588,7 @@
     "translation": "отдалечен"
   },
   {
-    "simpli": "wiskansan",
+    "simpli": "wiskonsan",
     "translation": "Уисконсин"
   },
   {
@@ -10608,7 +10608,7 @@
     "translation": "излишен"
   },
   {
-    "simpli": "baialadji",
+    "simpli": "baioladji",
     "translation": "биология"
   },
   {
@@ -10740,7 +10740,7 @@
     "translation": "намаление"
   },
   {
-    "simpli": "kamyun",
+    "simpli": "komyun",
     "translation": "комуна"
   },
   {
@@ -10752,7 +10752,7 @@
     "translation": "едновременно"
   },
   {
-    "simpli": "klak",
+    "simpli": "klok",
     "translation": "часовник"
   },
   {
@@ -10828,7 +10828,7 @@
     "translation": "присъствие"
   },
   {
-    "simpli": "arkialadjikal",
+    "simpli": "arkialodjikal",
     "translation": "археологически"
   },
   {
@@ -10872,11 +10872,11 @@
     "translation": "отнасям се"
   },
   {
-    "simpli": "ataman",
+    "simpli": "otaman",
     "translation": "османски"
   },
   {
-    "simpli": "kamanwelt",
+    "simpli": "komanwelt",
     "translation": "общност"
   },
   {
@@ -10944,7 +10944,7 @@
     "translation": "възпитаник"
   },
   {
-    "simpli": "danald",
+    "simpli": "donald",
     "translation": "Доналд"
   },
   {
@@ -11036,7 +11036,7 @@
     "translation": "субект"
   },
   {
-    "simpli": "kantreri",
+    "simpli": "kontreri",
     "translation": "противоположен"
   },
   {
@@ -11288,7 +11288,7 @@
     "translation": "работник"
   },
   {
-    "simpli": "dimakrasi",
+    "simpli": "dimokrasi",
     "translation": "демокрация"
   },
   {
@@ -11368,7 +11368,7 @@
     "translation": "Джими"
   },
   {
-    "simpli": "damanant",
+    "simpli": "domanant",
     "translation": "преобладаващ"
   },
   {
@@ -11424,7 +11424,7 @@
     "translation": "Маями"
   },
   {
-    "simpli": "kansantreisan",
+    "simpli": "konsantreisan",
     "translation": "концентрация"
   },
   {
@@ -11444,7 +11444,7 @@
     "translation": "по-малко"
   },
   {
-    "simpli": "kafi",
+    "simpli": "kofi",
     "translation": "кафе"
   },
   {
@@ -11556,7 +11556,7 @@
     "translation": "инструкция"
   },
   {
-    "simpli": "fanamanan",
+    "simpli": "fanomanon",
     "translation": "явление"
   },
   {
@@ -11664,7 +11664,7 @@
     "translation": "емоционален"
   },
   {
-    "simpli": "werksap",
+    "simpli": "werksop",
     "translation": "работилница"
   },
   {
@@ -11676,7 +11676,7 @@
     "translation": "вдовица"
   },
   {
-    "simpli": "manater",
+    "simpli": "monater",
     "translation": "монитор"
   },
   {
@@ -11708,7 +11708,7 @@
     "translation": "състоя се"
   },
   {
-    "simpli": "skalerli",
+    "simpli": "skolerli",
     "translation": "научен"
   },
   {
@@ -11732,7 +11732,7 @@
     "translation": "изпит"
   },
   {
-    "simpli": "salv",
+    "simpli": "solv",
     "translation": "решавам"
   },
   {
@@ -11772,7 +11772,7 @@
     "translation": "грим"
   },
   {
-    "simpli": "kanvert",
+    "simpli": "konvert",
     "translation": "обръщам"
   },
   {
@@ -11808,7 +11808,7 @@
     "translation": "ритъм"
   },
   {
-    "simpli": "paverti",
+    "simpli": "poverti",
     "translation": "бедност"
   },
   {
@@ -11840,7 +11840,7 @@
     "translation": "племенник"
   },
   {
-    "simpli": "alkahal",
+    "simpli": "alkahol",
     "translation": "алкохол"
   },
   {
@@ -11860,7 +11860,7 @@
     "translation": "Барбара"
   },
   {
-    "simpli": "djiagrafi",
+    "simpli": "djiografi",
     "translation": "география"
   },
   {
@@ -11904,7 +11904,7 @@
     "translation": "Ра"
   },
   {
-    "simpli": "raster",
+    "simpli": "roster",
     "translation": "списък"
   },
   {
@@ -11920,7 +11920,7 @@
     "translation": "абатство"
   },
   {
-    "simpli": "djani",
+    "simpli": "djoni",
     "translation": "Джони"
   },
   {
@@ -11928,7 +11928,7 @@
     "translation": "шум"
   },
   {
-    "simpli": "abserveisan",
+    "simpli": "observeisan",
     "translation": "наблюдение"
   },
   {
@@ -11940,7 +11940,7 @@
     "translation": "Балтимор"
   },
   {
-    "simpli": "kamperabal",
+    "simpli": "komperabal",
     "translation": "сравним"
   },
   {
@@ -11952,7 +11952,7 @@
     "translation": "сянка"
   },
   {
-    "simpli": "invalv",
+    "simpli": "involv",
     "translation": "включвам"
   },
   {
@@ -11972,7 +11972,7 @@
     "translation": "технически"
   },
   {
-    "simpli": "amasan",
+    "simpli": "amason",
     "translation": "Амазон"
   },
   {
@@ -12004,7 +12004,7 @@
     "translation": "Рико"
   },
   {
-    "simpli": "robat",
+    "simpli": "robot",
     "translation": "робот"
   },
   {
@@ -12032,7 +12032,7 @@
     "translation": "mw"
   },
   {
-    "simpli": "kanstantli",
+    "simpli": "konstantli",
     "translation": "постоянно"
   },
   {
@@ -12072,7 +12072,7 @@
     "translation": "указател"
   },
   {
-    "simpli": "kanggrageisan",
+    "simpli": "konggrageisan",
     "translation": "паство"
   },
   {
@@ -12084,7 +12084,7 @@
     "translation": "авиокомпания"
   },
   {
-    "simpli": "djanatan",
+    "simpli": "djonatan",
     "translation": "Джонатан"
   },
   {
@@ -12112,7 +12112,7 @@
     "translation": "груб"
   },
   {
-    "simpli": "dakyamenteisan",
+    "simpli": "dokyamenteisan",
     "translation": "документация"
   },
   {
@@ -12120,11 +12120,11 @@
     "translation": "комедиант"
   },
   {
-    "simpli": "prablamatik",
+    "simpli": "problamatik",
     "translation": "проблемен"
   },
   {
-    "simpli": "kantanental",
+    "simpli": "kontanental",
     "translation": "континентален"
   },
   {
@@ -12140,7 +12140,7 @@
     "translation": "султан"
   },
   {
-    "simpli": "kaper",
+    "simpli": "koper",
     "translation": "мед"
   },
   {
@@ -12212,7 +12212,7 @@
     "translation": "динамичен"
   },
   {
-    "simpli": "raban",
+    "simpli": "roban",
     "translation": "Робин"
   },
   {
@@ -12260,7 +12260,7 @@
     "translation": "гладък"
   },
   {
-    "simpli": "falasafer",
+    "simpli": "falosafer",
     "translation": "философ"
   },
   {
@@ -12324,7 +12324,7 @@
     "translation": "терапия"
   },
   {
-    "simpli": "rakat",
+    "simpli": "rokat",
     "translation": "ракета"
   },
   {
@@ -12376,7 +12376,7 @@
     "translation": "плащане"
   },
   {
-    "simpli": "ladj",
+    "simpli": "lodj",
     "translation": "ложа"
   },
   {
@@ -12464,7 +12464,7 @@
     "translation": "грамотност"
   },
   {
-    "simpli": "kampaond",
+    "simpli": "kompaond",
     "translation": "съединение"
   },
   {
@@ -12476,7 +12476,7 @@
     "translation": "топъл"
   },
   {
-    "simpli": "pridamanantli",
+    "simpli": "pridomanantli",
     "translation": "предимно"
   },
   {
@@ -12564,7 +12564,7 @@
     "translation": "Шарлот"
   },
   {
-    "simpli": "namani",
+    "simpli": "nomani",
     "translation": "номиниран"
   },
   {
@@ -12708,7 +12708,7 @@
     "translation": "cdp"
   },
   {
-    "simpli": "tialadji",
+    "simpli": "tioladji",
     "translation": "богословие"
   },
   {
@@ -12728,11 +12728,11 @@
     "translation": "клиент"
   },
   {
-    "simpli": "sandbaks",
+    "simpli": "sandboks",
     "translation": "пясъчник"
   },
   {
-    "simpli": "katan",
+    "simpli": "kotan",
     "translation": "памук"
   },
   {
@@ -12796,11 +12796,11 @@
     "translation": "уплашен"
   },
   {
-    "simpli": "raki",
+    "simpli": "roki",
     "translation": "скалист"
   },
   {
-    "simpli": "kansakvantli",
+    "simpli": "konsakvantli",
     "translation": "следователно"
   },
   {
@@ -12876,11 +12876,11 @@
     "translation": "ефикасност"
   },
   {
-    "simpli": "pramas",
+    "simpli": "promas",
     "translation": "обещание"
   },
   {
-    "simpli": "mask",
+    "simpli": "mosk",
     "translation": "джамия"
   },
   {
@@ -12900,7 +12900,7 @@
     "translation": "оцеляване"
   },
   {
-    "simpli": "dakterat",
+    "simpli": "dokterat",
     "translation": "докторат"
   },
   {
@@ -12908,7 +12908,7 @@
     "translation": "имение"
   },
   {
-    "simpli": "namanat",
+    "simpli": "nomanat",
     "translation": "номинирам"
   },
   {
@@ -12924,7 +12924,7 @@
     "translation": "отмъщение"
   },
   {
-    "simpli": "maderat",
+    "simpli": "moderat",
     "translation": "умерен"
   },
   {
@@ -12964,7 +12964,7 @@
     "translation": "НАСА"
   },
   {
-    "simpli": "saikaladjikal",
+    "simpli": "saikalodjikal",
     "translation": "психологически"
   },
   {
@@ -13032,7 +13032,7 @@
     "translation": "ab"
   },
   {
-    "simpli": "kampramais",
+    "simpli": "kompramais",
     "translation": "компромис"
   },
   {
@@ -13092,7 +13092,7 @@
     "translation": "устен"
   },
   {
-    "simpli": "resavwar",
+    "simpli": "resavwor",
     "translation": "водоем"
   },
   {
@@ -13148,7 +13148,7 @@
     "translation": "est"
   },
   {
-    "simpli": "apsanal",
+    "simpli": "opsanal",
     "translation": "незадължителен"
   },
   {
@@ -13172,7 +13172,7 @@
     "translation": "забележителност"
   },
   {
-    "simpli": "prafat",
+    "simpli": "profat",
     "translation": "печалба"
   },
   {
@@ -13200,7 +13200,7 @@
     "translation": "филтър"
   },
   {
-    "simpli": "madjul",
+    "simpli": "modjul",
     "translation": "модул"
   },
   {
@@ -13304,7 +13304,7 @@
     "translation": "съвкупност"
   },
   {
-    "simpli": "manster",
+    "simpli": "monster",
     "translation": "чудовище"
   },
   {
@@ -13320,7 +13320,7 @@
     "translation": "граждански"
   },
   {
-    "simpli": "kanfadans",
+    "simpli": "konfadans",
     "translation": "увереност"
   },
   {
@@ -13356,7 +13356,7 @@
     "translation": "mlb"
   },
   {
-    "simpli": "akamadeit",
+    "simpli": "akomadeit",
     "translation": "настанявам"
   },
   {
@@ -13476,7 +13476,7 @@
     "translation": "ap"
   },
   {
-    "simpli": "helikapter",
+    "simpli": "helikopter",
     "translation": "хеликоптер"
   },
   {
@@ -13484,7 +13484,7 @@
     "translation": "изграждам"
   },
   {
-    "simpli": "alaver",
+    "simpli": "olaver",
     "translation": "Оливър"
   },
   {
@@ -13564,7 +13564,7 @@
     "translation": "средиземноморски"
   },
   {
-    "simpli": "prapaganda",
+    "simpli": "propaganda",
     "translation": "пропаганда"
   },
   {
@@ -13600,7 +13600,7 @@
     "translation": "клавиатура"
   },
   {
-    "simpli": "aikan",
+    "simpli": "aikon",
     "translation": "икона"
   },
   {
@@ -13744,7 +13744,7 @@
     "translation": "мрежа"
   },
   {
-    "simpli": "rab",
+    "simpli": "rob",
     "translation": "Роб"
   },
   {
@@ -13760,7 +13760,7 @@
     "translation": "прекомерен"
   },
   {
-    "simpli": "antaladji",
+    "simpli": "antoladji",
     "translation": "антология"
   },
   {
@@ -13800,7 +13800,7 @@
     "translation": "по-малък"
   },
   {
-    "simpli": "anast",
+    "simpli": "onast",
     "translation": "честен"
   },
   {
@@ -13948,7 +13948,7 @@
     "translation": "селце"
   },
   {
-    "simpli": "valibol",
+    "simpli": "volibol",
     "translation": "волейбол"
   },
   {
@@ -13968,7 +13968,7 @@
     "translation": "приятелка"
   },
   {
-    "simpli": "horasantal",
+    "simpli": "horasontal",
     "translation": "хоризонтален"
   },
   {
@@ -14004,7 +14004,7 @@
     "translation": "устойчивост"
   },
   {
-    "simpli": "filasafikal",
+    "simpli": "filasofikal",
     "translation": "философски"
   },
   {
@@ -14028,7 +14028,7 @@
     "translation": "терорист"
   },
   {
-    "simpli": "daktran",
+    "simpli": "doktran",
     "translation": "доктрина"
   },
   {
@@ -14048,7 +14048,7 @@
     "translation": "достатъчен"
   },
   {
-    "simpli": "prababilati",
+    "simpli": "probabilati",
     "translation": "вероятност"
   },
   {
@@ -14144,7 +14144,7 @@
     "translation": "филипински"
   },
   {
-    "simpli": "kanstatut",
+    "simpli": "konstatut",
     "translation": "съставлявам"
   },
   {
@@ -14192,7 +14192,7 @@
     "translation": "Харолд"
   },
   {
-    "simpli": "gaspal",
+    "simpli": "gospal",
     "translation": "евангелие"
   },
   {
@@ -14304,7 +14304,7 @@
     "translation": "борец"
   },
   {
-    "simpli": "protakal",
+    "simpli": "protakol",
     "translation": "протокол"
   },
   {
@@ -14312,7 +14312,7 @@
     "translation": "кош"
   },
   {
-    "simpli": "kansakvans",
+    "simpli": "konsakvans",
     "translation": "последствие"
   },
   {
@@ -14396,7 +14396,7 @@
     "translation": "единство"
   },
   {
-    "simpli": "ladjikal",
+    "simpli": "lodjikal",
     "translation": "логичен"
   },
   {
@@ -14520,7 +14520,7 @@
     "translation": "бор"
   },
   {
-    "simpli": "praksimati",
+    "simpli": "proksimati",
     "translation": "близост"
   },
   {
@@ -14532,7 +14532,7 @@
     "translation": "алгоритъм"
   },
   {
-    "simpli": "krap",
+    "simpli": "krop",
     "translation": "реколта"
   },
   {
@@ -14592,7 +14592,7 @@
     "translation": "pd"
   },
   {
-    "simpli": "pratastant",
+    "simpli": "protastant",
     "translation": "протестантски"
   },
   {
@@ -14824,7 +14824,7 @@
     "translation": "пънк"
   },
   {
-    "simpli": "pand",
+    "simpli": "pond",
     "translation": "езерце"
   },
   {
@@ -14936,11 +14936,11 @@
     "translation": "измама"
   },
   {
-    "simpli": "kampanseisan",
+    "simpli": "kompanseisan",
     "translation": "обезщетение"
   },
   {
-    "simpli": "haland",
+    "simpli": "holand",
     "translation": "Холандия"
   },
   {
@@ -14996,7 +14996,7 @@
     "translation": "прием"
   },
   {
-    "simpli": "hap",
+    "simpli": "hop",
     "translation": "скок"
   },
   {
@@ -15056,7 +15056,7 @@
     "translation": "Станфорд"
   },
   {
-    "simpli": "adapsan",
+    "simpli": "adopsan",
     "translation": "осиновяване"
   },
   {
@@ -15132,7 +15132,7 @@
     "translation": "различно"
   },
   {
-    "simpli": "babi",
+    "simpli": "bobi",
     "translation": "Боби"
   },
   {
@@ -15288,7 +15288,7 @@
     "translation": "яйце"
   },
   {
-    "simpli": "kampakt",
+    "simpli": "kompakt",
     "translation": "компактен"
   },
   {
@@ -15388,7 +15388,7 @@
     "translation": "efcfff"
   },
   {
-    "simpli": "manark",
+    "simpli": "monark",
     "translation": "монарх"
   },
   {
@@ -15516,7 +15516,7 @@
     "translation": "организирам"
   },
   {
-    "simpli": "ikanamist",
+    "simpli": "ikonamist",
     "translation": "икономист"
   },
   {
@@ -15564,11 +15564,11 @@
     "translation": "статичен"
   },
   {
-    "simpli": "kantanant",
+    "simpli": "kontanant",
     "translation": "континент"
   },
   {
-    "simpli": "djiamatri",
+    "simpli": "djiomatri",
     "translation": "геометрия"
   },
   {
@@ -15576,7 +15576,7 @@
     "translation": "пи"
   },
   {
-    "simpli": "fasal",
+    "simpli": "fosal",
     "translation": "вкаменелост"
   },
   {
@@ -15604,7 +15604,7 @@
     "translation": "Емили"
   },
   {
-    "simpli": "aptikal",
+    "simpli": "optikal",
     "translation": "оптичен"
   },
   {
@@ -15664,7 +15664,7 @@
     "translation": "изобретение"
   },
   {
-    "simpli": "dak",
+    "simpli": "dok",
     "translation": "доктор"
   },
   {
@@ -15676,7 +15676,7 @@
     "translation": "затвор"
   },
   {
-    "simpli": "valanteri",
+    "simpli": "volanteri",
     "translation": "доброволен"
   },
   {
@@ -15736,7 +15736,7 @@
     "translation": "ing"
   },
   {
-    "simpli": "hastal",
+    "simpli": "hostal",
     "translation": "враждебен"
   },
   {
@@ -15780,7 +15780,7 @@
     "translation": "непрекъснато"
   },
   {
-    "simpli": "rikanasans",
+    "simpli": "rikonasans",
     "translation": "разузнаване"
   },
   {
@@ -15912,7 +15912,7 @@
     "translation": "Харт"
   },
   {
-    "simpli": "koraspandans",
+    "simpli": "koraspondans",
     "translation": "кореспонденция"
   },
   {
@@ -15972,7 +15972,7 @@
     "translation": "настаняване"
   },
   {
-    "simpli": "kranikal",
+    "simpli": "kronikal",
     "translation": "хроника"
   },
   {
@@ -15980,7 +15980,7 @@
     "translation": "почтеност"
   },
   {
-    "simpli": "atawa",
+    "simpli": "otawa",
     "translation": "Отава"
   },
   {
@@ -16132,7 +16132,7 @@
     "translation": "гнездо"
   },
   {
-    "simpli": "kambain",
+    "simpli": "kombain",
     "translation": "комбинирам"
   },
   {
@@ -16152,7 +16152,7 @@
     "translation": "автомобил"
   },
   {
-    "simpli": "spanser",
+    "simpli": "sponser",
     "translation": "спонсор"
   },
   {
@@ -16160,7 +16160,7 @@
     "translation": "покушение"
   },
   {
-    "simpli": "kastum",
+    "simpli": "kostum",
     "translation": "костюм"
   },
   {
@@ -16180,7 +16180,7 @@
     "translation": "мазе"
   },
   {
-    "simpli": "tialadjikal",
+    "simpli": "tialodjikal",
     "translation": "богословски"
   },
   {
@@ -16220,7 +16220,7 @@
     "translation": "мелодия"
   },
   {
-    "simpli": "pramanans",
+    "simpli": "promanans",
     "translation": "изпъкналост"
   },
   {
@@ -16256,7 +16256,7 @@
     "translation": "защитник"
   },
   {
-    "simpli": "tami",
+    "simpli": "tomi",
     "translation": "Томи"
   },
   {
@@ -16272,7 +16272,7 @@
     "translation": "делегат"
   },
   {
-    "simpli": "bakser",
+    "simpli": "bokser",
     "translation": "боксьор"
   },
   {
@@ -16324,7 +16324,7 @@
     "translation": "препоръка"
   },
   {
-    "simpli": "valasati",
+    "simpli": "valosati",
     "translation": "скорост"
   },
   {
@@ -16372,7 +16372,7 @@
     "translation": "Шанхай"
   },
   {
-    "simpli": "tad",
+    "simpli": "tod",
     "translation": "Тод"
   },
   {
@@ -16420,11 +16420,11 @@
     "translation": "потребителско пространство"
   },
   {
-    "simpli": "mantana",
+    "simpli": "montana",
     "translation": "Монтана"
   },
   {
-    "simpli": "bamer",
+    "simpli": "bomer",
     "translation": "бомбардировач"
   },
   {
@@ -16476,7 +16476,7 @@
     "translation": "живак"
   },
   {
-    "simpli": "daler",
+    "simpli": "doler",
     "translation": "долар"
   },
   {
@@ -16488,7 +16488,7 @@
     "translation": "лайнер"
   },
   {
-    "simpli": "adapt",
+    "simpli": "adopt",
     "translation": "осиновявам"
   },
   {
@@ -16564,7 +16564,7 @@
     "translation": "множествен"
   },
   {
-    "simpli": "kanvoi",
+    "simpli": "konvoi",
     "translation": "конвой"
   },
   {
@@ -16588,7 +16588,7 @@
     "translation": "тенор"
   },
   {
-    "simpli": "koraspandant",
+    "simpli": "koraspondant",
     "translation": "кореспондент"
   },
   {
@@ -16600,7 +16600,7 @@
     "translation": "уведомявам"
   },
   {
-    "simpli": "kangkvest",
+    "simpli": "kongkvest",
     "translation": "завоевание"
   },
   {
@@ -16796,7 +16796,7 @@
     "translation": "най-силен"
   },
   {
-    "simpli": "dakteral",
+    "simpli": "dokteral",
     "translation": "докторски"
   },
   {
@@ -16820,7 +16820,7 @@
     "translation": "отстраняване"
   },
   {
-    "simpli": "ato",
+    "simpli": "oto",
     "translation": "Ото"
   },
   {
@@ -16848,7 +16848,7 @@
     "translation": "хляб"
   },
   {
-    "simpli": "fant",
+    "simpli": "font",
     "translation": "шрифт"
   },
   {
@@ -16884,7 +16884,7 @@
     "translation": "цилиндър"
   },
   {
-    "simpli": "memvar",
+    "simpli": "memvor",
     "translation": "мемоар"
   },
   {
@@ -16912,7 +16912,7 @@
     "translation": "убеждение"
   },
   {
-    "simpli": "mataladji",
+    "simpli": "matoladji",
     "translation": "митология"
   },
   {
@@ -17036,7 +17036,7 @@
     "translation": "носач"
   },
   {
-    "simpli": "gatik",
+    "simpli": "gotik",
     "translation": "готически"
   },
   {
@@ -17088,7 +17088,7 @@
     "translation": "координация"
   },
   {
-    "simpli": "mato",
+    "simpli": "moto",
     "translation": "девиз"
   },
   {
@@ -17136,7 +17136,7 @@
     "translation": "неуспешно"
   },
   {
-    "simpli": "teknaladjikal",
+    "simpli": "teknalodjikal",
     "translation": "технологичен"
   },
   {
@@ -17160,7 +17160,7 @@
     "translation": "Палмър"
   },
   {
-    "simpli": "djialadjikal",
+    "simpli": "djialodjikal",
     "translation": "геоложки"
   },
   {
@@ -17284,7 +17284,7 @@
     "translation": "езиков"
   },
   {
-    "simpli": "kaks",
+    "simpli": "koks",
     "translation": "Кокс"
   },
   {
@@ -17324,7 +17324,7 @@
     "translation": "gb"
   },
   {
-    "simpli": "meratan",
+    "simpli": "meraton",
     "translation": "маратон"
   },
   {
@@ -17380,11 +17380,11 @@
     "translation": "nsw"
   },
   {
-    "simpli": "stakholm",
+    "simpli": "stokholm",
     "translation": "Стокхолм"
   },
   {
-    "simpli": "kamanteiter",
+    "simpli": "komanteiter",
     "translation": "коментатор"
   },
   {
@@ -17520,7 +17520,7 @@
     "translation": "проверка"
   },
   {
-    "simpli": "katadj",
+    "simpli": "kotadj",
     "translation": "къщичка"
   },
   {
@@ -17560,7 +17560,7 @@
     "translation": "Ямайка"
   },
   {
-    "simpli": "halakost",
+    "simpli": "holakost",
     "translation": "Холокост"
   },
   {
@@ -17600,7 +17600,7 @@
     "translation": "оценявам"
   },
   {
-    "simpli": "akamadeisan",
+    "simpli": "akomadeisan",
     "translation": "настаняване"
   },
   {
@@ -17628,7 +17628,7 @@
     "translation": "пощенски"
   },
   {
-    "simpli": "aidialadji",
+    "simpli": "aidioladji",
     "translation": "идеология"
   },
   {
@@ -17636,7 +17636,7 @@
     "translation": "табло"
   },
   {
-    "simpli": "pastjumasli",
+    "simpli": "postjumasli",
     "translation": "посмъртно"
   },
   {
@@ -17644,7 +17644,7 @@
     "translation": "референдум"
   },
   {
-    "simpli": "kaner",
+    "simpli": "koner",
     "translation": "Конър"
   },
   {
@@ -17664,11 +17664,11 @@
     "translation": "систематичен"
   },
   {
-    "simpli": "atamik",
+    "simpli": "atomik",
     "translation": "атомен"
   },
   {
-    "simpli": "sosialadji",
+    "simpli": "sosioladji",
     "translation": "социология"
   },
   {
@@ -17696,7 +17696,7 @@
     "translation": "mtv"
   },
   {
-    "simpli": "mantgamri",
+    "simpli": "montgamri",
     "translation": "Монтгомъри"
   },
   {
@@ -17708,7 +17708,7 @@
     "translation": "възел"
   },
   {
-    "simpli": "pali",
+    "simpli": "poli",
     "translation": "поли"
   },
   {
@@ -17752,7 +17752,7 @@
     "translation": "Нейтън"
   },
   {
-    "simpli": "kalig",
+    "simpli": "kolig",
     "translation": "колега"
   },
   {
@@ -17772,7 +17772,7 @@
     "translation": "ужас"
   },
   {
-    "simpli": "armstrang",
+    "simpli": "armstrong",
     "translation": "Армстронг"
   },
   {
@@ -17796,7 +17796,7 @@
     "translation": "сценарий"
   },
   {
-    "simpli": "anastli",
+    "simpli": "onastli",
     "translation": "честно"
   },
   {
@@ -17864,7 +17864,7 @@
     "translation": "разногласие"
   },
   {
-    "simpli": "koapereitiv",
+    "simpli": "koopereitiv",
     "translation": "кооперативен"
   },
   {
@@ -17872,7 +17872,7 @@
     "translation": "cluebot"
   },
   {
-    "simpli": "spansersip",
+    "simpli": "sponsersip",
     "translation": "спонсорство"
   },
   {
@@ -17884,7 +17884,7 @@
     "translation": "Хендерсън"
   },
   {
-    "simpli": "savran",
+    "simpli": "sovran",
     "translation": "суверен"
   },
   {
@@ -17896,11 +17896,11 @@
     "translation": "Марта"
   },
   {
-    "simpli": "slat",
+    "simpli": "slot",
     "translation": "процеп"
   },
   {
-    "simpli": "kanfermeisan",
+    "simpli": "konfermeisan",
     "translation": "потвърждение"
   },
   {
@@ -17920,11 +17920,11 @@
     "translation": "ns"
   },
   {
-    "simpli": "ankaman",
+    "simpli": "ankoman",
     "translation": "необичаен"
   },
   {
-    "simpli": "madast",
+    "simpli": "modast",
     "translation": "скромен"
   },
   {
@@ -17940,7 +17940,7 @@
     "translation": "посетител"
   },
   {
-    "simpli": "kagnitiv",
+    "simpli": "kognitiv",
     "translation": "когнитивен"
   },
   {
@@ -17988,7 +17988,7 @@
     "translation": "трилогия"
   },
   {
-    "simpli": "vermant",
+    "simpli": "vermont",
     "translation": "Върмонт"
   },
   {
@@ -18008,7 +18008,7 @@
     "translation": "dos"
   },
   {
-    "simpli": "pakat",
+    "simpli": "pokat",
     "translation": "джоб"
   },
   {
@@ -18064,7 +18064,7 @@
     "translation": "гилдия"
   },
   {
-    "simpli": "praspekt",
+    "simpli": "prospekt",
     "translation": "перспектива"
   },
   {
@@ -18092,7 +18092,7 @@
     "translation": "Ричардсън"
   },
   {
-    "simpli": "rabertsan",
+    "simpli": "robertsan",
     "translation": "Робъртсън"
   },
   {
@@ -18112,7 +18112,7 @@
     "translation": "велосипед"
   },
   {
-    "simpli": "terminaladji",
+    "simpli": "terminoladji",
     "translation": "терминология"
   },
   {
@@ -18136,7 +18136,7 @@
     "translation": "бебе"
   },
   {
-    "simpli": "prasakyusan",
+    "simpli": "prosakyusan",
     "translation": "обвинение"
   },
   {
@@ -18252,7 +18252,7 @@
     "translation": "поведенчески"
   },
   {
-    "simpli": "kalamnast",
+    "simpli": "kolamnast",
     "translation": "колумнист"
   },
   {
@@ -18280,7 +18280,7 @@
     "translation": "идол"
   },
   {
-    "simpli": "astranamer",
+    "simpli": "astronamer",
     "translation": "астроном"
   },
   {
@@ -18288,7 +18288,7 @@
     "translation": "естетически"
   },
   {
-    "simpli": "ilektran",
+    "simpli": "ilektron",
     "translation": "електрон"
   },
   {
@@ -18304,7 +18304,7 @@
     "translation": "благородство"
   },
   {
-    "simpli": "ranald",
+    "simpli": "ronald",
     "translation": "Роналд"
   },
   {
@@ -18324,7 +18324,7 @@
     "translation": "сопран"
   },
   {
-    "simpli": "kansol",
+    "simpli": "konsol",
     "translation": "конзола"
   },
   {
@@ -18404,7 +18404,7 @@
     "translation": "мръсен"
   },
   {
-    "simpli": "pater",
+    "simpli": "poter",
     "translation": "грънчар"
   },
   {
@@ -18528,7 +18528,7 @@
     "translation": "коприна"
   },
   {
-    "simpli": "salaman",
+    "simpli": "solaman",
     "translation": "Соломон"
   },
   {
@@ -18580,7 +18580,7 @@
     "translation": "гняв"
   },
   {
-    "simpli": "akyapai",
+    "simpli": "okyapai",
     "translation": "заемам"
   },
   {
@@ -18592,7 +18592,7 @@
     "translation": "ller"
   },
   {
-    "simpli": "kanvant",
+    "simpli": "konvant",
     "translation": "манастир"
   },
   {
@@ -18640,11 +18640,11 @@
     "translation": "непълнолетен"
   },
   {
-    "simpli": "pateri",
+    "simpli": "poteri",
     "translation": "грънчарство"
   },
   {
-    "simpli": "madana",
+    "simpli": "madona",
     "translation": "Мадона"
   },
   {
@@ -18676,7 +18676,7 @@
     "translation": "уместно"
   },
   {
-    "simpli": "absalit",
+    "simpli": "obsalit",
     "translation": "остарял"
   },
   {
@@ -18736,7 +18736,7 @@
     "translation": "сезонен"
   },
   {
-    "simpli": "nakaot",
+    "simpli": "nokaot",
     "translation": "нокаут"
   },
   {
@@ -18808,7 +18808,7 @@
     "translation": "rpm"
   },
   {
-    "simpli": "prababal",
+    "simpli": "probabal",
     "translation": "вероятен"
   },
   {
@@ -18820,7 +18820,7 @@
     "translation": "неточен"
   },
   {
-    "simpli": "lian",
+    "simpli": "lion",
     "translation": "Леон"
   },
   {
@@ -18844,7 +18844,7 @@
     "translation": "Бърк"
   },
   {
-    "simpli": "fanamana",
+    "simpli": "fanomana",
     "translation": "явление"
   },
   {
@@ -18856,7 +18856,7 @@
     "translation": "преподобен"
   },
   {
-    "simpli": "aikanik",
+    "simpli": "aikonik",
     "translation": "емблематичен"
   },
   {
@@ -18900,7 +18900,7 @@
     "translation": "Съмърсет"
   },
   {
-    "simpli": "bader",
+    "simpli": "boder",
     "translation": "безпокоя"
   },
   {
@@ -18952,15 +18952,15 @@
     "translation": "гребен"
   },
   {
-    "simpli": "aknalidj",
+    "simpli": "aknolidj",
     "translation": "признавам"
   },
   {
-    "simpli": "kanggo",
+    "simpli": "konggo",
     "translation": "Конго"
   },
   {
-    "simpli": "fergat",
+    "simpli": "fergot",
     "translation": "забрави"
   },
   {
@@ -18996,7 +18996,7 @@
     "translation": "призовавам"
   },
   {
-    "simpli": "kanggrasman",
+    "simpli": "konggrasman",
     "translation": "конгресмен"
   },
   {
@@ -19048,7 +19048,7 @@
     "translation": "Джеръми"
   },
   {
-    "simpli": "kranik",
+    "simpli": "kronik",
     "translation": "хроничен"
   },
   {
@@ -19068,7 +19068,7 @@
     "translation": "презвитериански"
   },
   {
-    "simpli": "taksik",
+    "simpli": "toksik",
     "translation": "токсичен"
   },
   {
@@ -19120,7 +19120,7 @@
     "translation": "Пърт"
   },
   {
-    "simpli": "rad",
+    "simpli": "rod",
     "translation": "прът"
   },
   {
@@ -19184,7 +19184,7 @@
     "translation": "правдоподобен"
   },
   {
-    "simpli": "merako",
+    "simpli": "meroko",
     "translation": "Мароко"
   },
   {
@@ -19264,7 +19264,7 @@
     "translation": "продължение"
   },
   {
-    "simpli": "djialadji",
+    "simpli": "djioladji",
     "translation": "геология"
   },
   {
@@ -19332,7 +19332,7 @@
     "translation": "инсталирам"
   },
   {
-    "simpli": "astranami",
+    "simpli": "astronami",
     "translation": "астрономия"
   },
   {
@@ -19352,15 +19352,15 @@
     "translation": "Съсекс"
   },
   {
-    "simpli": "valkanik",
+    "simpli": "volkanik",
     "translation": "вулканичен"
   },
   {
-    "simpli": "apaladjais",
+    "simpli": "apoladjais",
     "translation": "извинявам се"
   },
   {
-    "simpli": "tamsan",
+    "simpli": "tomsan",
     "translation": "Томсън"
   },
   {
@@ -19372,7 +19372,7 @@
     "translation": "itn"
   },
   {
-    "simpli": "apraksamat",
+    "simpli": "aproksamat",
     "translation": "приблизителен"
   },
   {
@@ -19388,7 +19388,7 @@
     "translation": "Чък"
   },
   {
-    "simpli": "djasua",
+    "simpli": "djosua",
     "translation": "Джошуа"
   },
   {
@@ -19544,7 +19544,7 @@
     "translation": "пробив"
   },
   {
-    "simpli": "ikaladjikal",
+    "simpli": "ikalodjikal",
     "translation": "екологичен"
   },
   {
@@ -19652,11 +19652,11 @@
     "translation": "етичен"
   },
   {
-    "simpli": "prasikyuter",
+    "simpli": "prosikyuter",
     "translation": "прокурор"
   },
   {
-    "simpli": "pramanantli",
+    "simpli": "promanantli",
     "translation": "видно"
   },
   {
@@ -19664,11 +19664,11 @@
     "translation": "сладководен"
   },
   {
-    "simpli": "madafakeisan",
+    "simpli": "modafakeisan",
     "translation": "видоизменение"
   },
   {
-    "simpli": "djanstan",
+    "simpli": "djonstan",
     "translation": "Джонстън"
   },
   {
@@ -19768,7 +19768,7 @@
     "translation": "Клер"
   },
   {
-    "simpli": "simbalik",
+    "simpli": "simbolik",
     "translation": "символичен"
   },
   {
@@ -19792,11 +19792,11 @@
     "translation": "Честър"
   },
   {
-    "simpli": "antrapaladji",
+    "simpli": "antrapoladji",
     "translation": "антропология"
   },
   {
-    "simpli": "kanfadant",
+    "simpli": "konfadant",
     "translation": "уверен"
   },
   {

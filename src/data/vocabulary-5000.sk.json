@@ -16,7 +16,7 @@
     "translation": "do"
   },
   {
-    "simpli": "an",
+    "simpli": "on",
     "translation": "na"
   },
   {
@@ -52,7 +52,7 @@
     "translation": "z"
   },
   {
-    "simpli": "nat",
+    "simpli": "not",
     "translation": "nie"
   },
   {
@@ -220,7 +220,7 @@
     "translation": "september"
   },
   {
-    "simpli": "aktober",
+    "simpli": "oktober",
     "translation": "október"
   },
   {
@@ -260,7 +260,7 @@
     "translation": "akýkoľvek"
   },
   {
-    "simpli": "kam",
+    "simpli": "kom",
     "translation": "com"
   },
   {
@@ -464,7 +464,7 @@
     "translation": "až"
   },
   {
-    "simpli": "madafai",
+    "simpli": "modafai",
     "translation": "upraviť"
   },
   {
@@ -752,7 +752,7 @@
     "translation": "domov"
   },
   {
-    "simpli": "kament",
+    "simpli": "koment",
     "translation": "komentár"
   },
   {
@@ -808,7 +808,7 @@
     "translation": "mesto"
   },
   {
-    "simpli": "papyaleisan",
+    "simpli": "popyaleisan",
     "translation": "obyvateľstvo"
   },
   {
@@ -860,7 +860,7 @@
     "translation": "vek"
   },
   {
-    "simpli": "tap",
+    "simpli": "top",
     "translation": "vrch"
   },
   {
@@ -984,7 +984,7 @@
     "translation": "dole"
   },
   {
-    "simpli": "djan",
+    "simpli": "djon",
     "translation": "Ján"
   },
   {
@@ -1044,7 +1044,7 @@
     "translation": "lokalita"
   },
   {
-    "simpli": "kantent",
+    "simpli": "kontent",
     "translation": "obsah"
   },
   {
@@ -1060,7 +1060,7 @@
     "translation": "otec"
   },
   {
-    "simpli": "pradjekt",
+    "simpli": "prodjekt",
     "translation": "projekt"
   },
   {
@@ -1164,7 +1164,7 @@
     "translation": "voda"
   },
   {
-    "simpli": "kalidj",
+    "simpli": "kolidj",
     "translation": "vysoká škola"
   },
   {
@@ -1376,7 +1376,7 @@
     "translation": "pole"
   },
   {
-    "simpli": "kaman",
+    "simpli": "koman",
     "translation": "bežný"
   },
   {
@@ -1404,7 +1404,7 @@
     "translation": "profesionálny"
   },
   {
-    "simpli": "pasabal",
+    "simpli": "posabal",
     "translation": "možný"
   },
   {
@@ -1496,7 +1496,7 @@
     "translation": "recenzia"
   },
   {
-    "simpli": "prababli",
+    "simpli": "probabli",
     "translation": "pravdepodobne"
   },
   {
@@ -1512,7 +1512,7 @@
     "translation": "oficiálny"
   },
   {
-    "simpli": "palasi",
+    "simpli": "polasi",
     "translation": "zásada"
   },
   {
@@ -1640,11 +1640,11 @@
     "translation": "sám"
   },
   {
-    "simpli": "papyaler",
+    "simpli": "popyaler",
     "translation": "populárny"
   },
   {
-    "simpli": "prablam",
+    "simpli": "problam",
     "translation": "problém"
   },
   {
@@ -1660,7 +1660,7 @@
     "translation": "rada"
   },
   {
-    "simpli": "apan",
+    "simpli": "apon",
     "translation": "na"
   },
   {
@@ -1676,7 +1676,7 @@
     "translation": "pomer"
   },
   {
-    "simpli": "madern",
+    "simpli": "modern",
     "translation": "moderný"
   },
   {
@@ -1720,7 +1720,7 @@
     "translation": "severný"
   },
   {
-    "simpli": "badi",
+    "simpli": "bodi",
     "translation": "telo"
   },
   {
@@ -2024,7 +2024,7 @@
     "translation": "náčelník"
   },
   {
-    "simpli": "tapik",
+    "simpli": "topik",
     "translation": "téma"
   },
   {
@@ -2088,7 +2088,7 @@
     "translation": "veľký"
   },
   {
-    "simpli": "palatisan",
+    "simpli": "polatisan",
     "translation": "politik"
   },
   {
@@ -2152,7 +2152,7 @@
     "translation": "Európa"
   },
   {
-    "simpli": "lat",
+    "simpli": "lot",
     "translation": "veľa"
   },
   {
@@ -2172,7 +2172,7 @@
     "translation": "jednoducho"
   },
   {
-    "simpli": "kampatisan",
+    "simpli": "kompatisan",
     "translation": "súťaž"
   },
   {
@@ -2184,7 +2184,7 @@
     "translation": "nechať"
   },
   {
-    "simpli": "madal",
+    "simpli": "modal",
     "translation": "model"
   },
   {
@@ -2260,7 +2260,7 @@
     "translation": "áno"
   },
   {
-    "simpli": "naval",
+    "simpli": "noval",
     "translation": "román"
   },
   {
@@ -2292,7 +2292,7 @@
     "translation": "desať"
   },
   {
-    "simpli": "rak",
+    "simpli": "rok",
     "translation": "rock"
   },
   {
@@ -2444,7 +2444,7 @@
     "translation": "producent"
   },
   {
-    "simpli": "kapirait",
+    "simpli": "kopirait",
     "translation": "autorské právo"
   },
   {
@@ -2472,7 +2472,7 @@
     "translation": "riadenie"
   },
   {
-    "simpli": "namaneisan",
+    "simpli": "nomaneisan",
     "translation": "nominácia"
   },
   {
@@ -2488,7 +2488,7 @@
     "translation": "istý"
   },
   {
-    "simpli": "kanat",
+    "simpli": "kanot",
     "translation": "nemôcť"
   },
   {
@@ -2576,7 +2576,7 @@
     "translation": "preto"
   },
   {
-    "simpli": "teknaladji",
+    "simpli": "teknoladji",
     "translation": "technológia"
   },
   {
@@ -2596,7 +2596,7 @@
     "translation": "ruský"
   },
   {
-    "simpli": "apraksamatli",
+    "simpli": "aproksamatli",
     "translation": "približne"
   },
   {
@@ -2736,7 +2736,7 @@
     "translation": "personál"
   },
   {
-    "simpli": "rispans",
+    "simpli": "rispons",
     "translation": "odpoveď"
   },
   {
@@ -2764,7 +2764,7 @@
     "translation": "vlastnosť"
   },
   {
-    "simpli": "haspital",
+    "simpli": "hospital",
     "translation": "nemocnica"
   },
   {
@@ -2780,7 +2780,7 @@
     "translation": "modrý"
   },
   {
-    "simpli": "praperti",
+    "simpli": "properti",
     "translation": "majetok"
   },
   {
@@ -2888,7 +2888,7 @@
     "translation": "jedlo"
   },
   {
-    "simpli": "rabert",
+    "simpli": "robert",
     "translation": "Róbert"
   },
   {
@@ -2960,11 +2960,11 @@
     "translation": "wiki"
   },
   {
-    "simpli": "stap",
+    "simpli": "stop",
     "translation": "zastaviť"
   },
   {
-    "simpli": "kanferans",
+    "simpli": "konferans",
     "translation": "konferencia"
   },
   {
@@ -3036,11 +3036,11 @@
     "translation": "guvernér"
   },
   {
-    "simpli": "ekanamik",
+    "simpli": "ekanomik",
     "translation": "hospodársky"
   },
   {
-    "simpli": "kantrakt",
+    "simpli": "kontrakt",
     "translation": "zmluva"
   },
   {
@@ -3168,7 +3168,7 @@
     "translation": "hnedý"
   },
   {
-    "simpli": "kampleks",
+    "simpli": "kompleks",
     "translation": "zložitý"
   },
   {
@@ -3236,7 +3236,7 @@
     "translation": "divadlo"
   },
   {
-    "simpli": "gad",
+    "simpli": "god",
     "translation": "boh"
   },
   {
@@ -3316,7 +3316,7 @@
     "translation": "Mária"
   },
   {
-    "simpli": "sat",
+    "simpli": "sot",
     "translation": "záblesk"
   },
   {
@@ -3328,7 +3328,7 @@
     "translation": "existovať"
   },
   {
-    "simpli": "pravans",
+    "simpli": "provans",
     "translation": "provincia"
   },
   {
@@ -3360,7 +3360,7 @@
     "translation": "finančný"
   },
   {
-    "simpli": "nam",
+    "simpli": "nom",
     "translation": "nominatív"
   },
   {
@@ -3372,7 +3372,7 @@
     "translation": "veľmi"
   },
   {
-    "simpli": "naladj",
+    "simpli": "noladj",
     "translation": "vedomosť"
   },
   {
@@ -3380,7 +3380,7 @@
     "translation": "kolega"
   },
   {
-    "simpli": "salad",
+    "simpli": "solad",
     "translation": "pevný"
   },
   {
@@ -3396,7 +3396,7 @@
     "translation": "možno"
   },
   {
-    "simpli": "apereisan",
+    "simpli": "opereisan",
     "translation": "operácia"
   },
   {
@@ -3512,7 +3512,7 @@
     "translation": "inak"
   },
   {
-    "simpli": "djab",
+    "simpli": "djob",
     "translation": "práca"
   },
   {
@@ -3520,7 +3520,7 @@
     "translation": "bojovať"
   },
   {
-    "simpli": "valyum",
+    "simpli": "volyum",
     "translation": "objem"
   },
   {
@@ -3608,7 +3608,7 @@
     "translation": "účet"
   },
   {
-    "simpli": "biand",
+    "simpli": "biond",
     "translation": "za"
   },
   {
@@ -3668,7 +3668,7 @@
     "translation": "Henrich"
   },
   {
-    "simpli": "pasabli",
+    "simpli": "posabli",
     "translation": "možno"
   },
   {
@@ -3688,7 +3688,7 @@
     "translation": "námorníctvo"
   },
   {
-    "simpli": "pradakt",
+    "simpli": "prodakt",
     "translation": "produkt"
   },
   {
@@ -3704,7 +3704,7 @@
     "translation": "Los"
   },
   {
-    "simpli": "baks",
+    "simpli": "boks",
     "translation": "škatuľa"
   },
   {
@@ -3724,11 +3724,11 @@
     "translation": "konkrétne"
   },
   {
-    "simpli": "kansept",
+    "simpli": "konsept",
     "translation": "pojem"
   },
   {
-    "simpli": "pasativ",
+    "simpli": "posativ",
     "translation": "pozitívny"
   },
   {
@@ -3752,7 +3752,7 @@
     "translation": "skontrolovať"
   },
   {
-    "simpli": "rispansabal",
+    "simpli": "risponsabal",
     "translation": "zodpovedný"
   },
   {
@@ -3908,7 +3908,7 @@
     "translation": "záliv"
   },
   {
-    "simpli": "pramanant",
+    "simpli": "promanant",
     "translation": "významný"
   },
   {
@@ -3972,7 +3972,7 @@
     "translation": "príjem"
   },
   {
-    "simpli": "kamanli",
+    "simpli": "komanli",
     "translation": "bežne"
   },
   {
@@ -4024,7 +4024,7 @@
     "translation": "osada"
   },
   {
-    "simpli": "kantekst",
+    "simpli": "kontekst",
     "translation": "kontext"
   },
   {
@@ -4152,7 +4152,7 @@
     "translation": "inžinier"
   },
   {
-    "simpli": "falo",
+    "simpli": "folo",
     "translation": "nasledovať"
   },
   {
@@ -4260,7 +4260,7 @@
     "translation": "každý"
   },
   {
-    "simpli": "kapi",
+    "simpli": "kopi",
     "translation": "kópia"
   },
   {
@@ -4296,7 +4296,7 @@
     "translation": "kus"
   },
   {
-    "simpli": "kanflikt",
+    "simpli": "konflikt",
     "translation": "konflikt"
   },
   {
@@ -4584,7 +4584,7 @@
     "translation": "hlavný"
   },
   {
-    "simpli": "batam",
+    "simpli": "botam",
     "translation": "spodok"
   },
   {
@@ -4628,7 +4628,7 @@
     "translation": "škoda"
   },
   {
-    "simpli": "kantakt",
+    "simpli": "kontakt",
     "translation": "kontakt"
   },
   {
@@ -4716,7 +4716,7 @@
     "translation": "pred naším letopočtom"
   },
   {
-    "simpli": "aner",
+    "simpli": "oner",
     "translation": "česť"
   },
   {
@@ -4756,11 +4756,11 @@
     "translation": "dáma"
   },
   {
-    "simpli": "skatland",
+    "simpli": "skotland",
     "translation": "Škótsko"
   },
   {
-    "simpli": "dakyamenteri",
+    "simpli": "dokyamenteri",
     "translation": "dokument"
   },
   {
@@ -4784,7 +4784,7 @@
     "translation": "premávka"
   },
   {
-    "simpli": "kansert",
+    "simpli": "konsert",
     "translation": "koncert"
   },
   {
@@ -4800,7 +4800,7 @@
     "translation": "medián"
   },
   {
-    "simpli": "praper",
+    "simpli": "proper",
     "translation": "správny"
   },
   {
@@ -4872,7 +4872,7 @@
     "translation": "mierne"
   },
   {
-    "simpli": "apra",
+    "simpli": "opra",
     "translation": "opera"
   },
   {
@@ -4892,7 +4892,7 @@
     "translation": "zahrnutie"
   },
   {
-    "simpli": "apasisan",
+    "simpli": "opasisan",
     "translation": "opozícia"
   },
   {
@@ -4912,7 +4912,7 @@
     "translation": "časť"
   },
   {
-    "simpli": "dakter",
+    "simpli": "dokter",
     "translation": "lekár"
   },
   {
@@ -4920,7 +4920,7 @@
     "translation": "Kalifornia"
   },
   {
-    "simpli": "sari",
+    "simpli": "sori",
     "translation": "prepáč"
   },
   {
@@ -5116,7 +5116,7 @@
     "translation": "zákaz"
   },
   {
-    "simpli": "pap",
+    "simpli": "pop",
     "translation": "pop"
   },
   {
@@ -5200,7 +5200,7 @@
     "translation": "padnúť"
   },
   {
-    "simpli": "skatis",
+    "simpli": "skotis",
     "translation": "škótsky"
   },
   {
@@ -5268,7 +5268,7 @@
     "translation": "publikum"
   },
   {
-    "simpli": "brans",
+    "simpli": "brons",
     "translation": "bronz"
   },
   {
@@ -5304,11 +5304,11 @@
     "translation": "riešenie"
   },
   {
-    "simpli": "abdjekt",
+    "simpli": "obdjekt",
     "translation": "predmet"
   },
   {
-    "simpli": "kamadi",
+    "simpli": "komadi",
     "translation": "komédia"
   },
   {
@@ -5352,7 +5352,7 @@
     "translation": "fikcia"
   },
   {
-    "simpli": "kantrabyusan",
+    "simpli": "kontrabyusan",
     "translation": "príspevok"
   },
   {
@@ -5392,7 +5392,7 @@
     "translation": "žltý"
   },
   {
-    "simpli": "djansan",
+    "simpli": "djonsan",
     "translation": "Johnson"
   },
   {
@@ -5436,7 +5436,7 @@
     "translation": "miliarda"
   },
   {
-    "simpli": "apsan",
+    "simpli": "opsan",
     "translation": "možnosť"
   },
   {
@@ -5476,7 +5476,7 @@
     "translation": "rešpekt"
   },
   {
-    "simpli": "tam",
+    "simpli": "tom",
     "translation": "Tomáš"
   },
   {
@@ -5496,7 +5496,7 @@
     "translation": "detail"
   },
   {
-    "simpli": "antu",
+    "simpli": "ontu",
     "translation": "na"
   },
   {
@@ -5508,7 +5508,7 @@
     "translation": "vykonať"
   },
   {
-    "simpli": "aksferd",
+    "simpli": "oksferd",
     "translation": "Oxford"
   },
   {
@@ -5552,7 +5552,7 @@
     "translation": "vandalizmus"
   },
   {
-    "simpli": "hat",
+    "simpli": "hot",
     "translation": "horúci"
   },
   {
@@ -5564,7 +5564,7 @@
     "translation": "olympijský"
   },
   {
-    "simpli": "ikanami",
+    "simpli": "ikonami",
     "translation": "hospodárstvo"
   },
   {
@@ -5576,7 +5576,7 @@
     "translation": "di"
   },
   {
-    "simpli": "abviasli",
+    "simpli": "obviasli",
     "translation": "zjavne"
   },
   {
@@ -5592,7 +5592,7 @@
     "translation": "výzva"
   },
   {
-    "simpli": "falasafi",
+    "simpli": "falosafi",
     "translation": "filozofia"
   },
   {
@@ -5636,11 +5636,11 @@
     "translation": "trochu"
   },
   {
-    "simpli": "plat",
+    "simpli": "plot",
     "translation": "dej"
   },
   {
-    "simpli": "bastan",
+    "simpli": "bostan",
     "translation": "Boston"
   },
   {
@@ -5672,7 +5672,7 @@
     "translation": "pechota"
   },
   {
-    "simpli": "kambat",
+    "simpli": "kombat",
     "translation": "boj"
   },
   {
@@ -5764,7 +5764,7 @@
     "translation": "tesne"
   },
   {
-    "simpli": "skat",
+    "simpli": "skot",
     "translation": "Scott"
   },
   {
@@ -5788,7 +5788,7 @@
     "translation": "naznačiť"
   },
   {
-    "simpli": "haki",
+    "simpli": "hoki",
     "translation": "hokej"
   },
   {
@@ -6072,7 +6072,7 @@
     "translation": "Rím"
   },
   {
-    "simpli": "spat",
+    "simpli": "spot",
     "translation": "miesto"
   },
   {
@@ -6160,7 +6160,7 @@
     "translation": "vítať"
   },
   {
-    "simpli": "baiagrafi",
+    "simpli": "baiografi",
     "translation": "životopis"
   },
   {
@@ -6260,7 +6260,7 @@
     "translation": "zmes"
   },
   {
-    "simpli": "apertunati",
+    "simpli": "opertunati",
     "translation": "príležitosť"
   },
   {
@@ -6288,7 +6288,7 @@
     "translation": "organizácia"
   },
   {
-    "simpli": "kantraversal",
+    "simpli": "kontraversal",
     "translation": "kontroverzný"
   },
   {
@@ -6308,7 +6308,7 @@
     "translation": "cestujúci"
   },
   {
-    "simpli": "kamik",
+    "simpli": "komik",
     "translation": "komiks"
   },
   {
@@ -6340,7 +6340,7 @@
     "translation": "fond"
   },
   {
-    "simpli": "apasat",
+    "simpli": "opasat",
     "translation": "opačný"
   },
   {
@@ -6352,7 +6352,7 @@
     "translation": "Cambridge"
   },
   {
-    "simpli": "kampasisan",
+    "simpli": "kompasisan",
     "translation": "skladba"
   },
   {
@@ -6380,7 +6380,7 @@
     "translation": "udržiavať"
   },
   {
-    "simpli": "skaler",
+    "simpli": "skoler",
     "translation": "vedec"
   },
   {
@@ -6424,7 +6424,7 @@
     "translation": "fórum"
   },
   {
-    "simpli": "kantest",
+    "simpli": "kontest",
     "translation": "súťaž"
   },
   {
@@ -6436,7 +6436,7 @@
     "translation": "vojvoda"
   },
   {
-    "simpli": "stak",
+    "simpli": "stok",
     "translation": "zásoba"
   },
   {
@@ -6572,7 +6572,7 @@
     "translation": "tvorivý"
   },
   {
-    "simpli": "trapikal",
+    "simpli": "tropikal",
     "translation": "tropický"
   },
   {
@@ -6624,7 +6624,7 @@
     "translation": "Mária"
   },
   {
-    "simpli": "kambaneisan",
+    "simpli": "kombaneisan",
     "translation": "kombinácia"
   },
   {
@@ -6736,7 +6736,7 @@
     "translation": "mlyn"
   },
   {
-    "simpli": "dakyament",
+    "simpli": "dokyament",
     "translation": "dokument"
   },
   {
@@ -6840,7 +6840,7 @@
     "translation": "middot"
   },
   {
-    "simpli": "kanstatusan",
+    "simpli": "konstatusan",
     "translation": "ústava"
   },
   {
@@ -6848,7 +6848,7 @@
     "translation": "určite"
   },
   {
-    "simpli": "praperli",
+    "simpli": "properli",
     "translation": "správne"
   },
   {
@@ -6876,7 +6876,7 @@
     "translation": "len"
   },
   {
-    "simpli": "sap",
+    "simpli": "sop",
     "translation": "obchod"
   },
   {
@@ -6892,7 +6892,7 @@
     "translation": "stredoveký"
   },
   {
-    "simpli": "ilektranik",
+    "simpli": "ilektronik",
     "translation": "elektronický"
   },
   {
@@ -6980,7 +6980,7 @@
     "translation": "článok"
   },
   {
-    "simpli": "kandakt",
+    "simpli": "kondakt",
     "translation": "správanie"
   },
   {
@@ -7040,7 +7040,7 @@
     "translation": "senátor"
   },
   {
-    "simpli": "kalam",
+    "simpli": "kolam",
     "translation": "stĺpec"
   },
   {
@@ -7056,7 +7056,7 @@
     "translation": "Santa"
   },
   {
-    "simpli": "apereit",
+    "simpli": "opereit",
     "translation": "prevádzkovať"
   },
   {
@@ -7120,7 +7120,7 @@
     "translation": "údržba"
   },
   {
-    "simpli": "anereri",
+    "simpli": "onereri",
     "translation": "čestný"
   },
   {
@@ -7136,7 +7136,7 @@
     "translation": "Jim"
   },
   {
-    "simpli": "teranto",
+    "simpli": "teronto",
     "translation": "Toronto"
   },
   {
@@ -7152,7 +7152,7 @@
     "translation": "disk"
   },
   {
-    "simpli": "kantraversi",
+    "simpli": "kontraversi",
     "translation": "kontroverzia"
   },
   {
@@ -7220,7 +7220,7 @@
     "translation": "konfederačný"
   },
   {
-    "simpli": "kantrast",
+    "simpli": "kontrast",
     "translation": "kontrast"
   },
   {
@@ -7240,7 +7240,7 @@
     "translation": "vokálny"
   },
   {
-    "simpli": "saker",
+    "simpli": "soker",
     "translation": "futbal"
   },
   {
@@ -7248,7 +7248,7 @@
     "translation": "hĺbka"
   },
   {
-    "simpli": "rispansabilati",
+    "simpli": "risponsabilati",
     "translation": "zodpovednosť"
   },
   {
@@ -7420,7 +7420,7 @@
     "translation": "citát"
   },
   {
-    "simpli": "fatagrafi",
+    "simpli": "fatografi",
     "translation": "fotografia"
   },
   {
@@ -7428,7 +7428,7 @@
     "translation": "návrh"
   },
   {
-    "simpli": "bab",
+    "simpli": "bob",
     "translation": "Bob"
   },
   {
@@ -7448,7 +7448,7 @@
     "translation": "výhoda"
   },
   {
-    "simpli": "faks",
+    "simpli": "foks",
     "translation": "líška"
   },
   {
@@ -7620,7 +7620,7 @@
     "translation": "žáner"
   },
   {
-    "simpli": "papyalerati",
+    "simpli": "popyalerati",
     "translation": "popularita"
   },
   {
@@ -7716,7 +7716,7 @@
     "translation": "povesť"
   },
   {
-    "simpli": "kanstant",
+    "simpli": "konstant",
     "translation": "stály"
   },
   {
@@ -7784,7 +7784,7 @@
     "translation": "vplyvný"
   },
   {
-    "simpli": "impasabal",
+    "simpli": "imposabal",
     "translation": "nemožný"
   },
   {
@@ -7792,7 +7792,7 @@
     "translation": "prijateľný"
   },
   {
-    "simpli": "invalvmant",
+    "simpli": "involvmant",
     "translation": "zapojenie"
   },
   {
@@ -7924,7 +7924,7 @@
     "translation": "medveď"
   },
   {
-    "simpli": "kamyanast",
+    "simpli": "komyanast",
     "translation": "komunistický"
   },
   {
@@ -7940,7 +7940,7 @@
     "translation": "fm"
   },
   {
-    "simpli": "drap",
+    "simpli": "drop",
     "translation": "pustiť"
   },
   {
@@ -7996,7 +7996,7 @@
     "translation": "gén"
   },
   {
-    "simpli": "pasabilati",
+    "simpli": "posabilati",
     "translation": "možnosť"
   },
   {
@@ -8008,7 +8008,7 @@
     "translation": "Ian"
   },
   {
-    "simpli": "manyumant",
+    "simpli": "monyumant",
     "translation": "pamätník"
   },
   {
@@ -8040,7 +8040,7 @@
     "translation": "nesúhlasiť"
   },
   {
-    "simpli": "kampaleisan",
+    "simpli": "kompaleisan",
     "translation": "kompilácia"
   },
   {
@@ -8084,7 +8084,7 @@
     "translation": "usmernenie"
   },
   {
-    "simpli": "sak",
+    "simpli": "sok",
     "translation": "ponožka"
   },
   {
@@ -8096,7 +8096,7 @@
     "translation": "kabinet"
   },
   {
-    "simpli": "kanserveisan",
+    "simpli": "konserveisan",
     "translation": "ochrana"
   },
   {
@@ -8160,7 +8160,7 @@
     "translation": "zákonodarstvo"
   },
   {
-    "simpli": "masko",
+    "simpli": "mosko",
     "translation": "Moskva"
   },
   {
@@ -8188,7 +8188,7 @@
     "translation": "značný"
   },
   {
-    "simpli": "kamanteri",
+    "simpli": "komanteri",
     "translation": "komentár"
   },
   {
@@ -8292,7 +8292,7 @@
     "translation": "poistenie"
   },
   {
-    "simpli": "kamprihensiv",
+    "simpli": "komprihensiv",
     "translation": "komplexný"
   },
   {
@@ -8372,7 +8372,7 @@
     "translation": "vyhynutý"
   },
   {
-    "simpli": "metrapalatan",
+    "simpli": "metrapolatan",
     "translation": "metropolitný"
   },
   {
@@ -8428,7 +8428,7 @@
     "translation": "Melbourne"
   },
   {
-    "simpli": "skalersip",
+    "simpli": "skolersip",
     "translation": "štipendium"
   },
   {
@@ -8532,7 +8532,7 @@
     "translation": "okamžitý"
   },
   {
-    "simpli": "fatagrafer",
+    "simpli": "fatografer",
     "translation": "fotograf"
   },
   {
@@ -8540,7 +8540,7 @@
     "translation": "inštrumentálny"
   },
   {
-    "simpli": "galf",
+    "simpli": "golf",
     "translation": "golf"
   },
   {
@@ -8672,7 +8672,7 @@
     "translation": "evolúcia"
   },
   {
-    "simpli": "akyapeisan",
+    "simpli": "okyapeisan",
     "translation": "povolanie"
   },
   {
@@ -8696,7 +8696,7 @@
     "translation": "čoraz viac"
   },
   {
-    "simpli": "kalani",
+    "simpli": "kolani",
     "translation": "kolónia"
   },
   {
@@ -8728,7 +8728,7 @@
     "translation": "nadmorská výška"
   },
   {
-    "simpli": "anterio",
+    "simpli": "onterio",
     "translation": "Ontário"
   },
   {
@@ -8768,7 +8768,7 @@
     "translation": "Moore"
   },
   {
-    "simpli": "nobadi",
+    "simpli": "nobodi",
     "translation": "nikto"
   },
   {
@@ -8924,7 +8924,7 @@
     "translation": "batéria"
   },
   {
-    "simpli": "saft",
+    "simpli": "soft",
     "translation": "mäkký"
   },
   {
@@ -9000,7 +9000,7 @@
     "translation": "Margaréta"
   },
   {
-    "simpli": "valantir",
+    "simpli": "volantir",
     "translation": "dobrovoľník"
   },
   {
@@ -9104,7 +9104,7 @@
     "translation": "živý"
   },
   {
-    "simpli": "haliwud",
+    "simpli": "holiwud",
     "translation": "Hollywood"
   },
   {
@@ -9116,7 +9116,7 @@
     "translation": "získať"
   },
   {
-    "simpli": "apereiter",
+    "simpli": "opereiter",
     "translation": "operátor"
   },
   {
@@ -9216,7 +9216,7 @@
     "translation": "rukoväť"
   },
   {
-    "simpli": "apereisanal",
+    "simpli": "opereisanal",
     "translation": "prevádzkový"
   },
   {
@@ -9288,7 +9288,7 @@
     "translation": "rýchlo"
   },
   {
-    "simpli": "risalv",
+    "simpli": "risolv",
     "translation": "vyriešiť"
   },
   {
@@ -9464,7 +9464,7 @@
     "translation": "položiť"
   },
   {
-    "simpli": "saikaladji",
+    "simpli": "saikoladji",
     "translation": "psychológia"
   },
   {
@@ -9596,7 +9596,7 @@
     "translation": "súťažný"
   },
   {
-    "simpli": "manasteri",
+    "simpli": "monasteri",
     "translation": "kláštor"
   },
   {
@@ -9624,11 +9624,11 @@
     "translation": "maloobchod"
   },
   {
-    "simpli": "bam",
+    "simpli": "bom",
     "translation": "bomba"
   },
   {
-    "simpli": "kalerado",
+    "simpli": "kolerado",
     "translation": "Colorado"
   },
   {
@@ -9644,7 +9644,7 @@
     "translation": "Ukrajina"
   },
   {
-    "simpli": "bibliagrafi",
+    "simpli": "bibliografi",
     "translation": "bibliografia"
   },
   {
@@ -9668,7 +9668,7 @@
     "translation": "oceniť"
   },
   {
-    "simpli": "koapereisan",
+    "simpli": "koopereisan",
     "translation": "spolupráca"
   },
   {
@@ -9700,7 +9700,7 @@
     "translation": "doktorát"
   },
   {
-    "simpli": "rispand",
+    "simpli": "rispond",
     "translation": "odpovedať"
   },
   {
@@ -9780,7 +9780,7 @@
     "translation": "oprávnený"
   },
   {
-    "simpli": "prad",
+    "simpli": "prod",
     "translation": "prod"
   },
   {
@@ -9800,7 +9800,7 @@
     "translation": "sa"
   },
   {
-    "simpli": "tampsan",
+    "simpli": "tompsan",
     "translation": "Thompson"
   },
   {
@@ -10000,7 +10000,7 @@
     "translation": "identifikácia"
   },
   {
-    "simpli": "baialadjikal",
+    "simpli": "baialodjikal",
     "translation": "biologický"
   },
   {
@@ -10024,7 +10024,7 @@
     "translation": "Indonézia"
   },
   {
-    "simpli": "ras",
+    "simpli": "ros",
     "translation": "Ross"
   },
   {
@@ -10032,7 +10032,7 @@
     "translation": "obyčajný"
   },
   {
-    "simpli": "kanstatusanal",
+    "simpli": "konstatusanal",
     "translation": "ústavný"
   },
   {
@@ -10044,7 +10044,7 @@
     "translation": "rozprávanie"
   },
   {
-    "simpli": "kamers",
+    "simpli": "komers",
     "translation": "obchod"
   },
   {
@@ -10220,7 +10220,7 @@
     "translation": "te"
   },
   {
-    "simpli": "haladei",
+    "simpli": "holadei",
     "translation": "sviatok"
   },
   {
@@ -10444,7 +10444,7 @@
     "translation": "linkwatcher"
   },
   {
-    "simpli": "ladjik",
+    "simpli": "lodjik",
     "translation": "logika"
   },
   {
@@ -10476,7 +10476,7 @@
     "translation": "ncaa"
   },
   {
-    "simpli": "navalast",
+    "simpli": "novalast",
     "translation": "románopisec"
   },
   {
@@ -10508,7 +10508,7 @@
     "translation": "Campbell"
   },
   {
-    "simpli": "rabansan",
+    "simpli": "robansan",
     "translation": "Robinson"
   },
   {
@@ -10524,7 +10524,7 @@
     "translation": "Edinburgh"
   },
   {
-    "simpli": "radjer",
+    "simpli": "rodjer",
     "translation": "Roger"
   },
   {
@@ -10532,11 +10532,11 @@
     "translation": "výlučný"
   },
   {
-    "simpli": "ortadaks",
+    "simpli": "ortadoks",
     "translation": "ortodoxný"
   },
   {
-    "simpli": "nansens",
+    "simpli": "nonsens",
     "translation": "nezmysel"
   },
   {
@@ -10568,7 +10568,7 @@
     "translation": "menovite"
   },
   {
-    "simpli": "kanverseisan",
+    "simpli": "konverseisan",
     "translation": "rozhovor"
   },
   {
@@ -10588,7 +10588,7 @@
     "translation": "vzdialený"
   },
   {
-    "simpli": "wiskansan",
+    "simpli": "wiskonsan",
     "translation": "Wisconsin"
   },
   {
@@ -10608,7 +10608,7 @@
     "translation": "nadbytočný"
   },
   {
-    "simpli": "baialadji",
+    "simpli": "baioladji",
     "translation": "biológia"
   },
   {
@@ -10740,7 +10740,7 @@
     "translation": "zníženie"
   },
   {
-    "simpli": "kamyun",
+    "simpli": "komyun",
     "translation": "komúna"
   },
   {
@@ -10752,7 +10752,7 @@
     "translation": "súčasne"
   },
   {
-    "simpli": "klak",
+    "simpli": "klok",
     "translation": "hodiny"
   },
   {
@@ -10828,7 +10828,7 @@
     "translation": "účasť"
   },
   {
-    "simpli": "arkialadjikal",
+    "simpli": "arkialodjikal",
     "translation": "archeologický"
   },
   {
@@ -10872,11 +10872,11 @@
     "translation": "liečiť"
   },
   {
-    "simpli": "ataman",
+    "simpli": "otaman",
     "translation": "osmanský"
   },
   {
-    "simpli": "kamanwelt",
+    "simpli": "komanwelt",
     "translation": "spoločenstvo"
   },
   {
@@ -10944,7 +10944,7 @@
     "translation": "absolventi"
   },
   {
-    "simpli": "danald",
+    "simpli": "donald",
     "translation": "Donald"
   },
   {
@@ -11036,7 +11036,7 @@
     "translation": "entita"
   },
   {
-    "simpli": "kantreri",
+    "simpli": "kontreri",
     "translation": "opačný"
   },
   {
@@ -11288,7 +11288,7 @@
     "translation": "pracovník"
   },
   {
-    "simpli": "dimakrasi",
+    "simpli": "dimokrasi",
     "translation": "demokracia"
   },
   {
@@ -11368,7 +11368,7 @@
     "translation": "Jimmy"
   },
   {
-    "simpli": "damanant",
+    "simpli": "domanant",
     "translation": "dominantný"
   },
   {
@@ -11424,7 +11424,7 @@
     "translation": "Miami"
   },
   {
-    "simpli": "kansantreisan",
+    "simpli": "konsantreisan",
     "translation": "koncentrácia"
   },
   {
@@ -11444,7 +11444,7 @@
     "translation": "menej"
   },
   {
-    "simpli": "kafi",
+    "simpli": "kofi",
     "translation": "káva"
   },
   {
@@ -11556,7 +11556,7 @@
     "translation": "pokyn"
   },
   {
-    "simpli": "fanamanan",
+    "simpli": "fanomanon",
     "translation": "jav"
   },
   {
@@ -11664,7 +11664,7 @@
     "translation": "citový"
   },
   {
-    "simpli": "werksap",
+    "simpli": "werksop",
     "translation": "dielňa"
   },
   {
@@ -11676,7 +11676,7 @@
     "translation": "vdova"
   },
   {
-    "simpli": "manater",
+    "simpli": "monater",
     "translation": "monitor"
   },
   {
@@ -11708,7 +11708,7 @@
     "translation": "pozostávať"
   },
   {
-    "simpli": "skalerli",
+    "simpli": "skolerli",
     "translation": "vedecký"
   },
   {
@@ -11732,7 +11732,7 @@
     "translation": "skúška"
   },
   {
-    "simpli": "salv",
+    "simpli": "solv",
     "translation": "vyriešiť"
   },
   {
@@ -11772,7 +11772,7 @@
     "translation": "líčenie"
   },
   {
-    "simpli": "kanvert",
+    "simpli": "konvert",
     "translation": "konvertovať"
   },
   {
@@ -11808,7 +11808,7 @@
     "translation": "rytmus"
   },
   {
-    "simpli": "paverti",
+    "simpli": "poverti",
     "translation": "chudoba"
   },
   {
@@ -11840,7 +11840,7 @@
     "translation": "synovec"
   },
   {
-    "simpli": "alkahal",
+    "simpli": "alkahol",
     "translation": "alkohol"
   },
   {
@@ -11860,7 +11860,7 @@
     "translation": "Barbora"
   },
   {
-    "simpli": "djiagrafi",
+    "simpli": "djiografi",
     "translation": "geografia"
   },
   {
@@ -11904,7 +11904,7 @@
     "translation": "Ra"
   },
   {
-    "simpli": "raster",
+    "simpli": "roster",
     "translation": "súpiska"
   },
   {
@@ -11920,7 +11920,7 @@
     "translation": "opátstvo"
   },
   {
-    "simpli": "djani",
+    "simpli": "djoni",
     "translation": "Johnny"
   },
   {
@@ -11928,7 +11928,7 @@
     "translation": "hluk"
   },
   {
-    "simpli": "abserveisan",
+    "simpli": "observeisan",
     "translation": "pozorovanie"
   },
   {
@@ -11940,7 +11940,7 @@
     "translation": "Baltimore"
   },
   {
-    "simpli": "kamperabal",
+    "simpli": "komperabal",
     "translation": "porovnateľný"
   },
   {
@@ -11952,7 +11952,7 @@
     "translation": "tieň"
   },
   {
-    "simpli": "invalv",
+    "simpli": "involv",
     "translation": "zahŕňať"
   },
   {
@@ -11972,7 +11972,7 @@
     "translation": "technicky"
   },
   {
-    "simpli": "amasan",
+    "simpli": "amason",
     "translation": "Amazon"
   },
   {
@@ -12004,7 +12004,7 @@
     "translation": "Rico"
   },
   {
-    "simpli": "robat",
+    "simpli": "robot",
     "translation": "robot"
   },
   {
@@ -12032,7 +12032,7 @@
     "translation": "megawatt"
   },
   {
-    "simpli": "kanstantli",
+    "simpli": "konstantli",
     "translation": "neustále"
   },
   {
@@ -12072,7 +12072,7 @@
     "translation": "adresár"
   },
   {
-    "simpli": "kanggrageisan",
+    "simpli": "konggrageisan",
     "translation": "zhromaždenie"
   },
   {
@@ -12084,7 +12084,7 @@
     "translation": "aerolinka"
   },
   {
-    "simpli": "djanatan",
+    "simpli": "djonatan",
     "translation": "Jonatán"
   },
   {
@@ -12112,7 +12112,7 @@
     "translation": "drsný"
   },
   {
-    "simpli": "dakyamenteisan",
+    "simpli": "dokyamenteisan",
     "translation": "dokumentácia"
   },
   {
@@ -12120,11 +12120,11 @@
     "translation": "komik"
   },
   {
-    "simpli": "prablamatik",
+    "simpli": "problamatik",
     "translation": "problematický"
   },
   {
-    "simpli": "kantanental",
+    "simpli": "kontanental",
     "translation": "kontinentálny"
   },
   {
@@ -12140,7 +12140,7 @@
     "translation": "sultán"
   },
   {
-    "simpli": "kaper",
+    "simpli": "koper",
     "translation": "meď"
   },
   {
@@ -12212,7 +12212,7 @@
     "translation": "dynamický"
   },
   {
-    "simpli": "raban",
+    "simpli": "roban",
     "translation": "Robin"
   },
   {
@@ -12260,7 +12260,7 @@
     "translation": "hladký"
   },
   {
-    "simpli": "falasafer",
+    "simpli": "falosafer",
     "translation": "filozof"
   },
   {
@@ -12324,7 +12324,7 @@
     "translation": "terapia"
   },
   {
-    "simpli": "rakat",
+    "simpli": "rokat",
     "translation": "raketa"
   },
   {
@@ -12376,7 +12376,7 @@
     "translation": "platba"
   },
   {
-    "simpli": "ladj",
+    "simpli": "lodj",
     "translation": "chata"
   },
   {
@@ -12464,7 +12464,7 @@
     "translation": "gramotnosť"
   },
   {
-    "simpli": "kampaond",
+    "simpli": "kompaond",
     "translation": "zlúčenina"
   },
   {
@@ -12476,7 +12476,7 @@
     "translation": "teplý"
   },
   {
-    "simpli": "pridamanantli",
+    "simpli": "pridomanantli",
     "translation": "prevažne"
   },
   {
@@ -12564,7 +12564,7 @@
     "translation": "Šarlota"
   },
   {
-    "simpli": "namani",
+    "simpli": "nomani",
     "translation": "nominant"
   },
   {
@@ -12708,7 +12708,7 @@
     "translation": "cdp"
   },
   {
-    "simpli": "tialadji",
+    "simpli": "tioladji",
     "translation": "teológia"
   },
   {
@@ -12728,11 +12728,11 @@
     "translation": "zákazník"
   },
   {
-    "simpli": "sandbaks",
+    "simpli": "sandboks",
     "translation": "pieskovisko"
   },
   {
-    "simpli": "katan",
+    "simpli": "kotan",
     "translation": "bavlna"
   },
   {
@@ -12796,11 +12796,11 @@
     "translation": "vystrašený"
   },
   {
-    "simpli": "raki",
+    "simpli": "roki",
     "translation": "skalnatý"
   },
   {
-    "simpli": "kansakvantli",
+    "simpli": "konsakvantli",
     "translation": "následne"
   },
   {
@@ -12876,11 +12876,11 @@
     "translation": "efektívnosť"
   },
   {
-    "simpli": "pramas",
+    "simpli": "promas",
     "translation": "sľub"
   },
   {
-    "simpli": "mask",
+    "simpli": "mosk",
     "translation": "mešita"
   },
   {
@@ -12900,7 +12900,7 @@
     "translation": "prežitie"
   },
   {
-    "simpli": "dakterat",
+    "simpli": "dokterat",
     "translation": "doktorát"
   },
   {
@@ -12908,7 +12908,7 @@
     "translation": "sídlo"
   },
   {
-    "simpli": "namanat",
+    "simpli": "nomanat",
     "translation": "nominovať"
   },
   {
@@ -12924,7 +12924,7 @@
     "translation": "pomsta"
   },
   {
-    "simpli": "maderat",
+    "simpli": "moderat",
     "translation": "umiernený"
   },
   {
@@ -12964,7 +12964,7 @@
     "translation": "nasa"
   },
   {
-    "simpli": "saikaladjikal",
+    "simpli": "saikalodjikal",
     "translation": "psychologický"
   },
   {
@@ -13032,7 +13032,7 @@
     "translation": "ab"
   },
   {
-    "simpli": "kampramais",
+    "simpli": "kompramais",
     "translation": "kompromis"
   },
   {
@@ -13092,7 +13092,7 @@
     "translation": "ústny"
   },
   {
-    "simpli": "resavwar",
+    "simpli": "resavwor",
     "translation": "nádrž"
   },
   {
@@ -13148,7 +13148,7 @@
     "translation": "est"
   },
   {
-    "simpli": "apsanal",
+    "simpli": "opsanal",
     "translation": "voliteľný"
   },
   {
@@ -13172,7 +13172,7 @@
     "translation": "pamiatka"
   },
   {
-    "simpli": "prafat",
+    "simpli": "profat",
     "translation": "zisk"
   },
   {
@@ -13200,7 +13200,7 @@
     "translation": "filter"
   },
   {
-    "simpli": "madjul",
+    "simpli": "modjul",
     "translation": "modul"
   },
   {
@@ -13304,7 +13304,7 @@
     "translation": "súhrn"
   },
   {
-    "simpli": "manster",
+    "simpli": "monster",
     "translation": "príšera"
   },
   {
@@ -13320,7 +13320,7 @@
     "translation": "občiansky"
   },
   {
-    "simpli": "kanfadans",
+    "simpli": "konfadans",
     "translation": "dôvera"
   },
   {
@@ -13356,7 +13356,7 @@
     "translation": "mlb"
   },
   {
-    "simpli": "akamadeit",
+    "simpli": "akomadeit",
     "translation": "ubytovať"
   },
   {
@@ -13476,7 +13476,7 @@
     "translation": "ap"
   },
   {
-    "simpli": "helikapter",
+    "simpli": "helikopter",
     "translation": "vrtuľník"
   },
   {
@@ -13484,7 +13484,7 @@
     "translation": "zostrojiť"
   },
   {
-    "simpli": "alaver",
+    "simpli": "olaver",
     "translation": "Oliver"
   },
   {
@@ -13564,7 +13564,7 @@
     "translation": "stredomorský"
   },
   {
-    "simpli": "prapaganda",
+    "simpli": "propaganda",
     "translation": "propaganda"
   },
   {
@@ -13600,7 +13600,7 @@
     "translation": "klávesnica"
   },
   {
-    "simpli": "aikan",
+    "simpli": "aikon",
     "translation": "ikona"
   },
   {
@@ -13744,7 +13744,7 @@
     "translation": "mriežka"
   },
   {
-    "simpli": "rab",
+    "simpli": "rob",
     "translation": "Rob"
   },
   {
@@ -13760,7 +13760,7 @@
     "translation": "nadmerný"
   },
   {
-    "simpli": "antaladji",
+    "simpli": "antoladji",
     "translation": "antológia"
   },
   {
@@ -13800,7 +13800,7 @@
     "translation": "menší"
   },
   {
-    "simpli": "anast",
+    "simpli": "onast",
     "translation": "čestný"
   },
   {
@@ -13948,7 +13948,7 @@
     "translation": "Hamlet"
   },
   {
-    "simpli": "valibol",
+    "simpli": "volibol",
     "translation": "volejbal"
   },
   {
@@ -13968,7 +13968,7 @@
     "translation": "priateľka"
   },
   {
-    "simpli": "horasantal",
+    "simpli": "horasontal",
     "translation": "vodorovný"
   },
   {
@@ -14004,7 +14004,7 @@
     "translation": "stabilita"
   },
   {
-    "simpli": "filasafikal",
+    "simpli": "filasofikal",
     "translation": "filozofický"
   },
   {
@@ -14028,7 +14028,7 @@
     "translation": "terorista"
   },
   {
-    "simpli": "daktran",
+    "simpli": "doktran",
     "translation": "doktrína"
   },
   {
@@ -14048,7 +14048,7 @@
     "translation": "primeraný"
   },
   {
-    "simpli": "prababilati",
+    "simpli": "probabilati",
     "translation": "pravdepodobnosť"
   },
   {
@@ -14144,7 +14144,7 @@
     "translation": "filipínsky"
   },
   {
-    "simpli": "kanstatut",
+    "simpli": "konstatut",
     "translation": "tvoriť"
   },
   {
@@ -14192,7 +14192,7 @@
     "translation": "Harold"
   },
   {
-    "simpli": "gaspal",
+    "simpli": "gospal",
     "translation": "evanjelium"
   },
   {
@@ -14304,7 +14304,7 @@
     "translation": "zápasník"
   },
   {
-    "simpli": "protakal",
+    "simpli": "protakol",
     "translation": "protokol"
   },
   {
@@ -14312,7 +14312,7 @@
     "translation": "kôš"
   },
   {
-    "simpli": "kansakvans",
+    "simpli": "konsakvans",
     "translation": "následok"
   },
   {
@@ -14396,7 +14396,7 @@
     "translation": "jednota"
   },
   {
-    "simpli": "ladjikal",
+    "simpli": "lodjikal",
     "translation": "logický"
   },
   {
@@ -14520,7 +14520,7 @@
     "translation": "borovica"
   },
   {
-    "simpli": "praksimati",
+    "simpli": "proksimati",
     "translation": "blízkosť"
   },
   {
@@ -14532,7 +14532,7 @@
     "translation": "algoritmus"
   },
   {
-    "simpli": "krap",
+    "simpli": "krop",
     "translation": "plodina"
   },
   {
@@ -14592,7 +14592,7 @@
     "translation": "pd"
   },
   {
-    "simpli": "pratastant",
+    "simpli": "protastant",
     "translation": "protestantský"
   },
   {
@@ -14824,7 +14824,7 @@
     "translation": "punk"
   },
   {
-    "simpli": "pand",
+    "simpli": "pond",
     "translation": "rybník"
   },
   {
@@ -14936,11 +14936,11 @@
     "translation": "podvod"
   },
   {
-    "simpli": "kampanseisan",
+    "simpli": "kompanseisan",
     "translation": "náhrada"
   },
   {
-    "simpli": "haland",
+    "simpli": "holand",
     "translation": "Holandsko"
   },
   {
@@ -14996,7 +14996,7 @@
     "translation": "prijatie"
   },
   {
-    "simpli": "hap",
+    "simpli": "hop",
     "translation": "skok"
   },
   {
@@ -15056,7 +15056,7 @@
     "translation": "Stanford"
   },
   {
-    "simpli": "adapsan",
+    "simpli": "adopsan",
     "translation": "adopcia"
   },
   {
@@ -15132,7 +15132,7 @@
     "translation": "inak"
   },
   {
-    "simpli": "babi",
+    "simpli": "bobi",
     "translation": "Bobby"
   },
   {
@@ -15288,7 +15288,7 @@
     "translation": "vajce"
   },
   {
-    "simpli": "kampakt",
+    "simpli": "kompakt",
     "translation": "kompaktný"
   },
   {
@@ -15388,7 +15388,7 @@
     "translation": "efcfff"
   },
   {
-    "simpli": "manark",
+    "simpli": "monark",
     "translation": "panovník"
   },
   {
@@ -15516,7 +15516,7 @@
     "translation": "zorganizovať"
   },
   {
-    "simpli": "ikanamist",
+    "simpli": "ikonamist",
     "translation": "ekonóm"
   },
   {
@@ -15564,11 +15564,11 @@
     "translation": "statický"
   },
   {
-    "simpli": "kantanant",
+    "simpli": "kontanant",
     "translation": "svetadiel"
   },
   {
-    "simpli": "djiamatri",
+    "simpli": "djiomatri",
     "translation": "geometria"
   },
   {
@@ -15576,7 +15576,7 @@
     "translation": "pí"
   },
   {
-    "simpli": "fasal",
+    "simpli": "fosal",
     "translation": "fosília"
   },
   {
@@ -15604,7 +15604,7 @@
     "translation": "Emília"
   },
   {
-    "simpli": "aptikal",
+    "simpli": "optikal",
     "translation": "optický"
   },
   {
@@ -15664,7 +15664,7 @@
     "translation": "vynález"
   },
   {
-    "simpli": "dak",
+    "simpli": "dok",
     "translation": "doktor"
   },
   {
@@ -15676,7 +15676,7 @@
     "translation": "väzenie"
   },
   {
-    "simpli": "valanteri",
+    "simpli": "volanteri",
     "translation": "dobrovoľný"
   },
   {
@@ -15736,7 +15736,7 @@
     "translation": "ing"
   },
   {
-    "simpli": "hastal",
+    "simpli": "hostal",
     "translation": "nepriateľský"
   },
   {
@@ -15780,7 +15780,7 @@
     "translation": "nepretržite"
   },
   {
-    "simpli": "rikanasans",
+    "simpli": "rikonasans",
     "translation": "prieskum"
   },
   {
@@ -15912,7 +15912,7 @@
     "translation": "Hart"
   },
   {
-    "simpli": "koraspandans",
+    "simpli": "koraspondans",
     "translation": "korešpondencia"
   },
   {
@@ -15972,7 +15972,7 @@
     "translation": "umiestnenie"
   },
   {
-    "simpli": "kranikal",
+    "simpli": "kronikal",
     "translation": "kronika"
   },
   {
@@ -15980,7 +15980,7 @@
     "translation": "integrita"
   },
   {
-    "simpli": "atawa",
+    "simpli": "otawa",
     "translation": "Ottawa"
   },
   {
@@ -16132,7 +16132,7 @@
     "translation": "hniezdo"
   },
   {
-    "simpli": "kambain",
+    "simpli": "kombain",
     "translation": "spojiť"
   },
   {
@@ -16152,7 +16152,7 @@
     "translation": "automobil"
   },
   {
-    "simpli": "spanser",
+    "simpli": "sponser",
     "translation": "sponzor"
   },
   {
@@ -16160,7 +16160,7 @@
     "translation": "atentát"
   },
   {
-    "simpli": "kastum",
+    "simpli": "kostum",
     "translation": "kostým"
   },
   {
@@ -16180,7 +16180,7 @@
     "translation": "pivnica"
   },
   {
-    "simpli": "tialadjikal",
+    "simpli": "tialodjikal",
     "translation": "teologický"
   },
   {
@@ -16220,7 +16220,7 @@
     "translation": "melódia"
   },
   {
-    "simpli": "pramanans",
+    "simpli": "promanans",
     "translation": "význam"
   },
   {
@@ -16256,7 +16256,7 @@
     "translation": "obranca"
   },
   {
-    "simpli": "tami",
+    "simpli": "tomi",
     "translation": "Tommy"
   },
   {
@@ -16272,7 +16272,7 @@
     "translation": "delegát"
   },
   {
-    "simpli": "bakser",
+    "simpli": "bokser",
     "translation": "boxer"
   },
   {
@@ -16324,7 +16324,7 @@
     "translation": "odporúčanie"
   },
   {
-    "simpli": "valasati",
+    "simpli": "valosati",
     "translation": "rýchlosť"
   },
   {
@@ -16372,7 +16372,7 @@
     "translation": "Šanghaj"
   },
   {
-    "simpli": "tad",
+    "simpli": "tod",
     "translation": "Todd"
   },
   {
@@ -16420,11 +16420,11 @@
     "translation": "používateľský priestor"
   },
   {
-    "simpli": "mantana",
+    "simpli": "montana",
     "translation": "Montana"
   },
   {
-    "simpli": "bamer",
+    "simpli": "bomer",
     "translation": "bombardér"
   },
   {
@@ -16476,7 +16476,7 @@
     "translation": "ortuť"
   },
   {
-    "simpli": "daler",
+    "simpli": "doler",
     "translation": "dolár"
   },
   {
@@ -16488,7 +16488,7 @@
     "translation": "vložka"
   },
   {
-    "simpli": "adapt",
+    "simpli": "adopt",
     "translation": "prijať"
   },
   {
@@ -16564,7 +16564,7 @@
     "translation": "množné číslo"
   },
   {
-    "simpli": "kanvoi",
+    "simpli": "konvoi",
     "translation": "konvoj"
   },
   {
@@ -16588,7 +16588,7 @@
     "translation": "tenor"
   },
   {
-    "simpli": "koraspandant",
+    "simpli": "koraspondant",
     "translation": "korešpondent"
   },
   {
@@ -16600,7 +16600,7 @@
     "translation": "informovať"
   },
   {
-    "simpli": "kangkvest",
+    "simpli": "kongkvest",
     "translation": "dobytie"
   },
   {
@@ -16796,7 +16796,7 @@
     "translation": "najsilnejší"
   },
   {
-    "simpli": "dakteral",
+    "simpli": "dokteral",
     "translation": "doktorský"
   },
   {
@@ -16820,7 +16820,7 @@
     "translation": "odstránenie"
   },
   {
-    "simpli": "ato",
+    "simpli": "oto",
     "translation": "Oto"
   },
   {
@@ -16848,7 +16848,7 @@
     "translation": "chlieb"
   },
   {
-    "simpli": "fant",
+    "simpli": "font",
     "translation": "písmo"
   },
   {
@@ -16884,7 +16884,7 @@
     "translation": "valec"
   },
   {
-    "simpli": "memvar",
+    "simpli": "memvor",
     "translation": "memoáre"
   },
   {
@@ -16912,7 +16912,7 @@
     "translation": "presvedčenie"
   },
   {
-    "simpli": "mataladji",
+    "simpli": "matoladji",
     "translation": "mytológia"
   },
   {
@@ -17036,7 +17036,7 @@
     "translation": "Porter"
   },
   {
-    "simpli": "gatik",
+    "simpli": "gotik",
     "translation": "gotický"
   },
   {
@@ -17088,7 +17088,7 @@
     "translation": "koordinácia"
   },
   {
-    "simpli": "mato",
+    "simpli": "moto",
     "translation": "motto"
   },
   {
@@ -17136,7 +17136,7 @@
     "translation": "neúspešne"
   },
   {
-    "simpli": "teknaladjikal",
+    "simpli": "teknalodjikal",
     "translation": "technologický"
   },
   {
@@ -17160,7 +17160,7 @@
     "translation": "Palmer"
   },
   {
-    "simpli": "djialadjikal",
+    "simpli": "djialodjikal",
     "translation": "geologický"
   },
   {
@@ -17284,7 +17284,7 @@
     "translation": "jazykový"
   },
   {
-    "simpli": "kaks",
+    "simpli": "koks",
     "translation": "Cox"
   },
   {
@@ -17324,7 +17324,7 @@
     "translation": "gb"
   },
   {
-    "simpli": "meratan",
+    "simpli": "meraton",
     "translation": "maratón"
   },
   {
@@ -17380,11 +17380,11 @@
     "translation": "nsw"
   },
   {
-    "simpli": "stakholm",
+    "simpli": "stokholm",
     "translation": "Štokholm"
   },
   {
-    "simpli": "kamanteiter",
+    "simpli": "komanteiter",
     "translation": "komentátor"
   },
   {
@@ -17520,7 +17520,7 @@
     "translation": "inšpekcia"
   },
   {
-    "simpli": "katadj",
+    "simpli": "kotadj",
     "translation": "chalupa"
   },
   {
@@ -17560,7 +17560,7 @@
     "translation": "Jamajka"
   },
   {
-    "simpli": "halakost",
+    "simpli": "holakost",
     "translation": "holokaust"
   },
   {
@@ -17600,7 +17600,7 @@
     "translation": "vyhodnotiť"
   },
   {
-    "simpli": "akamadeisan",
+    "simpli": "akomadeisan",
     "translation": "ubytovanie"
   },
   {
@@ -17628,7 +17628,7 @@
     "translation": "poštový"
   },
   {
-    "simpli": "aidialadji",
+    "simpli": "aidioladji",
     "translation": "ideológia"
   },
   {
@@ -17636,7 +17636,7 @@
     "translation": "nástenka"
   },
   {
-    "simpli": "pastjumasli",
+    "simpli": "postjumasli",
     "translation": "posmrtne"
   },
   {
@@ -17644,7 +17644,7 @@
     "translation": "referendum"
   },
   {
-    "simpli": "kaner",
+    "simpli": "koner",
     "translation": "Connor"
   },
   {
@@ -17664,11 +17664,11 @@
     "translation": "systematický"
   },
   {
-    "simpli": "atamik",
+    "simpli": "atomik",
     "translation": "atómový"
   },
   {
-    "simpli": "sosialadji",
+    "simpli": "sosioladji",
     "translation": "sociológia"
   },
   {
@@ -17696,7 +17696,7 @@
     "translation": "mtv"
   },
   {
-    "simpli": "mantgamri",
+    "simpli": "montgamri",
     "translation": "Montgomery"
   },
   {
@@ -17708,7 +17708,7 @@
     "translation": "uzol"
   },
   {
-    "simpli": "pali",
+    "simpli": "poli",
     "translation": "poly"
   },
   {
@@ -17752,7 +17752,7 @@
     "translation": "Natan"
   },
   {
-    "simpli": "kalig",
+    "simpli": "kolig",
     "translation": "kolega"
   },
   {
@@ -17772,7 +17772,7 @@
     "translation": "teror"
   },
   {
-    "simpli": "armstrang",
+    "simpli": "armstrong",
     "translation": "Armstrong"
   },
   {
@@ -17796,7 +17796,7 @@
     "translation": "scenár"
   },
   {
-    "simpli": "anastli",
+    "simpli": "onastli",
     "translation": "úprimne"
   },
   {
@@ -17864,7 +17864,7 @@
     "translation": "nezhoda"
   },
   {
-    "simpli": "koapereitiv",
+    "simpli": "koopereitiv",
     "translation": "družstevný"
   },
   {
@@ -17872,7 +17872,7 @@
     "translation": "cluebot"
   },
   {
-    "simpli": "spansersip",
+    "simpli": "sponsersip",
     "translation": "sponzorstvo"
   },
   {
@@ -17884,7 +17884,7 @@
     "translation": "Henderson"
   },
   {
-    "simpli": "savran",
+    "simpli": "sovran",
     "translation": "panovník"
   },
   {
@@ -17896,11 +17896,11 @@
     "translation": "Marta"
   },
   {
-    "simpli": "slat",
+    "simpli": "slot",
     "translation": "štrbina"
   },
   {
-    "simpli": "kanfermeisan",
+    "simpli": "konfermeisan",
     "translation": "potvrdenie"
   },
   {
@@ -17920,11 +17920,11 @@
     "translation": "ns"
   },
   {
-    "simpli": "ankaman",
+    "simpli": "ankoman",
     "translation": "nezvyčajný"
   },
   {
-    "simpli": "madast",
+    "simpli": "modast",
     "translation": "skromný"
   },
   {
@@ -17940,7 +17940,7 @@
     "translation": "návštevník"
   },
   {
-    "simpli": "kagnitiv",
+    "simpli": "kognitiv",
     "translation": "kognitívny"
   },
   {
@@ -17988,7 +17988,7 @@
     "translation": "trilógia"
   },
   {
-    "simpli": "vermant",
+    "simpli": "vermont",
     "translation": "Vermont"
   },
   {
@@ -18008,7 +18008,7 @@
     "translation": "dos"
   },
   {
-    "simpli": "pakat",
+    "simpli": "pokat",
     "translation": "vrecko"
   },
   {
@@ -18064,7 +18064,7 @@
     "translation": "cech"
   },
   {
-    "simpli": "praspekt",
+    "simpli": "prospekt",
     "translation": "vyhliadka"
   },
   {
@@ -18092,7 +18092,7 @@
     "translation": "Richardson"
   },
   {
-    "simpli": "rabertsan",
+    "simpli": "robertsan",
     "translation": "Robertson"
   },
   {
@@ -18112,7 +18112,7 @@
     "translation": "bicykel"
   },
   {
-    "simpli": "terminaladji",
+    "simpli": "terminoladji",
     "translation": "terminológia"
   },
   {
@@ -18136,7 +18136,7 @@
     "translation": "dojča"
   },
   {
-    "simpli": "prasakyusan",
+    "simpli": "prosakyusan",
     "translation": "stíhanie"
   },
   {
@@ -18252,7 +18252,7 @@
     "translation": "behaviorálny"
   },
   {
-    "simpli": "kalamnast",
+    "simpli": "kolamnast",
     "translation": "stĺpčekár"
   },
   {
@@ -18280,7 +18280,7 @@
     "translation": "idol"
   },
   {
-    "simpli": "astranamer",
+    "simpli": "astronamer",
     "translation": "astronóm"
   },
   {
@@ -18288,7 +18288,7 @@
     "translation": "estetický"
   },
   {
-    "simpli": "ilektran",
+    "simpli": "ilektron",
     "translation": "elektrón"
   },
   {
@@ -18304,7 +18304,7 @@
     "translation": "šľachta"
   },
   {
-    "simpli": "ranald",
+    "simpli": "ronald",
     "translation": "Ronald"
   },
   {
@@ -18324,7 +18324,7 @@
     "translation": "soprán"
   },
   {
-    "simpli": "kansol",
+    "simpli": "konsol",
     "translation": "konzola"
   },
   {
@@ -18404,7 +18404,7 @@
     "translation": "špinavý"
   },
   {
-    "simpli": "pater",
+    "simpli": "poter",
     "translation": "hrnčiar"
   },
   {
@@ -18528,7 +18528,7 @@
     "translation": "hodváb"
   },
   {
-    "simpli": "salaman",
+    "simpli": "solaman",
     "translation": "Šalamún"
   },
   {
@@ -18580,7 +18580,7 @@
     "translation": "hnev"
   },
   {
-    "simpli": "akyapai",
+    "simpli": "okyapai",
     "translation": "obsadiť"
   },
   {
@@ -18592,7 +18592,7 @@
     "translation": "ller"
   },
   {
-    "simpli": "kanvant",
+    "simpli": "konvant",
     "translation": "kláštor"
   },
   {
@@ -18640,11 +18640,11 @@
     "translation": "mladistvý"
   },
   {
-    "simpli": "pateri",
+    "simpli": "poteri",
     "translation": "keramika"
   },
   {
-    "simpli": "madana",
+    "simpli": "madona",
     "translation": "Madonna"
   },
   {
@@ -18676,7 +18676,7 @@
     "translation": "primerane"
   },
   {
-    "simpli": "absalit",
+    "simpli": "obsalit",
     "translation": "zastaraný"
   },
   {
@@ -18736,7 +18736,7 @@
     "translation": "sezónny"
   },
   {
-    "simpli": "nakaot",
+    "simpli": "nokaot",
     "translation": "knokaut"
   },
   {
@@ -18808,7 +18808,7 @@
     "translation": "rpm"
   },
   {
-    "simpli": "prababal",
+    "simpli": "probabal",
     "translation": "pravdepodobný"
   },
   {
@@ -18820,7 +18820,7 @@
     "translation": "nepresný"
   },
   {
-    "simpli": "lian",
+    "simpli": "lion",
     "translation": "Leon"
   },
   {
@@ -18844,7 +18844,7 @@
     "translation": "Burke"
   },
   {
-    "simpli": "fanamana",
+    "simpli": "fanomana",
     "translation": "javy"
   },
   {
@@ -18856,7 +18856,7 @@
     "translation": "reverend"
   },
   {
-    "simpli": "aikanik",
+    "simpli": "aikonik",
     "translation": "ikonický"
   },
   {
@@ -18900,7 +18900,7 @@
     "translation": "Somerset"
   },
   {
-    "simpli": "bader",
+    "simpli": "boder",
     "translation": "obťažovať"
   },
   {
@@ -18952,15 +18952,15 @@
     "translation": "erb"
   },
   {
-    "simpli": "aknalidj",
+    "simpli": "aknolidj",
     "translation": "uznať"
   },
   {
-    "simpli": "kanggo",
+    "simpli": "konggo",
     "translation": "Kongo"
   },
   {
-    "simpli": "fergat",
+    "simpli": "fergot",
     "translation": "zabudnúť"
   },
   {
@@ -18996,7 +18996,7 @@
     "translation": "vyvolať"
   },
   {
-    "simpli": "kanggrasman",
+    "simpli": "konggrasman",
     "translation": "kongresman"
   },
   {
@@ -19048,7 +19048,7 @@
     "translation": "Jeremy"
   },
   {
-    "simpli": "kranik",
+    "simpli": "kronik",
     "translation": "chronický"
   },
   {
@@ -19068,7 +19068,7 @@
     "translation": "presbyteriánsky"
   },
   {
-    "simpli": "taksik",
+    "simpli": "toksik",
     "translation": "toxický"
   },
   {
@@ -19120,7 +19120,7 @@
     "translation": "Perth"
   },
   {
-    "simpli": "rad",
+    "simpli": "rod",
     "translation": "prút"
   },
   {
@@ -19184,7 +19184,7 @@
     "translation": "vierohodný"
   },
   {
-    "simpli": "merako",
+    "simpli": "meroko",
     "translation": "Maroko"
   },
   {
@@ -19264,7 +19264,7 @@
     "translation": "pokračovanie"
   },
   {
-    "simpli": "djialadji",
+    "simpli": "djioladji",
     "translation": "geológia"
   },
   {
@@ -19332,7 +19332,7 @@
     "translation": "nainštalovať"
   },
   {
-    "simpli": "astranami",
+    "simpli": "astronami",
     "translation": "astronómia"
   },
   {
@@ -19352,15 +19352,15 @@
     "translation": "Sussex"
   },
   {
-    "simpli": "valkanik",
+    "simpli": "volkanik",
     "translation": "sopečný"
   },
   {
-    "simpli": "apaladjais",
+    "simpli": "apoladjais",
     "translation": "ospravedlniť sa"
   },
   {
-    "simpli": "tamsan",
+    "simpli": "tomsan",
     "translation": "Thomson"
   },
   {
@@ -19372,7 +19372,7 @@
     "translation": "itn"
   },
   {
-    "simpli": "apraksamat",
+    "simpli": "aproksamat",
     "translation": "približný"
   },
   {
@@ -19388,7 +19388,7 @@
     "translation": "Chuck"
   },
   {
-    "simpli": "djasua",
+    "simpli": "djosua",
     "translation": "Jozua"
   },
   {
@@ -19544,7 +19544,7 @@
     "translation": "prielom"
   },
   {
-    "simpli": "ikaladjikal",
+    "simpli": "ikalodjikal",
     "translation": "ekologický"
   },
   {
@@ -19652,11 +19652,11 @@
     "translation": "etický"
   },
   {
-    "simpli": "prasikyuter",
+    "simpli": "prosikyuter",
     "translation": "prokurátor"
   },
   {
-    "simpli": "pramanantli",
+    "simpli": "promanantli",
     "translation": "výrazne"
   },
   {
@@ -19664,11 +19664,11 @@
     "translation": "sladká voda"
   },
   {
-    "simpli": "madafakeisan",
+    "simpli": "modafakeisan",
     "translation": "úprava"
   },
   {
-    "simpli": "djanstan",
+    "simpli": "djonstan",
     "translation": "Johnston"
   },
   {
@@ -19768,7 +19768,7 @@
     "translation": "Klára"
   },
   {
-    "simpli": "simbalik",
+    "simpli": "simbolik",
     "translation": "symbolický"
   },
   {
@@ -19792,11 +19792,11 @@
     "translation": "Chester"
   },
   {
-    "simpli": "antrapaladji",
+    "simpli": "antrapoladji",
     "translation": "antropológia"
   },
   {
-    "simpli": "kanfadant",
+    "simpli": "konfadant",
     "translation": "sebavedomý"
   },
   {

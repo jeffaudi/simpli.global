@@ -33,6 +33,7 @@
   "glide": "Aon siolla amháin. Sleamhnaíonn an teanga. Ní dhá ghuta in aice a chéile iad seo.",
   "englishRef": "Tagairt Bhéarla bhreise: {word}.",
   "lengthGap": "Is féidir guta a dhúbailt (aa, ee, ii, oo, uu) le haghaidh níos mó soiléire. Go ginearálta, ní dhéantar é: is leor litir amháin.",
+  "vowelO": "Is a an guta i father agus i hat. Nuair a scríobhann an Béarla an guta sin le o, coimeádann Simpli o: hot, not agus on.",
   "vowelSeq": "Is aon siolla amháin iad ai, ei, ao agus oi. Is é ao an fhuaim i hao agus nao; ná scríobh au. Is dhá shiolla iad aon phéire gutaí eile, mar atá i vidio.",
   "clusterGap": "Is minic gur consan, guta agus consan roghnach é siolla. Coimeádann an liosta grúpaí ar nós str agus nk freisin. Tuigtear guta gearr breise agus tú ag foghlaim; ní chuireann an tagairt leis. Cuir an bhéim ar an dara siolla ón deireadh, agus ná lagaigh na gutaí eile.",
   "vwSpell": "Scríobh w san áit a n-úsáideann an Béarla w (woter, wi). Scríobh v san áit a n-úsáideann sé v (hav, seven). Roghnaigh fuaim thagartha gach litreach.",

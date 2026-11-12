@@ -147,15 +147,33 @@ type ArpabetResult = {
   wSoundIndices: number[];
 };
 
-function arpabetToSimpli(pronunciation: string): ArpabetResult {
+/** Vowel letters in order. y counts only as a vowel, not as the glide in yes. */
+function englishVowelLetters(word: string): string[] {
+  const letters: string[] = [];
+  const lower = word.toLowerCase();
+  for (let i = 0; i < lower.length; i++) {
+    const c = lower[i];
+    if ('aeiou'.includes(c)) letters.push(c);
+    else if (c === 'y' && i > 0 && !'aeiou'.includes(lower[i - 1])) letters.push('y');
+  }
+  return letters;
+}
+
+function arpabetToSimpli(pronunciation: string, english = '', spellAaO = true): ArpabetResult {
   const tokens = pronunciation.trim().split(/\s+/);
+  const vowelLetters = englishVowelLetters(english);
+  let vowelIndex = 0;
   let simpli = '';
   const wSoundIndices: number[] = [];
 
   for (const token of tokens) {
     const base = token.replace(/[0-2]/g, '');
     if (VOWEL_MAP[base]) {
-      simpli += VOWEL_MAP[base];
+      const letter = vowelLetters[vowelIndex];
+      vowelIndex += 1;
+      // AA is a in father, car, and hat. When English writes that vowel with o
+      // (hot, not, on), keep o. spellAaO is false only while choosing list members.
+      simpli += base === 'AA' && spellAaO && letter === 'o' ? 'o' : VOWEL_MAP[base];
       continue;
     }
     if (base === 'W') {
@@ -342,14 +360,14 @@ function applySimpliRules(
   return collapseDoubleConsonants(out);
 }
 
-function makeEntry(english: string): VocabularyEntry {
+function makeEntry(english: string, spellAaO = true): VocabularyEntry {
   const normalized = normalizeWord(english).replace(/^'+|'+$/g, '');
   const pronunciation = cmuDictionary[normalized];
   let rawSimpli: string;
   let wSoundIndices: number[] = [];
 
   if (pronunciation) {
-    const parsed = arpabetToSimpli(pronunciation);
+    const parsed = arpabetToSimpli(pronunciation, normalized, spellAaO);
     rawSimpli = parsed.simpli;
     wSoundIndices = parsed.wSoundIndices;
   } else {
@@ -364,11 +382,17 @@ function makeEntry(english: string): VocabularyEntry {
   };
 }
 
-export function buildVocabulary(count: number): VocabularyEntry[] {
+type CollectedEntry = {
+  entry: VocabularyEntry;
+  /** English word before the he/she/it gloss, so the o rule can re-spell it. */
+  source: string;
+};
+
+function collectVocabulary(count: number, spellAaO: boolean): CollectedEntry[] {
   const source = popularWords.getMostPopular(count * 20) as string[];
   const seenEnglish = new Set<string>();
   const seenSimpli = new Set<string>();
-  const result: VocabularyEntry[] = [];
+  const result: CollectedEntry[] = [];
 
   for (const rawWord of source) {
     const english = normalizeWord(rawWord).replace(/^'+|'+$/g, '');
@@ -378,7 +402,7 @@ export function buildVocabulary(count: number): VocabularyEntry[] {
     if (!isAllowedEnglishWord(english)) continue;
     if (!isAllowedEnglishWord(canonical)) continue;
 
-    const entry = makeEntry(english);
+    const entry = makeEntry(english, spellAaO);
     if (seenEnglish.has(entry.english)) continue;
     if (!entry.simpli || entry.simpli.length < 2) continue;
     if (!isAllowedEnglishWord(entry.english)) continue;
@@ -387,10 +411,20 @@ export function buildVocabulary(count: number): VocabularyEntry[] {
 
     seenEnglish.add(english);
     seenSimpli.add(entry.simpli);
-    result.push(entry);
+    result.push({ entry, source: english });
 
     if (result.length >= count) break;
   }
 
   return result;
+}
+
+export function buildVocabulary(count: number): VocabularyEntry[] {
+  // Membership uses the spelling without this o rule, so note stays in the list
+  // when not also becomes not. The same spelling for two words is allowed.
+  const base = collectVocabulary(count, false);
+  return base.map((row) => {
+    const simpli = makeEntry(row.source, true).simpli;
+    return simpli === row.entry.simpli ? row.entry : { ...row.entry, simpli };
+  });
 }

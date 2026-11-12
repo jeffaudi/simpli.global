@@ -33,6 +33,7 @@
   "glide": "One syllable. The tongue glides. This is not two vowels side by side.",
   "englishRef": "Additional English reference: {word}.",
   "lengthGap": "A doubled vowel (aa, ee, ii, oo, uu) may be used for extra clarity. In general, it is not: one vowel letter is enough.",
+  "vowelO": "The vowel of father and hat is a. When English writes that vowel with o, Simpli keeps o: hot, not, and on.",
   "vowelSeq": "ai, ei, ao, and oi are one syllable each. ao is the sound in hao and nao; do not write au. Any other pair of vowels is two syllables, as in vidio.",
   "clusterGap": "A syllable is often a consonant, a vowel, and an optional consonant. The word list also keeps groups such as str and nk. A short extra vowel is understandable while you learn; the reference pronunciation does not add one. Stress the second-to-last syllable, and do not weaken the other vowels to a mumbled uh.",
   "vwSpell": "Write w where English uses w (woter, wi). Write v where English uses v (hav, seven). Prefer the reference sound of each letter.",

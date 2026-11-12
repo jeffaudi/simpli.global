@@ -33,6 +33,7 @@
   "glide": "En stavelse. Tungan glider. Det är inte två vokaler bredvid varandra.",
   "englishRef": "Extra engelsk hållpunkt: {word}.",
   "lengthGap": "En fördubblad vokal (aa, ee, ii, oo, uu) får användas för extra tydlighet. I allmänhet gör man inte det: en bokstav räcker.",
+  "vowelO": "Vokalen i father och hat är a. När engelskan skriver den vokalen med o behåller Simpli o: hot, not och on.",
   "vowelSeq": "ai, ei, ao och oi är en stavelse var. ao är ljudet i hao och nao; skriv inte au. Alla andra vokalpar är två stavelser, som i vidio.",
   "clusterGap": "En stavelse är ofta konsonant, vokal och en valfri konsonant. Listan behåller också grupper som str och nk. En kort extra vokal går att förstå medan man lär sig; referensen lägger inte till någon. Betona näst sista stavelsen och försvaga inte de andra vokalerna.",
   "vwSpell": "Skriv w där engelskan använder w (woter, wi). Skriv v där engelskan använder v (hav, seven). Välj referensljudet för varje bokstav.",

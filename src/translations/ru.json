@@ -391,7 +391,7 @@
       "a2": "Полный алфавит",
       "a3": "В Simpli небольшой регулярный набор букв. Каждый звук пишется одной или двумя буквами; немых букв и лишних знаков нет.",
       "a4": "<strong>Гласные:</strong> a, e, i, o, u. Гласную можно удвоить (aa, ee, ii, oo, uu) для большей ясности. Обычно этого не делают: одной буквы достаточно.",
-      "a5": "<strong>Согласные:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>Буквы c нет</strong> (убрана полностью). Для /k/ используется <strong>k</strong>. Звук /tʃ/ пишется <strong>tj</strong>; /dʒ/ пишется <strong>dj</strong> (симметрично tj). <strong>G</strong> всегда обозначает твёрдый звук /g/. Звук [v]/[w] пишется <strong>w</strong>, когда в английском стоит <strong>w</strong>, иначе <strong>v</strong>.",
+      "a5": "<strong>Согласные:</strong> p, b, t, d, k, g, m, n, f, s, l, r, h, <strong>v</strong>, w, y. <strong>Буквы c нет</strong> (убрана полностью). Для /k/ используется <strong>k</strong>. Звук /tʃ/ пишется <strong>tj</strong>; /dʒ/ пишется <strong>dj</strong> (симметрично tj). <strong>G</strong> всегда обозначает твёрдый звук /g/. <strong>v</strong> и <strong>w</strong> — два звука. Пишите <strong>w</strong>, когда английский пишет <strong>w</strong>, и <strong>v</strong>, когда пишет <strong>v</strong>.",
       "a6": "V и W",
       "a7": "Пишите <strong>w</strong>, когда английский передаёт звук буквой <strong>w</strong> (в начале или внутри слова). Пишите <strong>v</strong>, когда в английском стоит <strong>v</strong>. У каждой буквы свой опорный звук на странице орфографии. Один звук для обеих часто понятен, но тогда veri и weri, wi и vi, van и wan звучат одинаково.",
       "a8": "Примеры:",

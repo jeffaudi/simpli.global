@@ -33,6 +33,7 @@
   "glide": "Una sola sillaba. La lingua scivola. Non sono due vocali affiancate.",
   "englishRef": "Riferimento inglese aggiuntivo: {word}.",
   "lengthGap": "Si può raddoppiare una vocale (aa, ee, ii, oo, uu) per più chiarezza. In genere non si fa: basta una lettera.",
+  "vowelO": "La vocale di father e di hat è a. Quando l’inglese scrive quella vocale con o, Simpli tiene o: hot, not e on.",
   "vowelSeq": "ai, ei, ao e oi sono una sillaba ciascuno. ao è il suono di hao e nao; non scrivere au. Ogni altro paio di vocali fa due sillabe, come in vidio.",
   "clusterGap": "Una sillaba è spesso consonante, vocale e consonante facoltativa. L’elenco tiene anche gruppi come str e nk. Una vocale breve aggiunta si capisce mentre si impara; il riferimento non la aggiunge. Accenta la penultima sillaba e non indebolire le altre vocali.",
   "vwSpell": "Scrivi w dove l’inglese usa w (woter, wi). Scrivi v dove l’inglese usa v (hav, seven). Preferisci il suono di riferimento di ogni lettera.",

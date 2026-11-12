@@ -33,6 +33,7 @@
   "glide": "Yksi tavu. Kieli liukuu. Nämä eivät ole kaksi vokaalia rinnakkain.",
   "englishRef": "Lisävihje englannista: {word}.",
   "lengthGap": "Vokaalin voi kahdentaa (aa, ee, ii, oo, uu) selvyyden vuoksi. Yleensä näin ei tehdä: yksi kirjain riittää.",
+  "vowelO": "father- ja hat-sanojen vokaali on a. Kun englanti kirjoittaa sen o:lla, Simpli säilyttää o:n: hot, not ja on.",
   "vowelSeq": "ai, ei, ao ja oi ovat kukin yksi tavu. ao on ääni sanoissa hao ja nao; älä kirjoita au. Mikä tahansa muu vokaalipari on kaksi tavua, kuten vidio.",
   "clusterGap": "Tavu on usein konsonantti, vokaali ja valinnainen konsonantti. Lista säilyttää myös ryhmiä kuten str ja nk. Lyhyt lisävokaali on oppiessa ymmärrettävä; viite ei lisää sitä. Paino on toiseksi viimeisellä tavulla, äläkä heikennä muita vokaaleja.",
   "vwSpell": "Kirjoita w sinne, missä englanti käyttää w:tä (woter, wi). Kirjoita v sinne, missä englanti käyttää v:tä (hav, seven). Valitse kunkin kirjaimen viiteäänne.",

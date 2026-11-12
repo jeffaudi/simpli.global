@@ -33,6 +33,7 @@
   "glide": "Jedna slabika. Jazyk kĺže. Nie sú to dve samohlásky vedľa seba.",
   "englishRef": "Ďalšia anglická opora: {word}.",
   "lengthGap": "Samohlásku možno zdvojiť (aa, ee, ii, oo, uu) pre väčšiu jasnosť. Vo všeobecnosti sa to nerobí: stačí jedno písmeno.",
+  "vowelO": "Samohláska v father a hat je a. Keď ju angličtina píše ako o, Simpli ponechá o: hot, not a on.",
   "vowelSeq": "ai, ei, ao a oi sú každá jedna slabika. ao je zvuk v hao a nao; nepíš au. Každá iná dvojica samohlások sú dve slabiky, ako vo vidio.",
   "clusterGap": "Slabika je často spoluhláska, samohláska a voliteľná spoluhláska. Zoznam si necháva aj skupiny ako str a nk. Krátka vložená samohláska je pri učení zrozumiteľná; referencia ju nepridáva. Prízvuk je na predposlednej slabike a ostatné samohlásky nezoslabuj.",
   "vwSpell": "Píš w tam, kde angličtina má w (woter, wi). Píš v tam, kde angličtina má v (hav, seven). Vol referenčný zvuk každého písmena.",

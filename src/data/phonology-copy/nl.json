@@ -33,6 +33,7 @@
   "glide": "Eén lettergreep. De tong glijdt. Dit zijn geen twee klinkers naast elkaar.",
   "englishRef": "Extra Engels aanknopingspunt: {word}.",
   "lengthGap": "Een verdubbelde klinker (aa, ee, ii, oo, uu) mag voor extra duidelijkheid. In het algemeen doen we dat niet: één letter is genoeg.",
+  "vowelO": "De klinker van father en hat is a. Schrijft het Engels die klinker met o, dan houdt Simpli o: hot, not en on.",
   "vowelSeq": "ai, ei, ao en oi zijn elk één lettergreep. ao is het geluid in hao en nao; schrijf geen au. Elk ander klinkerpaar is twee lettergrepen, zoals in vidio.",
   "clusterGap": "Een lettergreep is vaak medeklinker, klinker en een optionele medeklinker. De lijst houdt ook groepen als str en nk. Een korte extra klinker is begrijpelijk tijdens het leren; de referentie voegt er geen toe. Beklemtoon de voorlaatste lettergreep en verzwak de andere klinkers niet.",
   "vwSpell": "Schrijf w waar het Engels w gebruikt (woter, wi). Schrijf v waar het Engels v gebruikt (hav, seven). Kies bij voorkeur de referentieklank van elke letter.",

@@ -33,6 +33,7 @@
   "glide": "Isang pantig. Dumudulas ang dila. Hindi ito dalawang patinig na magkatabi.",
   "englishRef": "Karagdagang halimbawa sa Ingles: {word}.",
   "lengthGap": "Maaaring doblehin ang patinig (aa, ee, ii, oo, uu) para mas malinaw. Sa pangkalahatan, hindi: sapat ang isang titik.",
+  "vowelO": "Ang patinig ng father at ng hat ay a. Kapag isinulat iyon ng Ingles bilang o, pinananatili ng Simpli ang o: hot, not, at on.",
   "vowelSeq": "Ang ai, ei, ao, at oi ay tig-iisang pantig. Ang ao ang tunog sa hao at nao; huwag isulat na au. Ang ibang pares ng patinig ay dalawang pantig, tulad ng vidio.",
   "clusterGap": "Ang pantig ay kadalasang katinig, patinig, at opsiyonal na katinig. May mga grupo ring tulad ng str at nk ang listahan. Maiintindihan ang maikling idinagdag na patinig habang natututo; hindi ito idinadagdag ng pamantayan. Diinan ang ikalawa mula sa hulihan, at huwag hinaan ang ibang patinig.",
   "vwSpell": "Isulat ang w kung saan w ang Ingles (woter, wi). Isulat ang v kung saan v ang Ingles (hav, seven). Piliin ang pamantayang tunog ng bawat titik.",

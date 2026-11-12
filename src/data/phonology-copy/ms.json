@@ -33,6 +33,7 @@
   "glide": "Satu suku kata. Lidah menggelongsor. Ini bukan dua vokal bersebelahan.",
   "englishRef": "Rujukan tambahan bahasa Inggeris: {word}.",
   "lengthGap": "Vokal boleh digandakan (aa, ee, ii, oo, uu) untuk lebih jelas. Umumnya tidak: satu huruf memadai.",
+  "vowelO": "Vokal father dan hat ialah a. Apabila bahasa Inggeris menulis vokal itu dengan o, Simpli kekal o: hot, not dan on.",
   "vowelSeq": "ai, ei, ao dan oi masing-masing satu suku kata. ao ialah bunyi dalam hao dan nao; jangan tulis au. Pasangan vokal lain ialah dua suku kata, seperti vidio.",
   "clusterGap": "Suku kata sering berupa konsonan, vokal dan konsonan akhir yang tidak wajib. Senarai juga menyimpan gugusan seperti str dan nk. Vokal pendek yang disisipkan difahami semasa belajar; rujukan tidak menambahnya. Tekankan suku kedua dari belakang, dan jangan lemahkan vokal lain.",
   "vwSpell": "Tulis w di tempat bahasa Inggeris guna w (woter, wi). Tulis v di tempat bahasa Inggeris guna v (hav, seven). Utamakan bunyi rujukan setiap huruf.",

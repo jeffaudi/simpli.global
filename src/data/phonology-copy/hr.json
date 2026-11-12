@@ -33,6 +33,7 @@
   "glide": "Jedan slog. Jezik klizi. To nisu dva samoglasnika jedan uz drugi.",
   "englishRef": "Dodatni engleski oslonac: {word}.",
   "lengthGap": "Samoglasnik se može udvostručiti (aa, ee, ii, oo, uu) radi jasnoće. U pravilu se to ne radi: dovoljno je jedno slovo.",
+  "vowelO": "Samoglasnik u father i hat je a. Kad ga engleski piše slovom o, Simpli zadržava o: hot, not i on.",
   "vowelSeq": "ai, ei, ao i oi su svaki jedan slog. ao je glas u hao i nao; ne piši au. Svaki drugi par samoglasnika dva su sloga, kao u vidio.",
   "clusterGap": "Slog je često suglasnik, samoglasnik i neobavezan suglasnik. Popis čuva i skupine poput str i nk. Kratak umetnut samoglasnik razumljiv je pri učenju; referenca ga ne dodaje. Naglasak je na pretposljednjem slogu i ne slabi ostale samoglasnike.",
   "vwSpell": "Piši w ondje gdje engleski ima w (woter, wi). Piši v ondje gdje engleski ima v (hav, seven). Biraj referentni glas svakoga slova.",

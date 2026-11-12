@@ -33,6 +33,7 @@
   "glide": "Üks silp. Keel libiseb. Need ei ole kaks täishäälikut kõrvuti.",
   "englishRef": "Lisaviide inglise keelest: {word}.",
   "lengthGap": "Täishäälikut võib kahekordistada (aa, ee, ii, oo, uu) selguse pärast. Üldiselt seda ei tehta: ühest tähest piisab.",
+  "vowelO": "Täishäälik sõnades father ja hat on a. Kui inglise keel kirjutab selle o-ga, jätab Simpli o: hot, not ja on.",
   "vowelSeq": "ai, ei, ao ja oi on igaüks üks silp. ao on häälik sõnades hao ja nao; ära kirjuta au. Iga muu täishäälikute paar on kaks silpi, nagu vidio.",
   "clusterGap": "Silp on sageli kaashäälik, täishäälik ja valikuline kaashäälik. Loendis on ka rühmad nagu str ja nk. Lühike lisatud täishäälik on õppides arusaadav; viide seda ei lisa. Rõhk on eelviimasel silbil ja teisi täishäälikuid ära nõrgenda.",
   "vwSpell": "Kirjuta w sinna, kus inglise keeles on w (woter, wi). Kirjuta v sinna, kus on v (hav, seven). Vali iga tähe viitehäälik.",

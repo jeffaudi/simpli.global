@@ -33,6 +33,7 @@
   "glide": "Én stavelse. Tungen glider. Det er ikke to vokaler ved siden af hinanden.",
   "englishRef": "Ekstra engelsk holdepunkt: {word}.",
   "lengthGap": "En fordoblet vokal (aa, ee, ii, oo, uu) må bruges for ekstra tydelighed. I almindelighed gør man det ikke: ét bogstav er nok.",
+  "vowelO": "Vokalen i father og hat er a. Når engelsk skriver den vokal med o, beholder Simpli o: hot, not og on.",
   "vowelSeq": "ai, ei, ao og oi er hver én stavelse. ao er lyden i hao og nao; skriv ikke au. Ethvert andet vokalpar er to stavelser, som i vidio.",
   "clusterGap": "En stavelse er ofte konsonant, vokal og en valgfri konsonant. Listen beholder også grupper som str og nk. En kort ekstra vokal kan forstås mens man lærer; referencen tilføjer ingen. Tryk på næstsidste stavelse, og svæk ikke de andre vokaler.",
   "vwSpell": "Skriv w hvor engelsk bruger w (woter, wi). Skriv v hvor engelsk bruger v (hav, seven). Vælg referencelyden for hvert bogstav.",

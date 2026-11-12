@@ -5,7 +5,7 @@ Shared content consumed by Astro pages and build-time endpoints.
 | Source | Shape | Used by |
 |--------|--------|---------|
 | [`essential-words.ts`](essential-words.ts) | Categories → Simpli word arrays (includes time/aspect markers: `wil`, `hav`, `olredi`, `stil`) | Essential words page, starter lessons |
-| [`vocabulary-build.ts`](vocabulary-build.ts) | Shared CMU + frequency → Simpli spelling pipeline. **v** /v/ and **w** /w/ stay distinct: w when English spells that sound with w, otherwise v. g after ng is kept | `vocabulary-1500.ts`, `vocabulary-5000.ts` |
+| [`vocabulary-build.ts`](vocabulary-build.ts) | Shared CMU + frequency → Simpli spelling pipeline. **v** /v/ and **w** /w/ stay distinct: w when English spells that sound with w, otherwise v. g after ng is kept. AA written with English o stays o (*hot* stays *hot*; *not* and *note* are both *not*) | `vocabulary-1500.ts`, `vocabulary-5000.ts` |
 | [`vocabulary-1500.ts`](vocabulary-1500.ts) | Builds `{ simpli, english }[]` (1,500 entries) | EN compact table, `/en/vocabulary-1500.json`, `.csv` |
 | [`vocabulary-5000.ts`](vocabulary-5000.ts) | Builds `{ simpli, english }[]` (5,000 entries) | EN dictionary, `/en/vocabulary-5000.json`, `.csv`, tools lookup |
 | `vocabulary-1500.{locale}.json` | `{ simpli, translation }[]`, first 1,500 of the English list | Compact table for every locale except `en` |

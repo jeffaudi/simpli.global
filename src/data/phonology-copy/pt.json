@@ -33,6 +33,7 @@
   "glide": "Uma só sílaba. A língua desliza. Não são duas vogais lado a lado.",
   "englishRef": "Referência adicional em inglês: {word}.",
   "lengthGap": "Pode-se dobrar uma vogal (aa, ee, ii, oo, uu) para mais clareza. Em geral, não se faz: uma letra basta.",
+  "vowelO": "A vogal de father e de hat é a. Quando o inglês escreve essa vogal com o, o Simpli mantém o: hot, not e on.",
   "vowelSeq": "ai, ei, ao e oi são uma sílaba cada. ao é o som de hao e nao; não escreva au. Qualquer outro par de vogais são duas sílabas, como em vidio.",
   "clusterGap": "Uma sílaba é muitas vezes consoante, vogal e consoante opcional. A lista também guarda grupos como str e nk. Uma vogal curta a mais compreende-se na aprendizagem; a referência não a acrescenta. Acentue a penúltima sílaba e não enfraqueça as outras vogais.",
   "vwSpell": "Escreva w onde o inglês usa w (woter, wi). Escreva v onde o inglês usa v (hav, seven). Prefira o som de referência de cada letra.",

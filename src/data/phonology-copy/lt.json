@@ -33,6 +33,7 @@
   "glide": "Vienas skiemuo. Liežuvis slysta. Tai ne du balsiai greta.",
   "englishRef": "Papildoma angliška atrama: {word}.",
   "lengthGap": "Balsį galima dvigubinti (aa, ee, ii, oo, uu) dėl aiškumo. Paprastai to nedaroma: užtenka vienos raidės.",
+  "vowelO": "Balsis žodžiuose father ir hat yra a. Kai anglų kalba ją rašo o, Simpli palieka o: hot, not ir on.",
   "vowelSeq": "ai, ei, ao ir oi yra po vieną skiemenį. ao yra garsas žodžiuose hao ir nao; nerašyk au. Kiekviena kita balsių pora yra du skiemenys, kaip vidio.",
   "clusterGap": "Skiemenį dažnai sudaro priebalsis, balsis ir nebūtinas priebalsis. Sąraše lieka ir grupės kaip str ir nk. Trumpas įterptas balsis mokantis suprantamas; etalonas jo neprideda. Kirtis krenta į priešpaskutinį skiemenį, kitų balsių nesusilpnink.",
   "vwSpell": "Rašyk w ten, kur anglų kalboje yra w (woter, wi). Rašyk v ten, kur yra v (hav, seven). Rink kiekvienos raidės etaloninį garsą.",

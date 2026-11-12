@@ -33,6 +33,7 @@
   "glide": "Eine Silbe. Die Zunge gleitet. Das sind nicht zwei Vokale nebeneinander.",
   "englishRef": "Zusätzlicher englischer Anhalt: {word}.",
   "lengthGap": "Ein verdoppelter Vokal (aa, ee, ii, oo, uu) darf für mehr Klarheit stehen. Im Allgemeinen tut man das nicht: ein Buchstabe genügt.",
+  "vowelO": "Der Vokal von father und hat ist a. Schreibt das Englische diesen Vokal mit o, bleibt o: hot, not und on.",
   "vowelSeq": "ai, ei, ao und oi sind je eine Silbe. ao ist der Laut in hao und nao; schreiben Sie nicht au. Jedes andere Vokalpaar sind zwei Silben, wie in vidio.",
   "clusterGap": "Eine Silbe ist oft Konsonant, Vokal und optionaler Konsonant. Die Wortliste behält auch Gruppen wie str und nk. Ein kurzer Zusatzvokal ist beim Lernen verständlich; die Referenz fügt keinen ein. Betonen Sie die vorletzte Silbe und schwächen Sie die anderen Vokale nicht zu einem Murmellaut.",
   "vwSpell": "Schreiben Sie w, wo Englisch w schreibt (woter, wi). Schreiben Sie v, wo Englisch v schreibt (hav, seven). Bevorzugen Sie den Referenzlaut jedes Buchstabens.",

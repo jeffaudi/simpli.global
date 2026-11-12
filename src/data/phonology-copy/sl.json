@@ -33,6 +33,7 @@
   "glide": "En zlog. Jezik drsi. To nista dva samoglasnika drug ob drugem.",
   "englishRef": "Dodatna angleška opora: {word}.",
   "lengthGap": "Samoglasnik se lahko podvoji (aa, ee, ii, oo, uu) zaradi jasnosti. Na splošno se tega ne dela: zadostuje ena črka.",
+  "vowelO": "Samoglasnik v father in hat je a. Ko ga angleščina piše z o, Simpli obdrži o: hot, not in on.",
   "vowelSeq": "ai, ei, ao in oi so vsak en zlog. ao je glas v hao in nao; ne piši au. Vsak drug par samoglasnikov sta dva zloga, kot v vidio.",
   "clusterGap": "Zlog je pogosto soglasnik, samoglasnik in neobvezen soglasnik. Seznam ohranja tudi skupine kot str in nk. Kratek vstavljen samoglasnik je pri učenju razumljiv; referenca ga ne doda. Naglas je na predzadnjem zlogu in drugih samoglasnikov ne slabi.",
   "vwSpell": "Piši w tam, kjer ima angleščina w (woter, wi). Piši v tam, kjer ima angleščina v (hav, seven). Izberi referenčni glas vsake črke.",
