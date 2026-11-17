@@ -1,3 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <text x="4" y="22" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#2d6a4f">S</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffb22a"/>
+      <stop offset="45%" stop-color="#ff7a2a"/>
+      <stop offset="100%" stop-color="#ff5a78"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="0.2" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c9a0ff"/>
+      <stop offset="100%" stop-color="#8d4cf8"/>
+    </linearGradient>
+    <clipPath id="left">
+      <ellipse cx="24" cy="27" rx="16" ry="15"/>
+    </clipPath>
+  </defs>
+  <ellipse cx="24" cy="27" rx="16" ry="15" fill="url(#hot)"/>
+  <path fill="#ff6a58" d="M14 36c-1 6-6 12-8 14 4-1 8-3 10-6 1-1 0-5-2-8z"/>
+  <ellipse cx="40" cy="26" rx="16" ry="15" fill="url(#cool)"/>
+  <path fill="#8d4cf8" d="M50 35c1 6 6 12 9 14-4-1-8-4-10-7-1-1 0-5 1-7z"/>
+  <g clip-path="url(#left)">
+    <ellipse cx="40" cy="26" rx="16" ry="15" fill="#c02b8f" opacity="0.78"/>
+  </g>
 </svg>

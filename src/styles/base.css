@@ -1,9 +1,16 @@
-/* Theme: base (from Astro i18n Starter, adapted) */
+/* Brand palette from the Simpli illustrations: purple wordmark, orange i-dots, cream field. */
 :root {
-  --color-theme: #2d6a4f;
-  --color-accent: #1b4332;
-  --color-base: #f8f6f3;
-  --color-main: #2d2a26;
+  --color-theme: #410760;
+  --color-accent: #ff8004;
+  --color-base: #fcf2f0;
+  --color-main: #2a1624;
+  --color-text-muted: #5c4a5c;
+  --color-surface: #ffffff;
+  --color-border: #eadcd8;
+  --color-lavender: #e4c6fc;
+  --color-coral: #fe907f;
+  --color-sun: #fdd073;
+  --color-pink: #e89ae5;
   --sp-l: 48px;
   --sp-m: 24px;
   --sp-s: 12px;
@@ -20,9 +27,36 @@
 body {
   color: var(--color-main);
   background-color: var(--color-base);
-  accent-color: var(--color-theme);
+  accent-color: var(--color-accent);
+  isolation: isolate;
   line-height: 1.6;
   font-size: 18px;
+}
+
+/* Corner washes from the brand background, kept outside the text column. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-color: var(--color-base);
+  background-image:
+    radial-gradient(ellipse 32vw 36vh at -8% -10%, var(--color-lavender) 0%, rgba(228, 198, 252, 0) 72%),
+    radial-gradient(ellipse 34vw 38vh at 110% -8%, var(--color-coral) 0%, rgba(254, 167, 140, 0) 70%),
+    radial-gradient(ellipse 32vw 32vh at -10% 112%, var(--color-sun) 0%, rgba(253, 208, 115, 0) 72%),
+    radial-gradient(ellipse 36vw 36vh at 112% 114%, var(--color-pink) 0%, rgba(255, 184, 202, 0) 70%);
+  background-repeat: no-repeat;
+}
+
+@media print {
+  body::before {
+    display: none;
+  }
+
+  body {
+    background: #fff;
+  }
 }
 
 @media (width < 480px) {

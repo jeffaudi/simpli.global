@@ -56,21 +56,21 @@ const html = [
   }
   .page-markdown :global(table.phoneme-table th),
   .page-markdown :global(table.phoneme-table td) {
-    border: 1px solid #e8e4df;
+    border: 1px solid var(--color-border, #eadcd8);
     padding: 0.45rem 0.6rem;
     text-align: start;
     vertical-align: top;
   }
   .page-markdown :global(table.phoneme-table thead th) {
-    background: #fffefc;
-    color: var(--color-main, #2d2a26);
+    background: var(--color-surface, #fff);
+    color: var(--color-main, #2a1624);
     font-weight: 600;
   }
   .page-markdown :global(table.phoneme-table p) {
     margin: 0 0 0.35rem;
   }
   .page-markdown :global(.english-ref) {
-    color: #6b6560;
+    color: var(--color-text-muted, #5c4a5c);
     font-size: 0.92em;
   }
   .page-markdown :global(details.variants) {
@@ -78,7 +78,7 @@ const html = [
   }
   .page-markdown :global(details.variants summary) {
     cursor: pointer;
-    color: var(--color-theme, #2d6a4f);
+    color: var(--color-theme, #410760);
   }
   .page-markdown :global(ul.letter-list) {
     padding-inline-start: 1.25em;

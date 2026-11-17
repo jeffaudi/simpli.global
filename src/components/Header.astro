@@ -60,8 +60,19 @@ const navGroups: { groupKey: string; items: NavItem[] }[] = [
 ---
 
 <header class="l-header">
+  {isActive('/') && (
+    <img
+      class="brand-mark"
+      src="/brand/mark.png"
+      alt=""
+      width="436"
+      height="219"
+    />
+  )}
   <h1 dir="ltr">
-    <a href={getRelativeLocaleUrl(locale, '/')}>Simpli</a>
+    <a href={getRelativeLocaleUrl(locale, '/')}>
+      <img src="/brand/wordmark.png" alt="Simpli" width="720" height="278" />
+    </a>
   </h1>
 
   <LocaleSelect />
@@ -106,19 +117,37 @@ const navGroups: { groupKey: string; items: NavItem[] }[] = [
     gap: var(--sp-s);
   }
 
-  h1 {
+  .brand-mark {
+    display: block;
+    width: min(13.5rem, 68vw);
+    height: auto;
     margin-block-start: var(--sp-l);
-    font-size: 2rem;
-    font-weight: 800;
   }
 
-  h1 a {
-    color: var(--color-theme);
+  h1 {
+    margin-block-start: var(--sp-l);
+    line-height: 0;
+  }
+
+  .brand-mark + h1 {
+    margin-block-start: 0.2rem;
+  }
+
+  h1 img {
+    display: block;
+    height: 4.5rem;
+    width: auto;
+  }
+
+  h1 a:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 6px;
+    border-radius: 8px;
   }
 
   @media (width < 480px) {
-    h1 {
-      font-size: 1.5rem;
+    h1 img {
+      height: 3.25rem;
     }
   }
 
@@ -146,7 +175,7 @@ const navGroups: { groupKey: string; items: NavItem[] }[] = [
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.06em;
-    color: var(--color-text-muted, #666);
+    color: var(--color-text-muted);
     margin-block-end: 0.25em;
   }
 
@@ -174,6 +203,7 @@ const navGroups: { groupKey: string; items: NavItem[] }[] = [
 
   nav a.active {
     color: var(--color-theme);
+    box-shadow: inset 0 -2px 0 var(--color-accent);
     pointer-events: none;
   }
 </style>

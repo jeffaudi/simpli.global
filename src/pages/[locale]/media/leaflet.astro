@@ -16,6 +16,7 @@ const lp = t.leafletPrint;
 
 <Layout lang={lang} title={lp.title} description={t.mediaPage.leafletDesc}>
   <article class="leaflet-sheet">
+    <img class="leaflet-logo" src="/brand/wordmark.png" alt="" width="720" height="278" />
     <h1 dir="ltr">{lp.title}</h1>
     <p class="leaflet-tagline">{lp.tagline}</p>
     <p class="leaflet-bullets">{lp.bullets}</p>
@@ -38,6 +39,12 @@ const lp = t.leafletPrint;
   .leaflet-sheet {
     max-width: 40rem;
     margin: 0 auto;
+  }
+  .leaflet-logo {
+    display: block;
+    height: 3.25rem;
+    width: auto;
+    margin: 0 auto 1rem;
   }
   .leaflet-tagline {
     font-size: 1.25rem;
